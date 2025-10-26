@@ -2059,7 +2059,12 @@
             const feedback = document.getElementById('feedback');
             const feedbackText = document.getElementById('feedbackText');
             
-            feedbackText.textContent = question.explanation;
+            // Clear any existing classes and content
+            feedback.className = 'feedback';
+            feedbackText.innerHTML = '';
+            
+            // Set the feedback content with proper formatting
+            feedbackText.innerHTML = `<strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>${question.explanation}`;
             feedback.classList.add('show', isCorrect ? 'correct' : 'incorrect');
 
             // Highlight correct/incorrect options with enhanced visual feedback
