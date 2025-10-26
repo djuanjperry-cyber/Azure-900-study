@@ -378,10 +378,113 @@
             }
         }
 
-        .completion-message {
-            text-align: center;
-            padding: 40px;
-            display: none;
+        .performance-analysis {
+            margin: 30px 0;
+            padding: 25px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            border-left: 5px solid #3498db;
+        }
+
+        .performance-analysis h3 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.4rem;
+        }
+
+        .analysis-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .strengths-section,
+        .weaknesses-section,
+        .recommendations-section {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .recommendations-section {
+            grid-column: 1 / -1;
+        }
+
+        .strengths-section h4,
+        .weaknesses-section h4,
+        .recommendations-section h4 {
+            margin: 0 0 15px 0;
+            font-size: 1.1rem;
+            color: #2c3e50;
+        }
+
+        .strengths-list,
+        .weaknesses-list,
+        .recommendations-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .strengths-list li,
+        .weaknesses-list li,
+        .recommendations-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid #ecf0f1;
+            color: #34495e;
+            font-size: 0.95rem;
+        }
+
+        .strengths-list li:last-child,
+        .weaknesses-list li:last-child,
+        .recommendations-list li:last-child {
+            border-bottom: none;
+        }
+
+        .strengths-list li {
+            color: #27ae60;
+        }
+
+        .weaknesses-list li {
+            color: #e74c3c;
+        }
+
+        .recommendations-list li {
+            color: #3498db;
+        }
+
+        .category-performance {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 5px 0;
+        }
+
+        .category-name {
+            font-weight: 500;
+        }
+
+        .category-score {
+            font-weight: bold;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+
+        .score-excellent {
+            background: #d5f4e6;
+            color: #27ae60;
+        }
+
+        .score-good {
+            background: #d1ecf1;
+            color: #3498db;
+        }
+
+        .score-needs-work {
+            background: #f8d7da;
+            color: #e74c3c;
         }
 
         .completion-message.show {
@@ -665,8 +768,20 @@
                 line-height: 1.4;
             }
 
-            .completion-message {
+            .analysis-content {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+
+            .performance-analysis {
                 padding: 20px;
+                margin: 20px 0;
+            }
+
+            .strengths-section,
+            .weaknesses-section,
+            .recommendations-section {
+                padding: 15px;
             }
 
             .completion-message h2 {
@@ -967,8 +1082,45 @@
             color: #ecf0f1;
         }
 
-        body.dark-mode .completion-message h2 {
+        body.dark-mode .performance-analysis {
+            background: #34495e;
+            border-left-color: #27ae60;
+        }
+
+        body.dark-mode .performance-analysis h3 {
+            color: #ecf0f1;
+        }
+
+        body.dark-mode .strengths-section,
+        body.dark-mode .weaknesses-section,
+        body.dark-mode .recommendations-section {
+            background: #2c3e50;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+
+        body.dark-mode .strengths-section h4,
+        body.dark-mode .weaknesses-section h4,
+        body.dark-mode .recommendations-section h4 {
+            color: #ecf0f1;
+        }
+
+        body.dark-mode .strengths-list li,
+        body.dark-mode .weaknesses-list li,
+        body.dark-mode .recommendations-list li {
+            color: #bdc3c7;
+            border-bottom-color: #34495e;
+        }
+
+        body.dark-mode .strengths-list li {
             color: #27ae60;
+        }
+
+        body.dark-mode .weaknesses-list li {
+            color: #e74c3c;
+        }
+
+        body.dark-mode .recommendations-list li {
+            color: #3498db;
         }
 
         body.dark-mode .completion-message p {
@@ -1114,6 +1266,32 @@
         <div class="completion-message" id="completionMessage">
             <h2>🎉 Quiz Complete!</h2>
             <p>Great job studying Azure 900 fundamentals!</p>
+            
+            <!-- Performance Analysis Section -->
+            <div class="performance-analysis" id="performanceAnalysis">
+                <h3>📊 Performance Analysis</h3>
+                <div class="analysis-content">
+                    <div class="strengths-section">
+                        <h4>💪 Your Strengths</h4>
+                        <div class="strengths-list" id="strengthsList">
+                            <!-- Will be populated by JavaScript -->
+                        </div>
+                    </div>
+                    <div class="weaknesses-section">
+                        <h4>📚 Areas to Study More</h4>
+                        <div class="weaknesses-list" id="weaknessesList">
+                            <!-- Will be populated by JavaScript -->
+                        </div>
+                    </div>
+                    <div class="recommendations-section">
+                        <h4>🎯 Study Recommendations</h4>
+                        <div class="recommendations-list" id="recommendationsList">
+                            <!-- Will be populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <button class="btn" onclick="restartQuiz()">Study Again</button>
         </div>
 
@@ -1730,6 +1908,137 @@
             document.getElementById('flashcardContent').style.display = 'none';
             document.getElementById('completionMessage').classList.add('show');
             document.getElementById('restartBtn').style.display = 'inline-block';
+            
+            // Generate performance analysis
+            generatePerformanceAnalysis();
+        }
+
+        function generatePerformanceAnalysis() {
+            // Calculate performance by category
+            const categoryStats = {};
+            const totalQuestions = flashcards.length;
+            
+            // Initialize category stats
+            flashcards.forEach(card => {
+                const category = card.category || 'Other';
+                if (!categoryStats[category]) {
+                    categoryStats[category] = {
+                        total: 0,
+                        correct: 0,
+                        accuracy: 0
+                    };
+                }
+                categoryStats[category].total++;
+            });
+            
+            // Count correct answers by category (using session data)
+            const sessionData = getCurrentSessionData();
+            if (sessionData && sessionData.answers) {
+                sessionData.answers.forEach((answer, index) => {
+                    if (index < flashcards.length) {
+                        const card = flashcards[index];
+                        const category = card.category || 'Other';
+                        if (answer.isCorrect) {
+                            categoryStats[category].correct++;
+                        }
+                    }
+                });
+            }
+            
+            // Calculate accuracy for each category
+            Object.keys(categoryStats).forEach(category => {
+                const stats = categoryStats[category];
+                stats.accuracy = stats.total > 0 ? Math.round((stats.correct / stats.total) * 100) : 0;
+            });
+            
+            // Sort categories by accuracy
+            const sortedCategories = Object.entries(categoryStats)
+                .sort(([,a], [,b]) => b.accuracy - a.accuracy);
+            
+            // Generate strengths (top performing categories)
+            const strengthsList = document.getElementById('strengthsList');
+            strengthsList.innerHTML = '';
+            
+            const strengths = sortedCategories.filter(([,stats]) => stats.accuracy >= 80);
+            if (strengths.length > 0) {
+                strengths.forEach(([category, stats]) => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `<div class="category-performance">
+                        <span class="category-name">${category}</span>
+                        <span class="category-score score-excellent">${stats.accuracy}%</span>
+                    </div>`;
+                    strengthsList.appendChild(li);
+                });
+            } else {
+                strengthsList.innerHTML = '<li>Complete more questions to identify strengths</li>';
+            }
+            
+            // Generate weaknesses (low performing categories)
+            const weaknessesList = document.getElementById('weaknessesList');
+            weaknessesList.innerHTML = '';
+            
+            const weaknesses = sortedCategories.filter(([,stats]) => stats.accuracy < 70);
+            if (weaknesses.length > 0) {
+                weaknesses.forEach(([category, stats]) => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `<div class="category-performance">
+                        <span class="category-name">${category}</span>
+                        <span class="category-score score-needs-work">${stats.accuracy}%</span>
+                    </div>`;
+                    weaknessesList.appendChild(li);
+                });
+            } else {
+                weaknessesList.innerHTML = '<li>Great job! No major weaknesses identified</li>';
+            }
+            
+            // Generate recommendations
+            const recommendationsList = document.getElementById('recommendationsList');
+            recommendationsList.innerHTML = '';
+            
+            const recommendations = [];
+            
+            // Overall performance recommendations
+            const overallAccuracy = Math.round((correctAnswers / totalQuestions) * 100);
+            if (overallAccuracy < 70) {
+                recommendations.push('Focus on fundamental concepts before moving to advanced topics');
+            } else if (overallAccuracy < 85) {
+                recommendations.push('Review weak areas and practice with targeted flashcards');
+            } else {
+                recommendations.push('Excellent performance! Consider taking practice exams');
+            }
+            
+            // Category-specific recommendations
+            weaknesses.forEach(([category, stats]) => {
+                switch(category) {
+                    case 'Cloud Concepts':
+                        recommendations.push('Review cloud computing fundamentals and service models');
+                        break;
+                    case 'Azure Architecture and Services':
+                        recommendations.push('Study Azure services, regions, and resource management');
+                        break;
+                    case 'Azure Management and Governance':
+                        recommendations.push('Focus on Azure management tools and governance features');
+                        break;
+                    case 'Security, Privacy, and Compliance':
+                        recommendations.push('Review Azure security services and compliance features');
+                        break;
+                    case 'Azure Pricing and Support':
+                        recommendations.push('Study Azure pricing models and support options');
+                        break;
+                    default:
+                        recommendations.push(`Review ${category} concepts`);
+                }
+            });
+            
+            // Add study tips
+            recommendations.push('Take breaks between study sessions for better retention');
+            recommendations.push('Use the "Study Again" button to reinforce weak areas');
+            
+            recommendations.forEach(recommendation => {
+                const li = document.createElement('li');
+                li.textContent = recommendation;
+                recommendationsList.appendChild(li);
+            });
         }
 
         function updateProgress() {
