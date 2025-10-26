@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Azure 900 Study Flashcards</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 800px;
+            width: 100%;
+            position: relative;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: #2c3e50;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+        }
+
+        .progress-bar {
+            background: #ecf0f1;
+            border-radius: 10px;
+            height: 8px;
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            background: linear-gradient(90deg, #3498db, #2ecc71);
+            height: 100%;
+            border-radius: 10px;
+            transition: width 0.3s ease;
+        }
+
+        .question-counter {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+        }
+
+        .question-card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            border-left: 5px solid #3498db;
+        }
+
+        .question-text {
+            font-size: 1.3rem;
+            color: #2c3e50;
+            margin-bottom: 25px;
+            line-height: 1.6;
+            font-weight: 500;
+        }
+
+        .options {
+            list-style: none;
+        }
+
+        .option {
+            background: white;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 18px 20px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+            color: #495057;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            touch-action: manipulation;
+        }
+
+        .option:hover {
+            border-color: #3498db;
+            background: #f8f9ff;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.2);
+        }
+
+        .option.selected {
+            border-color: #3498db;
+            background: #e3f2fd;
+        }
+
+        .option.correct {
+            border-color: #28a745;
+            background: #d4edda;
+            color: #155724;
+            box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.3);
+            font-weight: 600;
+        }
+
+        .option.incorrect {
+            border-color: #dc3545;
+            background: #f8d7da;
+            color: #721c24;
+            box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.3);
+            font-weight: 600;
+        }
+
+        .option.user-selected {
+            background: #fff3cd;
+            border-color: #ffc107;
+            color: #856404;
+            box-shadow: 0 0 0 2px rgba(255, 193, 7, 0.3);
+        }
+
+        .option.user-selected.correct {
+            background: #d1ecf1;
+            border-color: #17a2b8;
+            color: #0c5460;
+            box-shadow: 0 0 0 3px rgba(23, 162, 184, 0.3);
+        }
+
+        /* Add checkmark and X icons for visual clarity */
+        .option.correct::before {
+            content: "✓ ";
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .option.incorrect::before {
+            content: "✗ ";
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .option.user-selected::before {
+            content: "→ ";
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .feedback {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 25px;
+            border-left: 5px solid #27ae60;
+            display: none;
+        }
+
+        .feedback.show {
+            display: block;
+            animation: slideIn 0.3s ease;
+        }
+
+        .feedback.correct {
+            border-left-color: #28a745;
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .feedback.incorrect {
+            border-left-color: #dc3545;
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        .feedback-text {
+            font-size: 1rem;
+            color: #2c3e50;
+            line-height: 1.6;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 15px 20px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            min-height: 48px;
+            touch-action: manipulation;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+        }
+
+        .btn:disabled {
+            background: #bdc3c7;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+
+        .btn.submit-btn {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            font-weight: 700;
+            font-size: 1.1rem;
+            padding: 18px 25px;
+        }
+
+        .btn.submit-btn:hover {
+            box-shadow: 0 5px 15px rgba(231, 76, 60, 0.4);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #95a5a6, #7f8c8d);
+        }
+
+        .btn-secondary:hover {
+            box-shadow: 0 5px 15px rgba(149, 165, 166, 0.4);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+            color: #7f8c8d;
+        }
+
+        .stat-number {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #2c3e50;
+        }
+
+        .category-tag {
+            display: inline-block;
+            background: #3498db;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            margin-bottom: 15px;
+            font-weight: 500;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .completion-message {
+            text-align: center;
+            padding: 40px;
+            display: none;
+        }
+
+        .completion-message.show {
+            display: block;
+        }
+
+        .completion-message h2 {
+            color: #27ae60;
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        .completion-message p {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+            margin-bottom: 30px;
+        }
+
+        .progress-dashboard {
+            display: none;
+            margin-top: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            border-left: 5px solid #3498db;
+        }
+
+        .progress-dashboard.show {
+            display: block;
+        }
+
+        .progress-dashboard h3 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.3rem;
+        }
+
+        .session-history {
+            max-height: 300px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+        }
+
+        .session-item {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-left: 3px solid #27ae60;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .session-date {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 0.9rem;
+        }
+
+        .session-time {
+            color: #7f8c8d;
+            font-size: 0.8rem;
+            margin-bottom: 8px;
+        }
+
+        .session-stats {
+            display: flex;
+            gap: 15px;
+            font-size: 0.85rem;
+        }
+
+        .session-stat {
+            color: #7f8c8d;
+        }
+
+        .session-stat.correct {
+            color: #27ae60;
+        }
+
+        .session-stat.incorrect {
+            color: #e74c3c;
+        }
+
+        .session-stat.accuracy {
+            color: #3498db;
+        }
+
+        .overall-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .overall-stat {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .overall-stat-number {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        .overall-stat-label {
+            font-size: 0.8rem;
+            color: #7f8c8d;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .nav-tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #ecf0f1;
+        }
+
+        .nav-tab {
+            background: none;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 1rem;
+            color: #7f8c8d;
+            border-bottom: 2px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .nav-tab.active {
+            color: #3498db;
+            border-bottom-color: #3498db;
+        }
+
+        .nav-tab:hover {
+            color: #3498db;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                margin: 10px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .question-text {
+                font-size: 1.1rem;
+            }
+
+            .controls {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+
+        /* Mobile-specific optimizations */
+        @media (max-width: 768px) {
+            body {
+                padding: 5px;
+                align-items: flex-start;
+                min-height: 100vh;
+            }
+
+            .container {
+                padding: 15px;
+                border-radius: 15px;
+                margin: 10px 0;
+                min-height: calc(100vh - 20px);
+            }
+
+            .header h1 {
+                font-size: 1.5rem;
+                margin-bottom: 10px;
+            }
+
+            .header p {
+                font-size: 0.9rem;
+            }
+
+            .question {
+                font-size: 1.1rem;
+                line-height: 1.4;
+                margin-bottom: 20px;
+            }
+
+            .option {
+                padding: 20px 15px;
+                font-size: 0.95rem;
+                line-height: 1.3;
+                min-height: 65px;
+            }
+
+            .controls {
+                gap: 10px;
+                margin-top: 20px;
+            }
+
+            .btn {
+                padding: 18px 20px;
+                font-size: 0.95rem;
+                min-height: 52px;
+            }
+
+            .stats {
+                flex-direction: column;
+                gap: 10px;
+                margin-top: 20px;
+            }
+
+            .stat {
+                padding: 15px;
+            }
+
+            .stat-number {
+                font-size: 1.8rem;
+            }
+
+            .progress-bar {
+                height: 8px;
+                margin: 15px 0;
+            }
+
+            .progress-text {
+                font-size: 0.9rem;
+            }
+
+            .feedback {
+                padding: 15px;
+                margin: 15px 0;
+            }
+
+            .feedback-text {
+                font-size: 0.9rem;
+                line-height: 1.4;
+            }
+
+            .completion-message {
+                padding: 20px;
+            }
+
+            .completion-message h2 {
+                font-size: 1.5rem;
+            }
+
+            .completion-message p {
+                font-size: 1rem;
+                margin: 10px 0;
+            }
+
+            .progress-dashboard {
+                padding: 15px;
+                margin-top: 20px;
+            }
+
+            .progress-dashboard h3 {
+                font-size: 1.3rem;
+            }
+
+            .nav-tabs {
+                flex-direction: column;
+                gap: 5px;
+            }
+
+            .nav-tab {
+                padding: 12px 15px;
+                font-size: 0.9rem;
+            }
+
+            .session-item {
+                padding: 12px;
+                margin-bottom: 10px;
+            }
+
+            .session-date {
+                font-size: 0.85rem;
+            }
+
+            .session-stats {
+                font-size: 0.9rem;
+            }
+
+            .overall-stats {
+                gap: 10px;
+            }
+
+            .stat-card {
+                padding: 15px;
+            }
+
+            .stat-card h4 {
+                font-size: 1rem;
+            }
+
+            .stat-card .stat-number {
+                font-size: 1.5rem;
+            }
+        }
+
+        /* Small mobile devices */
+        @media (max-width: 480px) {
+            .container {
+                padding: 10px;
+                margin: 5px 0;
+            }
+
+            .header h1 {
+                font-size: 1.3rem;
+            }
+
+            .question {
+                font-size: 1rem;
+            }
+
+            .option {
+                padding: 15px 12px;
+                font-size: 0.9rem;
+                min-height: 60px;
+            }
+
+            .btn {
+                padding: 16px 18px;
+                font-size: 0.9rem;
+            }
+
+            .stat-number {
+                font-size: 1.5rem;
+            }
+
+            .completion-message h2 {
+                font-size: 1.3rem;
+            }
+        }
+
+        /* Landscape mobile orientation */
+        @media (max-width: 768px) and (orientation: landscape) {
+            body {
+                align-items: center;
+            }
+
+            .container {
+                margin: 5px 0;
+                min-height: auto;
+            }
+
+            .header {
+                margin-bottom: 15px;
+            }
+
+            .question {
+                margin-bottom: 15px;
+            }
+
+            .controls {
+                margin-top: 15px;
+            }
+        }
+
+        /* Mobile device specific styles */
+        .mobile-device .option {
+            -webkit-tap-highlight-color: rgba(52, 152, 219, 0.2);
+        }
+
+        .mobile-device .btn {
+            -webkit-tap-highlight-color: rgba(52, 152, 219, 0.2);
+        }
+
+        /* Prevent text selection on mobile for better UX */
+        .mobile-device .option,
+        .mobile-device .btn {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Azure 900 Study Flashcards</h1>
+            <p>Master Azure Fundamentals with interactive flashcards</p>
+        </div>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+
+        <div class="question-counter" id="questionCounter">
+            Question 1 of 25
+        </div>
+
+        <div id="flashcardContent">
+            <div class="question-card">
+                <div class="category-tag" id="categoryTag">Cloud Concepts</div>
+                <div class="question-text" id="questionText">
+                    Loading question...
+                </div>
+                <ul class="options" id="optionsList">
+                    <!-- Options will be populated by JavaScript -->
+                </ul>
+            </div>
+
+            <div class="feedback" id="feedback">
+                <div class="feedback-text" id="feedbackText"></div>
+            </div>
+
+            <div class="controls">
+                <button class="btn btn-secondary" id="prevBtn" onclick="previousQuestion()">Previous</button>
+                <button class="btn submit-btn" id="submitBtn" onclick="submitAnswer()" disabled>Submit Answer</button>
+                <button class="btn" id="nextBtn" onclick="nextQuestion()" disabled style="display: none;">Next</button>
+                <button class="btn btn-secondary" id="restartBtn" onclick="restartQuiz()" style="display: none;">Restart Quiz</button>
+                <button class="btn btn-secondary" id="progressBtn" onclick="showProgressDashboard()">View Progress</button>
+                <button class="btn btn-secondary" id="shuffleBtn" onclick="shuffleQuestions()">Shuffle Questions</button>
+            </div>
+
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-number" id="correctCount">0</div>
+                    <div>Correct</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" id="incorrectCount">0</div>
+                    <div>Incorrect</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number" id="accuracy">0%</div>
+                    <div>Accuracy</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="completion-message" id="completionMessage">
+            <h2>🎉 Quiz Complete!</h2>
+            <p>Great job studying Azure 900 fundamentals!</p>
+            <button class="btn" onclick="restartQuiz()">Study Again</button>
+        </div>
+
+        <div class="progress-dashboard" id="progressDashboard">
+            <h3>📊 Study Progress Dashboard</h3>
+            
+            <div class="nav-tabs">
+                <button class="nav-tab active" onclick="switchTab('history')">Session History</button>
+                <button class="nav-tab" onclick="switchTab('overall')">Overall Stats</button>
+            </div>
+
+            <div class="tab-content active" id="historyTab">
+                <div class="session-history" id="sessionHistory">
+                    <!-- Session history will be populated by JavaScript -->
+                </div>
+            </div>
+
+            <div class="tab-content" id="overallTab">
+                <div class="overall-stats" id="overallStats">
+                    <!-- Overall stats will be populated by JavaScript -->
+                </div>
+            </div>
+
+            <div style="text-align: center; margin-top: 20px;">
+                <button class="btn btn-secondary" onclick="hideProgressDashboard()">Back to Study</button>
+                <button class="btn btn-secondary" onclick="clearProgressHistory()" style="margin-left: 10px;">Clear History</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Mobile-specific enhancements
+        function isMobile() {
+            return window.innerWidth <= 768;
+        }
+
+        // Prevent zoom on double tap for mobile
+        let lastTouchEnd = 0;
+        document.addEventListener('touchend', function (event) {
+            const now = (new Date()).getTime();
+            if (now - lastTouchEnd <= 300) {
+                event.preventDefault();
+            }
+            lastTouchEnd = now;
+        }, false);
+
+        // Add haptic feedback for mobile devices
+        function hapticFeedback() {
+            if ('vibrate' in navigator) {
+                navigator.vibrate(50);
+            }
+        }
+
+        // Optimize touch interactions
+        function addTouchOptimizations() {
+            if (isMobile()) {
+                // Add touch-friendly classes
+                document.body.classList.add('mobile-device');
+                
+                // Optimize option clicks for touch
+                document.addEventListener('click', function(e) {
+                    if (e.target.classList.contains('option')) {
+                        hapticFeedback();
+                    }
+                });
+            }
+        }
+
+        // Initialize mobile optimizations when DOM is loaded
+        document.addEventListener('DOMContentLoaded', addTouchOptimizations);
+        let flashcards = [];
+        let currentQuestionIndex = 0;
+        let selectedAnswer = null;
+        let correctAnswers = 0;
+        let incorrectAnswers = 0;
+        let answeredQuestions = new Set();
+        let sessionStartTime = null;
+        let currentSession = null;
+
+        // Progress tracking functions
+        function saveProgressToStorage() {
+            const progressData = JSON.parse(localStorage.getItem('azure900Progress') || '[]');
+            progressData.push(currentSession);
+            localStorage.setItem('azure900Progress', JSON.stringify(progressData));
+        }
+
+        function loadProgressFromStorage() {
+            return JSON.parse(localStorage.getItem('azure900Progress') || '[]');
+        }
+
+        function startNewSession() {
+            sessionStartTime = new Date();
+            currentSession = {
+                id: Date.now(),
+                startTime: sessionStartTime.toISOString(),
+                endTime: null,
+                correctAnswers: 0,
+                incorrectAnswers: 0,
+                totalQuestions: flashcards.length,
+                questionsAnswered: 0,
+                accuracy: 0,
+                duration: 0
+            };
+        }
+
+        function endSession() {
+            if (currentSession) {
+                currentSession.endTime = new Date().toISOString();
+                currentSession.correctAnswers = correctAnswers;
+                currentSession.incorrectAnswers = incorrectAnswers;
+                currentSession.questionsAnswered = answeredQuestions.size;
+                currentSession.accuracy = currentSession.questionsAnswered > 0 ? 
+                    Math.round((correctAnswers / currentSession.questionsAnswered) * 100) : 0;
+                currentSession.duration = Math.round((new Date() - sessionStartTime) / 1000);
+                saveProgressToStorage();
+            }
+        }
+
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleDateString('en-US', { 
+                year: 'numeric', 
+                month: 'short', 
+                day: 'numeric' 
+            });
+        }
+
+        function formatTime(dateString) {
+            const date = new Date(dateString);
+            return date.toLocaleTimeString('en-US', { 
+                hour: '2-digit', 
+                minute: '2-digit' 
+            });
+        }
+
+        function formatDuration(seconds) {
+            const minutes = Math.floor(seconds / 60);
+            const remainingSeconds = seconds % 60;
+            return `${minutes}m ${remainingSeconds}s`;
+        }
+
+        function showProgressDashboard() {
+            document.getElementById('flashcardContent').style.display = 'none';
+            document.getElementById('completionMessage').style.display = 'none';
+            document.getElementById('progressDashboard').classList.add('show');
+            loadSessionHistory();
+            loadOverallStats();
+        }
+
+        function hideProgressDashboard() {
+            document.getElementById('progressDashboard').classList.remove('show');
+            document.getElementById('flashcardContent').style.display = 'block';
+        }
+
+        function switchTab(tabName) {
+            // Remove active class from all tabs and content
+            document.querySelectorAll('.nav-tab').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+            
+            // Add active class to selected tab and content
+            document.querySelector(`[onclick="switchTab('${tabName}')"]`).classList.add('active');
+            document.getElementById(tabName + 'Tab').classList.add('active');
+        }
+
+        function loadSessionHistory() {
+            const progressData = loadProgressFromStorage();
+            const historyContainer = document.getElementById('sessionHistory');
+            
+            if (progressData.length === 0) {
+                historyContainer.innerHTML = '<p style="text-align: center; color: #7f8c8d; padding: 20px;">No study sessions yet. Start studying to track your progress!</p>';
+                return;
+            }
+
+            historyContainer.innerHTML = progressData
+                .sort((a, b) => new Date(b.startTime) - new Date(a.startTime))
+                .map(session => `
+                    <div class="session-item">
+                        <div class="session-date">${formatDate(session.startTime)}</div>
+                        <div class="session-time">${formatTime(session.startTime)} - ${formatTime(session.endTime)} (${formatDuration(session.duration)})</div>
+                        <div class="session-stats">
+                            <span class="session-stat correct">✓ ${session.correctAnswers} correct</span>
+                            <span class="session-stat incorrect">✗ ${session.incorrectAnswers} incorrect</span>
+                            <span class="session-stat accuracy">${session.accuracy}% accuracy</span>
+                            <span class="session-stat">${session.questionsAnswered}/${session.totalQuestions} questions</span>
+                        </div>
+                    </div>
+                `).join('');
+        }
+
+        function loadOverallStats() {
+            const progressData = loadProgressFromStorage();
+            const statsContainer = document.getElementById('overallStats');
+            
+            if (progressData.length === 0) {
+                statsContainer.innerHTML = '<p style="text-align: center; color: #7f8c8d; padding: 20px;">No data available yet.</p>';
+                return;
+            }
+
+            const totalSessions = progressData.length;
+            const totalCorrect = progressData.reduce((sum, session) => sum + session.correctAnswers, 0);
+            const totalIncorrect = progressData.reduce((sum, session) => sum + session.incorrectAnswers, 0);
+            const totalQuestions = progressData.reduce((sum, session) => sum + session.questionsAnswered, 0);
+            const overallAccuracy = totalQuestions > 0 ? Math.round((totalCorrect / totalQuestions) * 100) : 0;
+            const totalTime = progressData.reduce((sum, session) => sum + session.duration, 0);
+            const avgAccuracy = Math.round(progressData.reduce((sum, session) => sum + session.accuracy, 0) / totalSessions);
+
+            statsContainer.innerHTML = `
+                <div class="overall-stat">
+                    <div class="overall-stat-number">${totalSessions}</div>
+                    <div class="overall-stat-label">Study Sessions</div>
+                </div>
+                <div class="overall-stat">
+                    <div class="overall-stat-number">${totalCorrect}</div>
+                    <div class="overall-stat-label">Total Correct</div>
+                </div>
+                <div class="overall-stat">
+                    <div class="overall-stat-number">${totalIncorrect}</div>
+                    <div class="overall-stat-label">Total Incorrect</div>
+                </div>
+                <div class="overall-stat">
+                    <div class="overall-stat-number">${overallAccuracy}%</div>
+                    <div class="overall-stat-label">Overall Accuracy</div>
+                </div>
+                <div class="overall-stat">
+                    <div class="overall-stat-number">${avgAccuracy}%</div>
+                    <div class="overall-stat-label">Avg Session Accuracy</div>
+                </div>
+                <div class="overall-stat">
+                    <div class="overall-stat-number">${formatDuration(totalTime)}</div>
+                    <div class="overall-stat-label">Total Study Time</div>
+                </div>
+            `;
+        }
+
+        function clearProgressHistory() {
+            if (confirm('Are you sure you want to clear all progress history? This action cannot be undone.')) {
+                localStorage.removeItem('azure900Progress');
+                loadSessionHistory();
+                loadOverallStats();
+            }
+        }
+
+        // Load flashcards from JSON file
+        async function loadFlashcards() {
+            try {
+                // Try to load John Savill's course flashcards first, fallback to original
+                let response = await fetch('azure-900-savill-flashcards.json');
+                if (!response.ok) {
+                    response = await fetch('azure-900-flashcards.json');
+                }
+                flashcards = await response.json();
+                
+                // Randomize the flashcards array
+                shuffleArray(flashcards);
+                
+                startNewSession();
+                loadQuestion();
+                updateProgress();
+            } catch (error) {
+                console.error('Error loading flashcards:', error);
+                document.getElementById('questionText').textContent = 'Error loading flashcards. Please ensure flashcard JSON files are in the same directory.';
+            }
+        }
+
+        // Fisher-Yates shuffle algorithm to randomize array
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        // Shuffle questions during study session
+        function shuffleQuestions() {
+            if (flashcards.length === 0) return;
+            
+            // Save current progress
+            const currentCorrect = correctAnswers;
+            const currentIncorrect = incorrectAnswers;
+            const currentAnswered = new Set(answeredQuestions);
+            
+            // Shuffle the flashcards array
+            shuffleArray(flashcards);
+            
+            // Reset to first question
+            currentQuestionIndex = 0;
+            selectedAnswer = null;
+            
+            // Clear answered questions set since order changed
+            answeredQuestions.clear();
+            
+            // Load the first question
+            loadQuestion();
+            updateProgress();
+            
+            // Show confirmation message
+            const feedback = document.getElementById('feedback');
+            const feedbackText = document.getElementById('feedbackText');
+            feedbackText.textContent = 'Questions have been shuffled! Starting from question 1.';
+            feedback.classList.add('show');
+            feedback.classList.remove('correct', 'incorrect');
+            
+            // Hide feedback after 3 seconds
+            setTimeout(() => {
+                feedback.classList.remove('show');
+            }, 3000);
+        }
+
+        function loadQuestion() {
+            if (flashcards.length === 0) return;
+
+            const question = flashcards[currentQuestionIndex];
+            document.getElementById('questionText').textContent = question.question;
+            document.getElementById('categoryTag').textContent = question.category;
+
+            const optionsList = document.getElementById('optionsList');
+            optionsList.innerHTML = '';
+
+            question.options.forEach((option, index) => {
+                const li = document.createElement('li');
+                li.className = 'option';
+                li.textContent = option;
+                li.onclick = () => selectAnswer(option, index);
+                optionsList.appendChild(li);
+            });
+
+            // Reset state
+            selectedAnswer = null;
+            document.getElementById('feedback').classList.remove('show', 'correct', 'incorrect');
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('submitBtn').style.display = 'inline-block';
+            document.getElementById('nextBtn').disabled = true;
+            document.getElementById('nextBtn').style.display = 'none';
+            document.getElementById('prevBtn').disabled = currentQuestionIndex === 0;
+
+            updateQuestionCounter();
+        }
+
+        function selectAnswer(option, index) {
+            if (answeredQuestions.has(currentQuestionIndex)) return;
+
+            selectedAnswer = option;
+            
+            // Remove previous selections
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.classList.remove('selected');
+            });
+
+            // Highlight selected option
+            document.querySelectorAll('.option')[index].classList.add('selected');
+
+            // Enable submit button
+            document.getElementById('submitBtn').disabled = false;
+        }
+
+        function submitAnswer() {
+            if (!selectedAnswer || answeredQuestions.has(currentQuestionIndex)) return;
+
+            // Hide submit button and show next button
+            document.getElementById('submitBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+            document.getElementById('nextBtn').disabled = false;
+
+            // Check the answer and show results
+            checkAnswer();
+        }
+
+        function checkAnswer() {
+            if (!selectedAnswer || answeredQuestions.has(currentQuestionIndex)) return;
+
+            const question = flashcards[currentQuestionIndex];
+            const isCorrect = selectedAnswer.startsWith(question.answer + ')');
+            
+            // Update counters
+            if (isCorrect) {
+                correctAnswers++;
+            } else {
+                incorrectAnswers++;
+            }
+
+            answeredQuestions.add(currentQuestionIndex);
+
+            // Show feedback
+            const feedback = document.getElementById('feedback');
+            const feedbackText = document.getElementById('feedbackText');
+            
+            feedbackText.textContent = question.explanation;
+            feedback.classList.add('show', isCorrect ? 'correct' : 'incorrect');
+
+            // Highlight correct/incorrect options with enhanced visual feedback
+            document.querySelectorAll('.option').forEach((option, index) => {
+                const optionText = option.textContent;
+                
+                // Remove any existing classes first
+                option.classList.remove('selected', 'correct', 'incorrect', 'user-selected');
+                
+                if (optionText.startsWith(question.answer + ')')) {
+                    // This is the correct answer
+                    option.classList.add('correct');
+                } else if (optionText === selectedAnswer && !isCorrect) {
+                    // This is the user's incorrect selection
+                    option.classList.add('incorrect');
+                } else if (optionText === selectedAnswer && isCorrect) {
+                    // User selected the correct answer
+                    option.classList.add('user-selected', 'correct');
+                }
+                
+                option.onclick = null; // Disable further clicks
+            });
+
+            updateStats();
+        }
+
+        function nextQuestion() {
+            if (currentQuestionIndex < flashcards.length - 1) {
+                currentQuestionIndex++;
+                loadQuestion();
+                updateProgress();
+            } else {
+                showCompletion();
+            }
+        }
+
+        function previousQuestion() {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                loadQuestion();
+                updateProgress();
+            }
+        }
+
+        function restartQuiz() {
+            endSession(); // Save current session before restarting
+            currentQuestionIndex = 0;
+            correctAnswers = 0;
+            incorrectAnswers = 0;
+            answeredQuestions.clear();
+            selectedAnswer = null;
+
+            // Shuffle questions on restart for variety
+            shuffleArray(flashcards);
+
+            document.getElementById('completionMessage').classList.remove('show');
+            document.getElementById('flashcardContent').style.display = 'block';
+            document.getElementById('restartBtn').style.display = 'none';
+
+            startNewSession(); // Start a new session
+            loadQuestion();
+            updateProgress();
+            updateStats();
+        }
+
+        function showCompletion() {
+            endSession();
+            document.getElementById('flashcardContent').style.display = 'none';
+            document.getElementById('completionMessage').classList.add('show');
+            document.getElementById('restartBtn').style.display = 'inline-block';
+        }
+
+        function updateProgress() {
+            const progress = ((currentQuestionIndex + 1) / flashcards.length) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+        }
+
+        function updateQuestionCounter() {
+            document.getElementById('questionCounter').textContent = 
+                `Question ${currentQuestionIndex + 1} of ${flashcards.length}`;
+        }
+
+        function updateStats() {
+            const totalAnswered = correctAnswers + incorrectAnswers;
+            const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
+
+            document.getElementById('correctCount').textContent = correctAnswers;
+            document.getElementById('incorrectCount').textContent = incorrectAnswers;
+            document.getElementById('accuracy').textContent = accuracy + '%';
+        }
+
+        // Initialize the app
+        loadFlashcards();
+    </script>
+</body>
+</html>

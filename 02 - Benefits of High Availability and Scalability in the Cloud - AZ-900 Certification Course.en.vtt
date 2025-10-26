@@ -1,0 +1,2800 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.800 --> 00:00:02.550 align:start position:0%
+ 
+In<00:00:01.040><c> this</c><00:00:01.199><c> lesson,</c><00:00:01.600><c> we're</c><00:00:01.760><c> going</c><00:00:01.920><c> to</c><00:00:02.080><c> look</c><00:00:02.320><c> at</c>
+
+00:00:02.550 --> 00:00:02.560 align:start position:0%
+In this lesson, we're going to look at
+ 
+
+00:00:02.560 --> 00:00:04.390 align:start position:0%
+In this lesson, we're going to look at
+describing<00:00:03.200><c> the</c><00:00:03.520><c> benefits</c><00:00:03.919><c> of</c><00:00:04.160><c> high</c>
+
+00:00:04.390 --> 00:00:04.400 align:start position:0%
+describing the benefits of high
+ 
+
+00:00:04.400 --> 00:00:07.390 align:start position:0%
+describing the benefits of high
+availability<00:00:05.279><c> and</c><00:00:05.680><c> scalability</c><00:00:06.560><c> in</c><00:00:06.879><c> the</c>
+
+00:00:07.390 --> 00:00:07.400 align:start position:0%
+availability and scalability in the
+ 
+
+00:00:07.400 --> 00:00:10.070 align:start position:0%
+availability and scalability in the
+cloud.<00:00:08.400><c> Now,</c><00:00:08.639><c> when</c><00:00:08.880><c> we</c><00:00:09.040><c> think</c><00:00:09.280><c> about</c><00:00:09.679><c> cloud</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+cloud. Now, when we think about cloud
+ 
+
+00:00:10.080 --> 00:00:12.790 align:start position:0%
+cloud. Now, when we think about cloud
+computing,<00:00:10.960><c> what</c><00:00:11.200><c> exactly</c><00:00:11.679><c> is</c><00:00:11.920><c> it?</c><00:00:12.400><c> There's</c><00:00:12.639><c> a</c>
+
+00:00:12.790 --> 00:00:12.800 align:start position:0%
+computing, what exactly is it? There's a
+ 
+
+00:00:12.800 --> 00:00:14.549 align:start position:0%
+computing, what exactly is it? There's a
+joke.<00:00:13.360><c> There's</c><00:00:13.679><c> no</c><00:00:13.840><c> such</c><00:00:14.080><c> thing</c><00:00:14.160><c> as</c><00:00:14.320><c> the</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+joke. There's no such thing as the
+ 
+
+00:00:14.559 --> 00:00:17.189 align:start position:0%
+joke. There's no such thing as the
+cloud.<00:00:14.960><c> It's</c><00:00:15.200><c> just</c><00:00:15.440><c> someone</c><00:00:15.759><c> else's</c><00:00:16.240><c> PC.</c><00:00:17.039><c> And</c>
+
+00:00:17.189 --> 00:00:17.199 align:start position:0%
+cloud. It's just someone else's PC. And
+ 
+
+00:00:17.199 --> 00:00:19.070 align:start position:0%
+cloud. It's just someone else's PC. And
+there's<00:00:17.520><c> a</c><00:00:17.760><c> lot</c><00:00:17.840><c> of</c><00:00:18.160><c> truth</c>
+
+00:00:19.070 --> 00:00:19.080 align:start position:0%
+there's a lot of truth
+ 
+
+00:00:19.080 --> 00:00:22.269 align:start position:0%
+there's a lot of truth
+there.<00:00:20.080><c> We</c><00:00:20.400><c> often</c><00:00:20.800><c> think</c><00:00:21.119><c> about</c>
+
+00:00:22.269 --> 00:00:22.279 align:start position:0%
+there. We often think about
+ 
+
+00:00:22.279 --> 00:00:24.470 align:start position:0%
+there. We often think about
+capacity.<00:00:23.279><c> Capacity</c><00:00:23.840><c> is</c><00:00:24.080><c> something</c><00:00:24.240><c> that</c>
+
+00:00:24.470 --> 00:00:24.480 align:start position:0%
+capacity. Capacity is something that
+ 
+
+00:00:24.480 --> 00:00:27.349 align:start position:0%
+capacity. Capacity is something that
+enables<00:00:25.119><c> services</c><00:00:25.600><c> to</c><00:00:25.840><c> run.</c><00:00:26.640><c> they</c><00:00:26.960><c> have</c><00:00:27.119><c> some</c>
+
+00:00:27.349 --> 00:00:27.359 align:start position:0%
+enables services to run. they have some
+ 
+
+00:00:27.359 --> 00:00:29.269 align:start position:0%
+enables services to run. they have some
+management<00:00:27.840><c> platform,</c><00:00:28.480><c> some</c><00:00:28.880><c> user</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+management platform, some user
+ 
+
+00:00:29.279 --> 00:00:31.470 align:start position:0%
+management platform, some user
+experience.<00:00:29.920><c> So</c><00:00:30.000><c> we</c><00:00:30.240><c> can</c><00:00:30.480><c> consume</c><00:00:30.880><c> the</c>
+
+00:00:31.470 --> 00:00:31.480 align:start position:0%
+experience. So we can consume the
+ 
+
+00:00:31.480 --> 00:00:34.709 align:start position:0%
+experience. So we can consume the
+service.<00:00:32.480><c> Now</c><00:00:32.800><c> on</c><00:00:33.120><c> premises,</c><00:00:34.000><c> if</c><00:00:34.239><c> I</c><00:00:34.480><c> think</c>
+
+00:00:34.709 --> 00:00:34.719 align:start position:0%
+service. Now on premises, if I think
+ 
+
+00:00:34.719 --> 00:00:39.150 align:start position:0%
+service. Now on premises, if I think
+about<00:00:35.280><c> my</c><00:00:35.840><c> local</c><00:00:36.239><c> data</c>
+
+00:00:39.150 --> 00:00:39.160 align:start position:0%
+ 
+ 
+
+00:00:39.160 --> 00:00:44.350 align:start position:0%
+ 
+center<00:00:40.160><c> in</c><00:00:40.480><c> my</c><00:00:40.800><c> on</c><00:00:41.120><c> premises</c>
+
+00:00:44.350 --> 00:00:44.360 align:start position:0%
+ 
+ 
+
+00:00:44.360 --> 00:00:47.990 align:start position:0%
+ 
+weld<00:00:45.360><c> my</c><00:00:45.680><c> capacity</c><00:00:46.399><c> is</c><00:00:46.640><c> provided</c><00:00:47.039><c> by</c><00:00:47.440><c> well</c><00:00:47.760><c> I</c>
+
+00:00:47.990 --> 00:00:48.000 align:start position:0%
+weld my capacity is provided by well I
+ 
+
+00:00:48.000 --> 00:00:53.590 align:start position:0%
+weld my capacity is provided by well I
+have<00:00:48.160><c> various</c><00:00:48.640><c> types</c><00:00:48.960><c> of</c><00:00:49.280><c> server.</c>
+
+00:00:53.590 --> 00:00:53.600 align:start position:0%
+ 
+ 
+
+00:00:53.600 --> 00:00:55.830 align:start position:0%
+ 
+I'll<00:00:53.920><c> have</c><00:00:54.239><c> network</c><00:00:54.800><c> switches</c><00:00:55.280><c> providing</c>
+
+00:00:55.830 --> 00:00:55.840 align:start position:0%
+I'll have network switches providing
+ 
+
+00:00:55.840 --> 00:00:58.470 align:start position:0%
+I'll have network switches providing
+network<00:00:56.440><c> throughput.</c><00:00:57.440><c> I'll</c><00:00:57.760><c> have</c><00:00:58.160><c> storage</c>
+
+00:00:58.470 --> 00:00:58.480 align:start position:0%
+network throughput. I'll have storage
+ 
+
+00:00:58.480 --> 00:01:00.270 align:start position:0%
+network throughput. I'll have storage
+area
+
+00:01:00.270 --> 00:01:00.280 align:start position:0%
+area
+ 
+
+00:01:00.280 --> 00:01:02.389 align:start position:0%
+area
+networks,<00:01:01.280><c> other</c><00:01:01.600><c> types</c><00:01:01.840><c> of</c><00:01:02.000><c> network</c>
+
+00:01:02.389 --> 00:01:02.399 align:start position:0%
+networks, other types of network
+ 
+
+00:01:02.399 --> 00:01:04.869 align:start position:0%
+networks, other types of network
+attached<00:01:02.920><c> storage,</c><00:01:03.920><c> but</c><00:01:04.159><c> these</c><00:01:04.479><c> are</c><00:01:04.640><c> all</c>
+
+00:01:04.869 --> 00:01:04.879 align:start position:0%
+attached storage, but these are all
+ 
+
+00:01:04.879 --> 00:01:08.990 align:start position:0%
+attached storage, but these are all
+providing
+
+00:01:08.990 --> 00:01:09.000 align:start position:0%
+ 
+ 
+
+00:01:09.000 --> 00:01:12.390 align:start position:0%
+ 
+capacity<00:01:10.000><c> for</c><00:01:10.320><c> the</c><00:01:10.560><c> workloads</c><00:01:11.200><c> I</c><00:01:11.520><c> want</c><00:01:11.760><c> to</c><00:01:12.000><c> run</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+capacity for the workloads I want to run
+ 
+
+00:01:12.400 --> 00:01:16.270 align:start position:0%
+capacity for the workloads I want to run
+on<00:01:12.840><c> premises.</c><00:01:13.920><c> And</c><00:01:14.080><c> then</c><00:01:14.320><c> on</c><00:01:14.640><c> top</c><00:01:14.799><c> of</c><00:01:14.960><c> that</c>
+
+00:01:16.270 --> 00:01:16.280 align:start position:0%
+on premises. And then on top of that
+ 
+
+00:01:16.280 --> 00:01:19.230 align:start position:0%
+on premises. And then on top of that
+capacity<00:01:17.280><c> or</c><00:01:17.439><c> maybe</c><00:01:17.600><c> I'm</c><00:01:17.920><c> running</c><00:01:18.240><c> virtual</c>
+
+00:01:19.230 --> 00:01:19.240 align:start position:0%
+capacity or maybe I'm running virtual
+ 
+
+00:01:19.240 --> 00:01:22.230 align:start position:0%
+capacity or maybe I'm running virtual
+machines,<00:01:20.240><c> maybe</c><00:01:20.479><c> I'm</c><00:01:20.720><c> using</c><00:01:21.040><c> containers</c><00:01:22.000><c> and</c>
+
+00:01:22.230 --> 00:01:22.240 align:start position:0%
+machines, maybe I'm using containers and
+ 
+
+00:01:22.240 --> 00:01:25.190 align:start position:0%
+machines, maybe I'm using containers and
+so<00:01:22.400><c> I'm</c><00:01:22.720><c> creating</c><00:01:23.280><c> pods</c><00:01:24.240><c> that</c><00:01:24.560><c> run</c><00:01:24.720><c> a</c><00:01:24.880><c> certain</c>
+
+00:01:25.190 --> 00:01:25.200 align:start position:0%
+so I'm creating pods that run a certain
+ 
+
+00:01:25.200 --> 00:01:27.749 align:start position:0%
+so I'm creating pods that run a certain
+container<00:01:25.680><c> image.</c><00:01:26.640><c> But</c><00:01:26.799><c> I</c><00:01:26.960><c> can</c><00:01:27.119><c> think</c><00:01:27.280><c> of</c><00:01:27.439><c> on</c>
+
+00:01:27.749 --> 00:01:27.759 align:start position:0%
+container image. But I can think of on
+ 
+
+00:01:27.759 --> 00:01:28.830 align:start position:0%
+container image. But I can think of on
+the
+
+00:01:28.830 --> 00:01:28.840 align:start position:0%
+the
+ 
+
+00:01:28.840 --> 00:01:31.109 align:start position:0%
+the
+capacity.<00:01:29.840><c> Well,</c><00:01:30.159><c> there's</c><00:01:30.479><c> different</c><00:01:30.799><c> types</c>
+
+00:01:31.109 --> 00:01:31.119 align:start position:0%
+capacity. Well, there's different types
+ 
+
+00:01:31.119 --> 00:01:34.069 align:start position:0%
+capacity. Well, there's different types
+of<00:01:31.520><c> service</c><00:01:32.000><c> that</c><00:01:32.240><c> capacity</c><00:01:32.880><c> provides</c><00:01:33.680><c> that</c><00:01:33.920><c> I</c>
+
+00:01:34.069 --> 00:01:34.079 align:start position:0%
+of service that capacity provides that I
+ 
+
+00:01:34.079 --> 00:01:35.350 align:start position:0%
+of service that capacity provides that I
+can<00:01:34.159><c> then</c><00:01:34.320><c> install</c><00:01:34.720><c> my</c><00:01:34.960><c> business</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+can then install my business
+ 
+
+00:01:35.360 --> 00:01:40.230 align:start position:0%
+can then install my business
+applications<00:01:36.000><c> on</c><00:01:36.320><c> and</c><00:01:36.720><c> actually</c><00:01:37.439><c> use.</c>
+
+00:01:40.230 --> 00:01:40.240 align:start position:0%
+applications on and actually use.
+ 
+
+00:01:40.240 --> 00:01:44.870 align:start position:0%
+applications on and actually use.
+on<00:01:40.600><c> premises</c><00:01:41.600><c> I'm</c><00:01:41.920><c> bound</c><00:01:42.759><c> by</c><00:01:43.759><c> the</c><00:01:44.240><c> physical</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+on premises I'm bound by the physical
+ 
+
+00:01:44.880 --> 00:01:48.069 align:start position:0%
+on premises I'm bound by the physical
+hardware<00:01:45.439><c> I</c><00:01:45.880><c> have</c><00:01:46.880><c> and</c><00:01:47.119><c> obviously</c><00:01:47.439><c> I</c><00:01:47.759><c> have</c><00:01:47.840><c> to</c>
+
+00:01:48.069 --> 00:01:48.079 align:start position:0%
+hardware I have and obviously I have to
+ 
+
+00:01:48.079 --> 00:01:50.069 align:start position:0%
+hardware I have and obviously I have to
+buy<00:01:48.399><c> it</c><00:01:48.560><c> in</c><00:01:48.799><c> advance</c><00:01:49.119><c> and</c><00:01:49.280><c> I'm</c><00:01:49.520><c> always</c><00:01:49.840><c> paying</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+buy it in advance and I'm always paying
+ 
+
+00:01:50.079 --> 00:01:50.830 align:start position:0%
+buy it in advance and I'm always paying
+for
+
+00:01:50.830 --> 00:01:50.840 align:start position:0%
+for
+ 
+
+00:01:50.840 --> 00:01:53.590 align:start position:0%
+for
+it.<00:01:51.840><c> If</c><00:01:52.079><c> we</c><00:01:52.240><c> now</c><00:01:52.560><c> think</c><00:01:52.720><c> about</c><00:01:52.960><c> well</c><00:01:53.280><c> how</c><00:01:53.439><c> does</c>
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+it. If we now think about well how does
+ 
+
+00:01:53.600 --> 00:01:56.550 align:start position:0%
+it. If we now think about well how does
+that<00:01:53.920><c> work</c><00:01:54.159><c> in</c><00:01:54.479><c> the</c><00:01:54.759><c> cloud?</c><00:01:55.759><c> In</c><00:01:56.000><c> the</c><00:01:56.159><c> cloud</c>
+
+00:01:56.550 --> 00:01:56.560 align:start position:0%
+that work in the cloud? In the cloud
+ 
+
+00:01:56.560 --> 00:02:00.550 align:start position:0%
+that work in the cloud? In the cloud
+that<00:01:56.880><c> capacity</c><00:01:57.680><c> is</c><00:01:58.320><c> huge</c><00:01:58.719><c> in</c><00:01:59.079><c> scale</c><00:02:00.079><c> that</c><00:02:00.399><c> are</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+that capacity is huge in scale that are
+ 
+
+00:02:00.560 --> 00:02:03.310 align:start position:0%
+that capacity is huge in scale that are
+housed<00:02:00.880><c> in</c><00:02:01.200><c> data</c><00:02:01.520><c> centers</c><00:02:02.000><c> all</c><00:02:02.240><c> around</c><00:02:02.560><c> the</c>
+
+00:02:03.310 --> 00:02:03.320 align:start position:0%
+housed in data centers all around the
+ 
+
+00:02:03.320 --> 00:02:05.830 align:start position:0%
+housed in data centers all around the
+world.<00:02:04.320><c> I</c><00:02:04.560><c> can</c><00:02:04.799><c> think</c><00:02:04.960><c> about</c><00:02:05.280><c> there</c><00:02:05.600><c> are</c>
+
+00:02:05.830 --> 00:02:05.840 align:start position:0%
+world. I can think about there are
+ 
+
+00:02:05.840 --> 00:02:08.630 align:start position:0%
+world. I can think about there are
+specific<00:02:06.560><c> sets</c><00:02:06.960><c> of</c><00:02:07.280><c> data</c><00:02:07.600><c> centers.</c><00:02:08.080><c> So</c><00:02:08.239><c> if</c><00:02:08.399><c> we</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+specific sets of data centers. So if we
+ 
+
+00:02:08.640 --> 00:02:12.150 align:start position:0%
+specific sets of data centers. So if we
+now<00:02:08.879><c> pivot</c><00:02:09.599><c> to</c><00:02:09.920><c> thinking</c><00:02:10.239><c> about</c><00:02:10.479><c> the</c><00:02:11.160><c> cloud,</c>
+
+00:02:12.150 --> 00:02:12.160 align:start position:0%
+now pivot to thinking about the cloud,
+ 
+
+00:02:12.160 --> 00:02:16.430 align:start position:0%
+now pivot to thinking about the cloud,
+I'm<00:02:12.319><c> going</c><00:02:12.400><c> to</c><00:02:12.560><c> draw</c><00:02:12.720><c> this</c><00:02:13.200><c> massive</c>
+
+00:02:16.430 --> 00:02:16.440 align:start position:0%
+ 
+ 
+
+00:02:16.440 --> 00:02:21.470 align:start position:0%
+ 
+idea<00:02:17.440><c> and</c><00:02:17.680><c> this</c><00:02:17.920><c> is</c>
+
+00:02:21.470 --> 00:02:21.480 align:start position:0%
+ 
+ 
+
+00:02:21.480 --> 00:02:23.990 align:start position:0%
+ 
+Azure.<00:02:22.480><c> All</c><00:02:22.800><c> around</c><00:02:23.040><c> the</c><00:02:23.280><c> world</c><00:02:23.680><c> there</c><00:02:23.840><c> are</c>
+
+00:02:23.990 --> 00:02:24.000 align:start position:0%
+Azure. All around the world there are
+ 
+
+00:02:24.000 --> 00:02:27.510 align:start position:0%
+Azure. All around the world there are
+these<00:02:24.319><c> groups</c><00:02:24.720><c> of</c><00:02:25.280><c> data</c><00:02:25.959><c> centers.</c><00:02:27.040><c> So</c><00:02:27.280><c> there's</c>
+
+00:02:27.510 --> 00:02:27.520 align:start position:0%
+these groups of data centers. So there's
+ 
+
+00:02:27.520 --> 00:02:32.750 align:start position:0%
+these groups of data centers. So there's
+these<00:02:27.840><c> various</c><00:02:28.239><c> groupings</c>
+
+00:02:32.750 --> 00:02:32.760 align:start position:0%
+ 
+ 
+
+00:02:32.760 --> 00:02:35.350 align:start position:0%
+ 
+available<00:02:33.760><c> certain</c><00:02:34.160><c> proximity</c><00:02:34.879><c> to</c><00:02:35.120><c> each</c>
+
+00:02:35.350 --> 00:02:35.360 align:start position:0%
+available certain proximity to each
+ 
+
+00:02:35.360 --> 00:02:39.030 align:start position:0%
+available certain proximity to each
+other<00:02:36.160><c> and</c><00:02:36.400><c> we</c><00:02:36.720><c> think</c><00:02:36.959><c> about</c><00:02:37.280><c> we</c><00:02:37.840><c> group</c><00:02:38.239><c> these</c>
+
+00:02:39.030 --> 00:02:39.040 align:start position:0%
+other and we think about we group these
+ 
+
+00:02:39.040 --> 00:02:42.470 align:start position:0%
+other and we think about we group these
+based<00:02:39.360><c> on</c><00:02:39.519><c> a</c><00:02:39.760><c> certain</c><00:02:40.000><c> amount</c><00:02:40.400><c> of</c><00:02:40.560><c> proximity.</c>
+
+00:02:42.470 --> 00:02:42.480 align:start position:0%
+based on a certain amount of proximity.
+ 
+
+00:02:42.480 --> 00:02:45.470 align:start position:0%
+based on a certain amount of proximity.
+So<00:02:42.720><c> I</c><00:02:42.879><c> could</c><00:02:43.040><c> say,</c><00:02:43.280><c> well,</c><00:02:43.599><c> okay,</c><00:02:43.920><c> this</c><00:02:44.239><c> is</c><00:02:44.480><c> a</c>
+
+00:02:45.470 --> 00:02:45.480 align:start position:0%
+So I could say, well, okay, this is a
+ 
+
+00:02:45.480 --> 00:02:47.750 align:start position:0%
+So I could say, well, okay, this is a
+region.<00:02:46.480><c> And</c><00:02:46.560><c> you'll</c><00:02:46.800><c> hear</c><00:02:46.959><c> that</c><00:02:47.120><c> term</c><00:02:47.360><c> a</c><00:02:47.519><c> lot.</c>
+
+00:02:47.750 --> 00:02:47.760 align:start position:0%
+region. And you'll hear that term a lot.
+ 
+
+00:02:47.760 --> 00:02:49.630 align:start position:0%
+region. And you'll hear that term a lot.
+That<00:02:47.920><c> might</c><00:02:48.000><c> be</c><00:02:48.160><c> region</c>
+
+00:02:49.630 --> 00:02:49.640 align:start position:0%
+That might be region
+ 
+
+00:02:49.640 --> 00:02:52.790 align:start position:0%
+That might be region
+one.<00:02:50.640><c> This</c><00:02:50.879><c> is</c><00:02:51.280><c> another</c><00:02:51.840><c> region.</c><00:02:52.319><c> So</c><00:02:52.480><c> that's</c>
+
+00:02:52.790 --> 00:02:52.800 align:start position:0%
+one. This is another region. So that's
+ 
+
+00:02:52.800 --> 00:03:00.670 align:start position:0%
+one. This is another region. So that's
+region<00:02:53.480><c> two.</c><00:02:54.480><c> And</c><00:02:54.720><c> so</c><00:02:55.040><c> on</c><00:02:55.280><c> top</c><00:02:55.440><c> of</c><00:02:55.680><c> all</c><00:02:55.920><c> of</c><00:02:56.080><c> this</c>
+
+00:03:00.670 --> 00:03:00.680 align:start position:0%
+ 
+ 
+
+00:03:00.680 --> 00:03:04.229 align:start position:0%
+ 
+capacity,<00:03:01.680><c> I</c><00:03:02.000><c> can</c><00:03:02.239><c> then</c><00:03:02.640><c> run</c><00:03:03.440><c> the</c><00:03:03.760><c> various</c>
+
+00:03:04.229 --> 00:03:04.239 align:start position:0%
+capacity, I can then run the various
+ 
+
+00:03:04.239 --> 00:03:06.869 align:start position:0%
+capacity, I can then run the various
+different<00:03:04.840><c> services.</c><00:03:05.840><c> And</c><00:03:06.000><c> in</c><00:03:06.239><c> the</c><00:03:06.400><c> cloud,</c>
+
+00:03:06.869 --> 00:03:06.879 align:start position:0%
+different services. And in the cloud,
+ 
+
+00:03:06.879 --> 00:03:08.630 align:start position:0%
+different services. And in the cloud,
+there's<00:03:07.120><c> more</c><00:03:07.440><c> types</c><00:03:07.680><c> of</c><00:03:07.840><c> service</c><00:03:08.159><c> available</c>
+
+00:03:08.630 --> 00:03:08.640 align:start position:0%
+there's more types of service available
+ 
+
+00:03:08.640 --> 00:03:10.470 align:start position:0%
+there's more types of service available
+to<00:03:08.800><c> you.</c><00:03:09.360><c> Yes,</c><00:03:09.680><c> there's</c><00:03:09.920><c> obviously</c><00:03:10.239><c> things</c>
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+to you. Yes, there's obviously things
+ 
+
+00:03:10.480 --> 00:03:12.149 align:start position:0%
+to you. Yes, there's obviously things
+like,<00:03:10.720><c> hey,</c><00:03:10.959><c> I</c><00:03:11.120><c> can</c><00:03:11.280><c> go</c><00:03:11.360><c> and</c><00:03:11.599><c> spin</c><00:03:11.760><c> up</c><00:03:11.920><c> a</c>
+
+00:03:12.149 --> 00:03:12.159 align:start position:0%
+like, hey, I can go and spin up a
+ 
+
+00:03:12.159 --> 00:03:14.790 align:start position:0%
+like, hey, I can go and spin up a
+virtual<00:03:12.599><c> machine.</c><00:03:13.599><c> I</c><00:03:13.840><c> can</c><00:03:14.000><c> use</c><00:03:14.319><c> container</c>
+
+00:03:14.790 --> 00:03:14.800 align:start position:0%
+virtual machine. I can use container
+ 
+
+00:03:14.800 --> 00:03:16.990 align:start position:0%
+virtual machine. I can use container
+environments<00:03:15.360><c> like</c>
+
+00:03:16.990 --> 00:03:17.000 align:start position:0%
+environments like
+ 
+
+00:03:17.000 --> 00:03:19.270 align:start position:0%
+environments like
+Kubernetes,<00:03:18.000><c> but</c><00:03:18.239><c> I</c><00:03:18.400><c> might</c><00:03:18.640><c> also</c><00:03:18.959><c> have</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+Kubernetes, but I might also have
+ 
+
+00:03:19.280 --> 00:03:21.509 align:start position:0%
+Kubernetes, but I might also have
+database<00:03:20.000><c> offerings</c><00:03:20.400><c> that</c><00:03:20.640><c> are</c><00:03:20.800><c> managed</c><00:03:21.200><c> for</c>
+
+00:03:21.509 --> 00:03:21.519 align:start position:0%
+database offerings that are managed for
+ 
+
+00:03:21.519 --> 00:03:23.670 align:start position:0%
+database offerings that are managed for
+me.<00:03:22.159><c> There</c><00:03:22.400><c> might</c><00:03:22.640><c> be</c><00:03:22.959><c> artificial</c>
+
+00:03:23.670 --> 00:03:23.680 align:start position:0%
+me. There might be artificial
+ 
+
+00:03:23.680 --> 00:03:25.670 align:start position:0%
+me. There might be artificial
+intelligence<00:03:24.480><c> and</c><00:03:24.640><c> machine</c><00:03:25.040><c> learning</c>
+
+00:03:25.670 --> 00:03:25.680 align:start position:0%
+intelligence and machine learning
+ 
+
+00:03:25.680 --> 00:03:28.750 align:start position:0%
+intelligence and machine learning
+services<00:03:26.319><c> that</c><00:03:26.640><c> I</c><00:03:26.800><c> can</c><00:03:26.959><c> go</c><00:03:27.200><c> and</c>
+
+00:03:28.750 --> 00:03:28.760 align:start position:0%
+services that I can go and
+ 
+
+00:03:28.760 --> 00:03:31.910 align:start position:0%
+services that I can go and
+consume<00:03:29.760><c> and</c><00:03:30.000><c> many</c><00:03:30.319><c> many</c><00:03:30.640><c> others.</c><00:03:31.360><c> So</c><00:03:31.519><c> we</c><00:03:31.760><c> get</c>
+
+00:03:31.910 --> 00:03:31.920 align:start position:0%
+consume and many many others. So we get
+ 
+
+00:03:31.920 --> 00:03:34.350 align:start position:0%
+consume and many many others. So we get
+this<00:03:32.319><c> many</c><00:03:32.799><c> different</c>
+
+00:03:34.350 --> 00:03:34.360 align:start position:0%
+this many different
+ 
+
+00:03:34.360 --> 00:03:37.589 align:start position:0%
+this many different
+types<00:03:35.360><c> of</c><00:03:35.879><c> services,</c><00:03:36.879><c> hundreds</c><00:03:37.280><c> of</c><00:03:37.440><c> them</c>
+
+00:03:37.589 --> 00:03:37.599 align:start position:0%
+types of services, hundreds of them
+ 
+
+00:03:37.599 --> 00:03:41.350 align:start position:0%
+types of services, hundreds of them
+available<00:03:38.400><c> that</c><00:03:38.720><c> I</c><00:03:38.959><c> can</c><00:03:39.120><c> go</c><00:03:39.360><c> and</c><00:03:40.120><c> consume</c><00:03:41.120><c> and</c>
+
+00:03:41.350 --> 00:03:41.360 align:start position:0%
+available that I can go and consume and
+ 
+
+00:03:41.360 --> 00:03:45.110 align:start position:0%
+available that I can go and consume and
+I<00:03:41.599><c> have</c><00:03:42.159><c> a</c><00:03:42.400><c> lot</c><00:03:42.560><c> of</c><00:03:43.159><c> flexibility</c><00:03:44.159><c> in</c><00:03:44.480><c> where</c><00:03:44.879><c> I</c>
+
+00:03:45.110 --> 00:03:45.120 align:start position:0%
+I have a lot of flexibility in where I
+ 
+
+00:03:45.120 --> 00:03:47.910 align:start position:0%
+I have a lot of flexibility in where I
+can<00:03:45.200><c> go</c><00:03:45.360><c> and</c><00:03:45.599><c> consume</c><00:03:46.000><c> that.</c><00:03:46.560><c> If</c><00:03:46.799><c> we</c><00:03:46.959><c> jump</c><00:03:47.280><c> over</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+can go and consume that. If we jump over
+ 
+
+00:03:47.920 --> 00:03:51.110 align:start position:0%
+can go and consume that. If we jump over
+and<00:03:48.159><c> we</c><00:03:48.319><c> look</c><00:03:48.480><c> at</c><00:03:48.720><c> Microsoft's</c><00:03:49.799><c> map,</c><00:03:50.799><c> all</c><00:03:51.040><c> of</c>
+
+00:03:51.110 --> 00:03:51.120 align:start position:0%
+and we look at Microsoft's map, all of
+ 
+
+00:03:51.120 --> 00:03:54.789 align:start position:0%
+and we look at Microsoft's map, all of
+these<00:03:51.440><c> blue</c><00:03:51.760><c> dots</c><00:03:52.239><c> are</c><00:03:52.640><c> existing</c><00:03:53.640><c> regions</c><00:03:54.640><c> and</c>
+
+00:03:54.789 --> 00:03:54.799 align:start position:0%
+these blue dots are existing regions and
+ 
+
+00:03:54.799 --> 00:03:57.670 align:start position:0%
+these blue dots are existing regions and
+again<00:03:55.120><c> within</c><00:03:55.440><c> those</c><00:03:56.120><c> regions</c><00:03:57.120><c> can</c><00:03:57.280><c> click</c><00:03:57.519><c> on</c>
+
+00:03:57.670 --> 00:03:57.680 align:start position:0%
+again within those regions can click on
+ 
+
+00:03:57.680 --> 00:04:00.509 align:start position:0%
+again within those regions can click on
+one<00:03:57.840><c> of</c><00:03:58.000><c> them.</c><00:03:59.120><c> They</c><00:03:59.360><c> will</c><00:03:59.519><c> have</c><00:03:59.680><c> many</c><00:04:00.080><c> data</c>
+
+00:04:00.509 --> 00:04:00.519 align:start position:0%
+one of them. They will have many data
+ 
+
+00:04:00.519 --> 00:04:03.350 align:start position:0%
+one of them. They will have many data
+centers<00:04:01.519><c> and</c><00:04:01.680><c> we</c><00:04:01.920><c> can</c><00:04:02.000><c> see</c><00:04:02.319><c> information</c><00:04:02.799><c> about</c>
+
+00:04:03.350 --> 00:04:03.360 align:start position:0%
+centers and we can see information about
+ 
+
+00:04:03.360 --> 00:04:04.509 align:start position:0%
+centers and we can see information about
+when<00:04:03.599><c> did</c><00:04:03.760><c> it</c>
+
+00:04:04.509 --> 00:04:04.519 align:start position:0%
+when did it
+ 
+
+00:04:04.519 --> 00:04:07.190 align:start position:0%
+when did it
+open<00:04:05.519><c> different</c><00:04:05.920><c> compliance</c><00:04:06.480><c> offerings</c><00:04:07.040><c> that</c>
+
+00:04:07.190 --> 00:04:07.200 align:start position:0%
+open different compliance offerings that
+ 
+
+00:04:07.200 --> 00:04:09.910 align:start position:0%
+open different compliance offerings that
+are<00:04:07.360><c> available</c><00:04:07.920><c> plus</c><00:04:08.159><c> many</c><00:04:08.480><c> more.</c><00:04:09.360><c> And</c><00:04:09.519><c> so</c><00:04:09.680><c> I</c>
+
+00:04:09.910 --> 00:04:09.920 align:start position:0%
+are available plus many more. And so I
+ 
+
+00:04:09.920 --> 00:04:10.910 align:start position:0%
+are available plus many more. And so I
+as<00:04:10.159><c> a</c>
+
+00:04:10.910 --> 00:04:10.920 align:start position:0%
+as a
+ 
+
+00:04:10.920 --> 00:04:14.470 align:start position:0%
+as a
+customer<00:04:11.920><c> have</c><00:04:12.239><c> great</c><00:04:13.000><c> flexibility</c><00:04:14.000><c> that</c><00:04:14.239><c> I</c>
+
+00:04:14.470 --> 00:04:14.480 align:start position:0%
+customer have great flexibility that I
+ 
+
+00:04:14.480 --> 00:04:17.349 align:start position:0%
+customer have great flexibility that I
+can<00:04:14.560><c> go</c><00:04:14.720><c> and</c><00:04:14.959><c> consume</c><00:04:15.639><c> services</c><00:04:16.639><c> from</c><00:04:16.959><c> points</c>
+
+00:04:17.349 --> 00:04:17.359 align:start position:0%
+can go and consume services from points
+ 
+
+00:04:17.359 --> 00:04:20.270 align:start position:0%
+can go and consume services from points
+all<00:04:17.680><c> around</c><00:04:17.919><c> the</c><00:04:18.160><c> world.</c><00:04:18.799><c> That</c><00:04:19.040><c> gives</c><00:04:19.199><c> me</c>
+
+00:04:20.270 --> 00:04:20.280 align:start position:0%
+all around the world. That gives me
+ 
+
+00:04:20.280 --> 00:04:23.189 align:start position:0%
+all around the world. That gives me
+flexibility<00:04:21.280><c> in</c><00:04:21.600><c> terms</c><00:04:22.000><c> of</c><00:04:22.639><c> well</c><00:04:22.880><c> I</c><00:04:23.040><c> might</c>
+
+00:04:23.189 --> 00:04:23.199 align:start position:0%
+flexibility in terms of well I might
+ 
+
+00:04:23.199 --> 00:04:24.310 align:start position:0%
+flexibility in terms of well I might
+want<00:04:23.360><c> them</c><00:04:23.520><c> in</c><00:04:23.600><c> lots</c><00:04:23.840><c> of</c><00:04:23.919><c> places</c><00:04:24.080><c> for</c>
+
+00:04:24.310 --> 00:04:24.320 align:start position:0%
+want them in lots of places for
+ 
+
+00:04:24.320 --> 00:04:26.469 align:start position:0%
+want them in lots of places for
+resiliency<00:04:24.880><c> from</c><00:04:25.120><c> any</c><00:04:25.280><c> kind</c><00:04:25.440><c> of</c><00:04:25.600><c> failure</c><00:04:26.240><c> but</c>
+
+00:04:26.469 --> 00:04:26.479 align:start position:0%
+resiliency from any kind of failure but
+ 
+
+00:04:26.479 --> 00:04:28.390 align:start position:0%
+resiliency from any kind of failure but
+also<00:04:26.720><c> if</c><00:04:26.880><c> my</c><00:04:27.120><c> customers</c><00:04:27.440><c> are</c><00:04:27.680><c> distributed</c><00:04:28.160><c> all</c>
+
+00:04:28.390 --> 00:04:28.400 align:start position:0%
+also if my customers are distributed all
+ 
+
+00:04:28.400 --> 00:04:31.270 align:start position:0%
+also if my customers are distributed all
+around<00:04:28.639><c> the</c><00:04:28.880><c> world</c><00:04:29.639><c> well</c><00:04:30.639><c> it</c><00:04:30.880><c> would</c><00:04:30.960><c> be</c><00:04:31.120><c> great</c>
+
+00:04:31.270 --> 00:04:31.280 align:start position:0%
+around the world well it would be great
+ 
+
+00:04:31.280 --> 00:04:33.670 align:start position:0%
+around the world well it would be great
+to<00:04:31.520><c> offer</c><00:04:31.759><c> my</c><00:04:32.080><c> services</c><00:04:32.960><c> close</c><00:04:33.199><c> to</c><00:04:33.440><c> the</c>
+
+00:04:33.670 --> 00:04:33.680 align:start position:0%
+to offer my services close to the
+ 
+
+00:04:33.680 --> 00:04:35.909 align:start position:0%
+to offer my services close to the
+customers<00:04:34.560><c> so</c><00:04:34.720><c> they</c><00:04:34.960><c> get</c><00:04:35.120><c> a</c><00:04:35.360><c> fantastic</c>
+
+00:04:35.909 --> 00:04:35.919 align:start position:0%
+customers so they get a fantastic
+ 
+
+00:04:35.919 --> 00:04:38.150 align:start position:0%
+customers so they get a fantastic
+experience.<00:04:36.400><c> There's</c><00:04:36.639><c> not</c><00:04:36.800><c> a</c><00:04:37.360><c> long</c><00:04:37.680><c> delay</c><00:04:38.080><c> and</c>
+
+00:04:38.150 --> 00:04:38.160 align:start position:0%
+experience. There's not a long delay and
+ 
+
+00:04:38.160 --> 00:04:39.990 align:start position:0%
+experience. There's not a long delay and
+having<00:04:38.400><c> to</c><00:04:38.479><c> go</c><00:04:38.720><c> really</c><00:04:39.040><c> long</c><00:04:39.280><c> distance</c><00:04:39.759><c> over</c>
+
+00:04:39.990 --> 00:04:40.000 align:start position:0%
+having to go really long distance over
+ 
+
+00:04:40.000 --> 00:04:40.830 align:start position:0%
+having to go really long distance over
+the
+
+00:04:40.830 --> 00:04:40.840 align:start position:0%
+the
+ 
+
+00:04:40.840 --> 00:04:43.270 align:start position:0%
+the
+network.<00:04:41.919><c> And</c><00:04:42.160><c> so</c><00:04:42.320><c> what</c><00:04:42.639><c> all</c><00:04:42.800><c> of</c><00:04:42.960><c> these</c>
+
+00:04:43.270 --> 00:04:43.280 align:start position:0%
+network. And so what all of these
+ 
+
+00:04:43.280 --> 00:04:45.030 align:start position:0%
+network. And so what all of these
+different<00:04:43.680><c> types</c><00:04:44.000><c> of</c><00:04:44.320><c> services</c><00:04:44.800><c> and</c>
+
+00:04:45.030 --> 00:04:45.040 align:start position:0%
+different types of services and
+ 
+
+00:04:45.040 --> 00:04:46.870 align:start position:0%
+different types of services and
+available<00:04:45.440><c> in</c><00:04:45.680><c> so</c><00:04:45.919><c> many</c><00:04:46.080><c> different</c><00:04:46.400><c> places</c>
+
+00:04:46.870 --> 00:04:46.880 align:start position:0%
+available in so many different places
+ 
+
+00:04:46.880 --> 00:04:55.150 align:start position:0%
+available in so many different places
+gives<00:04:47.199><c> me</c><00:04:47.919><c> is</c><00:04:48.160><c> this</c><00:04:48.479><c> fantastic</c>
+
+00:04:55.150 --> 00:04:55.160 align:start position:0%
+ 
+ 
+
+00:04:55.160 --> 00:04:57.990 align:start position:0%
+ 
+agility<00:04:56.160><c> because</c><00:04:56.479><c> I'm</c><00:04:56.800><c> only</c><00:04:57.199><c> paying</c><00:04:57.520><c> for</c><00:04:57.759><c> the</c>
+
+00:04:57.990 --> 00:04:58.000 align:start position:0%
+agility because I'm only paying for the
+ 
+
+00:04:58.000 --> 00:05:01.110 align:start position:0%
+agility because I'm only paying for the
+service<00:04:58.400><c> I</c><00:04:59.160><c> consume.</c><00:05:00.160><c> I</c><00:05:00.400><c> don't</c><00:05:00.560><c> get</c><00:05:00.800><c> locked</c>
+
+00:05:01.110 --> 00:05:01.120 align:start position:0%
+service I consume. I don't get locked
+ 
+
+00:05:01.120 --> 00:05:03.110 align:start position:0%
+service I consume. I don't get locked
+into<00:05:01.600><c> I've</c><00:05:01.759><c> bought</c><00:05:02.000><c> this</c><00:05:02.160><c> server,</c><00:05:02.639><c> I</c><00:05:02.800><c> have</c><00:05:02.960><c> to</c>
+
+00:05:03.110 --> 00:05:03.120 align:start position:0%
+into I've bought this server, I have to
+ 
+
+00:05:03.120 --> 00:05:06.230 align:start position:0%
+into I've bought this server, I have to
+use<00:05:03.280><c> this</c><00:05:03.639><c> server.</c><00:05:04.639><c> I</c><00:05:04.960><c> can</c><00:05:05.120><c> change</c><00:05:05.680><c> where</c><00:05:06.000><c> I</c>
+
+00:05:06.230 --> 00:05:06.240 align:start position:0%
+use this server. I can change where I
+ 
+
+00:05:06.240 --> 00:05:07.909 align:start position:0%
+use this server. I can change where I
+want<00:05:06.320><c> to</c><00:05:06.479><c> host</c><00:05:06.800><c> my</c><00:05:07.039><c> services.</c><00:05:07.440><c> I</c><00:05:07.600><c> could</c><00:05:07.759><c> host</c>
+
+00:05:07.909 --> 00:05:07.919 align:start position:0%
+want to host my services. I could host
+ 
+
+00:05:07.919 --> 00:05:09.670 align:start position:0%
+want to host my services. I could host
+it<00:05:08.080><c> in</c><00:05:08.240><c> more</c><00:05:08.479><c> places.</c><00:05:08.960><c> I</c><00:05:09.120><c> could</c><00:05:09.280><c> host</c><00:05:09.440><c> it</c><00:05:09.520><c> in</c>
+
+00:05:09.670 --> 00:05:09.680 align:start position:0%
+it in more places. I could host it in
+ 
+
+00:05:09.680 --> 00:05:12.310 align:start position:0%
+it in more places. I could host it in
+fewer.<00:05:10.000><c> I</c><00:05:10.240><c> could</c><00:05:10.400><c> change</c><00:05:10.639><c> where</c><00:05:10.880><c> I</c><00:05:11.039><c> host</c><00:05:11.280><c> it.</c><00:05:12.080><c> I</c>
+
+00:05:12.310 --> 00:05:12.320 align:start position:0%
+fewer. I could change where I host it. I
+ 
+
+00:05:12.320 --> 00:05:15.510 align:start position:0%
+fewer. I could change where I host it. I
+can<00:05:12.479><c> switch</c><00:05:12.960><c> sizes</c><00:05:13.440><c> of</c><00:05:13.600><c> VM,</c><00:05:14.160><c> number</c><00:05:14.400><c> of</c><00:05:14.560><c> VM.</c><00:05:15.280><c> I</c>
+
+00:05:15.510 --> 00:05:15.520 align:start position:0%
+can switch sizes of VM, number of VM. I
+ 
+
+00:05:15.520 --> 00:05:18.070 align:start position:0%
+can switch sizes of VM, number of VM. I
+could<00:05:15.680><c> switch</c><00:05:15.840><c> from</c><00:05:16.080><c> VMs</c><00:05:16.639><c> to</c><00:05:17.039><c> containers</c><00:05:17.680><c> to</c>
+
+00:05:18.070 --> 00:05:18.080 align:start position:0%
+could switch from VMs to containers to
+ 
+
+00:05:18.080 --> 00:05:20.390 align:start position:0%
+could switch from VMs to containers to
+app<00:05:18.400><c> services.</c><00:05:19.199><c> I</c><00:05:19.440><c> can</c><00:05:19.520><c> switch</c><00:05:19.840><c> database</c>
+
+00:05:20.390 --> 00:05:20.400 align:start position:0%
+app services. I can switch database
+ 
+
+00:05:20.400 --> 00:05:24.310 align:start position:0%
+app services. I can switch database
+sizes.<00:05:21.199><c> There's</c><00:05:21.440><c> no</c><00:05:21.680><c> penalty</c><00:05:22.160><c> for</c><00:05:22.600><c> me</c><00:05:23.600><c> because</c>
+
+00:05:24.310 --> 00:05:24.320 align:start position:0%
+sizes. There's no penalty for me because
+ 
+
+00:05:24.320 --> 00:05:26.070 align:start position:0%
+sizes. There's no penalty for me because
+I<00:05:24.560><c> just</c><00:05:24.800><c> pay</c><00:05:24.960><c> for</c><00:05:25.199><c> what</c><00:05:25.360><c> I'm</c><00:05:25.520><c> consuming</c>
+
+00:05:26.070 --> 00:05:26.080 align:start position:0%
+I just pay for what I'm consuming
+ 
+
+00:05:26.080 --> 00:05:29.110 align:start position:0%
+I just pay for what I'm consuming
+typically<00:05:26.400><c> on</c><00:05:26.560><c> a</c><00:05:26.800><c> per</c><00:05:27.199><c> second</c><00:05:27.520><c> basis.</c><00:05:28.880><c> It's</c>
+
+00:05:29.110 --> 00:05:29.120 align:start position:0%
+typically on a per second basis. It's
+ 
+
+00:05:29.120 --> 00:05:30.950 align:start position:0%
+typically on a per second basis. It's
+also<00:05:29.520><c> fantastic</c><00:05:30.000><c> because</c><00:05:30.160><c> it</c><00:05:30.400><c> means</c><00:05:30.479><c> if</c><00:05:30.639><c> I</c><00:05:30.800><c> do</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+also fantastic because it means if I do
+ 
+
+00:05:30.960 --> 00:05:33.749 align:start position:0%
+also fantastic because it means if I do
+make<00:05:31.120><c> a</c><00:05:31.800><c> mistake,</c><00:05:32.800><c> I've</c><00:05:33.039><c> done</c><00:05:33.120><c> a</c><00:05:33.360><c> sizing</c>
+
+00:05:33.749 --> 00:05:33.759 align:start position:0%
+make a mistake, I've done a sizing
+ 
+
+00:05:33.759 --> 00:05:36.390 align:start position:0%
+make a mistake, I've done a sizing
+exercise,<00:05:34.400><c> I've</c><00:05:34.560><c> picked</c><00:05:34.800><c> a</c><00:05:34.960><c> certain</c><00:05:35.400><c> service,</c>
+
+00:05:36.390 --> 00:05:36.400 align:start position:0%
+exercise, I've picked a certain service,
+ 
+
+00:05:36.400 --> 00:05:38.550 align:start position:0%
+exercise, I've picked a certain service,
+and<00:05:36.639><c> then</c><00:05:37.199><c> if</c><00:05:37.440><c> I</c><00:05:37.600><c> work</c><00:05:37.680><c> out</c><00:05:37.919><c> that's</c><00:05:38.160><c> not</c><00:05:38.320><c> the</c>
+
+00:05:38.550 --> 00:05:38.560 align:start position:0%
+and then if I work out that's not the
+ 
+
+00:05:38.560 --> 00:05:41.029 align:start position:0%
+and then if I work out that's not the
+right<00:05:38.800><c> thing,</c><00:05:39.360><c> I</c><00:05:39.600><c> can</c><00:05:39.759><c> very</c><00:05:40.080><c> easily</c><00:05:40.639><c> change.</c>
+
+00:05:41.029 --> 00:05:41.039 align:start position:0%
+right thing, I can very easily change.
+ 
+
+00:05:41.039 --> 00:05:43.110 align:start position:0%
+right thing, I can very easily change.
+Now,<00:05:41.440><c> if</c><00:05:41.600><c> I</c><00:05:41.759><c> switch</c><00:05:42.000><c> from</c><00:05:42.160><c> VMs</c><00:05:42.560><c> to</c><00:05:42.720><c> containers</c>
+
+00:05:43.110 --> 00:05:43.120 align:start position:0%
+Now, if I switch from VMs to containers
+ 
+
+00:05:43.120 --> 00:05:44.550 align:start position:0%
+Now, if I switch from VMs to containers
+or<00:05:43.360><c> app</c><00:05:43.600><c> service,</c><00:05:43.919><c> there</c><00:05:44.080><c> may</c><00:05:44.160><c> be</c><00:05:44.320><c> some</c>
+
+00:05:44.550 --> 00:05:44.560 align:start position:0%
+or app service, there may be some
+ 
+
+00:05:44.560 --> 00:05:46.870 align:start position:0%
+or app service, there may be some
+application<00:05:45.120><c> development</c><00:05:45.680><c> effort,</c><00:05:46.639><c> but</c>
+
+00:05:46.870 --> 00:05:46.880 align:start position:0%
+application development effort, but
+ 
+
+00:05:46.880 --> 00:05:48.310 align:start position:0%
+application development effort, but
+that's<00:05:47.199><c> completely</c><00:05:47.600><c> different</c><00:05:47.840><c> from</c><00:05:48.080><c> being</c>
+
+00:05:48.310 --> 00:05:48.320 align:start position:0%
+that's completely different from being
+ 
+
+00:05:48.320 --> 00:05:50.150 align:start position:0%
+that's completely different from being
+locked<00:05:48.639><c> into</c><00:05:48.960><c> a</c><00:05:49.120><c> particular</c><00:05:49.759><c> set</c><00:05:50.000><c> of</c>
+
+00:05:50.150 --> 00:05:50.160 align:start position:0%
+locked into a particular set of
+ 
+
+00:05:50.160 --> 00:05:54.390 align:start position:0%
+locked into a particular set of
+infrastructure<00:05:51.120><c> I</c><00:05:51.360><c> may</c><00:05:51.759><c> have</c><00:05:52.080><c> purchased.</c>
+
+00:05:54.390 --> 00:05:54.400 align:start position:0%
+infrastructure I may have purchased.
+ 
+
+00:05:54.400 --> 00:05:56.550 align:start position:0%
+infrastructure I may have purchased.
+Another<00:05:54.880><c> key</c><00:05:55.199><c> concept</c><00:05:55.520><c> when</c><00:05:55.840><c> we</c><00:05:56.000><c> architect</c>
+
+00:05:56.550 --> 00:05:56.560 align:start position:0%
+Another key concept when we architect
+ 
+
+00:05:56.560 --> 00:05:59.110 align:start position:0%
+Another key concept when we architect
+any<00:05:56.880><c> solution</c><00:05:57.759><c> but</c><00:05:57.919><c> it</c><00:05:58.160><c> includes</c><00:05:58.479><c> the</c><00:05:58.720><c> cloud</c>
+
+00:05:59.110 --> 00:05:59.120 align:start position:0%
+any solution but it includes the cloud
+ 
+
+00:05:59.120 --> 00:06:00.590 align:start position:0%
+any solution but it includes the cloud
+is<00:05:59.520><c> high</c>
+
+00:06:00.590 --> 00:06:00.600 align:start position:0%
+is high
+ 
+
+00:06:00.600 --> 00:06:04.270 align:start position:0%
+is high
+availability.<00:06:01.600><c> High</c><00:06:01.919><c> availability</c><00:06:02.880><c> is</c><00:06:03.199><c> about</c>
+
+00:06:04.270 --> 00:06:04.280 align:start position:0%
+availability. High availability is about
+ 
+
+00:06:04.280 --> 00:06:08.390 align:start position:0%
+availability. High availability is about
+ensuring<00:06:05.319><c> that</c><00:06:06.319><c> if</c><00:06:06.639><c> certain</c><00:06:07.039><c> types</c><00:06:07.360><c> of</c><00:06:07.680><c> events</c>
+
+00:06:08.390 --> 00:06:08.400 align:start position:0%
+ensuring that if certain types of events
+ 
+
+00:06:08.400 --> 00:06:11.749 align:start position:0%
+ensuring that if certain types of events
+occur<00:06:09.120><c> around</c><00:06:09.960><c> disruption</c><00:06:10.960><c> our</c><00:06:11.199><c> service</c>
+
+00:06:11.749 --> 00:06:11.759 align:start position:0%
+occur around disruption our service
+ 
+
+00:06:11.759 --> 00:06:13.309 align:start position:0%
+occur around disruption our service
+continues<00:06:12.240><c> to</c>
+
+00:06:13.309 --> 00:06:13.319 align:start position:0%
+continues to
+ 
+
+00:06:13.319 --> 00:06:16.790 align:start position:0%
+continues to
+function.<00:06:14.319><c> Now</c><00:06:15.280><c> every</c><00:06:15.600><c> single</c><00:06:16.240><c> Azure</c>
+
+00:06:16.790 --> 00:06:16.800 align:start position:0%
+function. Now every single Azure
+ 
+
+00:06:16.800 --> 00:06:19.029 align:start position:0%
+function. Now every single Azure
+resource<00:06:17.280><c> has</c><00:06:17.440><c> its</c><00:06:17.759><c> own</c><00:06:18.080><c> specific</c><00:06:18.639><c> service</c>
+
+00:06:19.029 --> 00:06:19.039 align:start position:0%
+resource has its own specific service
+ 
+
+00:06:19.039 --> 00:06:21.590 align:start position:0%
+resource has its own specific service
+level<00:06:19.280><c> agreement</c><00:06:19.680><c> or</c><00:06:20.000><c> SLA.</c><00:06:21.120><c> This</c><00:06:21.280><c> is</c><00:06:21.440><c> a</c>
+
+00:06:21.590 --> 00:06:21.600 align:start position:0%
+level agreement or SLA. This is a
+ 
+
+00:06:21.600 --> 00:06:24.870 align:start position:0%
+level agreement or SLA. This is a
+financially<00:06:22.160><c> backed</c><00:06:22.479><c> guarantee</c><00:06:23.560><c> around</c><00:06:24.560><c> what</c>
+
+00:06:24.870 --> 00:06:24.880 align:start position:0%
+financially backed guarantee around what
+ 
+
+00:06:24.880 --> 00:06:27.029 align:start position:0%
+financially backed guarantee around what
+you<00:06:25.120><c> can</c><00:06:25.360><c> expect</c><00:06:26.240><c> in</c><00:06:26.479><c> terms</c><00:06:26.639><c> of</c><00:06:26.800><c> its</c>
+
+00:06:27.029 --> 00:06:27.039 align:start position:0%
+you can expect in terms of its
+ 
+
+00:06:27.039 --> 00:06:29.510 align:start position:0%
+you can expect in terms of its
+availability<00:06:27.919><c> to</c><00:06:28.240><c> be</c><00:06:28.400><c> communicated</c><00:06:29.039><c> with</c><00:06:29.360><c> to</c>
+
+00:06:29.510 --> 00:06:29.520 align:start position:0%
+availability to be communicated with to
+ 
+
+00:06:29.520 --> 00:06:32.070 align:start position:0%
+availability to be communicated with to
+be<00:06:29.680><c> used</c><00:06:30.400><c> and</c><00:06:30.639><c> if</c><00:06:30.800><c> it</c><00:06:30.960><c> breaks</c><00:06:31.199><c> that</c><00:06:31.440><c> SLA</c><00:06:31.919><c> you</c>
+
+00:06:32.070 --> 00:06:32.080 align:start position:0%
+be used and if it breaks that SLA you
+ 
+
+00:06:32.080 --> 00:06:33.990 align:start position:0%
+be used and if it breaks that SLA you
+get<00:06:32.240><c> a</c><00:06:32.400><c> certain</c><00:06:32.720><c> financial</c><00:06:33.199><c> credit</c><00:06:33.520><c> back.</c><00:06:33.759><c> We</c>
+
+00:06:33.990 --> 00:06:34.000 align:start position:0%
+get a certain financial credit back. We
+ 
+
+00:06:34.000 --> 00:06:36.790 align:start position:0%
+get a certain financial credit back. We
+cover<00:06:34.240><c> SLAs's</c><00:06:34.800><c> later</c><00:06:35.120><c> in</c><00:06:35.360><c> this</c><00:06:35.600><c> course.</c><00:06:36.560><c> It's</c>
+
+00:06:36.790 --> 00:06:36.800 align:start position:0%
+cover SLAs's later in this course. It's
+ 
+
+00:06:36.800 --> 00:06:38.790 align:start position:0%
+cover SLAs's later in this course. It's
+important<00:06:37.120><c> to</c><00:06:37.360><c> understand</c><00:06:37.680><c> the</c><00:06:38.000><c> SLA</c><00:06:38.560><c> your</c>
+
+00:06:38.790 --> 00:06:38.800 align:start position:0%
+important to understand the SLA your
+ 
+
+00:06:38.800 --> 00:06:41.670 align:start position:0%
+important to understand the SLA your
+solution<00:06:39.440><c> needs</c><00:06:40.400><c> so</c><00:06:40.560><c> I</c><00:06:40.720><c> can</c><00:06:40.880><c> then</c><00:06:41.120><c> architect</c>
+
+00:06:41.670 --> 00:06:41.680 align:start position:0%
+solution needs so I can then architect
+ 
+
+00:06:41.680 --> 00:06:44.070 align:start position:0%
+solution needs so I can then architect
+it<00:06:42.080><c> accordingly.</c>
+
+00:06:44.070 --> 00:06:44.080 align:start position:0%
+it accordingly.
+ 
+
+00:06:44.080 --> 00:06:47.270 align:start position:0%
+it accordingly.
+Now,<00:06:44.479><c> very</c><00:06:45.240><c> often</c><00:06:46.240><c> to</c><00:06:46.479><c> meet</c><00:06:46.720><c> my</c><00:06:46.960><c> high</c>
+
+00:06:47.270 --> 00:06:47.280 align:start position:0%
+Now, very often to meet my high
+ 
+
+00:06:47.280 --> 00:06:49.749 align:start position:0%
+Now, very often to meet my high
+availability,<00:06:48.240><c> it</c><00:06:48.479><c> means</c><00:06:48.720><c> I</c><00:06:48.960><c> need</c><00:06:49.199><c> multiple</c>
+
+00:06:49.749 --> 00:06:49.759 align:start position:0%
+availability, it means I need multiple
+ 
+
+00:06:49.759 --> 00:06:53.189 align:start position:0%
+availability, it means I need multiple
+instances<00:06:50.479><c> of</c><00:06:50.800><c> my</c><00:06:51.240><c> resource</c><00:06:52.240><c> over</c><00:06:52.639><c> different</c>
+
+00:06:53.189 --> 00:06:53.199 align:start position:0%
+instances of my resource over different
+ 
+
+00:06:53.199 --> 00:06:55.830 align:start position:0%
+instances of my resource over different
+blast<00:06:53.680><c> radiuses.</c><00:06:54.639><c> And</c><00:06:54.800><c> a</c><00:06:54.960><c> blast</c><00:06:55.280><c> radius,</c><00:06:55.680><c> you</c>
+
+00:06:55.830 --> 00:06:55.840 align:start position:0%
+blast radiuses. And a blast radius, you
+ 
+
+00:06:55.840 --> 00:06:57.590 align:start position:0%
+blast radiuses. And a blast radius, you
+can<00:06:55.919><c> think</c><00:06:56.000><c> of,</c><00:06:56.160><c> well,</c><00:06:56.319><c> a</c><00:06:56.479><c> server</c><00:06:56.800><c> can</c><00:06:57.039><c> fail.</c>
+
+00:06:57.590 --> 00:06:57.600 align:start position:0%
+can think of, well, a server can fail.
+ 
+
+00:06:57.600 --> 00:06:59.430 align:start position:0%
+can think of, well, a server can fail.
+So,<00:06:57.759><c> I'd</c><00:06:58.000><c> want</c><00:06:58.160><c> to</c><00:06:58.240><c> make</c><00:06:58.400><c> sure</c><00:06:58.720><c> my</c><00:06:59.039><c> instances</c>
+
+00:06:59.430 --> 00:06:59.440 align:start position:0%
+So, I'd want to make sure my instances
+ 
+
+00:06:59.440 --> 00:07:01.430 align:start position:0%
+So, I'd want to make sure my instances
+were<00:06:59.599><c> in</c><00:06:59.759><c> different</c><00:07:00.080><c> servers.</c><00:07:00.880><c> An</c><00:07:01.120><c> entire</c>
+
+00:07:01.430 --> 00:07:01.440 align:start position:0%
+were in different servers. An entire
+ 
+
+00:07:01.440 --> 00:07:04.150 align:start position:0%
+were in different servers. An entire
+server<00:07:01.759><c> rack</c><00:07:02.080><c> could</c><00:07:02.319><c> have</c><00:07:02.479><c> a</c><00:07:03.360><c> power</c><00:07:03.599><c> supply</c><00:07:04.000><c> or</c>
+
+00:07:04.150 --> 00:07:04.160 align:start position:0%
+server rack could have a power supply or
+ 
+
+00:07:04.160 --> 00:07:05.749 align:start position:0%
+server rack could have a power supply or
+a<00:07:04.400><c> network</c><00:07:04.720><c> switch</c><00:07:05.039><c> failure.</c><00:07:05.360><c> So,</c><00:07:05.440><c> I'd</c><00:07:05.680><c> want</c>
+
+00:07:05.749 --> 00:07:05.759 align:start position:0%
+a network switch failure. So, I'd want
+ 
+
+00:07:05.759 --> 00:07:07.749 align:start position:0%
+a network switch failure. So, I'd want
+to<00:07:05.840><c> make</c><00:07:05.919><c> sure</c><00:07:06.000><c> I'm</c><00:07:06.160><c> in</c><00:07:06.319><c> different</c><00:07:06.479><c> racks.</c><00:07:07.440><c> But</c>
+
+00:07:07.749 --> 00:07:07.759 align:start position:0%
+to make sure I'm in different racks. But
+ 
+
+00:07:07.759 --> 00:07:09.909 align:start position:0%
+to make sure I'm in different racks. But
+data<00:07:08.080><c> centers</c><00:07:08.400><c> can</c><00:07:08.639><c> have</c><00:07:08.800><c> failures.</c><00:07:09.599><c> Maybe</c>
+
+00:07:09.909 --> 00:07:09.919 align:start position:0%
+data centers can have failures. Maybe
+ 
+
+00:07:09.919 --> 00:07:11.510 align:start position:0%
+data centers can have failures. Maybe
+calling,<00:07:10.400><c> maybe</c><00:07:10.560><c> their</c><00:07:10.800><c> power.</c><00:07:11.120><c> So</c><00:07:11.199><c> I</c><00:07:11.360><c> might</c>
+
+00:07:11.510 --> 00:07:11.520 align:start position:0%
+calling, maybe their power. So I might
+ 
+
+00:07:11.520 --> 00:07:14.110 align:start position:0%
+calling, maybe their power. So I might
+want<00:07:11.599><c> to</c><00:07:11.680><c> distribute</c><00:07:12.080><c> over</c><00:07:12.639><c> multiple</c><00:07:13.280><c> data</c>
+
+00:07:14.110 --> 00:07:14.120 align:start position:0%
+want to distribute over multiple data
+ 
+
+00:07:14.120 --> 00:07:16.710 align:start position:0%
+want to distribute over multiple data
+centers.<00:07:15.120><c> And</c><00:07:15.280><c> so</c><00:07:15.440><c> we</c><00:07:15.680><c> think</c><00:07:15.840><c> about</c><00:07:16.400><c> what</c><00:07:16.560><c> is</c>
+
+00:07:16.710 --> 00:07:16.720 align:start position:0%
+centers. And so we think about what is
+ 
+
+00:07:16.720 --> 00:07:18.230 align:start position:0%
+centers. And so we think about what is
+the<00:07:16.880><c> blast</c><00:07:17.280><c> radius</c><00:07:17.599><c> I</c><00:07:17.840><c> want</c><00:07:18.000><c> high</c>
+
+00:07:18.230 --> 00:07:18.240 align:start position:0%
+the blast radius I want high
+ 
+
+00:07:18.240 --> 00:07:21.589 align:start position:0%
+the blast radius I want high
+availability<00:07:19.000><c> for.</c><00:07:20.000><c> And</c><00:07:20.160><c> then</c><00:07:20.400><c> by</c><00:07:21.120><c> being</c><00:07:21.360><c> able</c>
+
+00:07:21.589 --> 00:07:21.599 align:start position:0%
+availability for. And then by being able
+ 
+
+00:07:21.599 --> 00:07:24.629 align:start position:0%
+availability for. And then by being able
+to<00:07:21.919><c> distribute</c><00:07:22.560><c> them,</c><00:07:23.120><c> I'm</c><00:07:23.520><c> able</c><00:07:23.759><c> to</c><00:07:23.919><c> survive</c>
+
+00:07:24.629 --> 00:07:24.639 align:start position:0%
+to distribute them, I'm able to survive
+ 
+
+00:07:24.639 --> 00:07:27.029 align:start position:0%
+to distribute them, I'm able to survive
+larger<00:07:25.199><c> potential</c><00:07:25.680><c> blast</c><00:07:26.080><c> radius</c><00:07:26.639><c> type</c>
+
+00:07:27.029 --> 00:07:27.039 align:start position:0%
+larger potential blast radius type
+ 
+
+00:07:27.039 --> 00:07:28.550 align:start position:0%
+larger potential blast radius type
+problems.<00:07:27.599><c> So</c><00:07:27.919><c> different</c><00:07:28.240><c> servers,</c>
+
+00:07:28.550 --> 00:07:28.560 align:start position:0%
+problems. So different servers,
+ 
+
+00:07:28.560 --> 00:07:31.230 align:start position:0%
+problems. So different servers,
+different<00:07:28.800><c> racks,</c><00:07:29.759><c> likely</c><00:07:30.240><c> different</c><00:07:30.639><c> data</c>
+
+00:07:31.230 --> 00:07:31.240 align:start position:0%
+different racks, likely different data
+ 
+
+00:07:31.240 --> 00:07:33.749 align:start position:0%
+different racks, likely different data
+centers.<00:07:32.240><c> So</c><00:07:32.479><c> in</c><00:07:32.720><c> this</c><00:07:32.960><c> case,</c><00:07:33.199><c> I</c><00:07:33.440><c> would</c><00:07:33.599><c> think</c>
+
+00:07:33.749 --> 00:07:33.759 align:start position:0%
+centers. So in this case, I would think
+ 
+
+00:07:33.759 --> 00:07:42.950 align:start position:0%
+centers. So in this case, I would think
+about<00:07:34.000><c> from</c><00:07:34.240><c> a</c><00:07:34.400><c> a</c><00:07:34.639><c> high</c><00:07:34.960><c> availability</c>
+
+00:07:42.950 --> 00:07:42.960 align:start position:0%
+ 
+ 
+
+00:07:42.960 --> 00:07:45.230 align:start position:0%
+ 
+If<00:07:43.199><c> I</c><00:07:43.360><c> thought</c><00:07:43.520><c> that</c><00:07:43.759><c> this</c><00:07:43.919><c> was</c><00:07:44.080><c> a</c><00:07:44.319><c> specific</c>
+
+00:07:45.230 --> 00:07:45.240 align:start position:0%
+If I thought that this was a specific
+ 
+
+00:07:45.240 --> 00:07:48.230 align:start position:0%
+If I thought that this was a specific
+region<00:07:46.240><c> and</c><00:07:46.479><c> we</c><00:07:46.800><c> have</c><00:07:46.960><c> this</c><00:07:47.440><c> concept</c><00:07:47.919><c> of</c>
+
+00:07:48.230 --> 00:07:48.240 align:start position:0%
+region and we have this concept of
+ 
+
+00:07:48.240 --> 00:07:49.990 align:start position:0%
+region and we have this concept of
+availability<00:07:48.960><c> zones</c><00:07:49.280><c> which</c><00:07:49.440><c> again</c><00:07:49.680><c> we'll</c>
+
+00:07:49.990 --> 00:07:50.000 align:start position:0%
+availability zones which again we'll
+ 
+
+00:07:50.000 --> 00:07:53.110 align:start position:0%
+availability zones which again we'll
+cover<00:07:50.240><c> later</c><00:07:51.199><c> but</c><00:07:51.520><c> they're</c><00:07:51.919><c> isolated</c><00:07:52.639><c> sets</c><00:07:52.960><c> of</c>
+
+00:07:53.110 --> 00:07:53.120 align:start position:0%
+cover later but they're isolated sets of
+ 
+
+00:07:53.120 --> 00:07:54.950 align:start position:0%
+cover later but they're isolated sets of
+data<00:07:53.440><c> centers</c><00:07:53.759><c> independent</c><00:07:54.240><c> power</c><00:07:54.560><c> calling</c>
+
+00:07:54.950 --> 00:07:54.960 align:start position:0%
+data centers independent power calling
+ 
+
+00:07:54.960 --> 00:07:57.430 align:start position:0%
+data centers independent power calling
+networking.<00:07:56.000><c> So</c><00:07:56.240><c> for</c><00:07:56.400><c> my</c><00:07:56.560><c> high</c><00:07:56.720><c> availability</c>
+
+00:07:57.430 --> 00:07:57.440 align:start position:0%
+networking. So for my high availability
+ 
+
+00:07:57.440 --> 00:07:59.189 align:start position:0%
+networking. So for my high availability
+at<00:07:57.680><c> minimum</c><00:07:58.240><c> well</c><00:07:58.479><c> I'd</c><00:07:58.639><c> want</c><00:07:58.720><c> to</c><00:07:58.800><c> make</c><00:07:58.879><c> sure</c><00:07:59.039><c> I</c>
+
+00:07:59.189 --> 00:07:59.199 align:start position:0%
+at minimum well I'd want to make sure I
+ 
+
+00:07:59.199 --> 00:08:02.230 align:start position:0%
+at minimum well I'd want to make sure I
+got<00:07:59.360><c> at</c><00:07:59.360><c> least</c><00:07:59.759><c> two</c><00:08:00.000><c> instances</c><00:08:00.560><c> of</c><00:08:00.800><c> my</c><00:08:01.240><c> service</c>
+
+00:08:02.230 --> 00:08:02.240 align:start position:0%
+got at least two instances of my service
+ 
+
+00:08:02.240 --> 00:08:04.150 align:start position:0%
+got at least two instances of my service
+in<00:08:02.479><c> completely</c><00:08:02.960><c> different</c><00:08:03.280><c> sets</c><00:08:03.599><c> of</c><00:08:03.840><c> data</c>
+
+00:08:04.150 --> 00:08:04.160 align:start position:0%
+in completely different sets of data
+ 
+
+00:08:04.160 --> 00:08:06.070 align:start position:0%
+in completely different sets of data
+centers<00:08:04.639><c> which</c><00:08:04.800><c> means</c><00:08:05.199><c> I'm</c><00:08:05.520><c> also</c><00:08:05.840><c> getting</c>
+
+00:08:06.070 --> 00:08:06.080 align:start position:0%
+centers which means I'm also getting
+ 
+
+00:08:06.080 --> 00:08:08.830 align:start position:0%
+centers which means I'm also getting
+resilience<00:08:06.479><c> from</c><00:08:06.720><c> rack</c><00:08:07.120><c> level</c><00:08:07.520><c> or</c><00:08:07.840><c> node</c><00:08:08.160><c> level</c>
+
+00:08:08.830 --> 00:08:08.840 align:start position:0%
+resilience from rack level or node level
+ 
+
+00:08:08.840 --> 00:08:11.909 align:start position:0%
+resilience from rack level or node level
+failures<00:08:09.840><c> because</c><00:08:10.560><c> hey</c><00:08:10.879><c> I've</c><00:08:11.120><c> got</c><00:08:11.199><c> that</c><00:08:11.520><c> nice</c>
+
+00:08:11.909 --> 00:08:11.919 align:start position:0%
+failures because hey I've got that nice
+ 
+
+00:08:11.919 --> 00:08:14.350 align:start position:0%
+failures because hey I've got that nice
+distance<00:08:12.479><c> between</c>
+
+00:08:14.350 --> 00:08:14.360 align:start position:0%
+distance between
+ 
+
+00:08:14.360 --> 00:08:16.869 align:start position:0%
+distance between
+them.<00:08:15.360><c> Now</c><00:08:15.680><c> additionally</c><00:08:16.240><c> you</c><00:08:16.400><c> do</c><00:08:16.560><c> have</c><00:08:16.720><c> to</c>
+
+00:08:16.869 --> 00:08:16.879 align:start position:0%
+them. Now additionally you do have to
+ 
+
+00:08:16.879 --> 00:08:19.270 align:start position:0%
+them. Now additionally you do have to
+think<00:08:17.039><c> about</c><00:08:17.360><c> disaster</c><00:08:18.000><c> recovery.</c><00:08:18.879><c> So</c><00:08:19.039><c> we</c>
+
+00:08:19.270 --> 00:08:19.280 align:start position:0%
+think about disaster recovery. So we
+ 
+
+00:08:19.280 --> 00:08:21.350 align:start position:0%
+think about disaster recovery. So we
+think<00:08:19.520><c> typically</c><00:08:19.919><c> of</c><00:08:20.160><c> high</c><00:08:20.400><c> availability</c><00:08:21.120><c> I</c>
+
+00:08:21.350 --> 00:08:21.360 align:start position:0%
+think typically of high availability I
+ 
+
+00:08:21.360 --> 00:08:23.029 align:start position:0%
+think typically of high availability I
+might<00:08:21.520><c> think</c><00:08:21.680><c> within</c><00:08:22.000><c> a</c><00:08:22.160><c> certain</c><00:08:22.400><c> location</c>
+
+00:08:23.029 --> 00:08:23.039 align:start position:0%
+might think within a certain location
+ 
+
+00:08:23.039 --> 00:08:24.710 align:start position:0%
+might think within a certain location
+they're<00:08:23.280><c> close</c><00:08:23.520><c> together</c><00:08:24.240><c> I</c><00:08:24.400><c> can</c><00:08:24.560><c> do</c>
+
+00:08:24.710 --> 00:08:24.720 align:start position:0%
+they're close together I can do
+ 
+
+00:08:24.720 --> 00:08:26.469 align:start position:0%
+they're close together I can do
+different<00:08:24.879><c> types</c><00:08:25.120><c> of</c><00:08:25.280><c> replication</c><00:08:26.160><c> without</c>
+
+00:08:26.469 --> 00:08:26.479 align:start position:0%
+different types of replication without
+ 
+
+00:08:26.479 --> 00:08:28.950 align:start position:0%
+different types of replication without
+any<00:08:26.720><c> risk</c><00:08:26.879><c> of</c><00:08:27.120><c> data</c><00:08:27.440><c> loss</c><00:08:28.160><c> but</c><00:08:28.319><c> then</c><00:08:28.479><c> if</c><00:08:28.720><c> there</c>
+
+00:08:28.950 --> 00:08:28.960 align:start position:0%
+any risk of data loss but then if there
+ 
+
+00:08:28.960 --> 00:08:32.469 align:start position:0%
+any risk of data loss but then if there
+was<00:08:29.199><c> this</c><00:08:29.720><c> horrible</c><00:08:30.720><c> region</c><00:08:31.199><c> level</c><00:08:31.759><c> outage</c>
+
+00:08:32.469 --> 00:08:32.479 align:start position:0%
+was this horrible region level outage
+ 
+
+00:08:32.479 --> 00:08:34.589 align:start position:0%
+was this horrible region level outage
+well<00:08:32.719><c> then</c><00:08:32.880><c> we</c><00:08:33.039><c> might</c><00:08:33.200><c> think</c><00:08:33.440><c> about</c><00:08:33.680><c> disaster</c>
+
+00:08:34.589 --> 00:08:34.599 align:start position:0%
+well then we might think about disaster
+ 
+
+00:08:34.599 --> 00:08:37.509 align:start position:0%
+well then we might think about disaster
+recovery<00:08:35.599><c> and</c><00:08:35.760><c> so</c><00:08:36.000><c> disaster</c><00:08:36.640><c> recovery</c><00:08:37.200><c> would</c>
+
+00:08:37.509 --> 00:08:37.519 align:start position:0%
+recovery and so disaster recovery would
+ 
+
+00:08:37.519 --> 00:08:39.829 align:start position:0%
+recovery and so disaster recovery would
+mean<00:08:37.919><c> I</c><00:08:38.159><c> have</c><00:08:38.320><c> the</c><00:08:38.560><c> ability</c><00:08:38.959><c> to</c><00:08:39.279><c> run</c><00:08:39.519><c> my</c>
+
+00:08:39.829 --> 00:08:39.839 align:start position:0%
+mean I have the ability to run my
+ 
+
+00:08:39.839 --> 00:08:43.029 align:start position:0%
+mean I have the ability to run my
+workload<00:08:40.800><c> in</c><00:08:41.120><c> another</c><00:08:41.680><c> region.</c><00:08:42.640><c> So</c><00:08:42.800><c> we</c><00:08:42.959><c> think</c>
+
+00:08:43.029 --> 00:08:43.039 align:start position:0%
+workload in another region. So we think
+ 
+
+00:08:43.039 --> 00:08:45.910 align:start position:0%
+workload in another region. So we think
+of<00:08:43.200><c> this</c><00:08:43.440><c> as</c><00:08:43.919><c> dr.</c><00:08:44.880><c> And</c><00:08:45.120><c> what</c><00:08:45.279><c> I</c><00:08:45.440><c> would</c><00:08:45.600><c> want</c>
+
+00:08:45.910 --> 00:08:45.920 align:start position:0%
+of this as dr. And what I would want
+ 
+
+00:08:45.920 --> 00:08:50.269 align:start position:0%
+of this as dr. And what I would want
+here<00:08:46.320><c> is</c><00:08:46.640><c> a</c><00:08:46.959><c> very</c><00:08:47.279><c> big</c>
+
+00:08:50.269 --> 00:08:50.279 align:start position:0%
+ 
+ 
+
+00:08:50.279 --> 00:08:53.550 align:start position:0%
+ 
+distance.<00:08:51.279><c> I</c><00:08:51.519><c> might</c><00:08:51.760><c> think</c><00:08:52.240><c> hundreds</c><00:08:52.880><c> of</c>
+
+00:08:53.550 --> 00:08:53.560 align:start position:0%
+distance. I might think hundreds of
+ 
+
+00:08:53.560 --> 00:08:55.750 align:start position:0%
+distance. I might think hundreds of
+miles<00:08:54.560><c> because</c><00:08:54.800><c> I</c><00:08:54.959><c> want</c><00:08:55.120><c> to</c><00:08:55.200><c> make</c><00:08:55.360><c> sure</c><00:08:55.519><c> if</c>
+
+00:08:55.750 --> 00:08:55.760 align:start position:0%
+miles because I want to make sure if
+ 
+
+00:08:55.760 --> 00:08:57.590 align:start position:0%
+miles because I want to make sure if
+there<00:08:55.920><c> was</c><00:08:56.080><c> some</c><00:08:56.240><c> natural</c><00:08:56.640><c> disaster</c><00:08:57.040><c> here,</c>
+
+00:08:57.590 --> 00:08:57.600 align:start position:0%
+there was some natural disaster here,
+ 
+
+00:08:57.600 --> 00:08:59.829 align:start position:0%
+there was some natural disaster here,
+but<00:08:57.760><c> it</c><00:08:57.920><c> doesn't</c><00:08:58.160><c> impact</c><00:08:58.640><c> this</c><00:08:59.040><c> region</c><00:08:59.600><c> as</c>
+
+00:08:59.829 --> 00:08:59.839 align:start position:0%
+but it doesn't impact this region as
+ 
+
+00:08:59.839 --> 00:09:01.829 align:start position:0%
+but it doesn't impact this region as
+well.<00:09:00.560><c> Now</c><00:09:00.800><c> the</c><00:09:00.959><c> form</c><00:09:01.200><c> that</c><00:09:01.360><c> disaster</c>
+
+00:09:01.829 --> 00:09:01.839 align:start position:0%
+well. Now the form that disaster
+ 
+
+00:09:01.839 --> 00:09:04.310 align:start position:0%
+well. Now the form that disaster
+recovery<00:09:02.399><c> takes</c><00:09:02.880><c> will</c><00:09:03.120><c> vary</c><00:09:03.440><c> greatly.</c><00:09:04.080><c> It</c>
+
+00:09:04.310 --> 00:09:04.320 align:start position:0%
+recovery takes will vary greatly. It
+ 
+
+00:09:04.320 --> 00:09:06.150 align:start position:0%
+recovery takes will vary greatly. It
+depends<00:09:04.640><c> on</c><00:09:04.800><c> how</c><00:09:05.040><c> long</c><00:09:05.279><c> I</c><00:09:05.519><c> have</c><00:09:05.760><c> for</c><00:09:05.920><c> my</c>
+
+00:09:06.150 --> 00:09:06.160 align:start position:0%
+depends on how long I have for my
+ 
+
+00:09:06.160 --> 00:09:08.070 align:start position:0%
+depends on how long I have for my
+service<00:09:06.720><c> to</c><00:09:06.959><c> be</c><00:09:07.040><c> able</c><00:09:07.200><c> to</c><00:09:07.279><c> be</c><00:09:07.440><c> up</c><00:09:07.600><c> and</c><00:09:07.839><c> running</c>
+
+00:09:08.070 --> 00:09:08.080 align:start position:0%
+service to be able to be up and running
+ 
+
+00:09:08.080 --> 00:09:09.829 align:start position:0%
+service to be able to be up and running
+again.<00:09:08.720><c> Maybe</c><00:09:08.880><c> it's</c><00:09:09.040><c> I</c><00:09:09.279><c> create</c><00:09:09.519><c> the</c><00:09:09.680><c> new</c>
+
+00:09:09.829 --> 00:09:09.839 align:start position:0%
+again. Maybe it's I create the new
+ 
+
+00:09:09.839 --> 00:09:12.389 align:start position:0%
+again. Maybe it's I create the new
+resource,<00:09:10.240><c> I</c><00:09:10.399><c> restore</c><00:09:10.720><c> a</c><00:09:10.880><c> backup.</c><00:09:11.839><c> Maybe</c><00:09:12.160><c> I'm</c>
+
+00:09:12.389 --> 00:09:12.399 align:start position:0%
+resource, I restore a backup. Maybe I'm
+ 
+
+00:09:12.399 --> 00:09:14.550 align:start position:0%
+resource, I restore a backup. Maybe I'm
+constantly<00:09:12.880><c> replicating</c><00:09:13.680><c> data</c><00:09:14.000><c> and</c><00:09:14.240><c> it's</c>
+
+00:09:14.550 --> 00:09:14.560 align:start position:0%
+constantly replicating data and it's
+ 
+
+00:09:14.560 --> 00:09:17.269 align:start position:0%
+constantly replicating data and it's
+kind<00:09:14.800><c> of</c><00:09:15.040><c> ready</c><00:09:15.360><c> to</c><00:09:15.600><c> start</c><00:09:15.920><c> up.</c><00:09:16.640><c> Or</c><00:09:16.880><c> maybe</c><00:09:17.040><c> I</c>
+
+00:09:17.269 --> 00:09:17.279 align:start position:0%
+kind of ready to start up. Or maybe I
+ 
+
+00:09:17.279 --> 00:09:19.269 align:start position:0%
+kind of ready to start up. Or maybe I
+really<00:09:17.519><c> don't</c><00:09:17.680><c> have</c><00:09:17.760><c> a</c><00:09:17.920><c> lot</c><00:09:18.000><c> of</c><00:09:18.160><c> time</c><00:09:18.320><c> at</c><00:09:18.560><c> all</c>
+
+00:09:19.269 --> 00:09:19.279 align:start position:0%
+really don't have a lot of time at all
+ 
+
+00:09:19.279 --> 00:09:22.070 align:start position:0%
+really don't have a lot of time at all
+and<00:09:19.519><c> so</c><00:09:20.160><c> it's</c><00:09:20.640><c> constantly</c><00:09:21.200><c> synchronizing.</c>
+
+00:09:22.070 --> 00:09:22.080 align:start position:0%
+and so it's constantly synchronizing.
+ 
+
+00:09:22.080 --> 00:09:23.670 align:start position:0%
+and so it's constantly synchronizing.
+It's<00:09:22.320><c> running</c><00:09:22.720><c> and</c><00:09:22.959><c> I</c><00:09:23.120><c> would</c><00:09:23.200><c> just</c><00:09:23.440><c> switch</c>
+
+00:09:23.670 --> 00:09:23.680 align:start position:0%
+It's running and I would just switch
+ 
+
+00:09:23.680 --> 00:09:26.550 align:start position:0%
+It's running and I would just switch
+something<00:09:24.080><c> over.</c><00:09:24.880><c> Modern</c><00:09:25.399><c> architectures</c><00:09:26.399><c> I</c>
+
+00:09:26.550 --> 00:09:26.560 align:start position:0%
+something over. Modern architectures I
+ 
+
+00:09:26.560 --> 00:09:28.389 align:start position:0%
+something over. Modern architectures I
+may<00:09:26.720><c> even</c><00:09:26.880><c> be</c><00:09:27.120><c> running</c><00:09:27.360><c> active</c><00:09:27.680><c> in</c><00:09:27.920><c> lots</c><00:09:28.240><c> of</c>
+
+00:09:28.389 --> 00:09:28.399 align:start position:0%
+may even be running active in lots of
+ 
+
+00:09:28.399 --> 00:09:31.350 align:start position:0%
+may even be running active in lots of
+regions.<00:09:29.200><c> Then</c><00:09:29.440><c> there's</c><00:09:29.760><c> some</c><00:09:30.080><c> endpoint</c><00:09:31.040><c> that</c>
+
+00:09:31.350 --> 00:09:31.360 align:start position:0%
+regions. Then there's some endpoint that
+ 
+
+00:09:31.360 --> 00:09:34.310 align:start position:0%
+regions. Then there's some endpoint that
+enables<00:09:32.320><c> the</c><00:09:32.640><c> client</c><00:09:33.279><c> to</c><00:09:33.519><c> go</c><00:09:33.680><c> to</c><00:09:33.920><c> whichever</c>
+
+00:09:34.310 --> 00:09:34.320 align:start position:0%
+enables the client to go to whichever
+ 
+
+00:09:34.320 --> 00:09:36.630 align:start position:0%
+enables the client to go to whichever
+one<00:09:34.560><c> is</c><00:09:34.720><c> currently</c><00:09:35.120><c> active</c><00:09:35.600><c> or</c><00:09:35.839><c> is</c><00:09:36.080><c> closest</c><00:09:36.480><c> to</c>
+
+00:09:36.630 --> 00:09:36.640 align:start position:0%
+one is currently active or is closest to
+ 
+
+00:09:36.640 --> 00:09:38.150 align:start position:0%
+one is currently active or is closest to
+them.
+
+00:09:38.150 --> 00:09:38.160 align:start position:0%
+them.
+ 
+
+00:09:38.160 --> 00:09:42.150 align:start position:0%
+them.
+And<00:09:38.399><c> so</c><00:09:39.200><c> that</c><00:09:39.519><c> agility</c><00:09:40.240><c> I</c><00:09:40.640><c> spoke</c><00:09:40.959><c> about</c><00:09:41.839><c> to</c>
+
+00:09:42.150 --> 00:09:42.160 align:start position:0%
+And so that agility I spoke about to
+ 
+
+00:09:42.160 --> 00:09:45.670 align:start position:0%
+And so that agility I spoke about to
+have<00:09:42.320><c> that</c><00:09:42.920><c> flexibility</c><00:09:43.920><c> and</c><00:09:44.240><c> only</c><00:09:44.640><c> pay</c><00:09:44.959><c> for</c>
+
+00:09:45.670 --> 00:09:45.680 align:start position:0%
+have that flexibility and only pay for
+ 
+
+00:09:45.680 --> 00:09:49.110 align:start position:0%
+have that flexibility and only pay for
+what<00:09:45.920><c> I'm</c><00:09:46.320><c> consuming</c><00:09:46.959><c> when</c><00:09:47.279><c> I</c><00:09:47.519><c> need</c><00:09:47.880><c> it,</c><00:09:48.880><c> that</c>
+
+00:09:49.110 --> 00:09:49.120 align:start position:0%
+what I'm consuming when I need it, that
+ 
+
+00:09:49.120 --> 00:09:50.350 align:start position:0%
+what I'm consuming when I need it, that
+also<00:09:49.360><c> gives</c><00:09:49.600><c> me</c><00:09:49.760><c> something</c><00:09:50.000><c> called</c>
+
+00:09:50.350 --> 00:09:50.360 align:start position:0%
+also gives me something called
+ 
+
+00:09:50.360 --> 00:09:53.670 align:start position:0%
+also gives me something called
+elasticity<00:09:51.360><c> for</c><00:09:51.600><c> my</c><00:09:51.839><c> services</c><00:09:52.680><c> capacity</c>
+
+00:09:53.670 --> 00:09:53.680 align:start position:0%
+elasticity for my services capacity
+ 
+
+00:09:53.680 --> 00:09:56.150 align:start position:0%
+elasticity for my services capacity
+because<00:09:53.920><c> I</c><00:09:54.160><c> can</c><00:09:54.399><c> think</c><00:09:54.560><c> about</c><00:09:55.200><c> well</c><00:09:55.440><c> over</c><00:09:55.760><c> time</c>
+
+00:09:56.150 --> 00:09:56.160 align:start position:0%
+because I can think about well over time
+ 
+
+00:09:56.160 --> 00:09:59.030 align:start position:0%
+because I can think about well over time
+the<00:09:56.399><c> amount</c><00:09:56.720><c> of</c><00:09:57.120><c> work</c><00:09:57.839><c> that</c><00:09:58.160><c> my</c><00:09:58.399><c> service</c><00:09:58.800><c> needs</c>
+
+00:09:59.030 --> 00:09:59.040 align:start position:0%
+the amount of work that my service needs
+ 
+
+00:09:59.040 --> 00:10:01.110 align:start position:0%
+the amount of work that my service needs
+to<00:09:59.360><c> perform</c><00:09:59.920><c> is</c><00:10:00.160><c> going</c><00:10:00.240><c> to</c><00:10:00.399><c> vary</c><00:10:00.640><c> depending</c><00:10:00.959><c> on</c>
+
+00:10:01.110 --> 00:10:01.120 align:start position:0%
+to perform is going to vary depending on
+ 
+
+00:10:01.120 --> 00:10:03.670 align:start position:0%
+to perform is going to vary depending on
+maybe<00:10:01.360><c> what's</c><00:10:01.680><c> coming</c><00:10:01.920><c> in.</c><00:10:02.880><c> And</c><00:10:03.120><c> so</c><00:10:03.279><c> what</c><00:10:03.519><c> I</c>
+
+00:10:03.670 --> 00:10:03.680 align:start position:0%
+maybe what's coming in. And so what I
+ 
+
+00:10:03.680 --> 00:10:08.590 align:start position:0%
+maybe what's coming in. And so what I
+want<00:10:03.839><c> is</c><00:10:04.080><c> this</c><00:10:04.320><c> ability</c><00:10:04.880><c> to</c><00:10:05.279><c> scale</c><00:10:05.920><c> my</c><00:10:06.240><c> various</c>
+
+00:10:08.590 --> 00:10:08.600 align:start position:0%
+want is this ability to scale my various
+ 
+
+00:10:08.600 --> 00:10:11.389 align:start position:0%
+want is this ability to scale my various
+workloads.<00:10:09.600><c> So</c><00:10:09.760><c> let's</c><00:10:10.080><c> now</c><00:10:10.399><c> think</c><00:10:10.560><c> about</c><00:10:10.800><c> this</c>
+
+00:10:11.389 --> 00:10:11.399 align:start position:0%
+workloads. So let's now think about this
+ 
+
+00:10:11.399 --> 00:10:18.910 align:start position:0%
+workloads. So let's now think about this
+idea<00:10:12.399><c> that</c><00:10:12.959><c> I</c><00:10:13.279><c> want</c><00:10:13.519><c> to</c><00:10:13.760><c> provide</c>
+
+00:10:18.910 --> 00:10:18.920 align:start position:0%
+ 
+ 
+
+00:10:18.920 --> 00:10:21.350 align:start position:0%
+ 
+scalability<00:10:19.920><c> and</c><00:10:20.079><c> as</c><00:10:20.399><c> part</c><00:10:20.560><c> of</c><00:10:20.720><c> that</c><00:10:20.959><c> I</c><00:10:21.200><c> get</c>
+
+00:10:21.350 --> 00:10:21.360 align:start position:0%
+scalability and as part of that I get
+ 
+
+00:10:21.360 --> 00:10:24.710 align:start position:0%
+scalability and as part of that I get
+this<00:10:21.600><c> great</c><00:10:22.320><c> elasticity.</c>
+
+00:10:24.710 --> 00:10:24.720 align:start position:0%
+this great elasticity.
+ 
+
+00:10:24.720 --> 00:10:28.389 align:start position:0%
+this great elasticity.
+My<00:10:25.040><c> service</c><00:10:25.440><c> can</c><00:10:26.079><c> grow</c><00:10:26.480><c> and</c><00:10:26.920><c> shrink</c><00:10:27.920><c> based</c><00:10:28.240><c> on</c>
+
+00:10:28.389 --> 00:10:28.399 align:start position:0%
+My service can grow and shrink based on
+ 
+
+00:10:28.399 --> 00:10:30.310 align:start position:0%
+My service can grow and shrink based on
+the<00:10:28.640><c> work</c><00:10:28.880><c> it</c><00:10:29.120><c> needs</c><00:10:29.360><c> to</c><00:10:29.600><c> actually</c><00:10:29.839><c> do</c><00:10:30.079><c> to</c>
+
+00:10:30.310 --> 00:10:30.320 align:start position:0%
+the work it needs to actually do to
+ 
+
+00:10:30.320 --> 00:10:32.670 align:start position:0%
+the work it needs to actually do to
+service<00:10:30.640><c> the</c><00:10:30.959><c> number</c><00:10:31.120><c> of</c><00:10:31.279><c> incoming</c>
+
+00:10:32.670 --> 00:10:32.680 align:start position:0%
+service the number of incoming
+ 
+
+00:10:32.680 --> 00:10:35.269 align:start position:0%
+service the number of incoming
+requests.<00:10:33.680><c> And</c><00:10:33.839><c> I</c><00:10:34.079><c> could</c><00:10:34.320><c> think</c><00:10:34.480><c> about</c><00:10:34.880><c> many</c>
+
+00:10:35.269 --> 00:10:35.279 align:start position:0%
+requests. And I could think about many
+ 
+
+00:10:35.279 --> 00:10:36.829 align:start position:0%
+requests. And I could think about many
+different<00:10:35.600><c> types</c><00:10:35.920><c> of</c>
+
+00:10:36.829 --> 00:10:36.839 align:start position:0%
+different types of
+ 
+
+00:10:36.839 --> 00:10:39.389 align:start position:0%
+different types of
+workload<00:10:37.839><c> have</c><00:10:38.079><c> some</c><00:10:38.320><c> element</c><00:10:38.800><c> of</c>
+
+00:10:39.389 --> 00:10:39.399 align:start position:0%
+workload have some element of
+ 
+
+00:10:39.399 --> 00:10:41.829 align:start position:0%
+workload have some element of
+seasonality.<00:10:40.399><c> And</c><00:10:40.560><c> what</c><00:10:40.800><c> I</c><00:10:40.959><c> mean</c><00:10:41.200><c> by</c><00:10:41.440><c> that</c><00:10:41.600><c> is</c>
+
+00:10:41.829 --> 00:10:41.839 align:start position:0%
+seasonality. And what I mean by that is
+ 
+
+00:10:41.839 --> 00:10:45.069 align:start position:0%
+seasonality. And what I mean by that is
+if<00:10:42.079><c> we</c><00:10:42.320><c> think</c><00:10:42.640><c> about</c>
+
+00:10:45.069 --> 00:10:45.079 align:start position:0%
+if we think about
+ 
+
+00:10:45.079 --> 00:10:48.430 align:start position:0%
+if we think about
+time<00:10:46.079><c> and</c><00:10:46.320><c> the</c><00:10:46.640><c> work</c><00:10:47.200><c> I</c><00:10:47.519><c> need</c><00:10:47.680><c> to</c>
+
+00:10:48.430 --> 00:10:48.440 align:start position:0%
+time and the work I need to
+ 
+
+00:10:48.440 --> 00:10:52.790 align:start position:0%
+time and the work I need to
+do<00:10:49.440><c> very</c><00:10:49.839><c> often</c><00:10:50.560><c> it's</c><00:10:50.880><c> not</c><00:10:51.040><c> a</c><00:10:51.200><c> flat</c><00:10:51.519><c> line.</c><00:10:52.480><c> Very</c>
+
+00:10:52.790 --> 00:10:52.800 align:start position:0%
+do very often it's not a flat line. Very
+ 
+
+00:10:52.800 --> 00:10:55.670 align:start position:0%
+do very often it's not a flat line. Very
+often<00:10:53.120><c> there's</c><00:10:53.600><c> some</c><00:10:54.079><c> peak</c><00:10:54.399><c> of</c><00:10:54.640><c> work</c><00:10:54.880><c> to</c><00:10:55.200><c> do,</c>
+
+00:10:55.670 --> 00:10:55.680 align:start position:0%
+often there's some peak of work to do,
+ 
+
+00:10:55.680 --> 00:10:57.750 align:start position:0%
+often there's some peak of work to do,
+maybe<00:10:55.920><c> a</c><00:10:56.079><c> really</c><00:10:56.399><c> quiet</c><00:10:56.720><c> time,</c><00:10:57.120><c> maybe</c><00:10:57.279><c> another</c>
+
+00:10:57.750 --> 00:10:57.760 align:start position:0%
+maybe a really quiet time, maybe another
+ 
+
+00:10:57.760 --> 00:11:01.230 align:start position:0%
+maybe a really quiet time, maybe another
+peak,<00:10:58.480><c> maybe</c><00:10:58.800><c> a</c><00:10:59.040><c> more</c><00:10:59.360><c> average</c><00:10:59.760><c> amount</c><00:11:00.079><c> of</c>
+
+00:11:01.230 --> 00:11:01.240 align:start position:0%
+peak, maybe a more average amount of
+ 
+
+00:11:01.240 --> 00:11:04.470 align:start position:0%
+peak, maybe a more average amount of
+time.<00:11:02.240><c> And</c><00:11:02.399><c> that</c><00:11:02.640><c> could</c><00:11:02.800><c> vary.</c><00:11:03.200><c> This</c><00:11:03.440><c> could</c><00:11:03.600><c> be</c>
+
+00:11:04.470 --> 00:11:04.480 align:start position:0%
+time. And that could vary. This could be
+ 
+
+00:11:04.480 --> 00:11:07.110 align:start position:0%
+time. And that could vary. This could be
+daily,<00:11:05.120><c> weekly,</c><00:11:05.760><c> monthly,</c><00:11:06.399><c> yearly,</c><00:11:06.880><c> maybe</c>
+
+00:11:07.110 --> 00:11:07.120 align:start position:0%
+daily, weekly, monthly, yearly, maybe
+ 
+
+00:11:07.120 --> 00:11:09.829 align:start position:0%
+daily, weekly, monthly, yearly, maybe
+even<00:11:07.360><c> every</c><00:11:07.760><c> few</c><00:11:08.079><c> years.</c><00:11:08.959><c> Consider</c><00:11:09.279><c> a</c><00:11:09.519><c> tax</c>
+
+00:11:09.829 --> 00:11:09.839 align:start position:0%
+even every few years. Consider a tax
+ 
+
+00:11:09.839 --> 00:11:11.750 align:start position:0%
+even every few years. Consider a tax
+application.<00:11:10.480><c> It's</c><00:11:10.640><c> really</c><00:11:10.880><c> busy</c><00:11:11.200><c> for</c><00:11:11.440><c> one</c>
+
+00:11:11.750 --> 00:11:11.760 align:start position:0%
+application. It's really busy for one
+ 
+
+00:11:11.760 --> 00:11:14.710 align:start position:0%
+application. It's really busy for one
+month<00:11:12.160><c> out</c><00:11:12.399><c> of</c><00:11:12.480><c> the</c><00:11:12.720><c> year.</c><00:11:13.680><c> A</c><00:11:13.920><c> pizza</c><00:11:14.240><c> site</c><00:11:14.560><c> is</c>
+
+00:11:14.710 --> 00:11:14.720 align:start position:0%
+month out of the year. A pizza site is
+ 
+
+00:11:14.720 --> 00:11:16.790 align:start position:0%
+month out of the year. A pizza site is
+busy<00:11:14.959><c> for</c><00:11:15.200><c> a</c><00:11:15.360><c> few</c><00:11:15.519><c> hours</c><00:11:15.760><c> a</c><00:11:16.000><c> night.</c><00:11:16.320><c> It's</c><00:11:16.560><c> even</c>
+
+00:11:16.790 --> 00:11:16.800 align:start position:0%
+busy for a few hours a night. It's even
+ 
+
+00:11:16.800 --> 00:11:19.110 align:start position:0%
+busy for a few hours a night. It's even
+busy<00:11:17.040><c> on</c><00:11:17.200><c> a</c><00:11:17.360><c> Friday</c><00:11:17.600><c> and</c><00:11:17.760><c> a</c><00:11:17.920><c> Saturday</c><00:11:18.320><c> night.</c>
+
+00:11:19.110 --> 00:11:19.120 align:start position:0%
+busy on a Friday and a Saturday night.
+ 
+
+00:11:19.120 --> 00:11:20.949 align:start position:0%
+busy on a Friday and a Saturday night.
+The<00:11:19.360><c> Olympics,</c><00:11:20.160><c> hey,</c><00:11:20.399><c> I'm</c><00:11:20.560><c> hosting</c><00:11:20.800><c> the</c>
+
+00:11:20.949 --> 00:11:20.959 align:start position:0%
+The Olympics, hey, I'm hosting the
+ 
+
+00:11:20.959 --> 00:11:24.150 align:start position:0%
+The Olympics, hey, I'm hosting the
+Olympics.<00:11:21.360><c> I'm</c><00:11:21.519><c> busy</c><00:11:21.839><c> every</c><00:11:22.240><c> four</c><00:11:23.000><c> years.</c><00:11:24.000><c> And</c>
+
+00:11:24.150 --> 00:11:24.160 align:start position:0%
+Olympics. I'm busy every four years. And
+ 
+
+00:11:24.160 --> 00:11:26.470 align:start position:0%
+Olympics. I'm busy every four years. And
+so<00:11:24.320><c> there's</c><00:11:24.560><c> this</c><00:11:24.880><c> variance</c><00:11:25.839><c> in</c><00:11:26.079><c> the</c><00:11:26.320><c> amount</c>
+
+00:11:26.470 --> 00:11:26.480 align:start position:0%
+so there's this variance in the amount
+ 
+
+00:11:26.480 --> 00:11:28.710 align:start position:0%
+so there's this variance in the amount
+of<00:11:26.720><c> work</c><00:11:26.959><c> my</c><00:11:27.279><c> service</c><00:11:27.600><c> needs</c><00:11:27.839><c> to</c><00:11:28.000><c> do.</c><00:11:28.399><c> And</c><00:11:28.560><c> what</c>
+
+00:11:28.710 --> 00:11:28.720 align:start position:0%
+of work my service needs to do. And what
+ 
+
+00:11:28.720 --> 00:11:31.190 align:start position:0%
+of work my service needs to do. And what
+I<00:11:28.959><c> don't</c><00:11:29.120><c> want</c><00:11:29.200><c> to</c><00:11:29.360><c> do</c><00:11:29.760><c> is</c><00:11:30.000><c> for</c><00:11:30.240><c> my</c><00:11:30.480><c> service</c><00:11:30.959><c> to</c>
+
+00:11:31.190 --> 00:11:31.200 align:start position:0%
+I don't want to do is for my service to
+ 
+
+00:11:31.200 --> 00:11:33.590 align:start position:0%
+I don't want to do is for my service to
+always<00:11:31.600><c> operate</c><00:11:32.399><c> to</c><00:11:32.640><c> be</c><00:11:32.800><c> able</c><00:11:32.959><c> to</c><00:11:33.120><c> handle</c><00:11:33.440><c> the</c>
+
+00:11:33.590 --> 00:11:33.600 align:start position:0%
+always operate to be able to handle the
+ 
+
+00:11:33.600 --> 00:11:34.829 align:start position:0%
+always operate to be able to handle the
+peak.<00:11:33.920><c> That's</c><00:11:34.079><c> what</c><00:11:34.240><c> we</c><00:11:34.320><c> have</c><00:11:34.399><c> to</c><00:11:34.480><c> do</c><00:11:34.640><c> on</c>
+
+00:11:34.829 --> 00:11:34.839 align:start position:0%
+peak. That's what we have to do on
+ 
+
+00:11:34.839 --> 00:11:37.190 align:start position:0%
+peak. That's what we have to do on
+premises.<00:11:35.839><c> We</c><00:11:36.079><c> have</c><00:11:36.160><c> to</c><00:11:36.320><c> buy</c><00:11:36.480><c> all</c><00:11:36.640><c> the</c><00:11:36.800><c> servers</c>
+
+00:11:37.190 --> 00:11:37.200 align:start position:0%
+premises. We have to buy all the servers
+ 
+
+00:11:37.200 --> 00:11:39.030 align:start position:0%
+premises. We have to buy all the servers
+for<00:11:37.360><c> the</c><00:11:37.600><c> busy</c><00:11:37.839><c> times.</c><00:11:38.240><c> And</c><00:11:38.480><c> often</c><00:11:38.800><c> they're</c>
+
+00:11:39.030 --> 00:11:39.040 align:start position:0%
+for the busy times. And often they're
+ 
+
+00:11:39.040 --> 00:11:41.990 align:start position:0%
+for the busy times. And often they're
+very<00:11:39.640><c> idle.</c><00:11:40.640><c> What</c><00:11:40.880><c> I</c><00:11:41.040><c> want</c><00:11:41.200><c> instead</c><00:11:41.600><c> to</c><00:11:41.839><c> be</c>
+
+00:11:41.990 --> 00:11:42.000 align:start position:0%
+very idle. What I want instead to be
+ 
+
+00:11:42.000 --> 00:11:44.630 align:start position:0%
+very idle. What I want instead to be
+able<00:11:42.160><c> to</c><00:11:42.320><c> do</c><00:11:42.480><c> is</c><00:11:43.200><c> for</c><00:11:43.600><c> my</c><00:11:43.920><c> service</c><00:11:44.240><c> in</c><00:11:44.480><c> the</c>
+
+00:11:44.630 --> 00:11:44.640 align:start position:0%
+able to do is for my service in the
+ 
+
+00:11:44.640 --> 00:11:47.670 align:start position:0%
+able to do is for my service in the
+cloud<00:11:45.040><c> because</c><00:11:45.200><c> I</c><00:11:45.519><c> pay</c><00:11:45.760><c> for</c><00:11:46.160><c> only</c><00:11:47.120><c> when</c><00:11:47.440><c> it's</c>
+
+00:11:47.670 --> 00:11:47.680 align:start position:0%
+cloud because I pay for only when it's
+ 
+
+00:11:47.680 --> 00:11:50.790 align:start position:0%
+cloud because I pay for only when it's
+running<00:11:47.920><c> on</c><00:11:48.160><c> a</c><00:11:48.320><c> per</c><00:11:48.640><c> second</c><00:11:49.040><c> basis.</c><00:11:50.079><c> I</c><00:11:50.399><c> want</c><00:11:50.480><c> to</c>
+
+00:11:50.790 --> 00:11:50.800 align:start position:0%
+running on a per second basis. I want to
+ 
+
+00:11:50.800 --> 00:11:53.030 align:start position:0%
+running on a per second basis. I want to
+change<00:11:51.120><c> the</c><00:11:51.360><c> amount</c><00:11:51.600><c> of</c><00:11:51.839><c> service</c><00:11:52.240><c> I</c><00:11:52.560><c> have</c><00:11:52.800><c> at</c>
+
+00:11:53.030 --> 00:11:53.040 align:start position:0%
+change the amount of service I have at
+ 
+
+00:11:53.040 --> 00:11:56.310 align:start position:0%
+change the amount of service I have at
+any<00:11:53.279><c> moment</c><00:11:53.600><c> in</c><00:11:53.959><c> time</c><00:11:54.959><c> to</c><00:11:55.279><c> match</c><00:11:55.760><c> the</c><00:11:56.079><c> amount</c>
+
+00:11:56.310 --> 00:11:56.320 align:start position:0%
+any moment in time to match the amount
+ 
+
+00:11:56.320 --> 00:11:59.030 align:start position:0%
+any moment in time to match the amount
+of<00:11:56.480><c> work</c><00:11:56.720><c> it</c><00:11:57.120><c> actually</c><00:11:57.680><c> needs</c><00:11:58.000><c> to</c><00:11:58.240><c> do.</c><00:11:58.880><c> And</c>
+
+00:11:59.030 --> 00:11:59.040 align:start position:0%
+of work it actually needs to do. And
+ 
+
+00:11:59.040 --> 00:12:01.030 align:start position:0%
+of work it actually needs to do. And
+that<00:11:59.279><c> could</c><00:11:59.440><c> be</c><00:11:59.760><c> I'm</c><00:12:00.160><c> manually</c><00:12:00.640><c> doing</c><00:12:00.800><c> that</c>
+
+00:12:01.030 --> 00:12:01.040 align:start position:0%
+that could be I'm manually doing that
+ 
+
+00:12:01.040 --> 00:12:04.069 align:start position:0%
+that could be I'm manually doing that
+scaling<00:12:01.680><c> or</c><00:12:02.000><c> maybe</c><00:12:02.320><c> I</c><00:12:02.640><c> want</c><00:12:02.800><c> to</c><00:12:03.120><c> automatically</c>
+
+00:12:04.069 --> 00:12:04.079 align:start position:0%
+scaling or maybe I want to automatically
+ 
+
+00:12:04.079 --> 00:12:07.190 align:start position:0%
+scaling or maybe I want to automatically
+do<00:12:04.320><c> that.</c><00:12:05.200><c> For</c><00:12:05.279><c> example,</c><00:12:06.240><c> I</c><00:12:06.480><c> could</c><00:12:06.639><c> say,</c><00:12:06.959><c> hey,</c>
+
+00:12:07.190 --> 00:12:07.200 align:start position:0%
+do that. For example, I could say, hey,
+ 
+
+00:12:07.200 --> 00:12:10.069 align:start position:0%
+do that. For example, I could say, hey,
+look,<00:12:07.600><c> for</c><00:12:07.760><c> the</c><00:12:08.000><c> instances</c><00:12:08.399><c> I'm</c><00:12:08.839><c> running,</c><00:12:09.839><c> if</c>
+
+00:12:10.069 --> 00:12:10.079 align:start position:0%
+look, for the instances I'm running, if
+ 
+
+00:12:10.079 --> 00:12:13.150 align:start position:0%
+look, for the instances I'm running, if
+the<00:12:10.240><c> CPU</c><00:12:10.639><c> is</c><00:12:10.800><c> over</c><00:12:11.240><c> 70%,</c><00:12:12.240><c> we'll</c><00:12:12.480><c> add</c><00:12:12.720><c> some</c><00:12:12.959><c> more</c>
+
+00:12:13.150 --> 00:12:13.160 align:start position:0%
+the CPU is over 70%, we'll add some more
+ 
+
+00:12:13.160 --> 00:12:16.629 align:start position:0%
+the CPU is over 70%, we'll add some more
+instances.<00:12:14.160><c> If</c><00:12:14.399><c> the</c><00:12:14.560><c> CPU</c><00:12:14.959><c> is</c><00:12:15.120><c> less</c><00:12:15.440><c> than</c><00:12:15.839><c> 30%,</c>
+
+00:12:16.629 --> 00:12:16.639 align:start position:0%
+instances. If the CPU is less than 30%,
+ 
+
+00:12:16.639 --> 00:12:20.829 align:start position:0%
+instances. If the CPU is less than 30%,
+let's<00:12:16.959><c> remove</c><00:12:17.279><c> some.</c><00:12:18.160><c> So</c><00:12:18.399><c> we</c><00:12:18.560><c> have</c><00:12:18.639><c> this</c><00:12:18.959><c> great</c>
+
+00:12:20.829 --> 00:12:20.839 align:start position:0%
+let's remove some. So we have this great
+ 
+
+00:12:20.839 --> 00:12:25.150 align:start position:0%
+let's remove some. So we have this great
+flexibility.<00:12:21.839><c> Now</c><00:12:22.320><c> how</c><00:12:22.639><c> can</c><00:12:22.800><c> I</c><00:12:23.320><c> do</c><00:12:24.320><c> this</c>
+
+00:12:25.150 --> 00:12:25.160 align:start position:0%
+flexibility. Now how can I do this
+ 
+
+00:12:25.160 --> 00:12:27.949 align:start position:0%
+flexibility. Now how can I do this
+scaling?<00:12:26.160><c> One</c><00:12:26.399><c> option</c><00:12:26.720><c> would</c><00:12:26.880><c> be</c><00:12:27.040><c> to</c><00:12:27.200><c> scale</c>
+
+00:12:27.949 --> 00:12:27.959 align:start position:0%
+scaling? One option would be to scale
+ 
+
+00:12:27.959 --> 00:12:31.550 align:start position:0%
+scaling? One option would be to scale
+vertically.<00:12:28.959><c> So</c><00:12:29.200><c> I</c><00:12:29.440><c> could</c><00:12:29.600><c> do</c><00:12:29.920><c> a</c>
+
+00:12:31.550 --> 00:12:31.560 align:start position:0%
+vertically. So I could do a
+ 
+
+00:12:31.560 --> 00:12:34.629 align:start position:0%
+vertically. So I could do a
+vertical<00:12:32.600><c> scale.</c><00:12:33.600><c> And</c><00:12:33.760><c> what</c><00:12:33.920><c> this</c><00:12:34.160><c> is</c><00:12:34.399><c> meaning</c>
+
+00:12:34.629 --> 00:12:34.639 align:start position:0%
+vertical scale. And what this is meaning
+ 
+
+00:12:34.639 --> 00:12:38.030 align:start position:0%
+vertical scale. And what this is meaning
+is<00:12:34.880><c> I</c><00:12:35.120><c> have</c><00:12:35.279><c> my</c><00:12:35.600><c> instance</c><00:12:36.480><c> and</c><00:12:36.639><c> if</c><00:12:36.800><c> I'm</c><00:12:37.040><c> scaling</c>
+
+00:12:38.030 --> 00:12:38.040 align:start position:0%
+is I have my instance and if I'm scaling
+ 
+
+00:12:38.040 --> 00:12:42.829 align:start position:0%
+is I have my instance and if I'm scaling
+vertically<00:12:39.040><c> well</c><00:12:39.279><c> I'm</c><00:12:39.519><c> making</c><00:12:39.760><c> it</c>
+
+00:12:42.829 --> 00:12:42.839 align:start position:0%
+ 
+ 
+
+00:12:42.839 --> 00:12:45.829 align:start position:0%
+ 
+bigger.<00:12:43.839><c> I'm</c><00:12:44.160><c> adding</c><00:12:44.480><c> more</c><00:12:44.720><c> CPUs.</c><00:12:45.360><c> I'm</c><00:12:45.600><c> adding</c>
+
+00:12:45.829 --> 00:12:45.839 align:start position:0%
+bigger. I'm adding more CPUs. I'm adding
+ 
+
+00:12:45.839 --> 00:12:46.670 align:start position:0%
+bigger. I'm adding more CPUs. I'm adding
+more
+
+00:12:46.670 --> 00:12:46.680 align:start position:0%
+more
+ 
+
+00:12:46.680 --> 00:12:49.110 align:start position:0%
+more
+memory.<00:12:47.760><c> In</c><00:12:48.000><c> reality,</c><00:12:48.399><c> that</c><00:12:48.639><c> would</c><00:12:48.720><c> mean</c><00:12:48.880><c> I</c>
+
+00:12:49.110 --> 00:12:49.120 align:start position:0%
+memory. In reality, that would mean I
+ 
+
+00:12:49.120 --> 00:12:51.430 align:start position:0%
+memory. In reality, that would mean I
+have<00:12:49.200><c> to</c><00:12:49.360><c> stop</c><00:12:49.600><c> the</c><00:12:49.839><c> instance.</c><00:12:50.800><c> I</c><00:12:51.040><c> would</c><00:12:51.200><c> stop</c>
+
+00:12:51.430 --> 00:12:51.440 align:start position:0%
+have to stop the instance. I would stop
+ 
+
+00:12:51.440 --> 00:12:53.509 align:start position:0%
+have to stop the instance. I would stop
+the<00:12:51.680><c> workload.</c><00:12:52.240><c> I</c><00:12:52.480><c> would</c><00:12:52.639><c> resize</c><00:12:53.040><c> it</c><00:12:53.279><c> and</c>
+
+00:12:53.509 --> 00:12:53.519 align:start position:0%
+the workload. I would resize it and
+ 
+
+00:12:53.519 --> 00:12:55.670 align:start position:0%
+the workload. I would resize it and
+start<00:12:53.760><c> it</c><00:12:54.000><c> again.</c><00:12:54.720><c> That's</c><00:12:54.959><c> because</c><00:12:55.200><c> very</c><00:12:55.440><c> few</c>
+
+00:12:55.670 --> 00:12:55.680 align:start position:0%
+start it again. That's because very few
+ 
+
+00:12:55.680 --> 00:12:57.829 align:start position:0%
+start it again. That's because very few
+operating<00:12:56.160><c> systems</c><00:12:56.720><c> actually</c><00:12:57.040><c> support</c>
+
+00:12:57.829 --> 00:12:57.839 align:start position:0%
+operating systems actually support
+ 
+
+00:12:57.839 --> 00:13:00.550 align:start position:0%
+operating systems actually support
+adding<00:12:58.800><c> much</c><00:12:59.040><c> less</c><00:12:59.360><c> removing</c><00:12:59.839><c> CPUs</c><00:13:00.399><c> or</c>
+
+00:13:00.550 --> 00:13:00.560 align:start position:0%
+adding much less removing CPUs or
+ 
+
+00:13:00.560 --> 00:13:02.949 align:start position:0%
+adding much less removing CPUs or
+memory.<00:13:01.279><c> Neither</c><00:13:01.600><c> fewer</c><00:13:02.000><c> applications</c><00:13:02.639><c> would</c>
+
+00:13:02.949 --> 00:13:02.959 align:start position:0%
+memory. Neither fewer applications would
+ 
+
+00:13:02.959 --> 00:13:05.230 align:start position:0%
+memory. Neither fewer applications would
+handle<00:13:03.200><c> it,</c><00:13:03.600><c> which</c><00:13:03.839><c> means</c><00:13:04.000><c> I'd</c><00:13:04.240><c> have</c>
+
+00:13:05.230 --> 00:13:05.240 align:start position:0%
+handle it, which means I'd have
+ 
+
+00:13:05.240 --> 00:13:08.310 align:start position:0%
+handle it, which means I'd have
+downtime.<00:13:06.240><c> Also,</c><00:13:07.040><c> I</c><00:13:07.279><c> don't</c><00:13:07.440><c> want</c><00:13:07.680><c> just</c><00:13:08.000><c> one</c>
+
+00:13:08.310 --> 00:13:08.320 align:start position:0%
+downtime. Also, I don't want just one
+ 
+
+00:13:08.320 --> 00:13:09.990 align:start position:0%
+downtime. Also, I don't want just one
+instance.<00:13:08.880><c> Remember,</c><00:13:09.200><c> that's</c><00:13:09.519><c> not</c><00:13:09.680><c> good</c><00:13:09.839><c> for</c>
+
+00:13:09.990 --> 00:13:10.000 align:start position:0%
+instance. Remember, that's not good for
+ 
+
+00:13:10.000 --> 00:13:12.230 align:start position:0%
+instance. Remember, that's not good for
+my<00:13:10.240><c> high</c><00:13:10.519><c> availability</c><00:13:11.519><c> where</c><00:13:11.760><c> I'd</c><00:13:11.920><c> rather</c>
+
+00:13:12.230 --> 00:13:12.240 align:start position:0%
+my high availability where I'd rather
+ 
+
+00:13:12.240 --> 00:13:15.030 align:start position:0%
+my high availability where I'd rather
+have<00:13:12.480><c> more</c><00:13:12.959><c> smaller</c><00:13:13.480><c> instances.</c><00:13:14.560><c> And</c><00:13:14.800><c> so</c>
+
+00:13:15.030 --> 00:13:15.040 align:start position:0%
+have more smaller instances. And so
+ 
+
+00:13:15.040 --> 00:13:17.430 align:start position:0%
+have more smaller instances. And so
+while<00:13:15.279><c> I</c><00:13:15.600><c> can</c><00:13:15.839><c> do</c><00:13:16.000><c> that,</c><00:13:16.639><c> we</c><00:13:16.880><c> give</c><00:13:17.040><c> this</c><00:13:17.200><c> a</c>
+
+00:13:17.430 --> 00:13:17.440 align:start position:0%
+while I can do that, we give this a
+ 
+
+00:13:17.440 --> 00:13:19.350 align:start position:0%
+while I can do that, we give this a
+little<00:13:17.519><c> bit</c><00:13:17.680><c> of</c><00:13:17.760><c> a</c><00:13:17.920><c> a</c><00:13:18.160><c> frowny</c><00:13:18.639><c> face.</c><00:13:18.959><c> We</c><00:13:19.120><c> try</c>
+
+00:13:19.350 --> 00:13:19.360 align:start position:0%
+little bit of a a frowny face. We try
+ 
+
+00:13:19.360 --> 00:13:22.230 align:start position:0%
+little bit of a a frowny face. We try
+not<00:13:19.600><c> to</c><00:13:19.839><c> do</c><00:13:20.000><c> that.</c><00:13:20.959><c> The</c><00:13:21.200><c> much</c><00:13:21.519><c> better</c><00:13:21.920><c> option</c>
+
+00:13:22.230 --> 00:13:22.240 align:start position:0%
+not to do that. The much better option
+ 
+
+00:13:22.240 --> 00:13:23.710 align:start position:0%
+not to do that. The much better option
+is<00:13:22.399><c> to</c><00:13:22.560><c> scale</c>
+
+00:13:23.710 --> 00:13:23.720 align:start position:0%
+is to scale
+ 
+
+00:13:23.720 --> 00:13:27.629 align:start position:0%
+is to scale
+horizontally.<00:13:24.720><c> So</c><00:13:24.959><c> I</c><00:13:25.200><c> can</c><00:13:25.360><c> do</c>
+
+00:13:27.629 --> 00:13:27.639 align:start position:0%
+horizontally. So I can do
+ 
+
+00:13:27.639 --> 00:13:30.550 align:start position:0%
+horizontally. So I can do
+horizontal<00:13:28.760><c> scale,</c><00:13:29.760><c> which</c><00:13:30.000><c> means</c><00:13:30.240><c> obviously</c>
+
+00:13:30.550 --> 00:13:30.560 align:start position:0%
+horizontal scale, which means obviously
+ 
+
+00:13:30.560 --> 00:13:33.509 align:start position:0%
+horizontal scale, which means obviously
+I'm<00:13:30.800><c> scaling</c><00:13:31.440><c> this</c><00:13:31.760><c> way.</c><00:13:32.160><c> And</c><00:13:32.399><c> here</c><00:13:33.040><c> we</c><00:13:33.360><c> just</c>
+
+00:13:33.509 --> 00:13:33.519 align:start position:0%
+I'm scaling this way. And here we just
+ 
+
+00:13:33.519 --> 00:13:35.990 align:start position:0%
+I'm scaling this way. And here we just
+have<00:13:33.680><c> a</c><00:13:33.920><c> certain</c><00:13:34.240><c> number</c><00:13:34.399><c> of</c><00:13:34.839><c> instances.</c><00:13:35.839><c> And</c>
+
+00:13:35.990 --> 00:13:36.000 align:start position:0%
+have a certain number of instances. And
+ 
+
+00:13:36.000 --> 00:13:38.470 align:start position:0%
+have a certain number of instances. And
+if<00:13:36.160><c> we're</c><00:13:36.320><c> getting</c><00:13:36.600><c> busier,</c><00:13:37.600><c> well,</c><00:13:37.839><c> we</c><00:13:38.079><c> add</c>
+
+00:13:38.470 --> 00:13:38.480 align:start position:0%
+if we're getting busier, well, we add
+ 
+
+00:13:38.480 --> 00:13:40.190 align:start position:0%
+if we're getting busier, well, we add
+some<00:13:38.720><c> new</c>
+
+00:13:40.190 --> 00:13:40.200 align:start position:0%
+some new
+ 
+
+00:13:40.200 --> 00:13:43.269 align:start position:0%
+some new
+ones.<00:13:41.279><c> If</c><00:13:41.519><c> we're</c><00:13:41.680><c> getting</c><00:13:42.079><c> quiet,</c><00:13:42.720><c> well,</c><00:13:42.959><c> we</c>
+
+00:13:43.269 --> 00:13:43.279 align:start position:0%
+ones. If we're getting quiet, well, we
+ 
+
+00:13:43.279 --> 00:13:45.150 align:start position:0%
+ones. If we're getting quiet, well, we
+could<00:13:43.839><c> remove</c>
+
+00:13:45.150 --> 00:13:45.160 align:start position:0%
+could remove
+ 
+
+00:13:45.160 --> 00:13:48.150 align:start position:0%
+could remove
+some.<00:13:46.160><c> And</c><00:13:46.480><c> this</c><00:13:46.720><c> is</c><00:13:46.880><c> the</c><00:13:47.200><c> type</c><00:13:47.360><c> of</c><00:13:47.600><c> scaling</c><00:13:48.000><c> we</c>
+
+00:13:48.150 --> 00:13:48.160 align:start position:0%
+some. And this is the type of scaling we
+ 
+
+00:13:48.160 --> 00:13:50.470 align:start position:0%
+some. And this is the type of scaling we
+want<00:13:48.240><c> to</c><00:13:48.399><c> do</c><00:13:48.480><c> in</c><00:13:48.639><c> the</c><00:13:48.839><c> cloud.</c><00:13:49.839><c> We</c><00:13:50.000><c> give</c><00:13:50.160><c> that</c><00:13:50.320><c> a</c>
+
+00:13:50.470 --> 00:13:50.480 align:start position:0%
+want to do in the cloud. We give that a
+ 
+
+00:13:50.480 --> 00:13:51.470 align:start position:0%
+want to do in the cloud. We give that a
+happy
+
+00:13:51.470 --> 00:13:51.480 align:start position:0%
+happy
+ 
+
+00:13:51.480 --> 00:13:53.910 align:start position:0%
+happy
+face.<00:13:52.480><c> And</c><00:13:52.880><c> this</c><00:13:53.120><c> is</c><00:13:53.279><c> how</c><00:13:53.360><c> the</c><00:13:53.600><c> cloud</c><00:13:53.760><c> is</c>
+
+00:13:53.910 --> 00:13:53.920 align:start position:0%
+face. And this is how the cloud is
+ 
+
+00:13:53.920 --> 00:13:55.790 align:start position:0%
+face. And this is how the cloud is
+designed<00:13:54.240><c> because</c><00:13:54.560><c> now</c><00:13:54.720><c> I've</c><00:13:54.959><c> got</c><00:13:55.040><c> no</c>
+
+00:13:55.790 --> 00:13:55.800 align:start position:0%
+designed because now I've got no
+ 
+
+00:13:55.800 --> 00:13:58.069 align:start position:0%
+designed because now I've got no
+downtime.<00:13:56.800><c> I'm</c><00:13:57.040><c> just</c><00:13:57.199><c> adding</c><00:13:57.440><c> and</c><00:13:57.680><c> removing</c>
+
+00:13:58.069 --> 00:13:58.079 align:start position:0%
+downtime. I'm just adding and removing
+ 
+
+00:13:58.079 --> 00:13:59.509 align:start position:0%
+downtime. I'm just adding and removing
+instances.<00:13:58.560><c> Again,</c><00:13:58.800><c> there'd</c><00:13:59.040><c> be</c><00:13:59.199><c> some</c><00:13:59.360><c> kind</c>
+
+00:13:59.509 --> 00:13:59.519 align:start position:0%
+instances. Again, there'd be some kind
+ 
+
+00:13:59.519 --> 00:14:01.670 align:start position:0%
+instances. Again, there'd be some kind
+of<00:13:59.839><c> balancing</c><00:14:00.480><c> solution</c><00:14:00.880><c> that</c><00:14:01.120><c> the</c><00:14:01.360><c> client</c>
+
+00:14:01.670 --> 00:14:01.680 align:start position:0%
+of balancing solution that the client
+ 
+
+00:14:01.680 --> 00:14:03.750 align:start position:0%
+of balancing solution that the client
+would<00:14:01.920><c> talk</c><00:14:02.160><c> to</c><00:14:02.800><c> to</c><00:14:03.040><c> then</c><00:14:03.279><c> balance</c><00:14:03.600><c> between</c>
+
+00:14:03.750 --> 00:14:03.760 align:start position:0%
+would talk to to then balance between
+ 
+
+00:14:03.760 --> 00:14:05.590 align:start position:0%
+would talk to to then balance between
+the<00:14:03.920><c> ones</c><00:14:04.079><c> that</c><00:14:04.320><c> do</c><00:14:04.480><c> exist</c><00:14:04.800><c> at</c><00:14:04.959><c> a</c><00:14:05.120><c> moment</c><00:14:05.279><c> in</c>
+
+00:14:05.590 --> 00:14:05.600 align:start position:0%
+the ones that do exist at a moment in
+ 
+
+00:14:05.600 --> 00:14:08.470 align:start position:0%
+the ones that do exist at a moment in
+time.<00:14:06.800><c> And</c><00:14:06.959><c> we</c><00:14:07.120><c> would</c><00:14:07.279><c> typically</c><00:14:07.680><c> never</c><00:14:08.079><c> scale</c>
+
+00:14:08.470 --> 00:14:08.480 align:start position:0%
+time. And we would typically never scale
+ 
+
+00:14:08.480 --> 00:14:10.949 align:start position:0%
+time. And we would typically never scale
+to<00:14:08.720><c> less</c><00:14:08.959><c> than</c><00:14:09.279><c> two</c><00:14:10.160><c> because</c><00:14:10.480><c> remember</c><00:14:10.720><c> for</c>
+
+00:14:10.949 --> 00:14:10.959 align:start position:0%
+to less than two because remember for
+ 
+
+00:14:10.959 --> 00:14:12.269 align:start position:0%
+to less than two because remember for
+our<00:14:11.120><c> high</c>
+
+00:14:12.269 --> 00:14:12.279 align:start position:0%
+our high
+ 
+
+00:14:12.279 --> 00:14:14.829 align:start position:0%
+our high
+availability.<00:14:13.279><c> I</c><00:14:13.440><c> always</c><00:14:13.600><c> want</c><00:14:13.839><c> at</c><00:14:13.839><c> least</c>
+
+00:14:14.829 --> 00:14:14.839 align:start position:0%
+availability. I always want at least
+ 
+
+00:14:14.839 --> 00:14:17.509 align:start position:0%
+availability. I always want at least
+two.<00:14:15.839><c> Now</c><00:14:16.240><c> horizontal</c><00:14:16.800><c> scanning</c><00:14:17.279><c> does</c>
+
+00:14:17.509 --> 00:14:17.519 align:start position:0%
+two. Now horizontal scanning does
+ 
+
+00:14:17.519 --> 00:14:19.670 align:start position:0%
+two. Now horizontal scanning does
+require<00:14:17.920><c> your</c><00:14:18.240><c> application</c><00:14:18.800><c> to</c><00:14:19.040><c> support</c><00:14:19.440><c> more</c>
+
+00:14:19.670 --> 00:14:19.680 align:start position:0%
+require your application to support more
+ 
+
+00:14:19.680 --> 00:14:22.550 align:start position:0%
+require your application to support more
+than<00:14:19.839><c> one</c><00:14:20.079><c> instance</c><00:14:20.560><c> of</c><00:14:20.800><c> it.</c><00:14:21.760><c> But</c><00:14:21.920><c> again</c><00:14:22.240><c> in</c>
+
+00:14:22.550 --> 00:14:22.560 align:start position:0%
+than one instance of it. But again in
+ 
+
+00:14:22.560 --> 00:14:24.550 align:start position:0%
+than one instance of it. But again in
+modern<00:14:22.959><c> architectures</c><00:14:23.760><c> that's</c><00:14:24.079><c> becoming</c>
+
+00:14:24.550 --> 00:14:24.560 align:start position:0%
+modern architectures that's becoming
+ 
+
+00:14:24.560 --> 00:14:27.030 align:start position:0%
+modern architectures that's becoming
+very<00:14:24.880><c> very</c><00:14:25.279><c> common.</c><00:14:26.160><c> And</c><00:14:26.320><c> so</c><00:14:26.560><c> when</c><00:14:26.720><c> you</c><00:14:26.880><c> think</c>
+
+00:14:27.030 --> 00:14:27.040 align:start position:0%
+very very common. And so when you think
+ 
+
+00:14:27.040 --> 00:14:28.870 align:start position:0%
+very very common. And so when you think
+of<00:14:27.199><c> the</c><00:14:27.360><c> cloud</c><00:14:27.760><c> we</c><00:14:28.000><c> think</c><00:14:28.079><c> we</c><00:14:28.320><c> want</c><00:14:28.399><c> to</c><00:14:28.560><c> pay</c><00:14:28.720><c> on</c>
+
+00:14:28.870 --> 00:14:28.880 align:start position:0%
+of the cloud we think we want to pay on
+ 
+
+00:14:28.880 --> 00:14:30.470 align:start position:0%
+of the cloud we think we want to pay on
+a<00:14:29.040><c> per</c><00:14:29.279><c> second</c><00:14:29.519><c> basis</c><00:14:29.839><c> for</c><00:14:30.000><c> the</c><00:14:30.160><c> amount</c><00:14:30.320><c> of</c>
+
+00:14:30.470 --> 00:14:30.480 align:start position:0%
+a per second basis for the amount of
+ 
+
+00:14:30.480 --> 00:14:32.629 align:start position:0%
+a per second basis for the amount of
+work<00:14:30.639><c> we're</c><00:14:30.959><c> actually</c><00:14:31.399><c> doing.</c><00:14:32.399><c> And</c>
+
+00:14:32.629 --> 00:14:32.639 align:start position:0%
+work we're actually doing. And
+ 
+
+00:14:32.639 --> 00:14:35.189 align:start position:0%
+work we're actually doing. And
+horizontal<00:14:33.279><c> scale</c><00:14:33.680><c> lets</c><00:14:34.000><c> us</c><00:14:34.160><c> do</c><00:14:34.399><c> that.</c><00:14:34.800><c> and</c><00:14:35.040><c> we</c>
+
+00:14:35.189 --> 00:14:35.199 align:start position:0%
+horizontal scale lets us do that. and we
+ 
+
+00:14:35.199 --> 00:14:37.670 align:start position:0%
+horizontal scale lets us do that. and we
+could<00:14:35.440><c> automatically</c><00:14:36.320><c> say</c><00:14:36.560><c> hey</c><00:14:36.800><c> look</c><00:14:37.120><c> CPU</c><00:14:37.519><c> is</c>
+
+00:14:37.670 --> 00:14:37.680 align:start position:0%
+could automatically say hey look CPU is
+ 
+
+00:14:37.680 --> 00:14:39.350 align:start position:0%
+could automatically say hey look CPU is
+busier<00:14:37.920><c> than</c><00:14:38.079><c> a</c><00:14:38.240><c> certain</c><00:14:38.399><c> amount</c><00:14:38.560><c> or</c><00:14:38.800><c> Q</c><00:14:39.040><c> depth</c>
+
+00:14:39.350 --> 00:14:39.360 align:start position:0%
+busier than a certain amount or Q depth
+ 
+
+00:14:39.360 --> 00:14:42.389 align:start position:0%
+busier than a certain amount or Q depth
+is<00:14:39.519><c> above</c><00:14:39.760><c> a</c><00:14:39.920><c> certain</c><00:14:40.160><c> number</c><00:14:40.800><c> let's</c><00:14:41.120><c> add</c><00:14:41.440><c> some</c>
+
+00:14:42.389 --> 00:14:42.399 align:start position:0%
+is above a certain number let's add some
+ 
+
+00:14:42.399 --> 00:14:44.550 align:start position:0%
+is above a certain number let's add some
+hey<00:14:42.639><c> we're</c><00:14:42.800><c> not</c><00:14:42.959><c> doing</c><00:14:43.120><c> very</c><00:14:43.360><c> much</c><00:14:43.600><c> work</c><00:14:44.079><c> let's</c>
+
+00:14:44.550 --> 00:14:44.560 align:start position:0%
+hey we're not doing very much work let's
+ 
+
+00:14:44.560 --> 00:14:47.189 align:start position:0%
+hey we're not doing very much work let's
+remove<00:14:44.959><c> some</c><00:14:45.480><c> instances</c><00:14:46.480><c> and</c><00:14:46.720><c> that</c><00:14:46.959><c> could</c><00:14:47.120><c> be</c>
+
+00:14:47.189 --> 00:14:47.199 align:start position:0%
+remove some instances and that could be
+ 
+
+00:14:47.199 --> 00:14:48.949 align:start position:0%
+remove some instances and that could be
+automatic<00:14:47.760><c> it</c><00:14:47.920><c> could</c><00:14:48.000><c> be</c><00:14:48.079><c> scheduled</c><00:14:48.639><c> it</c><00:14:48.800><c> could</c>
+
+00:14:48.949 --> 00:14:48.959 align:start position:0%
+automatic it could be scheduled it could
+ 
+
+00:14:48.959 --> 00:14:52.069 align:start position:0%
+automatic it could be scheduled it could
+be<00:14:49.240><c> manual</c><00:14:50.240><c> so</c><00:14:50.560><c> those</c><00:14:50.800><c> are</c><00:14:50.959><c> the</c><00:14:51.360><c> key</c><00:14:51.760><c> concepts</c>
+
+00:14:52.069 --> 00:14:52.079 align:start position:0%
+be manual so those are the key concepts
+ 
+
+00:14:52.079 --> 00:14:54.310 align:start position:0%
+be manual so those are the key concepts
+I<00:14:52.320><c> wanted</c><00:14:52.480><c> to</c><00:14:52.639><c> cover</c><00:14:52.880><c> in</c><00:14:53.120><c> this</c><00:14:53.680><c> we</c><00:14:53.920><c> think</c><00:14:54.079><c> about</c>
+
+00:14:54.310 --> 00:14:54.320 align:start position:0%
+I wanted to cover in this we think about
+ 
+
+00:14:54.320 --> 00:14:56.550 align:start position:0%
+I wanted to cover in this we think about
+we<00:14:54.480><c> have</c><00:14:54.639><c> great</c><00:14:54.880><c> agility</c><00:14:55.839><c> we</c><00:14:56.000><c> can</c><00:14:56.079><c> have</c><00:14:56.240><c> many</c>
+
+00:14:56.550 --> 00:14:56.560 align:start position:0%
+we have great agility we can have many
+ 
+
+00:14:56.560 --> 00:14:58.150 align:start position:0%
+we have great agility we can have many
+different<00:14:56.720><c> types</c><00:14:56.880><c> of</c><00:14:57.120><c> service</c><00:14:57.519><c> we</c><00:14:57.760><c> can</c><00:14:57.920><c> change</c>
+
+00:14:58.150 --> 00:14:58.160 align:start position:0%
+different types of service we can change
+ 
+
+00:14:58.160 --> 00:14:59.829 align:start position:0%
+different types of service we can change
+their<00:14:58.399><c> sizes</c><00:14:58.800><c> we</c><00:14:58.959><c> can</c><00:14:59.040><c> change</c><00:14:59.199><c> the</c><00:14:59.360><c> service</c><00:14:59.600><c> we</c>
+
+00:14:59.829 --> 00:14:59.839 align:start position:0%
+their sizes we can change the service we
+ 
+
+00:14:59.839 --> 00:15:00.750 align:start position:0%
+their sizes we can change the service we
+want<00:15:00.000><c> to</c>
+
+00:15:00.750 --> 00:15:00.760 align:start position:0%
+want to
+ 
+
+00:15:00.760 --> 00:15:03.990 align:start position:0%
+want to
+use<00:15:01.760><c> this</c><00:15:02.000><c> concept</c><00:15:02.399><c> of</c><00:15:02.639><c> high</c><00:15:02.880><c> availability</c><00:15:03.680><c> by</c>
+
+00:15:03.990 --> 00:15:04.000 align:start position:0%
+use this concept of high availability by
+ 
+
+00:15:04.000 --> 00:15:06.790 align:start position:0%
+use this concept of high availability by
+having<00:15:04.959><c> multiple</c><00:15:05.600><c> instances</c><00:15:06.240><c> spread</c><00:15:06.560><c> over</c>
+
+00:15:06.790 --> 00:15:06.800 align:start position:0%
+having multiple instances spread over
+ 
+
+00:15:06.800 --> 00:15:08.110 align:start position:0%
+having multiple instances spread over
+different<00:15:07.040><c> blast</c>
+
+00:15:08.110 --> 00:15:08.120 align:start position:0%
+different blast
+ 
+
+00:15:08.120 --> 00:15:10.150 align:start position:0%
+different blast
+radiuses.<00:15:09.199><c> And</c><00:15:09.360><c> then</c><00:15:09.519><c> we</c><00:15:09.760><c> have</c><00:15:09.920><c> this</c>
+
+00:15:10.150 --> 00:15:10.160 align:start position:0%
+radiuses. And then we have this
+ 
+
+00:15:10.160 --> 00:15:13.269 align:start position:0%
+radiuses. And then we have this
+elasticity,<00:15:10.959><c> the</c><00:15:11.199><c> ability</c><00:15:11.519><c> to</c><00:15:11.880><c> scale,</c><00:15:12.880><c> yes,</c>
+
+00:15:13.269 --> 00:15:13.279 align:start position:0%
+elasticity, the ability to scale, yes,
+ 
+
+00:15:13.279 --> 00:15:14.790 align:start position:0%
+elasticity, the ability to scale, yes,
+vertically<00:15:13.760><c> by</c><00:15:14.000><c> making</c><00:15:14.160><c> them</c><00:15:14.320><c> bigger</c><00:15:14.639><c> or</c>
+
+00:15:14.790 --> 00:15:14.800 align:start position:0%
+vertically by making them bigger or
+ 
+
+00:15:14.800 --> 00:15:16.870 align:start position:0%
+vertically by making them bigger or
+smaller,<00:15:15.760><c> but</c><00:15:16.079><c> more</c><00:15:16.240><c> commonly</c><00:15:16.639><c> we're</c><00:15:16.800><c> going</c>
+
+00:15:16.870 --> 00:15:16.880 align:start position:0%
+smaller, but more commonly we're going
+ 
+
+00:15:16.880 --> 00:15:18.990 align:start position:0%
+smaller, but more commonly we're going
+to<00:15:16.959><c> scale</c><00:15:17.279><c> horizontally</c><00:15:17.839><c> by</c><00:15:18.160><c> adding</c><00:15:18.480><c> and</c>
+
+00:15:18.990 --> 00:15:19.000 align:start position:0%
+to scale horizontally by adding and
+ 
+
+00:15:19.000 --> 00:15:21.910 align:start position:0%
+to scale horizontally by adding and
+removing<00:15:20.000><c> based</c><00:15:20.320><c> on</c><00:15:20.880><c> the</c><00:15:21.199><c> amount</c><00:15:21.440><c> of</c><00:15:21.600><c> work</c>
+
+00:15:21.910 --> 00:15:21.920 align:start position:0%
+removing based on the amount of work
+ 
+
+00:15:21.920 --> 00:15:25.600 align:start position:0%
+removing based on the amount of work
+that<00:15:22.240><c> varies</c><00:15:22.639><c> over</c><00:15:23.040><c> type.</c>
+

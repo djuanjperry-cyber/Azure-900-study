@@ -1,0 +1,2680 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.120 --> 00:00:02.470 align:start position:0%
+ 
+in<00:00:01.280><c> this</c><00:00:01.520><c> lesson</c><00:00:01.839><c> we're</c><00:00:02.000><c> going</c><00:00:02.080><c> to</c><00:00:02.159><c> look</c><00:00:02.320><c> at</c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.480 --> 00:00:05.910 align:start position:0%
+in this lesson we're going to look at
+the<00:00:02.720><c> benefits</c><00:00:03.360><c> and</c><00:00:03.600><c> usage</c><00:00:04.319><c> of</c><00:00:04.640><c> big</c><00:00:05.040><c> data</c><00:00:05.680><c> and</c>
+
+00:00:05.910 --> 00:00:05.920 align:start position:0%
+the benefits and usage of big data and
+ 
+
+00:00:05.920 --> 00:00:08.310 align:start position:0%
+the benefits and usage of big data and
+analytics<00:00:06.640><c> services</c>
+
+00:00:08.310 --> 00:00:08.320 align:start position:0%
+analytics services
+ 
+
+00:00:08.320 --> 00:00:10.950 align:start position:0%
+analytics services
+for<00:00:08.639><c> most</c><00:00:09.200><c> companies</c><00:00:09.840><c> i</c><00:00:09.920><c> can</c><00:00:10.080><c> think</c><00:00:10.320><c> about</c>
+
+00:00:10.950 --> 00:00:10.960 align:start position:0%
+for most companies i can think about
+ 
+
+00:00:10.960 --> 00:00:13.110 align:start position:0%
+for most companies i can think about
+there's<00:00:11.280><c> a</c><00:00:11.360><c> huge</c><00:00:11.679><c> amount</c><00:00:12.000><c> of</c><00:00:12.160><c> data</c><00:00:13.040><c> and</c>
+
+00:00:13.110 --> 00:00:13.120 align:start position:0%
+there's a huge amount of data and
+ 
+
+00:00:13.120 --> 00:00:16.550 align:start position:0%
+there's a huge amount of data and
+there's<00:00:13.360><c> a</c><00:00:13.519><c> certain</c><00:00:14.240><c> flow</c><00:00:14.719><c> to</c><00:00:14.960><c> that</c><00:00:15.280><c> data</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+there's a certain flow to that data
+ 
+
+00:00:16.560 --> 00:00:18.710 align:start position:0%
+there's a certain flow to that data
+i<00:00:16.800><c> can</c><00:00:17.199><c> think</c><00:00:17.440><c> about</c><00:00:17.840><c> well</c><00:00:18.080><c> there's</c><00:00:18.320><c> some</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+i can think about well there's some
+ 
+
+00:00:18.720 --> 00:00:20.950 align:start position:0%
+i can think about well there's some
+source
+
+00:00:20.950 --> 00:00:20.960 align:start position:0%
+source
+ 
+
+00:00:20.960 --> 00:00:22.150 align:start position:0%
+source
+likely
+
+00:00:22.150 --> 00:00:22.160 align:start position:0%
+likely
+ 
+
+00:00:22.160 --> 00:00:24.710 align:start position:0%
+likely
+many<00:00:22.560><c> sources</c><00:00:23.519><c> of</c><00:00:23.680><c> data</c>
+
+00:00:24.710 --> 00:00:24.720 align:start position:0%
+many sources of data
+ 
+
+00:00:24.720 --> 00:00:27.670 align:start position:0%
+many sources of data
+that<00:00:25.039><c> produce</c><00:00:25.680><c> data</c><00:00:26.240><c> in</c><00:00:26.400><c> different</c><00:00:26.800><c> formats</c>
+
+00:00:27.670 --> 00:00:27.680 align:start position:0%
+that produce data in different formats
+ 
+
+00:00:27.680 --> 00:00:31.269 align:start position:0%
+that produce data in different formats
+some<00:00:28.080><c> might</c><00:00:28.400><c> produce</c><00:00:29.039><c> some</c><00:00:29.439><c> big</c><00:00:29.840><c> export</c><00:00:30.320><c> file</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+some might produce some big export file
+ 
+
+00:00:31.279 --> 00:00:33.430 align:start position:0%
+some might produce some big export file
+some<00:00:31.519><c> might</c><00:00:31.840><c> be</c><00:00:32.239><c> producing</c><00:00:32.800><c> data</c><00:00:33.200><c> as</c><00:00:33.360><c> a</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+some might be producing data as a
+ 
+
+00:00:33.440 --> 00:00:35.190 align:start position:0%
+some might be producing data as a
+constant<00:00:34.079><c> stream</c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+constant stream
+ 
+
+00:00:35.200 --> 00:00:38.229 align:start position:0%
+constant stream
+but<00:00:35.360><c> i</c><00:00:35.520><c> get</c><00:00:35.760><c> all</c><00:00:36.000><c> of</c><00:00:36.079><c> these</c><00:00:36.399><c> different</c><00:00:37.120><c> flows</c>
+
+00:00:38.229 --> 00:00:38.239 align:start position:0%
+but i get all of these different flows
+ 
+
+00:00:38.239 --> 00:00:40.229 align:start position:0%
+but i get all of these different flows
+now<00:00:38.559><c> what</c><00:00:38.719><c> i</c><00:00:38.800><c> need</c><00:00:39.040><c> to</c><00:00:39.360><c> do</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+now what i need to do
+ 
+
+00:00:40.239 --> 00:00:43.510 align:start position:0%
+now what i need to do
+is<00:00:40.559><c> well</c><00:00:40.879><c> i</c><00:00:41.040><c> need</c><00:00:41.200><c> to</c><00:00:41.600><c> extract</c>
+
+00:00:43.510 --> 00:00:43.520 align:start position:0%
+is well i need to extract
+ 
+
+00:00:43.520 --> 00:00:45.190 align:start position:0%
+is well i need to extract
+that<00:00:43.840><c> data</c>
+
+00:00:45.190 --> 00:00:45.200 align:start position:0%
+that data
+ 
+
+00:00:45.200 --> 00:00:47.910 align:start position:0%
+that data
+so<00:00:45.440><c> there's</c><00:00:45.760><c> some</c><00:00:46.079><c> mechanism</c><00:00:46.719><c> to</c><00:00:47.039><c> connect</c><00:00:47.680><c> to</c>
+
+00:00:47.910 --> 00:00:47.920 align:start position:0%
+so there's some mechanism to connect to
+ 
+
+00:00:47.920 --> 00:00:49.190 align:start position:0%
+so there's some mechanism to connect to
+that<00:00:48.160><c> system</c>
+
+00:00:49.190 --> 00:00:49.200 align:start position:0%
+that system
+ 
+
+00:00:49.200 --> 00:00:50.310 align:start position:0%
+that system
+and
+
+00:00:50.310 --> 00:00:50.320 align:start position:0%
+and
+ 
+
+00:00:50.320 --> 00:00:53.430 align:start position:0%
+and
+get<00:00:50.719><c> out</c><00:00:51.360><c> the</c><00:00:51.520><c> data</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+get out the data
+ 
+
+00:00:53.440 --> 00:00:56.549 align:start position:0%
+get out the data
+now<00:00:53.760><c> you</c><00:00:53.920><c> may</c><00:00:54.079><c> have</c><00:00:54.239><c> heard</c><00:00:54.559><c> the</c><00:00:54.800><c> term</c><00:00:55.199><c> etl</c>
+
+00:00:56.549 --> 00:00:56.559 align:start position:0%
+now you may have heard the term etl
+ 
+
+00:00:56.559 --> 00:00:59.189 align:start position:0%
+now you may have heard the term etl
+extract<00:00:57.280><c> transform</c><00:00:58.079><c> load</c><00:00:58.640><c> which</c><00:00:58.879><c> is</c><00:00:59.039><c> all</c>
+
+00:00:59.189 --> 00:00:59.199 align:start position:0%
+extract transform load which is all
+ 
+
+00:00:59.199 --> 00:01:02.630 align:start position:0%
+extract transform load which is all
+about<00:00:59.520><c> that</c><00:00:59.920><c> of</c><00:01:00.480><c> idea</c><00:01:01.199><c> of</c><00:01:01.520><c> source</c><00:01:01.760><c> to</c><00:01:02.000><c> sync</c><00:01:02.399><c> hey</c>
+
+00:01:02.630 --> 00:01:02.640 align:start position:0%
+about that of idea of source to sync hey
+ 
+
+00:01:02.640 --> 00:01:04.630 align:start position:0%
+about that of idea of source to sync hey
+we<00:01:02.719><c> get</c><00:01:02.879><c> the</c><00:01:03.039><c> data</c><00:01:03.359><c> we</c><00:01:03.520><c> do</c><00:01:03.760><c> stuff</c>
+
+00:01:04.630 --> 00:01:04.640 align:start position:0%
+we get the data we do stuff
+ 
+
+00:01:04.640 --> 00:01:06.710 align:start position:0%
+we get the data we do stuff
+and<00:01:04.799><c> then</c><00:01:04.879><c> we</c><00:01:05.040><c> put</c><00:01:05.199><c> it</c><00:01:05.360><c> somewhere</c><00:01:06.159><c> to</c><00:01:06.320><c> where</c><00:01:06.560><c> we</c>
+
+00:01:06.710 --> 00:01:06.720 align:start position:0%
+and then we put it somewhere to where we
+ 
+
+00:01:06.720 --> 00:01:09.030 align:start position:0%
+and then we put it somewhere to where we
+can<00:01:06.880><c> then</c><00:01:07.040><c> perform</c><00:01:07.600><c> analysis</c><00:01:08.240><c> get</c><00:01:08.560><c> insight</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+can then perform analysis get insight
+ 
+
+00:01:09.040 --> 00:01:10.710 align:start position:0%
+can then perform analysis get insight
+about<00:01:09.280><c> the</c><00:01:09.520><c> data</c>
+
+00:01:10.710 --> 00:01:10.720 align:start position:0%
+about the data
+ 
+
+00:01:10.720 --> 00:01:13.190 align:start position:0%
+about the data
+what<00:01:10.880><c> you</c><00:01:11.119><c> might</c><00:01:11.439><c> commonly</c><00:01:12.080><c> see</c><00:01:12.400><c> today</c><00:01:13.040><c> is</c>
+
+00:01:13.190 --> 00:01:13.200 align:start position:0%
+what you might commonly see today is
+ 
+
+00:01:13.200 --> 00:01:15.910 align:start position:0%
+what you might commonly see today is
+this<00:01:13.520><c> idea</c><00:01:13.920><c> of</c><00:01:14.000><c> what</c><00:01:14.159><c> we</c><00:01:14.320><c> extract</c><00:01:14.720><c> the</c><00:01:14.960><c> data</c>
+
+00:01:15.910 --> 00:01:15.920 align:start position:0%
+this idea of what we extract the data
+ 
+
+00:01:15.920 --> 00:01:18.789 align:start position:0%
+this idea of what we extract the data
+it's<00:01:16.159><c> in</c><00:01:16.320><c> its</c><00:01:16.640><c> raw</c><00:01:17.119><c> source</c><00:01:17.520><c> format</c>
+
+00:01:18.789 --> 00:01:18.799 align:start position:0%
+it's in its raw source format
+ 
+
+00:01:18.799 --> 00:01:20.469 align:start position:0%
+it's in its raw source format
+and<00:01:19.040><c> in</c><00:01:19.119><c> the</c><00:01:19.280><c> old</c><00:01:19.439><c> days</c><00:01:19.680><c> we</c><00:01:19.840><c> would</c><00:01:20.000><c> transform</c>
+
+00:01:20.469 --> 00:01:20.479 align:start position:0%
+and in the old days we would transform
+ 
+
+00:01:20.479 --> 00:01:23.030 align:start position:0%
+and in the old days we would transform
+it<00:01:20.640><c> straight</c><00:01:20.960><c> away</c><00:01:21.680><c> so</c><00:01:21.920><c> yes</c><00:01:22.240><c> we</c><00:01:22.400><c> had</c><00:01:22.560><c> the</c><00:01:22.720><c> idea</c>
+
+00:01:23.030 --> 00:01:23.040 align:start position:0%
+it straight away so yes we had the idea
+ 
+
+00:01:23.040 --> 00:01:26.310 align:start position:0%
+it straight away so yes we had the idea
+that<00:01:23.119><c> then</c><00:01:23.280><c> we</c><00:01:23.439><c> need</c><00:01:23.600><c> to</c><00:01:23.680><c> do</c><00:01:24.080><c> transformation</c>
+
+00:01:26.310 --> 00:01:26.320 align:start position:0%
+that then we need to do transformation
+ 
+
+00:01:26.320 --> 00:01:29.109 align:start position:0%
+that then we need to do transformation
+to<00:01:26.560><c> get</c><00:01:26.720><c> it</c><00:01:26.960><c> into</c><00:01:27.360><c> a</c><00:01:27.600><c> format</c><00:01:28.159><c> that</c><00:01:28.400><c> we</c><00:01:28.640><c> can</c><00:01:28.799><c> then</c>
+
+00:01:29.109 --> 00:01:29.119 align:start position:0%
+to get it into a format that we can then
+ 
+
+00:01:29.119 --> 00:01:31.429 align:start position:0%
+to get it into a format that we can then
+store<00:01:29.920><c> that's</c><00:01:30.240><c> suitable</c><00:01:30.720><c> for</c><00:01:30.960><c> doing</c><00:01:31.200><c> that</c>
+
+00:01:31.429 --> 00:01:31.439 align:start position:0%
+store that's suitable for doing that
+ 
+
+00:01:31.439 --> 00:01:33.910 align:start position:0%
+store that's suitable for doing that
+analysis<00:01:32.159><c> however</c><00:01:33.200><c> we</c><00:01:33.360><c> did</c><00:01:33.520><c> that</c><00:01:33.759><c> because</c>
+
+00:01:33.910 --> 00:01:33.920 align:start position:0%
+analysis however we did that because
+ 
+
+00:01:33.920 --> 00:01:35.670 align:start position:0%
+analysis however we did that because
+there<00:01:34.079><c> was</c><00:01:34.159><c> a</c><00:01:34.240><c> limited</c><00:01:34.640><c> amount</c><00:01:34.960><c> of</c><00:01:35.040><c> disk</c><00:01:35.280><c> space</c>
+
+00:01:35.670 --> 00:01:35.680 align:start position:0%
+there was a limited amount of disk space
+ 
+
+00:01:35.680 --> 00:01:37.030 align:start position:0%
+there was a limited amount of disk space
+we<00:01:35.759><c> wanted</c><00:01:36.000><c> to</c><00:01:36.079><c> get</c><00:01:36.240><c> rid</c><00:01:36.400><c> of</c><00:01:36.479><c> the</c><00:01:36.640><c> stuff</c><00:01:36.880><c> we</c>
+
+00:01:37.030 --> 00:01:37.040 align:start position:0%
+we wanted to get rid of the stuff we
+ 
+
+00:01:37.040 --> 00:01:39.429 align:start position:0%
+we wanted to get rid of the stuff we
+didn't<00:01:37.360><c> need</c><00:01:37.920><c> to</c><00:01:38.079><c> just</c><00:01:38.400><c> get</c><00:01:38.560><c> the</c><00:01:38.720><c> data</c><00:01:39.040><c> we</c><00:01:39.200><c> need</c>
+
+00:01:39.429 --> 00:01:39.439 align:start position:0%
+didn't need to just get the data we need
+ 
+
+00:01:39.439 --> 00:01:42.550 align:start position:0%
+didn't need to just get the data we need
+to<00:01:39.600><c> get</c><00:01:39.840><c> the</c><00:01:40.159><c> insight</c><00:01:40.640><c> we</c><00:01:40.799><c> require</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+to get the insight we require
+ 
+
+00:01:42.560 --> 00:01:44.469 align:start position:0%
+to get the insight we require
+that's<00:01:42.720><c> not</c><00:01:42.880><c> the</c><00:01:43.200><c> same</c><00:01:43.520><c> today</c><00:01:43.840><c> today</c><00:01:44.159><c> there's</c>
+
+00:01:44.469 --> 00:01:44.479 align:start position:0%
+that's not the same today today there's
+ 
+
+00:01:44.479 --> 00:01:46.230 align:start position:0%
+that's not the same today today there's
+huge<00:01:44.720><c> amount</c><00:01:45.040><c> of</c><00:01:45.119><c> disk</c><00:01:45.360><c> space</c>
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+huge amount of disk space
+ 
+
+00:01:46.240 --> 00:01:49.270 align:start position:0%
+huge amount of disk space
+so<00:01:46.560><c> often</c><00:01:46.960><c> what</c><00:01:47.119><c> we'll</c><00:01:47.520><c> also</c><00:01:48.159><c> see</c><00:01:48.479><c> today</c><00:01:49.119><c> is</c>
+
+00:01:49.270 --> 00:01:49.280 align:start position:0%
+so often what we'll also see today is
+ 
+
+00:01:49.280 --> 00:01:52.389 align:start position:0%
+so often what we'll also see today is
+this<00:01:49.520><c> idea</c><00:01:49.920><c> that</c><00:01:50.240><c> well</c>
+
+00:01:52.389 --> 00:01:52.399 align:start position:0%
+this idea that well
+ 
+
+00:01:52.399 --> 00:01:55.670 align:start position:0%
+this idea that well
+i<00:01:52.560><c> have</c><00:01:52.799><c> a</c><00:01:52.960><c> data</c><00:01:53.360><c> lake</c>
+
+00:01:55.670 --> 00:01:55.680 align:start position:0%
+i have a data lake
+ 
+
+00:01:55.680 --> 00:01:58.149 align:start position:0%
+i have a data lake
+and<00:01:55.920><c> in</c><00:01:56.240><c> azure</c><00:01:56.560><c> this</c><00:01:56.799><c> is</c><00:01:56.880><c> the</c><00:01:57.119><c> azure</c><00:01:57.520><c> data</c><00:01:57.920><c> lake</c>
+
+00:01:58.149 --> 00:01:58.159 align:start position:0%
+and in azure this is the azure data lake
+ 
+
+00:01:58.159 --> 00:02:00.950 align:start position:0%
+and in azure this is the azure data lake
+storage<00:01:58.560><c> gen</c><00:01:58.799><c> 2</c><00:01:59.040><c> which</c><00:01:59.280><c> sits</c><00:01:59.520><c> on</c><00:01:59.680><c> top</c><00:01:59.840><c> of</c><00:02:00.000><c> blob</c>
+
+00:02:00.950 --> 00:02:00.960 align:start position:0%
+storage gen 2 which sits on top of blob
+ 
+
+00:02:00.960 --> 00:02:03.510 align:start position:0%
+storage gen 2 which sits on top of blob
+and<00:02:01.360><c> this</c><00:02:01.600><c> can</c><00:02:01.759><c> really</c><00:02:02.000><c> handle</c><00:02:02.560><c> any</c><00:02:02.880><c> type</c><00:02:03.200><c> of</c>
+
+00:02:03.510 --> 00:02:03.520 align:start position:0%
+and this can really handle any type of
+ 
+
+00:02:03.520 --> 00:02:05.910 align:start position:0%
+and this can really handle any type of
+unstructured<00:02:04.719><c> data</c>
+
+00:02:05.910 --> 00:02:05.920 align:start position:0%
+unstructured data
+ 
+
+00:02:05.920 --> 00:02:07.910 align:start position:0%
+unstructured data
+and<00:02:06.079><c> it's</c><00:02:06.719><c> actually</c><00:02:07.040><c> pretty</c><00:02:07.280><c> cheap</c><00:02:07.600><c> and</c><00:02:07.759><c> it's</c>
+
+00:02:07.910 --> 00:02:07.920 align:start position:0%
+and it's actually pretty cheap and it's
+ 
+
+00:02:07.920 --> 00:02:09.749 align:start position:0%
+and it's actually pretty cheap and it's
+near<00:02:08.160><c> infinite</c><00:02:08.640><c> in</c><00:02:08.720><c> scale</c>
+
+00:02:09.749 --> 00:02:09.759 align:start position:0%
+near infinite in scale
+ 
+
+00:02:09.759 --> 00:02:13.030 align:start position:0%
+near infinite in scale
+so<00:02:09.920><c> what</c><00:02:10.080><c> we</c><00:02:10.319><c> may</c><00:02:10.879><c> commonly</c><00:02:11.440><c> see</c><00:02:11.840><c> today</c>
+
+00:02:13.030 --> 00:02:13.040 align:start position:0%
+so what we may commonly see today
+ 
+
+00:02:13.040 --> 00:02:15.589 align:start position:0%
+so what we may commonly see today
+is<00:02:13.200><c> there's</c><00:02:13.440><c> this</c><00:02:13.840><c> also</c><00:02:14.319><c> idea</c><00:02:15.120><c> of</c><00:02:15.360><c> we'll</c>
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+is there's this also idea of we'll
+ 
+
+00:02:15.599 --> 00:02:17.430 align:start position:0%
+is there's this also idea of we'll
+actually<00:02:16.080><c> load</c><00:02:16.400><c> it</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+actually load it
+ 
+
+00:02:17.440 --> 00:02:21.270 align:start position:0%
+actually load it
+we'll<00:02:17.680><c> perform</c><00:02:18.239><c> a</c><00:02:18.480><c> store</c><00:02:19.360><c> of</c><00:02:19.599><c> that</c><00:02:20.080><c> raw</c><00:02:20.879><c> format</c>
+
+00:02:21.270 --> 00:02:21.280 align:start position:0%
+we'll perform a store of that raw format
+ 
+
+00:02:21.280 --> 00:02:24.309 align:start position:0%
+we'll perform a store of that raw format
+so<00:02:21.440><c> we're</c><00:02:21.680><c> keeping</c><00:02:22.080><c> it</c><00:02:22.239><c> in</c><00:02:22.400><c> its</c><00:02:22.800><c> raw</c><00:02:23.280><c> format</c>
+
+00:02:24.309 --> 00:02:24.319 align:start position:0%
+so we're keeping it in its raw format
+ 
+
+00:02:24.319 --> 00:02:26.470 align:start position:0%
+so we're keeping it in its raw format
+and<00:02:24.400><c> the</c><00:02:24.560><c> benefit</c><00:02:25.120><c> here</c><00:02:25.440><c> is</c><00:02:26.160><c> what</c><00:02:26.319><c> we're</c><00:02:26.400><c> going</c>
+
+00:02:26.470 --> 00:02:26.480 align:start position:0%
+and the benefit here is what we're going
+ 
+
+00:02:26.480 --> 00:02:28.550 align:start position:0%
+and the benefit here is what we're going
+to<00:02:26.560><c> do</c><00:02:26.720><c> is</c><00:02:26.800><c> transform</c><00:02:27.360><c> it</c>
+
+00:02:28.550 --> 00:02:28.560 align:start position:0%
+to do is transform it
+ 
+
+00:02:28.560 --> 00:02:30.470 align:start position:0%
+to do is transform it
+so<00:02:28.720><c> we</c><00:02:28.800><c> can</c><00:02:28.959><c> actually</c><00:02:29.360><c> go</c><00:02:29.840><c> through</c><00:02:30.239><c> and</c>
+
+00:02:30.470 --> 00:02:30.480 align:start position:0%
+so we can actually go through and
+ 
+
+00:02:30.480 --> 00:02:32.869 align:start position:0%
+so we can actually go through and
+transform<00:02:31.280><c> that</c><00:02:31.519><c> data</c>
+
+00:02:32.869 --> 00:02:32.879 align:start position:0%
+transform that data
+ 
+
+00:02:32.879 --> 00:02:35.670 align:start position:0%
+transform that data
+so<00:02:33.040><c> i</c><00:02:33.120><c> can</c><00:02:33.280><c> come</c><00:02:33.440><c> from</c><00:02:33.599><c> there</c><00:02:33.840><c> we</c><00:02:33.920><c> can</c><00:02:34.080><c> carry</c><00:02:34.480><c> on</c>
+
+00:02:35.670 --> 00:02:35.680 align:start position:0%
+so i can come from there we can carry on
+ 
+
+00:02:35.680 --> 00:02:37.430 align:start position:0%
+so i can come from there we can carry on
+we'll<00:02:35.920><c> remove</c><00:02:36.400><c> bits</c><00:02:36.720><c> we'll</c><00:02:37.040><c> change</c><00:02:37.280><c> the</c>
+
+00:02:37.430 --> 00:02:37.440 align:start position:0%
+we'll remove bits we'll change the
+ 
+
+00:02:37.440 --> 00:02:38.710 align:start position:0%
+we'll remove bits we'll change the
+formatting
+
+00:02:38.710 --> 00:02:38.720 align:start position:0%
+formatting
+ 
+
+00:02:38.720 --> 00:02:40.949 align:start position:0%
+formatting
+but<00:02:39.280><c> maybe</c><00:02:39.599><c> i</c><00:02:39.680><c> get</c><00:02:39.920><c> rid</c><00:02:40.080><c> of</c><00:02:40.239><c> stuff</c><00:02:40.560><c> that's</c>
+
+00:02:40.949 --> 00:02:40.959 align:start position:0%
+but maybe i get rid of stuff that's
+ 
+
+00:02:40.959 --> 00:02:43.030 align:start position:0%
+but maybe i get rid of stuff that's
+actually<00:02:41.360><c> useful</c><00:02:41.920><c> for</c><00:02:42.080><c> some</c><00:02:42.400><c> query</c><00:02:42.800><c> that</c><00:02:42.959><c> i</c>
+
+00:02:43.030 --> 00:02:43.040 align:start position:0%
+actually useful for some query that i
+ 
+
+00:02:43.040 --> 00:02:45.270 align:start position:0%
+actually useful for some query that i
+don't<00:02:43.280><c> yet</c><00:02:43.599><c> know</c><00:02:43.840><c> i</c><00:02:43.920><c> want</c><00:02:44.160><c> to</c><00:02:44.319><c> run</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+don't yet know i want to run
+ 
+
+00:02:45.280 --> 00:02:48.550 align:start position:0%
+don't yet know i want to run
+by<00:02:45.680><c> keeping</c><00:02:46.080><c> the</c><00:02:46.239><c> data</c><00:02:46.720><c> in</c><00:02:46.879><c> its</c><00:02:47.200><c> raw</c><00:02:47.760><c> format</c><00:02:48.400><c> in</c>
+
+00:02:48.550 --> 00:02:48.560 align:start position:0%
+by keeping the data in its raw format in
+ 
+
+00:02:48.560 --> 00:02:50.470 align:start position:0%
+by keeping the data in its raw format in
+that<00:02:48.959><c> data</c><00:02:49.360><c> lake</c>
+
+00:02:50.470 --> 00:02:50.480 align:start position:0%
+that data lake
+ 
+
+00:02:50.480 --> 00:02:52.309 align:start position:0%
+that data lake
+i<00:02:50.640><c> can</c><00:02:50.800><c> always</c><00:02:50.959><c> come</c><00:02:51.200><c> back</c><00:02:51.440><c> to</c><00:02:51.599><c> it</c><00:02:51.760><c> at</c><00:02:51.920><c> a</c><00:02:51.920><c> later</c>
+
+00:02:52.309 --> 00:02:52.319 align:start position:0%
+i can always come back to it at a later
+ 
+
+00:02:52.319 --> 00:02:54.949 align:start position:0%
+i can always come back to it at a later
+time<00:02:53.200><c> extract</c><00:02:53.760><c> the</c><00:02:53.920><c> data</c><00:02:54.319><c> and</c><00:02:54.400><c> transform</c><00:02:54.879><c> it</c>
+
+00:02:54.949 --> 00:02:54.959 align:start position:0%
+time extract the data and transform it
+ 
+
+00:02:54.959 --> 00:02:57.430 align:start position:0%
+time extract the data and transform it
+in<00:02:55.120><c> a</c><00:02:55.360><c> different</c><00:02:55.840><c> way</c><00:02:56.560><c> so</c><00:02:56.720><c> i</c><00:02:56.800><c> could</c><00:02:56.959><c> then</c><00:02:57.120><c> get</c>
+
+00:02:57.430 --> 00:02:57.440 align:start position:0%
+in a different way so i could then get
+ 
+
+00:02:57.440 --> 00:03:00.390 align:start position:0%
+in a different way so i could then get
+different<00:02:57.840><c> amounts</c><00:02:58.239><c> of</c><00:02:58.560><c> insight</c>
+
+00:03:00.390 --> 00:03:00.400 align:start position:0%
+different amounts of insight
+ 
+
+00:03:00.400 --> 00:03:02.790 align:start position:0%
+different amounts of insight
+so<00:03:00.560><c> that's</c><00:03:00.800><c> a</c><00:03:00.959><c> common</c><00:03:01.440><c> thing</c><00:03:01.840><c> extract</c><00:03:02.400><c> load</c>
+
+00:03:02.790 --> 00:03:02.800 align:start position:0%
+so that's a common thing extract load
+ 
+
+00:03:02.800 --> 00:03:04.390 align:start position:0%
+so that's a common thing extract load
+transform<00:03:03.360><c> and</c><00:03:03.440><c> then</c><00:03:03.599><c> we'll</c><00:03:04.000><c> load</c><00:03:04.239><c> it</c>
+
+00:03:04.390 --> 00:03:04.400 align:start position:0%
+transform and then we'll load it
+ 
+
+00:03:04.400 --> 00:03:05.910 align:start position:0%
+transform and then we'll load it
+somewhere<00:03:04.800><c> else</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+somewhere else
+ 
+
+00:03:05.920 --> 00:03:08.149 align:start position:0%
+somewhere else
+so<00:03:06.080><c> what</c><00:03:06.239><c> is</c><00:03:06.560><c> transform</c><00:03:07.360><c> so</c><00:03:07.519><c> the</c><00:03:07.680><c> idea</c><00:03:07.920><c> of</c><00:03:08.000><c> the</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+so what is transform so the idea of the
+ 
+
+00:03:08.159 --> 00:03:11.509 align:start position:0%
+so what is transform so the idea of the
+transform<00:03:08.879><c> is</c><00:03:09.120><c> well</c><00:03:09.280><c> we</c><00:03:09.440><c> had</c><00:03:09.599><c> this</c><00:03:10.080><c> raw</c><00:03:10.560><c> data</c>
+
+00:03:11.509 --> 00:03:11.519 align:start position:0%
+transform is well we had this raw data
+ 
+
+00:03:11.519 --> 00:03:13.830 align:start position:0%
+transform is well we had this raw data
+that's<00:03:11.760><c> likely</c><00:03:12.239><c> not</c><00:03:12.480><c> in</c><00:03:12.640><c> the</c><00:03:12.720><c> right</c><00:03:13.040><c> format</c>
+
+00:03:13.830 --> 00:03:13.840 align:start position:0%
+that's likely not in the right format
+ 
+
+00:03:13.840 --> 00:03:16.070 align:start position:0%
+that's likely not in the right format
+and<00:03:13.920><c> there</c><00:03:14.080><c> may</c><00:03:14.319><c> be</c><00:03:14.720><c> junk</c><00:03:15.120><c> in</c><00:03:15.200><c> there</c>
+
+00:03:16.070 --> 00:03:16.080 align:start position:0%
+and there may be junk in there
+ 
+
+00:03:16.080 --> 00:03:18.470 align:start position:0%
+and there may be junk in there
+i<00:03:16.239><c> can</c><00:03:16.480><c> think</c><00:03:16.720><c> about</c><00:03:17.040><c> the</c><00:03:17.280><c> idea</c><00:03:17.680><c> that</c><00:03:17.920><c> well</c>
+
+00:03:18.470 --> 00:03:18.480 align:start position:0%
+i can think about the idea that well
+ 
+
+00:03:18.480 --> 00:03:20.390 align:start position:0%
+i can think about the idea that well
+there's<00:03:18.800><c> things</c><00:03:19.120><c> in</c><00:03:19.280><c> that</c><00:03:19.440><c> data</c><00:03:19.760><c> that's</c><00:03:20.000><c> maybe</c>
+
+00:03:20.390 --> 00:03:20.400 align:start position:0%
+there's things in that data that's maybe
+ 
+
+00:03:20.400 --> 00:03:23.270 align:start position:0%
+there's things in that data that's maybe
+missing<00:03:20.879><c> certain</c><00:03:21.440><c> fields</c><00:03:22.400><c> that's</c><00:03:22.640><c> maybe</c><00:03:22.959><c> got</c>
+
+00:03:23.270 --> 00:03:23.280 align:start position:0%
+missing certain fields that's maybe got
+ 
+
+00:03:23.280 --> 00:03:25.990 align:start position:0%
+missing certain fields that's maybe got
+duplicate<00:03:23.920><c> data</c><00:03:24.720><c> and</c><00:03:25.040><c> i</c><00:03:25.200><c> don't</c><00:03:25.360><c> really</c><00:03:25.760><c> want</c>
+
+00:03:25.990 --> 00:03:26.000 align:start position:0%
+duplicate data and i don't really want
+ 
+
+00:03:26.000 --> 00:03:27.190 align:start position:0%
+duplicate data and i don't really want
+that
+
+00:03:27.190 --> 00:03:27.200 align:start position:0%
+that
+ 
+
+00:03:27.200 --> 00:03:29.509 align:start position:0%
+that
+so<00:03:27.360><c> when</c><00:03:27.519><c> i</c><00:03:27.599><c> think</c><00:03:27.760><c> about</c><00:03:28.159><c> transform</c>
+
+00:03:29.509 --> 00:03:29.519 align:start position:0%
+so when i think about transform
+ 
+
+00:03:29.519 --> 00:03:31.430 align:start position:0%
+so when i think about transform
+we<00:03:29.760><c> think</c><00:03:30.080><c> about</c><00:03:30.400><c> the</c><00:03:30.640><c> actions</c><00:03:31.120><c> we're</c><00:03:31.280><c> going</c>
+
+00:03:31.430 --> 00:03:31.440 align:start position:0%
+we think about the actions we're going
+ 
+
+00:03:31.440 --> 00:03:34.149 align:start position:0%
+we think about the actions we're going
+to<00:03:31.519><c> perform</c><00:03:32.319><c> is</c><00:03:32.879><c> cleaning</c>
+
+00:03:34.149 --> 00:03:34.159 align:start position:0%
+to perform is cleaning
+ 
+
+00:03:34.159 --> 00:03:37.589 align:start position:0%
+to perform is cleaning
+so<00:03:34.400><c> i</c><00:03:34.480><c> can</c><00:03:34.640><c> think</c><00:03:34.959><c> hey</c><00:03:35.280><c> i</c><00:03:35.360><c> want</c><00:03:35.599><c> to</c><00:03:35.920><c> clean</c><00:03:36.480><c> up</c>
+
+00:03:37.589 --> 00:03:37.599 align:start position:0%
+so i can think hey i want to clean up
+ 
+
+00:03:37.599 --> 00:03:39.030 align:start position:0%
+so i can think hey i want to clean up
+the<00:03:37.840><c> data</c>
+
+00:03:39.030 --> 00:03:39.040 align:start position:0%
+the data
+ 
+
+00:03:39.040 --> 00:03:41.110 align:start position:0%
+the data
+so<00:03:39.200><c> that's</c><00:03:39.440><c> about</c><00:03:39.680><c> getting</c><00:03:40.080><c> rid</c><00:03:40.319><c> of</c><00:03:40.560><c> those</c>
+
+00:03:41.110 --> 00:03:41.120 align:start position:0%
+so that's about getting rid of those
+ 
+
+00:03:41.120 --> 00:03:43.670 align:start position:0%
+so that's about getting rid of those
+records<00:03:41.519><c> that</c><00:03:41.599><c> are</c><00:03:41.760><c> missing</c><00:03:42.080><c> values</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+records that are missing values
+ 
+
+00:03:43.680 --> 00:03:45.830 align:start position:0%
+records that are missing values
+reformatting<00:03:44.560><c> values</c><00:03:44.959><c> so</c><00:03:45.120><c> the</c><00:03:45.200><c> data</c><00:03:45.519><c> is</c><00:03:45.599><c> in</c><00:03:45.680><c> a</c>
+
+00:03:45.830 --> 00:03:45.840 align:start position:0%
+reformatting values so the data is in a
+ 
+
+00:03:45.840 --> 00:03:48.229 align:start position:0%
+reformatting values so the data is in a
+valid<00:03:46.080><c> maybe</c><00:03:46.319><c> it's</c><00:03:46.400><c> a</c><00:03:46.480><c> certain</c><00:03:46.799><c> date</c><00:03:47.040><c> format</c>
+
+00:03:48.229 --> 00:03:48.239 align:start position:0%
+valid maybe it's a certain date format
+ 
+
+00:03:48.239 --> 00:03:50.949 align:start position:0%
+valid maybe it's a certain date format
+about<00:03:48.640><c> deduplicating</c><00:03:49.599><c> the</c><00:03:49.680><c> data</c>
+
+00:03:50.949 --> 00:03:50.959 align:start position:0%
+about deduplicating the data
+ 
+
+00:03:50.959 --> 00:03:53.270 align:start position:0%
+about deduplicating the data
+and<00:03:51.280><c> then</c><00:03:51.599><c> what</c><00:03:51.760><c> i'll</c><00:03:52.000><c> actually</c><00:03:52.480><c> do</c><00:03:52.879><c> is</c>
+
+00:03:53.270 --> 00:03:53.280 align:start position:0%
+and then what i'll actually do is
+ 
+
+00:03:53.280 --> 00:03:55.910 align:start position:0%
+and then what i'll actually do is
+wrangle<00:03:54.319><c> the</c><00:03:54.480><c> data</c>
+
+00:03:55.910 --> 00:03:55.920 align:start position:0%
+wrangle the data
+ 
+
+00:03:55.920 --> 00:03:58.869 align:start position:0%
+wrangle the data
+and<00:03:56.080><c> that's</c><00:03:56.480><c> about</c><00:03:56.959><c> now</c><00:03:57.519><c> transforming</c><00:03:58.480><c> that</c>
+
+00:03:58.869 --> 00:03:58.879 align:start position:0%
+and that's about now transforming that
+ 
+
+00:03:58.879 --> 00:04:02.149 align:start position:0%
+and that's about now transforming that
+data<00:04:00.239><c> and</c><00:04:00.400><c> get</c><00:04:00.640><c> it</c><00:04:00.879><c> into</c><00:04:01.120><c> a</c><00:04:01.280><c> format</c><00:04:01.680><c> that</c><00:04:01.840><c> i</c><00:04:02.000><c> can</c>
+
+00:04:02.149 --> 00:04:02.159 align:start position:0%
+data and get it into a format that i can
+ 
+
+00:04:02.159 --> 00:04:04.949 align:start position:0%
+data and get it into a format that i can
+use<00:04:02.640><c> in</c><00:04:02.799><c> the</c><00:04:02.959><c> desired</c><00:04:03.760><c> model</c>
+
+00:04:04.949 --> 00:04:04.959 align:start position:0%
+use in the desired model
+ 
+
+00:04:04.959 --> 00:04:06.470 align:start position:0%
+use in the desired model
+so<00:04:05.120><c> we're</c><00:04:05.280><c> going</c><00:04:05.439><c> to</c><00:04:05.599><c> transform</c><00:04:06.080><c> it</c><00:04:06.159><c> get</c><00:04:06.400><c> it</c>
+
+00:04:06.470 --> 00:04:06.480 align:start position:0%
+so we're going to transform it get it
+ 
+
+00:04:06.480 --> 00:04:11.030 align:start position:0%
+so we're going to transform it get it
+into<00:04:06.720><c> a</c><00:04:06.799><c> new</c><00:04:07.040><c> format</c><00:04:07.840><c> and</c><00:04:07.920><c> then</c><00:04:08.319><c> absolutely</c>
+
+00:04:11.030 --> 00:04:11.040 align:start position:0%
+into a new format and then absolutely
+ 
+
+00:04:11.040 --> 00:04:13.509 align:start position:0%
+into a new format and then absolutely
+we'll<00:04:11.200><c> then</c><00:04:11.439><c> take</c><00:04:11.680><c> that</c><00:04:12.080><c> new</c><00:04:12.400><c> structure</c><00:04:13.280><c> and</c>
+
+00:04:13.509 --> 00:04:13.519 align:start position:0%
+we'll then take that new structure and
+ 
+
+00:04:13.519 --> 00:04:15.589 align:start position:0%
+we'll then take that new structure and
+load<00:04:13.840><c> it</c><00:04:14.000><c> into</c><00:04:14.239><c> something</c><00:04:15.040><c> we'll</c><00:04:15.200><c> load</c><00:04:15.439><c> it</c>
+
+00:04:15.589 --> 00:04:15.599 align:start position:0%
+load it into something we'll load it
+ 
+
+00:04:15.599 --> 00:04:17.349 align:start position:0%
+load it into something we'll load it
+into<00:04:15.840><c> the</c><00:04:16.079><c> sync</c>
+
+00:04:17.349 --> 00:04:17.359 align:start position:0%
+into the sync
+ 
+
+00:04:17.359 --> 00:04:20.150 align:start position:0%
+into the sync
+and<00:04:17.519><c> that</c><00:04:17.759><c> could</c><00:04:18.079><c> be</c><00:04:18.400><c> for</c><00:04:18.639><c> example</c><00:04:19.280><c> a</c><00:04:19.600><c> sql</c>
+
+00:04:20.150 --> 00:04:20.160 align:start position:0%
+and that could be for example a sql
+ 
+
+00:04:20.160 --> 00:04:21.430 align:start position:0%
+and that could be for example a sql
+database
+
+00:04:21.430 --> 00:04:21.440 align:start position:0%
+database
+ 
+
+00:04:21.440 --> 00:04:23.510 align:start position:0%
+database
+it<00:04:21.519><c> could</c><00:04:21.680><c> be</c><00:04:21.840><c> a</c><00:04:21.919><c> data</c><00:04:22.320><c> warehouse</c><00:04:22.880><c> it</c><00:04:23.040><c> could</c><00:04:23.199><c> be</c>
+
+00:04:23.510 --> 00:04:23.520 align:start position:0%
+it could be a data warehouse it could be
+ 
+
+00:04:23.520 --> 00:04:26.550 align:start position:0%
+it could be a data warehouse it could be
+cosmos<00:04:24.160><c> db</c>
+
+00:04:26.550 --> 00:04:26.560 align:start position:0%
+cosmos db
+ 
+
+00:04:26.560 --> 00:04:29.310 align:start position:0%
+cosmos db
+something<00:04:27.120><c> where</c><00:04:27.440><c> i</c><00:04:27.680><c> can</c><00:04:28.080><c> now</c>
+
+00:04:29.310 --> 00:04:29.320 align:start position:0%
+something where i can now
+ 
+
+00:04:29.320 --> 00:04:32.469 align:start position:0%
+something where i can now
+fundamentally<00:04:30.400><c> perform</c>
+
+00:04:32.469 --> 00:04:32.479 align:start position:0%
+fundamentally perform
+ 
+
+00:04:32.479 --> 00:04:35.110 align:start position:0%
+fundamentally perform
+my<00:04:32.800><c> various</c><00:04:33.520><c> analysis</c>
+
+00:04:35.110 --> 00:04:35.120 align:start position:0%
+my various analysis
+ 
+
+00:04:35.120 --> 00:04:36.870 align:start position:0%
+my various analysis
+that's<00:04:35.440><c> going</c><00:04:35.520><c> to</c><00:04:35.600><c> give</c><00:04:35.840><c> me</c><00:04:36.000><c> the</c><00:04:36.240><c> insight</c><00:04:36.720><c> and</c>
+
+00:04:36.870 --> 00:04:36.880 align:start position:0%
+that's going to give me the insight and
+ 
+
+00:04:36.880 --> 00:04:38.629 align:start position:0%
+that's going to give me the insight and
+answer<00:04:37.120><c> those</c><00:04:37.360><c> business</c><00:04:37.840><c> questions</c><00:04:38.320><c> which</c><00:04:38.479><c> is</c>
+
+00:04:38.629 --> 00:04:38.639 align:start position:0%
+answer those business questions which is
+ 
+
+00:04:38.639 --> 00:04:40.150 align:start position:0%
+answer those business questions which is
+the<00:04:38.800><c> whole</c><00:04:39.120><c> point</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+the whole point
+ 
+
+00:04:40.160 --> 00:04:43.270 align:start position:0%
+the whole point
+of<00:04:40.479><c> having</c><00:04:41.040><c> this</c><00:04:41.360><c> set</c><00:04:41.600><c> of</c><00:04:41.840><c> data</c><00:04:42.720><c> so</c><00:04:42.880><c> if</c><00:04:43.040><c> i</c><00:04:43.120><c> think</c>
+
+00:04:43.270 --> 00:04:43.280 align:start position:0%
+of having this set of data so if i think
+ 
+
+00:04:43.280 --> 00:04:45.830 align:start position:0%
+of having this set of data so if i think
+about<00:04:43.520><c> that</c><00:04:43.759><c> entire</c><00:04:44.560><c> thing</c>
+
+00:04:45.830 --> 00:04:45.840 align:start position:0%
+about that entire thing
+ 
+
+00:04:45.840 --> 00:04:48.070 align:start position:0%
+about that entire thing
+what's<00:04:46.080><c> there's</c><00:04:46.320><c> a</c><00:04:46.400><c> certain</c><00:04:46.840><c> orchestration</c>
+
+00:04:48.070 --> 00:04:48.080 align:start position:0%
+what's there's a certain orchestration
+ 
+
+00:04:48.080 --> 00:04:50.070 align:start position:0%
+what's there's a certain orchestration
+that<00:04:48.320><c> has</c><00:04:48.560><c> to</c><00:04:48.720><c> happen</c><00:04:49.120><c> for</c><00:04:49.280><c> that</c>
+
+00:04:50.070 --> 00:04:50.080 align:start position:0%
+that has to happen for that
+ 
+
+00:04:50.080 --> 00:04:52.870 align:start position:0%
+that has to happen for that
+so<00:04:50.240><c> if</c><00:04:50.320><c> i</c><00:04:50.400><c> think</c><00:04:50.560><c> of</c><00:04:50.880><c> azure</c><00:04:51.440><c> services</c>
+
+00:04:52.870 --> 00:04:52.880 align:start position:0%
+so if i think of azure services
+ 
+
+00:04:52.880 --> 00:04:53.909 align:start position:0%
+so if i think of azure services
+well
+
+00:04:53.909 --> 00:04:53.919 align:start position:0%
+well
+ 
+
+00:04:53.919 --> 00:04:55.590 align:start position:0%
+well
+there's<00:04:54.160><c> this</c><00:04:54.479><c> idea</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+there's this idea
+ 
+
+00:04:55.600 --> 00:04:58.390 align:start position:0%
+there's this idea
+of<00:04:55.759><c> an</c><00:04:56.080><c> orchestration</c>
+
+00:04:58.390 --> 00:04:58.400 align:start position:0%
+of an orchestration
+ 
+
+00:04:58.400 --> 00:05:04.950 align:start position:0%
+of an orchestration
+so<00:04:58.639><c> something</c><00:04:59.360><c> has</c><00:04:59.600><c> to</c><00:04:59.840><c> happen</c>
+
+00:05:04.950 --> 00:05:04.960 align:start position:0%
+ 
+ 
+
+00:05:04.960 --> 00:05:06.870 align:start position:0%
+ 
+to<00:05:05.120><c> do</c><00:05:05.360><c> that</c><00:05:05.600><c> to</c><00:05:05.759><c> connect</c><00:05:06.080><c> to</c><00:05:06.240><c> the</c><00:05:06.320><c> system</c><00:05:06.720><c> to</c>
+
+00:05:06.870 --> 00:05:06.880 align:start position:0%
+to do that to connect to the system to
+ 
+
+00:05:06.880 --> 00:05:09.029 align:start position:0%
+to do that to connect to the system to
+extract<00:05:07.280><c> it</c><00:05:07.520><c> to</c><00:05:07.759><c> call</c><00:05:08.080><c> something</c><00:05:08.479><c> to</c><00:05:08.639><c> do</c><00:05:08.800><c> the</c>
+
+00:05:09.029 --> 00:05:09.039 align:start position:0%
+extract it to call something to do the
+ 
+
+00:05:09.039 --> 00:05:12.230 align:start position:0%
+extract it to call something to do the
+transform<00:05:09.919><c> put</c><00:05:10.160><c> it</c><00:05:10.240><c> in</c><00:05:10.400><c> a</c><00:05:10.479><c> data</c><00:05:10.880><c> lake</c><00:05:11.199><c> load</c><00:05:11.600><c> it</c>
+
+00:05:12.230 --> 00:05:12.240 align:start position:0%
+transform put it in a data lake load it
+ 
+
+00:05:12.240 --> 00:05:13.670 align:start position:0%
+transform put it in a data lake load it
+and<00:05:12.400><c> so</c><00:05:12.560><c> this</c><00:05:12.880><c> is</c>
+
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+and so this is
+ 
+
+00:05:13.680 --> 00:05:17.029 align:start position:0%
+and so this is
+azure<00:05:14.240><c> data</c><00:05:14.639><c> factory</c>
+
+00:05:17.029 --> 00:05:17.039 align:start position:0%
+azure data factory
+ 
+
+00:05:17.039 --> 00:05:20.310 align:start position:0%
+azure data factory
+so<00:05:17.360><c> azure</c><00:05:17.759><c> data</c><00:05:18.320><c> factory</c><00:05:19.120><c> is</c><00:05:19.360><c> that</c><00:05:19.680><c> idea</c><00:05:20.240><c> of</c>
+
+00:05:20.310 --> 00:05:20.320 align:start position:0%
+so azure data factory is that idea of
+ 
+
+00:05:20.320 --> 00:05:22.950 align:start position:0%
+so azure data factory is that idea of
+this<00:05:20.800><c> source</c><00:05:21.039><c> to</c><00:05:21.280><c> sync</c><00:05:22.080><c> managing</c><00:05:22.639><c> that</c>
+
+00:05:22.950 --> 00:05:22.960 align:start position:0%
+this source to sync managing that
+ 
+
+00:05:22.960 --> 00:05:26.629 align:start position:0%
+this source to sync managing that
+complete<00:05:23.600><c> data</c><00:05:24.080><c> flow</c>
+
+00:05:26.629 --> 00:05:26.639 align:start position:0%
+ 
+ 
+
+00:05:26.639 --> 00:05:28.950 align:start position:0%
+ 
+so<00:05:26.800><c> that's</c><00:05:27.120><c> data</c><00:05:27.600><c> factory</c>
+
+00:05:28.950 --> 00:05:28.960 align:start position:0%
+so that's data factory
+ 
+
+00:05:28.960 --> 00:05:30.310 align:start position:0%
+so that's data factory
+in<00:05:29.039><c> terms</c><00:05:29.280><c> of</c><00:05:29.360><c> the</c><00:05:29.520><c> orchestration</c><00:05:30.160><c> that's</c>
+
+00:05:30.310 --> 00:05:30.320 align:start position:0%
+in terms of the orchestration that's
+ 
+
+00:05:30.320 --> 00:05:32.710 align:start position:0%
+in terms of the orchestration that's
+what<00:05:30.479><c> data</c><00:05:30.800><c> factory</c><00:05:31.199><c> does</c><00:05:31.440><c> it</c><00:05:31.600><c> has</c><00:05:31.759><c> some</c><00:05:32.080><c> basic</c>
+
+00:05:32.710 --> 00:05:32.720 align:start position:0%
+what data factory does it has some basic
+ 
+
+00:05:32.720 --> 00:05:35.189 align:start position:0%
+what data factory does it has some basic
+native<00:05:33.120><c> transformation</c><00:05:33.840><c> capabilities</c><00:05:34.960><c> but</c>
+
+00:05:35.189 --> 00:05:35.199 align:start position:0%
+native transformation capabilities but
+ 
+
+00:05:35.199 --> 00:05:37.990 align:start position:0%
+native transformation capabilities but
+it's<00:05:35.360><c> really</c><00:05:35.680><c> about</c><00:05:35.919><c> that</c><00:05:36.400><c> end</c><00:05:36.720><c> to</c><00:05:37.039><c> end</c><00:05:37.600><c> flow</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+it's really about that end to end flow
+ 
+
+00:05:38.000 --> 00:05:39.749 align:start position:0%
+it's really about that end to end flow
+of<00:05:38.080><c> the</c><00:05:38.240><c> data</c>
+
+00:05:39.749 --> 00:05:39.759 align:start position:0%
+of the data
+ 
+
+00:05:39.759 --> 00:05:41.189 align:start position:0%
+of the data
+well<00:05:40.000><c> what</c><00:05:40.240><c> about</c>
+
+00:05:41.189 --> 00:05:41.199 align:start position:0%
+well what about
+ 
+
+00:05:41.199 --> 00:05:43.909 align:start position:0%
+well what about
+these<00:05:41.440><c> kind</c><00:05:41.680><c> of</c><00:05:42.320><c> rich</c><00:05:42.880><c> transformation</c>
+
+00:05:43.909 --> 00:05:43.919 align:start position:0%
+these kind of rich transformation
+ 
+
+00:05:43.919 --> 00:05:45.029 align:start position:0%
+these kind of rich transformation
+services
+
+00:05:45.029 --> 00:05:45.039 align:start position:0%
+services
+ 
+
+00:05:45.039 --> 00:05:46.550 align:start position:0%
+services
+so<00:05:45.199><c> there's</c><00:05:45.520><c> actually</c><00:05:45.919><c> a</c><00:05:46.080><c> number</c><00:05:46.400><c> of</c>
+
+00:05:46.550 --> 00:05:46.560 align:start position:0%
+so there's actually a number of
+ 
+
+00:05:46.560 --> 00:05:49.110 align:start position:0%
+so there's actually a number of
+different<00:05:46.960><c> services</c><00:05:47.440><c> in</c><00:05:47.759><c> azure</c><00:05:48.320><c> around</c>
+
+00:05:49.110 --> 00:05:49.120 align:start position:0%
+different services in azure around
+ 
+
+00:05:49.120 --> 00:05:51.749 align:start position:0%
+different services in azure around
+performing<00:05:49.680><c> this</c><00:05:50.000><c> transformation</c>
+
+00:05:51.749 --> 00:05:51.759 align:start position:0%
+performing this transformation
+ 
+
+00:05:51.759 --> 00:05:53.909 align:start position:0%
+performing this transformation
+so<00:05:52.000><c> the</c><00:05:52.160><c> first</c><00:05:52.639><c> key</c><00:05:52.960><c> service</c><00:05:53.440><c> you're</c><00:05:53.680><c> going</c><00:05:53.840><c> to</c>
+
+00:05:53.909 --> 00:05:53.919 align:start position:0%
+so the first key service you're going to
+ 
+
+00:05:53.919 --> 00:05:55.749 align:start position:0%
+so the first key service you're going to
+hear<00:05:54.240><c> about</c>
+
+00:05:55.749 --> 00:05:55.759 align:start position:0%
+hear about
+ 
+
+00:05:55.759 --> 00:05:57.270 align:start position:0%
+hear about
+is<00:05:56.080><c> hd</c>
+
+00:05:57.270 --> 00:05:57.280 align:start position:0%
+is hd
+ 
+
+00:05:57.280 --> 00:06:00.550 align:start position:0%
+is hd
+insight
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+ 
+ 
+
+00:06:00.560 --> 00:06:03.590 align:start position:0%
+ 
+now<00:06:00.880><c> hd</c><00:06:01.520><c> insight</c><00:06:02.479><c> provides</c><00:06:03.120><c> a</c><00:06:03.199><c> number</c><00:06:03.440><c> of</c>
+
+00:06:03.590 --> 00:06:03.600 align:start position:0%
+now hd insight provides a number of
+ 
+
+00:06:03.600 --> 00:06:07.189 align:start position:0%
+now hd insight provides a number of
+different<00:06:04.000><c> open</c><00:06:04.560><c> source</c><00:06:04.960><c> analytics</c><00:06:05.600><c> services</c>
+
+00:06:07.189 --> 00:06:07.199 align:start position:0%
+different open source analytics services
+ 
+
+00:06:07.199 --> 00:06:09.590 align:start position:0%
+different open source analytics services
+and<00:06:07.680><c> with</c><00:06:08.000><c> those</c><00:06:08.479><c> they</c><00:06:08.800><c> integrate</c><00:06:09.280><c> very</c>
+
+00:06:09.590 --> 00:06:09.600 align:start position:0%
+and with those they integrate very
+ 
+
+00:06:09.600 --> 00:06:11.110 align:start position:0%
+and with those they integrate very
+easily<00:06:10.240><c> to</c>
+
+00:06:11.110 --> 00:06:11.120 align:start position:0%
+easily to
+ 
+
+00:06:11.120 --> 00:06:12.629 align:start position:0%
+easily to
+a<00:06:11.199><c> lot</c><00:06:11.360><c> of</c><00:06:11.440><c> these</c><00:06:11.600><c> servers</c><00:06:11.919><c> it's</c><00:06:12.080><c> a</c><00:06:12.240><c> managed</c>
+
+00:06:12.629 --> 00:06:12.639 align:start position:0%
+a lot of these servers it's a managed
+ 
+
+00:06:12.639 --> 00:06:14.390 align:start position:0%
+a lot of these servers it's a managed
+service<00:06:12.960><c> for</c><00:06:13.120><c> you</c><00:06:13.280><c> so</c><00:06:13.360><c> i'm</c><00:06:13.440><c> not</c><00:06:13.600><c> worried</c><00:06:13.919><c> about</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+service for you so i'm not worried about
+ 
+
+00:06:14.400 --> 00:06:16.790 align:start position:0%
+service for you so i'm not worried about
+installing<00:06:15.120><c> any</c><00:06:15.360><c> of</c><00:06:15.440><c> these</c><00:06:15.680><c> particular</c><00:06:16.479><c> open</c>
+
+00:06:16.790 --> 00:06:16.800 align:start position:0%
+installing any of these particular open
+ 
+
+00:06:16.800 --> 00:06:18.629 align:start position:0%
+installing any of these particular open
+source<00:06:17.039><c> analytics</c><00:06:17.520><c> services</c>
+
+00:06:18.629 --> 00:06:18.639 align:start position:0%
+source analytics services
+ 
+
+00:06:18.639 --> 00:06:19.990 align:start position:0%
+source analytics services
+but<00:06:18.800><c> it's</c><00:06:18.960><c> going</c><00:06:19.039><c> to</c><00:06:19.120><c> provide</c><00:06:19.440><c> me</c><00:06:19.600><c> that</c>
+
+00:06:19.990 --> 00:06:20.000 align:start position:0%
+but it's going to provide me that
+ 
+
+00:06:20.000 --> 00:06:23.430 align:start position:0%
+but it's going to provide me that
+framework<00:06:21.280><c> so</c><00:06:21.759><c> i</c><00:06:21.919><c> can</c><00:06:22.080><c> then</c><00:06:22.319><c> enable</c><00:06:23.199><c> these</c>
+
+00:06:23.430 --> 00:06:23.440 align:start position:0%
+framework so i can then enable these
+ 
+
+00:06:23.440 --> 00:06:26.870 align:start position:0%
+framework so i can then enable these
+kind<00:06:23.600><c> of</c><00:06:23.840><c> etl</c><00:06:24.880><c> type</c><00:06:25.199><c> solutions</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+kind of etl type solutions
+ 
+
+00:06:26.880 --> 00:06:29.830 align:start position:0%
+kind of etl type solutions
+now<00:06:27.600><c> there's</c><00:06:27.840><c> a</c><00:06:27.919><c> broad</c><00:06:28.319><c> range</c><00:06:28.720><c> of</c><00:06:28.960><c> hdinsight</c>
+
+00:06:29.830 --> 00:06:29.840 align:start position:0%
+now there's a broad range of hdinsight
+ 
+
+00:06:29.840 --> 00:06:31.430 align:start position:0%
+now there's a broad range of hdinsight
+services<00:06:30.160><c> i'm</c><00:06:30.240><c> not</c><00:06:30.400><c> going</c><00:06:30.479><c> to</c><00:06:30.560><c> go</c><00:06:30.639><c> into</c><00:06:30.960><c> detail</c>
+
+00:06:31.430 --> 00:06:31.440 align:start position:0%
+services i'm not going to go into detail
+ 
+
+00:06:31.440 --> 00:06:32.870 align:start position:0%
+services i'm not going to go into detail
+about<00:06:31.840><c> all</c><00:06:32.000><c> of</c><00:06:32.080><c> them</c>
+
+00:06:32.870 --> 00:06:32.880 align:start position:0%
+about all of them
+ 
+
+00:06:32.880 --> 00:06:35.909 align:start position:0%
+about all of them
+but<00:06:33.120><c> i</c><00:06:33.280><c> can</c><00:06:33.600><c> think</c><00:06:34.000><c> from</c><00:06:34.240><c> a</c><00:06:34.560><c> basic</c><00:06:35.120><c> perspective</c>
+
+00:06:35.909 --> 00:06:35.919 align:start position:0%
+but i can think from a basic perspective
+ 
+
+00:06:35.919 --> 00:06:40.870 align:start position:0%
+but i can think from a basic perspective
+they're<00:06:36.160><c> saying</c><00:06:36.400><c> like</c><00:06:36.560><c> hadoop</c>
+
+00:06:40.870 --> 00:06:40.880 align:start position:0%
+ 
+ 
+
+00:06:40.880 --> 00:06:43.830 align:start position:0%
+ 
+so<00:06:41.280><c> hadoop</c><00:06:41.759><c> is</c><00:06:42.000><c> this</c><00:06:42.319><c> disc</c><00:06:42.800><c> based</c><00:06:43.280><c> yarn</c>
+
+00:06:43.830 --> 00:06:43.840 align:start position:0%
+so hadoop is this disc based yarn
+ 
+
+00:06:43.840 --> 00:06:45.909 align:start position:0%
+so hadoop is this disc based yarn
+performance<00:06:44.479><c> processing</c>
+
+00:06:45.909 --> 00:06:45.919 align:start position:0%
+performance processing
+ 
+
+00:06:45.919 --> 00:06:48.710 align:start position:0%
+performance processing
+it<00:06:46.160><c> has</c><00:06:46.400><c> the</c><00:06:46.560><c> concept</c><00:06:47.039><c> of</c><00:06:47.199><c> map</c><00:06:47.520><c> reduce</c><00:06:48.400><c> you'll</c>
+
+00:06:48.710 --> 00:06:48.720 align:start position:0%
+it has the concept of map reduce you'll
+ 
+
+00:06:48.720 --> 00:06:51.430 align:start position:0%
+it has the concept of map reduce you'll
+hear<00:06:48.960><c> this</c><00:06:49.440><c> this</c><00:06:49.680><c> is</c><00:06:49.840><c> about</c><00:06:50.080><c> dividing</c><00:06:50.880><c> tasks</c>
+
+00:06:51.430 --> 00:06:51.440 align:start position:0%
+hear this this is about dividing tasks
+ 
+
+00:06:51.440 --> 00:06:53.430 align:start position:0%
+hear this this is about dividing tasks
+into<00:06:51.759><c> smaller</c><00:06:52.160><c> parts</c><00:06:52.400><c> so</c><00:06:52.560><c> i</c><00:06:52.639><c> can</c><00:06:52.800><c> distribute</c>
+
+00:06:53.430 --> 00:06:53.440 align:start position:0%
+into smaller parts so i can distribute
+ 
+
+00:06:53.440 --> 00:06:55.990 align:start position:0%
+into smaller parts so i can distribute
+the<00:06:53.599><c> various</c><00:06:54.080><c> processing</c><00:06:55.120><c> i</c><00:06:55.280><c> actually</c><00:06:55.759><c> need</c>
+
+00:06:55.990 --> 00:06:56.000 align:start position:0%
+the various processing i actually need
+ 
+
+00:06:56.000 --> 00:06:58.230 align:start position:0%
+the various processing i actually need
+to<00:06:56.160><c> perform</c><00:06:56.800><c> it</c><00:06:56.960><c> gives</c><00:06:57.120><c> me</c><00:06:57.280><c> this</c><00:06:57.440><c> very</c><00:06:57.759><c> large</c>
+
+00:06:58.230 --> 00:06:58.240 align:start position:0%
+to perform it gives me this very large
+ 
+
+00:06:58.240 --> 00:07:00.790 align:start position:0%
+to perform it gives me this very large
+scale<00:06:58.720><c> processing</c><00:06:59.360><c> capabilities</c>
+
+00:07:00.790 --> 00:07:00.800 align:start position:0%
+scale processing capabilities
+ 
+
+00:07:00.800 --> 00:07:02.790 align:start position:0%
+scale processing capabilities
+so<00:07:00.960><c> the</c><00:07:01.199><c> mapping</c><00:07:01.680><c> is</c><00:07:01.919><c> all</c><00:07:02.000><c> about</c><00:07:02.400><c> breaking</c><00:07:02.720><c> it</c>
+
+00:07:02.790 --> 00:07:02.800 align:start position:0%
+so the mapping is all about breaking it
+ 
+
+00:07:02.800 --> 00:07:05.830 align:start position:0%
+so the mapping is all about breaking it
+down<00:07:02.960><c> into</c><00:07:03.199><c> these</c><00:07:03.520><c> key</c><00:07:03.919><c> value</c><00:07:04.560><c> pairs</c><00:07:04.960><c> of</c><00:07:05.120><c> data</c>
+
+00:07:05.830 --> 00:07:05.840 align:start position:0%
+down into these key value pairs of data
+ 
+
+00:07:05.840 --> 00:07:08.270 align:start position:0%
+down into these key value pairs of data
+that<00:07:06.000><c> can</c><00:07:06.160><c> then</c><00:07:06.319><c> be</c><00:07:06.560><c> shuffled</c><00:07:07.199><c> around</c><00:07:08.080><c> and</c>
+
+00:07:08.270 --> 00:07:08.280 align:start position:0%
+that can then be shuffled around and
+ 
+
+00:07:08.280 --> 00:07:10.550 align:start position:0%
+that can then be shuffled around and
+redistributed<00:07:09.360><c> to</c><00:07:09.599><c> actually</c><00:07:09.919><c> then</c><00:07:10.240><c> run</c><00:07:10.479><c> the</c>
+
+00:07:10.550 --> 00:07:10.560 align:start position:0%
+redistributed to actually then run the
+ 
+
+00:07:10.560 --> 00:07:12.070 align:start position:0%
+redistributed to actually then run the
+reducer
+
+00:07:12.070 --> 00:07:12.080 align:start position:0%
+reducer
+ 
+
+00:07:12.080 --> 00:07:13.670 align:start position:0%
+reducer
+where<00:07:12.240><c> the</c><00:07:12.319><c> data</c><00:07:12.639><c> is</c><00:07:12.800><c> actually</c><00:07:13.120><c> processed</c>
+
+00:07:13.670 --> 00:07:13.680 align:start position:0%
+where the data is actually processed
+ 
+
+00:07:13.680 --> 00:07:16.070 align:start position:0%
+where the data is actually processed
+based<00:07:14.080><c> on</c><00:07:14.319><c> some</c><00:07:14.639><c> key</c><00:07:15.120><c> so</c><00:07:15.280><c> this</c><00:07:15.440><c> is</c><00:07:15.599><c> all</c><00:07:15.759><c> disk</c>
+
+00:07:16.070 --> 00:07:16.080 align:start position:0%
+based on some key so this is all disk
+ 
+
+00:07:16.080 --> 00:07:17.749 align:start position:0%
+based on some key so this is all disk
+based<00:07:16.319><c> so</c><00:07:16.479><c> there's</c><00:07:16.639><c> a</c><00:07:16.720><c> certain</c><00:07:16.960><c> performance</c>
+
+00:07:17.749 --> 00:07:17.759 align:start position:0%
+based so there's a certain performance
+ 
+
+00:07:17.759 --> 00:07:20.550 align:start position:0%
+based so there's a certain performance
+characteristic<00:07:18.400><c> of</c><00:07:18.560><c> disk</c><00:07:18.880><c> based</c><00:07:19.120><c> solutions</c>
+
+00:07:20.550 --> 00:07:20.560 align:start position:0%
+characteristic of disk based solutions
+ 
+
+00:07:20.560 --> 00:07:22.070 align:start position:0%
+characteristic of disk based solutions
+then<00:07:20.800><c> there's</c><00:07:21.039><c> things</c><00:07:21.280><c> like</c>
+
+00:07:22.070 --> 00:07:22.080 align:start position:0%
+then there's things like
+ 
+
+00:07:22.080 --> 00:07:24.550 align:start position:0%
+then there's things like
+storm
+
+00:07:24.550 --> 00:07:24.560 align:start position:0%
+ 
+ 
+
+00:07:24.560 --> 00:07:26.790 align:start position:0%
+ 
+so<00:07:24.720><c> what</c><00:07:24.880><c> storm</c><00:07:25.280><c> is</c><00:07:25.360><c> doing</c><00:07:25.599><c> is</c><00:07:25.919><c> real</c><00:07:26.400><c> time</c>
+
+00:07:26.790 --> 00:07:26.800 align:start position:0%
+so what storm is doing is real time
+ 
+
+00:07:26.800 --> 00:07:28.870 align:start position:0%
+so what storm is doing is real time
+processing<00:07:27.440><c> this</c><00:07:27.599><c> is</c><00:07:27.759><c> useful</c><00:07:28.160><c> for</c><00:07:28.319><c> real</c><00:07:28.639><c> time</c>
+
+00:07:28.870 --> 00:07:28.880 align:start position:0%
+processing this is useful for real time
+ 
+
+00:07:28.880 --> 00:07:31.029 align:start position:0%
+processing this is useful for real time
+analytics<00:07:30.000><c> integration</c><00:07:30.479><c> with</c><00:07:30.639><c> machine</c>
+
+00:07:31.029 --> 00:07:31.039 align:start position:0%
+analytics integration with machine
+ 
+
+00:07:31.039 --> 00:07:34.070 align:start position:0%
+analytics integration with machine
+learning<00:07:31.599><c> continuous</c><00:07:32.240><c> computation</c>
+
+00:07:34.070 --> 00:07:34.080 align:start position:0%
+learning continuous computation
+ 
+
+00:07:34.080 --> 00:07:36.309 align:start position:0%
+learning continuous computation
+you'll<00:07:34.240><c> hear</c><00:07:34.479><c> about</c><00:07:34.880><c> spark</c><00:07:35.360><c> now</c><00:07:35.599><c> spark</c><00:07:36.080><c> is</c><00:07:36.240><c> a</c>
+
+00:07:36.309 --> 00:07:36.319 align:start position:0%
+you'll hear about spark now spark is a
+ 
+
+00:07:36.319 --> 00:07:37.749 align:start position:0%
+you'll hear about spark now spark is a
+big<00:07:36.560><c> one</c>
+
+00:07:37.749 --> 00:07:37.759 align:start position:0%
+big one
+ 
+
+00:07:37.759 --> 00:07:38.870 align:start position:0%
+big one
+we're<00:07:37.919><c> going</c><00:07:38.080><c> to</c><00:07:38.240><c> talk</c><00:07:38.400><c> about</c><00:07:38.560><c> another</c>
+
+00:07:38.870 --> 00:07:38.880 align:start position:0%
+we're going to talk about another
+ 
+
+00:07:38.880 --> 00:07:40.469 align:start position:0%
+we're going to talk about another
+technology<00:07:39.360><c> in</c><00:07:39.440><c> a</c><00:07:39.520><c> second</c><00:07:39.840><c> this</c><00:07:40.000><c> is</c><00:07:40.160><c> mostly</c>
+
+00:07:40.469 --> 00:07:40.479 align:start position:0%
+technology in a second this is mostly
+ 
+
+00:07:40.479 --> 00:07:42.830 align:start position:0%
+technology in a second this is mostly
+around<00:07:40.880><c> batch</c><00:07:41.199><c> jobs</c><00:07:41.520><c> and</c><00:07:41.680><c> data</c>
+
+00:07:42.830 --> 00:07:42.840 align:start position:0%
+around batch jobs and data
+ 
+
+00:07:42.840 --> 00:07:45.510 align:start position:0%
+around batch jobs and data
+transformation<00:07:43.919><c> you</c><00:07:44.240><c> have</c><00:07:44.639><c> some</c><00:07:44.960><c> data</c><00:07:45.360><c> this</c>
+
+00:07:45.510 --> 00:07:45.520 align:start position:0%
+transformation you have some data this
+ 
+
+00:07:45.520 --> 00:07:47.110 align:start position:0%
+transformation you have some data this
+could<00:07:45.680><c> be</c><00:07:45.840><c> structured</c><00:07:46.639><c> it</c><00:07:46.800><c> could</c><00:07:46.960><c> be</c>
+
+00:07:47.110 --> 00:07:47.120 align:start position:0%
+could be structured it could be
+ 
+
+00:07:47.120 --> 00:07:50.150 align:start position:0%
+could be structured it could be
+unstructured<00:07:48.400><c> and</c><00:07:48.560><c> i</c><00:07:48.639><c> want</c><00:07:48.800><c> to</c><00:07:49.120><c> do</c><00:07:49.440><c> something</c>
+
+00:07:50.150 --> 00:07:50.160 align:start position:0%
+unstructured and i want to do something
+ 
+
+00:07:50.160 --> 00:07:51.270 align:start position:0%
+unstructured and i want to do something
+with<00:07:50.479><c> it</c>
+
+00:07:51.270 --> 00:07:51.280 align:start position:0%
+with it
+ 
+
+00:07:51.280 --> 00:07:54.150 align:start position:0%
+with it
+for<00:07:51.440><c> example</c><00:07:51.919><c> transforming</c><00:07:52.560><c> that</c><00:07:52.800><c> data</c><00:07:53.759><c> so</c><00:07:54.000><c> i</c>
+
+00:07:54.150 --> 00:07:54.160 align:start position:0%
+for example transforming that data so i
+ 
+
+00:07:54.160 --> 00:07:57.430 align:start position:0%
+for example transforming that data so i
+can<00:07:54.400><c> schedule</c><00:07:54.960><c> a</c><00:07:55.120><c> job</c><00:07:56.000><c> and</c><00:07:56.160><c> then</c><00:07:56.720><c> using</c><00:07:57.199><c> many</c>
+
+00:07:57.430 --> 00:07:57.440 align:start position:0%
+can schedule a job and then using many
+ 
+
+00:07:57.440 --> 00:08:00.790 align:start position:0%
+can schedule a job and then using many
+different<00:07:57.759><c> languages</c><00:07:58.560><c> um</c><00:07:58.879><c> scalar</c><00:07:59.919><c> java</c>
+
+00:08:00.790 --> 00:08:00.800 align:start position:0%
+different languages um scalar java
+ 
+
+00:08:00.800 --> 00:08:05.029 align:start position:0%
+different languages um scalar java
+python<00:08:01.840><c> r</c><00:08:02.240><c> spark</c><00:08:02.639><c> sql</c><00:08:02.960><c> languages</c>
+
+00:08:05.029 --> 00:08:05.039 align:start position:0%
+python r spark sql languages
+ 
+
+00:08:05.039 --> 00:08:07.110 align:start position:0%
+python r spark sql languages
+i<00:08:05.120><c> can</c><00:08:05.280><c> then</c><00:08:05.440><c> do</c><00:08:05.599><c> these</c><00:08:05.919><c> transformations</c><00:08:06.960><c> but</c>
+
+00:08:07.110 --> 00:08:07.120 align:start position:0%
+i can then do these transformations but
+ 
+
+00:08:07.120 --> 00:08:09.589 align:start position:0%
+i can then do these transformations but
+whereas<00:08:07.440><c> hadoop</c><00:08:07.840><c> is</c><00:08:08.080><c> disk</c><00:08:08.479><c> based</c><00:08:09.039><c> spark</c><00:08:09.440><c> is</c>
+
+00:08:09.589 --> 00:08:09.599 align:start position:0%
+whereas hadoop is disk based spark is
+ 
+
+00:08:09.599 --> 00:08:11.350 align:start position:0%
+whereas hadoop is disk based spark is
+memory<00:08:10.080><c> based</c><00:08:10.639><c> so</c><00:08:10.800><c> i'm</c><00:08:10.879><c> going</c><00:08:10.960><c> to</c><00:08:11.039><c> get</c><00:08:11.199><c> a</c>
+
+00:08:11.350 --> 00:08:11.360 align:start position:0%
+memory based so i'm going to get a
+ 
+
+00:08:11.360 --> 00:08:14.869 align:start position:0%
+memory based so i'm going to get a
+higher<00:08:11.759><c> performance</c><00:08:13.039><c> with</c><00:08:13.280><c> this</c>
+
+00:08:14.869 --> 00:08:14.879 align:start position:0%
+higher performance with this
+ 
+
+00:08:14.879 --> 00:08:18.710 align:start position:0%
+higher performance with this
+then<00:08:15.039><c> there's</c><00:08:15.199><c> things</c><00:08:15.440><c> like</c><00:08:15.599><c> kafka</c>
+
+00:08:18.710 --> 00:08:18.720 align:start position:0%
+ 
+ 
+
+00:08:18.720 --> 00:08:21.909 align:start position:0%
+ 
+kafka<00:08:19.440><c> is</c><00:08:19.759><c> all</c><00:08:19.919><c> about</c><00:08:20.240><c> big</c><00:08:20.479><c> data</c><00:08:20.960><c> streaming</c><00:08:21.759><c> so</c>
+
+00:08:21.909 --> 00:08:21.919 align:start position:0%
+kafka is all about big data streaming so
+ 
+
+00:08:21.919 --> 00:08:24.070 align:start position:0%
+kafka is all about big data streaming so
+when<00:08:22.080><c> we</c><00:08:22.240><c> think</c><00:08:22.479><c> about</c><00:08:22.879><c> hey</c><00:08:23.199><c> these</c><00:08:23.520><c> sources</c><00:08:24.000><c> i</c>
+
+00:08:24.070 --> 00:08:24.080 align:start position:0%
+when we think about hey these sources i
+ 
+
+00:08:24.080 --> 00:08:25.670 align:start position:0%
+when we think about hey these sources i
+said<00:08:24.240><c> there's</c><00:08:24.479><c> different</c><00:08:24.879><c> types</c><00:08:25.280><c> maybe</c><00:08:25.520><c> it's</c>
+
+00:08:25.670 --> 00:08:25.680 align:start position:0%
+said there's different types maybe it's
+ 
+
+00:08:25.680 --> 00:08:27.909 align:start position:0%
+said there's different types maybe it's
+a<00:08:25.840><c> batch</c><00:08:26.240><c> output</c><00:08:26.639><c> of</c><00:08:26.720><c> data</c>
+
+00:08:27.909 --> 00:08:27.919 align:start position:0%
+a batch output of data
+ 
+
+00:08:27.919 --> 00:08:29.830 align:start position:0%
+a batch output of data
+kafka<00:08:28.479><c> is</c><00:08:28.560><c> about</c><00:08:28.800><c> the</c><00:08:28.960><c> idea</c><00:08:29.199><c> that</c><00:08:29.360><c> maybe</c><00:08:29.680><c> i</c>
+
+00:08:29.830 --> 00:08:29.840 align:start position:0%
+kafka is about the idea that maybe i
+ 
+
+00:08:29.840 --> 00:08:31.749 align:start position:0%
+kafka is about the idea that maybe i
+have<00:08:30.080><c> remember</c><00:08:30.319><c> we</c><00:08:30.400><c> talked</c><00:08:30.560><c> about</c><00:08:30.720><c> iot</c><00:08:31.520><c> i</c><00:08:31.599><c> have</c>
+
+00:08:31.749 --> 00:08:31.759 align:start position:0%
+have remember we talked about iot i have
+ 
+
+00:08:31.759 --> 00:08:33.670 align:start position:0%
+have remember we talked about iot i have
+huge<00:08:32.000><c> amounts</c><00:08:32.240><c> of</c><00:08:32.320><c> sensors</c><00:08:33.279><c> maybe</c><00:08:33.519><c> it's</c>
+
+00:08:33.670 --> 00:08:33.680 align:start position:0%
+huge amounts of sensors maybe it's
+ 
+
+00:08:33.680 --> 00:08:35.990 align:start position:0%
+huge amounts of sensors maybe it's
+connected<00:08:34.320><c> cars</c><00:08:34.959><c> factories</c><00:08:35.519><c> whatever</c><00:08:35.839><c> that</c>
+
+00:08:35.990 --> 00:08:36.000 align:start position:0%
+connected cars factories whatever that
+ 
+
+00:08:36.000 --> 00:08:38.630 align:start position:0%
+connected cars factories whatever that
+might<00:08:36.159><c> be</c><00:08:36.320><c> there's</c><00:08:36.560><c> a</c><00:08:36.800><c> constant</c><00:08:37.599><c> stream</c><00:08:38.399><c> of</c>
+
+00:08:38.630 --> 00:08:38.640 align:start position:0%
+might be there's a constant stream of
+ 
+
+00:08:38.640 --> 00:08:40.790 align:start position:0%
+might be there's a constant stream of
+data<00:08:39.120><c> coming</c><00:08:39.519><c> in</c>
+
+00:08:40.790 --> 00:08:40.800 align:start position:0%
+data coming in
+ 
+
+00:08:40.800 --> 00:08:44.550 align:start position:0%
+data coming in
+well<00:08:41.200><c> kafka</c><00:08:42.159><c> is</c><00:08:42.320><c> all</c><00:08:42.479><c> about</c><00:08:42.880><c> ingesting</c><00:08:43.919><c> into</c>
+
+00:08:44.550 --> 00:08:44.560 align:start position:0%
+well kafka is all about ingesting into
+ 
+
+00:08:44.560 --> 00:08:46.230 align:start position:0%
+well kafka is all about ingesting into
+my<00:08:44.959><c> pipe</c>
+
+00:08:46.230 --> 00:08:46.240 align:start position:0%
+my pipe
+ 
+
+00:08:46.240 --> 00:08:48.470 align:start position:0%
+my pipe
+and<00:08:46.640><c> then</c><00:08:46.880><c> dealing</c><00:08:47.200><c> with</c><00:08:47.360><c> that</c><00:08:47.600><c> huge</c><00:08:48.080><c> quantity</c>
+
+00:08:48.470 --> 00:08:48.480 align:start position:0%
+and then dealing with that huge quantity
+ 
+
+00:08:48.480 --> 00:08:50.710 align:start position:0%
+and then dealing with that huge quantity
+of<00:08:48.640><c> data</c><00:08:49.040><c> so</c><00:08:49.200><c> that's</c><00:08:49.360><c> what</c><00:08:50.000><c> catheter</c><00:08:50.560><c> is</c>
+
+00:08:50.710 --> 00:08:50.720 align:start position:0%
+of data so that's what catheter is
+ 
+
+00:08:50.720 --> 00:08:52.550 align:start position:0%
+of data so that's what catheter is
+really<00:08:51.200><c> all</c><00:08:51.440><c> about</c>
+
+00:08:52.550 --> 00:08:52.560 align:start position:0%
+really all about
+ 
+
+00:08:52.560 --> 00:08:56.310 align:start position:0%
+really all about
+then<00:08:52.720><c> there's</c><00:08:52.959><c> things</c><00:08:53.120><c> like</c><00:08:53.360><c> hive</c>
+
+00:08:56.310 --> 00:08:56.320 align:start position:0%
+ 
+ 
+
+00:08:56.320 --> 00:08:58.870 align:start position:0%
+ 
+hive<00:08:56.800><c> llp</c>
+
+00:08:58.870 --> 00:08:58.880 align:start position:0%
+hive llp
+ 
+
+00:08:58.880 --> 00:09:00.389 align:start position:0%
+hive llp
+so<00:08:59.279><c> this</c><00:08:59.600><c> is</c>
+
+00:09:00.389 --> 00:09:00.399 align:start position:0%
+so this is
+ 
+
+00:09:00.399 --> 00:09:01.750 align:start position:0%
+so this is
+llap
+
+00:09:01.750 --> 00:09:01.760 align:start position:0%
+llap
+ 
+
+00:09:01.760 --> 00:09:05.509 align:start position:0%
+llap
+interactive<00:09:02.640><c> query</c><00:09:03.519><c> so</c><00:09:03.760><c> i</c><00:09:03.920><c> can</c><00:09:04.320><c> query</c><00:09:04.880><c> data</c>
+
+00:09:05.509 --> 00:09:05.519 align:start position:0%
+interactive query so i can query data
+ 
+
+00:09:05.519 --> 00:09:08.389 align:start position:0%
+interactive query so i can query data
+live<00:09:06.320><c> from</c><00:09:06.560><c> the</c><00:09:06.720><c> store</c><00:09:07.600><c> so</c>
+
+00:09:08.389 --> 00:09:08.399 align:start position:0%
+live from the store so
+ 
+
+00:09:08.399 --> 00:09:10.070 align:start position:0%
+live from the store so
+if<00:09:08.560><c> the</c><00:09:08.720><c> data's</c><00:09:09.040><c> sitting</c><00:09:09.279><c> in</c><00:09:09.360><c> this</c><00:09:09.519><c> data</c><00:09:09.839><c> lake</c>
+
+00:09:10.070 --> 00:09:10.080 align:start position:0%
+if the data's sitting in this data lake
+ 
+
+00:09:10.080 --> 00:09:12.150 align:start position:0%
+if the data's sitting in this data lake
+for<00:09:10.240><c> example</c><00:09:11.200><c> instead</c><00:09:11.440><c> of</c><00:09:11.519><c> having</c><00:09:11.839><c> to</c><00:09:11.920><c> bring</c>
+
+00:09:12.150 --> 00:09:12.160 align:start position:0%
+for example instead of having to bring
+ 
+
+00:09:12.160 --> 00:09:14.870 align:start position:0%
+for example instead of having to bring
+it<00:09:12.560><c> somewhere</c><00:09:13.120><c> else</c><00:09:13.839><c> i</c><00:09:13.920><c> can</c><00:09:14.080><c> actually</c><00:09:14.480><c> query</c>
+
+00:09:14.870 --> 00:09:14.880 align:start position:0%
+it somewhere else i can actually query
+ 
+
+00:09:14.880 --> 00:09:17.110 align:start position:0%
+it somewhere else i can actually query
+it<00:09:15.040><c> directly</c><00:09:15.760><c> in</c><00:09:15.920><c> the</c><00:09:16.160><c> data</c><00:09:16.480><c> lake</c><00:09:16.800><c> and</c><00:09:16.880><c> get</c>
+
+00:09:17.110 --> 00:09:17.120 align:start position:0%
+it directly in the data lake and get
+ 
+
+00:09:17.120 --> 00:09:19.110 align:start position:0%
+it directly in the data lake and get
+those<00:09:17.440><c> results</c><00:09:18.399><c> then</c><00:09:18.560><c> there's</c><00:09:18.720><c> things</c><00:09:18.959><c> like</c>
+
+00:09:19.110 --> 00:09:19.120 align:start position:0%
+those results then there's things like
+ 
+
+00:09:19.120 --> 00:09:21.430 align:start position:0%
+those results then there's things like
+hbase
+
+00:09:21.430 --> 00:09:21.440 align:start position:0%
+hbase
+ 
+
+00:09:21.440 --> 00:09:25.030 align:start position:0%
+hbase
+this<00:09:21.839><c> no</c><00:09:22.320><c> sequel</c><00:09:23.279><c> kind</c><00:09:23.440><c> of</c><00:09:23.839><c> storage</c>
+
+00:09:25.030 --> 00:09:25.040 align:start position:0%
+this no sequel kind of storage
+ 
+
+00:09:25.040 --> 00:09:26.949 align:start position:0%
+this no sequel kind of storage
+so<00:09:25.200><c> a</c><00:09:25.360><c> huge</c><00:09:25.760><c> range</c><00:09:26.080><c> of</c><00:09:26.160><c> different</c><00:09:26.480><c> services</c>
+
+00:09:26.949 --> 00:09:26.959 align:start position:0%
+so a huge range of different services
+ 
+
+00:09:26.959 --> 00:09:29.190 align:start position:0%
+so a huge range of different services
+the<00:09:27.040><c> whole</c><00:09:27.279><c> point</c><00:09:27.600><c> about</c><00:09:27.920><c> this</c><00:09:28.560><c> these</c><00:09:28.800><c> are</c><00:09:29.040><c> all</c>
+
+00:09:29.190 --> 00:09:29.200 align:start position:0%
+the whole point about this these are all
+ 
+
+00:09:29.200 --> 00:09:34.310 align:start position:0%
+the whole point about this these are all
+these<00:09:29.680><c> open</c><00:09:30.240><c> source</c>
+
+00:09:34.310 --> 00:09:34.320 align:start position:0%
+ 
+ 
+
+00:09:34.320 --> 00:09:38.389 align:start position:0%
+ 
+frameworks
+
+00:09:38.389 --> 00:09:38.399 align:start position:0%
+ 
+ 
+
+00:09:38.399 --> 00:09:41.670 align:start position:0%
+ 
+but<00:09:38.640><c> rather</c><00:09:38.959><c> than</c><00:09:39.200><c> me</c><00:09:39.600><c> having</c><00:09:40.000><c> to</c><00:09:40.320><c> worry</c><00:09:40.720><c> about</c>
+
+00:09:41.670 --> 00:09:41.680 align:start position:0%
+but rather than me having to worry about
+ 
+
+00:09:41.680 --> 00:09:43.590 align:start position:0%
+but rather than me having to worry about
+installing<00:09:42.320><c> it</c><00:09:42.560><c> and</c><00:09:42.720><c> managing</c><00:09:43.200><c> it</c><00:09:43.440><c> and</c><00:09:43.519><c> all</c>
+
+00:09:43.590 --> 00:09:43.600 align:start position:0%
+installing it and managing it and all
+ 
+
+00:09:43.600 --> 00:09:45.990 align:start position:0%
+installing it and managing it and all
+those<00:09:43.920><c> different</c><00:09:44.240><c> things</c><00:09:45.040><c> hdinsight</c><00:09:45.920><c> is</c>
+
+00:09:45.990 --> 00:09:46.000 align:start position:0%
+those different things hdinsight is
+ 
+
+00:09:46.000 --> 00:09:47.829 align:start position:0%
+those different things hdinsight is
+going<00:09:46.160><c> to</c><00:09:46.399><c> spin</c><00:09:46.800><c> those</c><00:09:47.040><c> up</c><00:09:47.200><c> and</c><00:09:47.360><c> make</c><00:09:47.600><c> those</c>
+
+00:09:47.829 --> 00:09:47.839 align:start position:0%
+going to spin those up and make those
+ 
+
+00:09:47.839 --> 00:09:50.230 align:start position:0%
+going to spin those up and make those
+available<00:09:48.480><c> to</c><00:09:48.640><c> me</c>
+
+00:09:50.230 --> 00:09:50.240 align:start position:0%
+available to me
+ 
+
+00:09:50.240 --> 00:09:51.670 align:start position:0%
+available to me
+now<00:09:50.399><c> the</c><00:09:50.640><c> next</c>
+
+00:09:51.670 --> 00:09:51.680 align:start position:0%
+now the next
+ 
+
+00:09:51.680 --> 00:09:53.590 align:start position:0%
+now the next
+azure<00:09:52.160><c> big</c><00:09:52.399><c> solution</c><00:09:52.959><c> when</c><00:09:53.120><c> i</c><00:09:53.200><c> think</c><00:09:53.360><c> about</c>
+
+00:09:53.590 --> 00:09:53.600 align:start position:0%
+azure big solution when i think about
+ 
+
+00:09:53.600 --> 00:09:56.630 align:start position:0%
+azure big solution when i think about
+these<00:09:54.080><c> various</c><00:09:54.399><c> types</c><00:09:54.640><c> of</c><00:09:54.800><c> data</c><00:09:55.200><c> manipulation</c>
+
+00:09:56.630 --> 00:09:56.640 align:start position:0%
+these various types of data manipulation
+ 
+
+00:09:56.640 --> 00:09:59.350 align:start position:0%
+these various types of data manipulation
+is<00:09:56.880><c> actually</c><00:09:57.200><c> data</c><00:09:57.519><c> bricks</c>
+
+00:09:59.350 --> 00:09:59.360 align:start position:0%
+is actually data bricks
+ 
+
+00:09:59.360 --> 00:10:00.710 align:start position:0%
+is actually data bricks
+now
+
+00:10:00.710 --> 00:10:00.720 align:start position:0%
+now
+ 
+
+00:10:00.720 --> 00:10:04.630 align:start position:0%
+now
+azure<00:10:01.200><c> data</c><00:10:01.519><c> bricks</c><00:10:02.079><c> is</c><00:10:02.800><c> an</c><00:10:03.120><c> azure</c><00:10:04.079><c> hosted</c>
+
+00:10:04.630 --> 00:10:04.640 align:start position:0%
+azure data bricks is an azure hosted
+ 
+
+00:10:04.640 --> 00:10:07.269 align:start position:0%
+azure data bricks is an azure hosted
+managed<00:10:04.959><c> solution</c><00:10:05.839><c> of</c><00:10:06.079><c> the</c><00:10:06.320><c> data</c><00:10:06.720><c> bricks</c>
+
+00:10:07.269 --> 00:10:07.279 align:start position:0%
+managed solution of the data bricks
+ 
+
+00:10:07.279 --> 00:10:11.030 align:start position:0%
+managed solution of the data bricks
+solution<00:10:08.320><c> and</c><00:10:08.560><c> data</c><00:10:08.959><c> bricks</c><00:10:09.600><c> itself</c><00:10:10.399><c> is</c><00:10:10.640><c> built</c>
+
+00:10:11.030 --> 00:10:11.040 align:start position:0%
+solution and data bricks itself is built
+ 
+
+00:10:11.040 --> 00:10:13.430 align:start position:0%
+solution and data bricks itself is built
+off<00:10:11.360><c> apache</c><00:10:12.000><c> spark</c><00:10:12.800><c> so</c><00:10:12.959><c> if</c><00:10:13.040><c> you</c><00:10:13.120><c> think</c><00:10:13.279><c> about</c>
+
+00:10:13.430 --> 00:10:13.440 align:start position:0%
+off apache spark so if you think about
+ 
+
+00:10:13.440 --> 00:10:16.470 align:start position:0%
+off apache spark so if you think about
+that<00:10:13.760><c> spark</c><00:10:14.240><c> that</c><00:10:14.480><c> analytics</c><00:10:15.200><c> service</c><00:10:16.160><c> what</c>
+
+00:10:16.470 --> 00:10:16.480 align:start position:0%
+that spark that analytics service what
+ 
+
+00:10:16.480 --> 00:10:18.630 align:start position:0%
+that spark that analytics service what
+data<00:10:16.880><c> bricks</c><00:10:17.120><c> as</c><00:10:17.279><c> a</c><00:10:17.440><c> company</c><00:10:17.920><c> did</c><00:10:18.240><c> is</c><00:10:18.399><c> they</c>
+
+00:10:18.630 --> 00:10:18.640 align:start position:0%
+data bricks as a company did is they
+ 
+
+00:10:18.640 --> 00:10:21.910 align:start position:0%
+data bricks as a company did is they
+built<00:10:18.959><c> a</c><00:10:19.040><c> solution</c><00:10:20.000><c> built</c><00:10:20.320><c> on</c><00:10:20.560><c> top</c><00:10:20.959><c> of</c><00:10:21.360><c> apache</c>
+
+00:10:21.910 --> 00:10:21.920 align:start position:0%
+built a solution built on top of apache
+ 
+
+00:10:21.920 --> 00:10:23.030 align:start position:0%
+built a solution built on top of apache
+spark
+
+00:10:23.030 --> 00:10:23.040 align:start position:0%
+spark
+ 
+
+00:10:23.040 --> 00:10:26.310 align:start position:0%
+spark
+and<00:10:23.120><c> so</c><00:10:23.519><c> azure</c><00:10:24.000><c> data</c><00:10:24.399><c> bricks</c><00:10:24.959><c> is</c><00:10:25.279><c> a</c><00:10:25.760><c> managed</c>
+
+00:10:26.310 --> 00:10:26.320 align:start position:0%
+and so azure data bricks is a managed
+ 
+
+00:10:26.320 --> 00:10:29.430 align:start position:0%
+and so azure data bricks is a managed
+data<00:10:26.720><c> brick</c><00:10:27.040><c> solution</c><00:10:27.680><c> available</c><00:10:28.240><c> in</c><00:10:28.560><c> azure</c>
+
+00:10:29.430 --> 00:10:29.440 align:start position:0%
+data brick solution available in azure
+ 
+
+00:10:29.440 --> 00:10:31.509 align:start position:0%
+data brick solution available in azure
+so<00:10:29.600><c> i</c><00:10:29.680><c> can</c><00:10:29.920><c> easily</c><00:10:30.320><c> deploy</c><00:10:30.800><c> this</c><00:10:31.120><c> using</c><00:10:31.440><c> the</c>
+
+00:10:31.509 --> 00:10:31.519 align:start position:0%
+so i can easily deploy this using the
+ 
+
+00:10:31.519 --> 00:10:34.389 align:start position:0%
+so i can easily deploy this using the
+databricks<00:10:32.160><c> control</c><00:10:32.640><c> plane</c><00:10:33.360><c> it's</c><00:10:33.600><c> using</c><00:10:33.920><c> vms</c>
+
+00:10:34.389 --> 00:10:34.399 align:start position:0%
+databricks control plane it's using vms
+ 
+
+00:10:34.399 --> 00:10:36.630 align:start position:0%
+databricks control plane it's using vms
+and<00:10:34.560><c> blobs</c><00:10:34.959><c> under</c><00:10:35.200><c> the</c><00:10:35.279><c> covers</c><00:10:35.920><c> but</c><00:10:36.240><c> i</c><00:10:36.320><c> don't</c>
+
+00:10:36.630 --> 00:10:36.640 align:start position:0%
+and blobs under the covers but i don't
+ 
+
+00:10:36.640 --> 00:10:39.670 align:start position:0%
+and blobs under the covers but i don't
+see<00:10:36.880><c> that</c><00:10:37.440><c> it</c><00:10:37.680><c> has</c><00:10:37.920><c> a</c><00:10:38.079><c> full</c><00:10:38.480><c> native</c><00:10:38.959><c> ux</c><00:10:39.440><c> i</c><00:10:39.519><c> can</c>
+
+00:10:39.670 --> 00:10:39.680 align:start position:0%
+see that it has a full native ux i can
+ 
+
+00:10:39.680 --> 00:10:40.790 align:start position:0%
+see that it has a full native ux i can
+use<00:10:39.920><c> that</c>
+
+00:10:40.790 --> 00:10:40.800 align:start position:0%
+use that
+ 
+
+00:10:40.800 --> 00:10:41.910 align:start position:0%
+use that
+it<00:10:41.120><c> has</c>
+
+00:10:41.910 --> 00:10:41.920 align:start position:0%
+it has
+ 
+
+00:10:41.920 --> 00:10:43.910 align:start position:0%
+it has
+a<00:10:42.079><c> delta</c><00:10:42.560><c> lake</c><00:10:42.720><c> it's</c><00:10:42.880><c> not</c><00:10:43.120><c> a</c><00:10:43.200><c> data</c><00:10:43.440><c> lake</c><00:10:43.680><c> but</c><00:10:43.839><c> a</c>
+
+00:10:43.910 --> 00:10:43.920 align:start position:0%
+a delta lake it's not a data lake but a
+ 
+
+00:10:43.920 --> 00:10:46.710 align:start position:0%
+a delta lake it's not a data lake but a
+delta<00:10:44.399><c> lake</c><00:10:45.200><c> that</c><00:10:45.440><c> sits</c><00:10:45.760><c> on</c><00:10:45.839><c> top</c><00:10:46.000><c> of</c><00:10:46.160><c> a</c><00:10:46.240><c> regular</c>
+
+00:10:46.710 --> 00:10:46.720 align:start position:0%
+delta lake that sits on top of a regular
+ 
+
+00:10:46.720 --> 00:10:49.110 align:start position:0%
+delta lake that sits on top of a regular
+data<00:10:47.120><c> lake</c><00:10:47.440><c> but</c><00:10:47.600><c> gives</c><00:10:47.920><c> me</c><00:10:48.560><c> things</c><00:10:48.800><c> like</c>
+
+00:10:49.110 --> 00:10:49.120 align:start position:0%
+data lake but gives me things like
+ 
+
+00:10:49.120 --> 00:10:52.150 align:start position:0%
+data lake but gives me things like
+version<00:10:49.600><c> parquet</c><00:10:50.160><c> files</c><00:10:51.120><c> so</c><00:10:51.360><c> i</c><00:10:51.519><c> can</c><00:10:51.760><c> store</c>
+
+00:10:52.150 --> 00:10:52.160 align:start position:0%
+version parquet files so i can store
+ 
+
+00:10:52.160 --> 00:10:54.230 align:start position:0%
+version parquet files so i can store
+data<00:10:52.720><c> and</c><00:10:52.880><c> various</c><00:10:53.200><c> transaction</c><00:10:53.839><c> logs</c><00:10:54.079><c> which</c>
+
+00:10:54.230 --> 00:10:54.240 align:start position:0%
+data and various transaction logs which
+ 
+
+00:10:54.240 --> 00:10:55.430 align:start position:0%
+data and various transaction logs which
+gives<00:10:54.480><c> me</c><00:10:54.560><c> the</c><00:10:54.640><c> ability</c><00:10:55.040><c> to</c><00:10:55.120><c> do</c><00:10:55.279><c> different</c>
+
+00:10:55.430 --> 00:10:55.440 align:start position:0%
+gives me the ability to do different
+ 
+
+00:10:55.440 --> 00:10:57.750 align:start position:0%
+gives me the ability to do different
+types<00:10:55.680><c> of</c><00:10:55.839><c> transactions</c><00:10:56.800><c> and</c><00:10:56.959><c> versioning</c><00:10:57.440><c> and</c>
+
+00:10:57.750 --> 00:10:57.760 align:start position:0%
+types of transactions and versioning and
+ 
+
+00:10:57.760 --> 00:10:59.350 align:start position:0%
+types of transactions and versioning and
+auditing
+
+00:10:59.350 --> 00:10:59.360 align:start position:0%
+auditing
+ 
+
+00:10:59.360 --> 00:11:01.910 align:start position:0%
+auditing
+and<00:10:59.680><c> it</c><00:10:59.760><c> can</c><00:10:59.920><c> also</c><00:11:00.240><c> integrate</c><00:11:00.640><c> the</c><00:11:00.720><c> data</c><00:11:01.040><c> lake</c>
+
+00:11:01.910 --> 00:11:01.920 align:start position:0%
+and it can also integrate the data lake
+ 
+
+00:11:01.920 --> 00:11:04.150 align:start position:0%
+and it can also integrate the data lake
+so<00:11:02.079><c> with</c><00:11:02.320><c> data</c><00:11:02.720><c> breaks</c><00:11:03.279><c> once</c><00:11:03.600><c> again</c><00:11:03.920><c> because</c>
+
+00:11:04.150 --> 00:11:04.160 align:start position:0%
+so with data breaks once again because
+ 
+
+00:11:04.160 --> 00:11:06.630 align:start position:0%
+so with data breaks once again because
+of<00:11:04.240><c> that</c><00:11:04.480><c> apache</c><00:11:05.120><c> spark</c><00:11:05.600><c> foundation</c><00:11:06.320><c> so</c><00:11:06.560><c> i</c>
+
+00:11:06.630 --> 00:11:06.640 align:start position:0%
+of that apache spark foundation so i
+ 
+
+00:11:06.640 --> 00:11:08.389 align:start position:0%
+of that apache spark foundation so i
+think<00:11:06.800><c> about</c><00:11:06.959><c> hey</c><00:11:07.200><c> it's</c><00:11:07.440><c> building</c><00:11:07.839><c> on</c><00:11:08.000><c> top</c><00:11:08.240><c> of</c>
+
+00:11:08.389 --> 00:11:08.399 align:start position:0%
+think about hey it's building on top of
+ 
+
+00:11:08.399 --> 00:11:12.150 align:start position:0%
+think about hey it's building on top of
+that<00:11:09.120><c> we</c><00:11:09.279><c> have</c><00:11:09.440><c> that</c><00:11:09.680><c> python</c><00:11:10.320><c> scalar</c><00:11:11.200><c> r</c><00:11:11.760><c> java</c>
+
+00:11:12.150 --> 00:11:12.160 align:start position:0%
+that we have that python scalar r java
+ 
+
+00:11:12.160 --> 00:11:15.110 align:start position:0%
+that we have that python scalar r java
+sql<00:11:12.560><c> various</c><00:11:12.959><c> frameworks</c><00:11:13.920><c> to</c><00:11:14.240><c> integrate</c><00:11:14.800><c> with</c>
+
+00:11:15.110 --> 00:11:15.120 align:start position:0%
+sql various frameworks to integrate with
+ 
+
+00:11:15.120 --> 00:11:16.069 align:start position:0%
+sql various frameworks to integrate with
+it
+
+00:11:16.069 --> 00:11:16.079 align:start position:0%
+it
+ 
+
+00:11:16.079 --> 00:11:17.829 align:start position:0%
+it
+so<00:11:16.240><c> when</c><00:11:16.399><c> i'm</c><00:11:16.640><c> thinking</c><00:11:17.120><c> about</c><00:11:17.440><c> all</c><00:11:17.600><c> those</c>
+
+00:11:17.829 --> 00:11:17.839 align:start position:0%
+so when i'm thinking about all those
+ 
+
+00:11:17.839 --> 00:11:20.069 align:start position:0%
+so when i'm thinking about all those
+various<00:11:18.320><c> solutions</c>
+
+00:11:20.069 --> 00:11:20.079 align:start position:0%
+various solutions
+ 
+
+00:11:20.079 --> 00:11:22.230 align:start position:0%
+various solutions
+hey<00:11:20.320><c> we</c><00:11:20.560><c> have</c><00:11:20.880><c> these</c><00:11:21.200><c> around</c><00:11:21.519><c> that</c><00:11:21.760><c> different</c>
+
+00:11:22.230 --> 00:11:22.240 align:start position:0%
+hey we have these around that different
+ 
+
+00:11:22.240 --> 00:11:24.790 align:start position:0%
+hey we have these around that different
+transformation
+
+00:11:24.790 --> 00:11:24.800 align:start position:0%
+transformation
+ 
+
+00:11:24.800 --> 00:11:26.470 align:start position:0%
+transformation
+now<00:11:24.959><c> the</c><00:11:25.120><c> last</c><00:11:25.440><c> service</c><00:11:25.839><c> i</c><00:11:25.920><c> want</c><00:11:26.079><c> to</c><00:11:26.240><c> talk</c>
+
+00:11:26.470 --> 00:11:26.480 align:start position:0%
+now the last service i want to talk
+ 
+
+00:11:26.480 --> 00:11:29.110 align:start position:0%
+now the last service i want to talk
+about<00:11:26.800><c> is</c><00:11:27.040><c> if</c><00:11:27.120><c> we</c><00:11:27.360><c> think</c><00:11:27.920><c> well</c><00:11:28.240><c> data</c><00:11:28.640><c> factory</c>
+
+00:11:29.110 --> 00:11:29.120 align:start position:0%
+about is if we think well data factory
+ 
+
+00:11:29.120 --> 00:11:31.590 align:start position:0%
+about is if we think well data factory
+has<00:11:29.279><c> this</c><00:11:29.519><c> complete</c><00:11:30.079><c> orchestration</c>
+
+00:11:31.590 --> 00:11:31.600 align:start position:0%
+has this complete orchestration
+ 
+
+00:11:31.600 --> 00:11:34.470 align:start position:0%
+has this complete orchestration
+and<00:11:31.680><c> it</c><00:11:31.839><c> lets</c><00:11:32.079><c> us</c><00:11:32.320><c> talk</c><00:11:32.640><c> to</c><00:11:32.880><c> various</c><00:11:33.440><c> things</c>
+
+00:11:34.470 --> 00:11:34.480 align:start position:0%
+and it lets us talk to various things
+ 
+
+00:11:34.480 --> 00:11:36.550 align:start position:0%
+and it lets us talk to various things
+the<00:11:34.800><c> other</c><00:11:35.120><c> solution</c><00:11:35.680><c> we're</c><00:11:36.000><c> actually</c><00:11:36.399><c> going</c>
+
+00:11:36.550 --> 00:11:36.560 align:start position:0%
+the other solution we're actually going
+ 
+
+00:11:36.560 --> 00:11:37.829 align:start position:0%
+the other solution we're actually going
+to<00:11:36.720><c> see</c>
+
+00:11:37.829 --> 00:11:37.839 align:start position:0%
+to see
+ 
+
+00:11:37.839 --> 00:11:39.910 align:start position:0%
+to see
+is<00:11:38.240><c> azure</c><00:11:38.640><c> synapse</c>
+
+00:11:39.910 --> 00:11:39.920 align:start position:0%
+is azure synapse
+ 
+
+00:11:39.920 --> 00:11:43.269 align:start position:0%
+is azure synapse
+so<00:11:40.399><c> azure</c>
+
+00:11:43.269 --> 00:11:43.279 align:start position:0%
+so azure
+ 
+
+00:11:43.279 --> 00:11:46.389 align:start position:0%
+so azure
+synapse
+
+00:11:46.389 --> 00:11:46.399 align:start position:0%
+ 
+ 
+
+00:11:46.399 --> 00:11:49.110 align:start position:0%
+ 
+analytics
+
+00:11:49.110 --> 00:11:49.120 align:start position:0%
+analytics
+ 
+
+00:11:49.120 --> 00:11:51.910 align:start position:0%
+analytics
+now<00:11:49.279><c> this</c><00:11:49.519><c> was</c><00:11:50.079><c> previously</c><00:11:50.880><c> kind</c><00:11:51.120><c> of</c><00:11:51.360><c> known</c><00:11:51.760><c> as</c>
+
+00:11:51.910 --> 00:11:51.920 align:start position:0%
+now this was previously kind of known as
+ 
+
+00:11:51.920 --> 00:11:55.190 align:start position:0%
+now this was previously kind of known as
+the<00:11:52.240><c> azure</c><00:11:52.800><c> sql</c><00:11:53.360><c> data</c><00:11:53.839><c> warehouse</c>
+
+00:11:55.190 --> 00:11:55.200 align:start position:0%
+the azure sql data warehouse
+ 
+
+00:11:55.200 --> 00:11:57.590 align:start position:0%
+the azure sql data warehouse
+but<00:11:55.680><c> with</c><00:11:55.920><c> data</c><00:11:56.320><c> warehouse</c><00:11:56.880><c> we</c><00:11:57.040><c> still</c><00:11:57.279><c> had</c><00:11:57.440><c> to</c>
+
+00:11:57.590 --> 00:11:57.600 align:start position:0%
+but with data warehouse we still had to
+ 
+
+00:11:57.600 --> 00:11:59.509 align:start position:0%
+but with data warehouse we still had to
+worry<00:11:57.920><c> about</c><00:11:58.639><c> okay</c><00:11:59.040><c> there's</c><00:11:59.279><c> different</c>
+
+00:11:59.509 --> 00:11:59.519 align:start position:0%
+worry about okay there's different
+ 
+
+00:11:59.519 --> 00:12:01.190 align:start position:0%
+worry about okay there's different
+services<00:11:59.920><c> we</c><00:12:00.079><c> have</c><00:12:00.160><c> to</c><00:12:00.399><c> integrate</c><00:12:00.800><c> with</c><00:12:01.040><c> we</c>
+
+00:12:01.190 --> 00:12:01.200 align:start position:0%
+services we have to integrate with we
+ 
+
+00:12:01.200 --> 00:12:03.030 align:start position:0%
+services we have to integrate with we
+have<00:12:01.279><c> to</c><00:12:01.360><c> have</c><00:12:01.519><c> permissions</c><00:12:02.000><c> here</c><00:12:02.399><c> here</c><00:12:02.800><c> and</c>
+
+00:12:03.030 --> 00:12:03.040 align:start position:0%
+have to have permissions here here and
+ 
+
+00:12:03.040 --> 00:12:05.430 align:start position:0%
+have to have permissions here here and
+here<00:12:03.360><c> and</c><00:12:03.600><c> how</c><00:12:03.760><c> do</c><00:12:03.920><c> i</c><00:12:04.000><c> hook</c><00:12:04.240><c> into</c><00:12:04.480><c> the</c><00:12:05.040><c> pools</c><00:12:05.360><c> of</c>
+
+00:12:05.430 --> 00:12:05.440 align:start position:0%
+here and how do i hook into the pools of
+ 
+
+00:12:05.440 --> 00:12:07.509 align:start position:0%
+here and how do i hook into the pools of
+computation<00:12:06.480><c> and</c><00:12:06.639><c> there</c><00:12:06.800><c> were</c><00:12:06.959><c> lots</c><00:12:07.279><c> of</c>
+
+00:12:07.509 --> 00:12:07.519 align:start position:0%
+computation and there were lots of
+ 
+
+00:12:07.519 --> 00:12:09.350 align:start position:0%
+computation and there were lots of
+challenges<00:12:08.079><c> and</c><00:12:08.240><c> work</c><00:12:08.560><c> we</c><00:12:08.720><c> might</c><00:12:08.880><c> have</c><00:12:09.040><c> six</c><00:12:09.279><c> or</c>
+
+00:12:09.350 --> 00:12:09.360 align:start position:0%
+challenges and work we might have six or
+ 
+
+00:12:09.360 --> 00:12:11.110 align:start position:0%
+challenges and work we might have six or
+seven<00:12:09.600><c> different</c><00:12:09.920><c> products</c><00:12:10.639><c> to</c><00:12:10.800><c> actually</c>
+
+00:12:11.110 --> 00:12:11.120 align:start position:0%
+seven different products to actually
+ 
+
+00:12:11.120 --> 00:12:13.750 align:start position:0%
+seven different products to actually
+light<00:12:11.440><c> up</c><00:12:11.600><c> that</c><00:12:11.760><c> complete</c><00:12:12.240><c> end</c><00:12:12.480><c> to</c><00:12:12.639><c> end</c><00:12:13.440><c> and</c><00:12:13.600><c> so</c>
+
+00:12:13.750 --> 00:12:13.760 align:start position:0%
+light up that complete end to end and so
+ 
+
+00:12:13.760 --> 00:12:16.230 align:start position:0%
+light up that complete end to end and so
+with<00:12:14.079><c> azure</c><00:12:14.399><c> synapse</c><00:12:14.800><c> analytics</c><00:12:15.600><c> it</c><00:12:15.839><c> actually</c>
+
+00:12:16.230 --> 00:12:16.240 align:start position:0%
+with azure synapse analytics it actually
+ 
+
+00:12:16.240 --> 00:12:18.230 align:start position:0%
+with azure synapse analytics it actually
+kind<00:12:16.399><c> of</c><00:12:16.560><c> builds</c><00:12:16.959><c> on</c><00:12:17.040><c> a</c><00:12:17.120><c> lot</c><00:12:17.279><c> of</c><00:12:17.360><c> the</c><00:12:17.839><c> data</c>
+
+00:12:18.230 --> 00:12:18.240 align:start position:0%
+kind of builds on a lot of the data
+ 
+
+00:12:18.240 --> 00:12:21.190 align:start position:0%
+kind of builds on a lot of the data
+factory<00:12:18.720><c> for</c><00:12:18.880><c> that</c><00:12:19.200><c> flow</c><00:12:19.519><c> capability</c><00:12:20.800><c> i</c><00:12:20.959><c> get</c>
+
+00:12:21.190 --> 00:12:21.200 align:start position:0%
+factory for that flow capability i get
+ 
+
+00:12:21.200 --> 00:12:24.629 align:start position:0%
+factory for that flow capability i get
+my<00:12:21.440><c> own</c><00:12:21.839><c> synapse</c><00:12:22.839><c> workspace</c><00:12:24.240><c> and</c><00:12:24.399><c> through</c>
+
+00:12:24.629 --> 00:12:24.639 align:start position:0%
+my own synapse workspace and through
+ 
+
+00:12:24.639 --> 00:12:26.389 align:start position:0%
+my own synapse workspace and through
+that<00:12:24.959><c> workspace</c>
+
+00:12:26.389 --> 00:12:26.399 align:start position:0%
+that workspace
+ 
+
+00:12:26.399 --> 00:12:29.110 align:start position:0%
+that workspace
+there's<00:12:26.880><c> this</c><00:12:27.200><c> kind</c><00:12:27.440><c> of</c><00:12:27.920><c> capabilities</c><00:12:28.959><c> of</c>
+
+00:12:29.110 --> 00:12:29.120 align:start position:0%
+there's this kind of capabilities of
+ 
+
+00:12:29.120 --> 00:12:31.190 align:start position:0%
+there's this kind of capabilities of
+there's<00:12:29.360><c> a</c><00:12:29.440><c> certain</c><00:12:29.760><c> amount</c><00:12:30.160><c> of</c><00:12:30.560><c> compute</c><00:12:31.040><c> and</c>
+
+00:12:31.190 --> 00:12:31.200 align:start position:0%
+there's a certain amount of compute and
+ 
+
+00:12:31.200 --> 00:12:33.990 align:start position:0%
+there's a certain amount of compute and
+processing<00:12:31.839><c> we</c><00:12:32.079><c> get</c><00:12:32.320><c> with</c><00:12:32.639><c> synapse</c>
+
+00:12:33.990 --> 00:12:34.000 align:start position:0%
+processing we get with synapse
+ 
+
+00:12:34.000 --> 00:12:35.910 align:start position:0%
+processing we get with synapse
+but<00:12:34.160><c> it</c><00:12:34.320><c> can</c><00:12:34.480><c> also</c><00:12:34.720><c> have</c><00:12:35.040><c> on</c><00:12:35.360><c> demand</c><00:12:35.760><c> so</c>
+
+00:12:35.910 --> 00:12:35.920 align:start position:0%
+but it can also have on demand so
+ 
+
+00:12:35.920 --> 00:12:37.990 align:start position:0%
+but it can also have on demand so
+there's<00:12:36.079><c> really</c><00:12:36.240><c> this</c><00:12:36.560><c> infinite</c><00:12:37.200><c> scale</c>
+
+00:12:37.990 --> 00:12:38.000 align:start position:0%
+there's really this infinite scale
+ 
+
+00:12:38.000 --> 00:12:40.550 align:start position:0%
+there's really this infinite scale
+analytics<00:12:38.800><c> machine</c><00:12:39.279><c> learning</c><00:12:40.079><c> business</c>
+
+00:12:40.550 --> 00:12:40.560 align:start position:0%
+analytics machine learning business
+ 
+
+00:12:40.560 --> 00:12:42.949 align:start position:0%
+analytics machine learning business
+intelligence<00:12:41.200><c> integration</c><00:12:42.480><c> but</c><00:12:42.639><c> i</c><00:12:42.800><c> can</c>
+
+00:12:42.949 --> 00:12:42.959 align:start position:0%
+intelligence integration but i can
+ 
+
+00:12:42.959 --> 00:12:45.750 align:start position:0%
+intelligence integration but i can
+manage<00:12:43.279><c> it</c><00:12:43.440><c> all</c><00:12:43.680><c> through</c><00:12:44.000><c> this</c><00:12:44.240><c> workspace</c>
+
+00:12:45.750 --> 00:12:45.760 align:start position:0%
+manage it all through this workspace
+ 
+
+00:12:45.760 --> 00:12:47.590 align:start position:0%
+manage it all through this workspace
+it<00:12:46.000><c> has</c><00:12:46.240><c> its</c><00:12:46.560><c> own</c>
+
+00:12:47.590 --> 00:12:47.600 align:start position:0%
+it has its own
+ 
+
+00:12:47.600 --> 00:12:49.990 align:start position:0%
+it has its own
+data<00:12:48.079><c> preparation</c><00:12:48.800><c> capabilities</c><00:12:49.600><c> built</c><00:12:49.839><c> on</c>
+
+00:12:49.990 --> 00:12:50.000 align:start position:0%
+data preparation capabilities built on
+ 
+
+00:12:50.000 --> 00:12:51.829 align:start position:0%
+data preparation capabilities built on
+its<00:12:50.320><c> own</c>
+
+00:12:51.829 --> 00:12:51.839 align:start position:0%
+its own
+ 
+
+00:12:51.839 --> 00:12:54.310 align:start position:0%
+its own
+apache<00:12:52.639><c> manage</c><00:12:53.040><c> spark</c>
+
+00:12:54.310 --> 00:12:54.320 align:start position:0%
+apache manage spark
+ 
+
+00:12:54.320 --> 00:12:55.670 align:start position:0%
+apache manage spark
+component
+
+00:12:55.670 --> 00:12:55.680 align:start position:0%
+component
+ 
+
+00:12:55.680 --> 00:12:57.670 align:start position:0%
+component
+it<00:12:55.839><c> has</c><00:12:56.079><c> things</c><00:12:56.320><c> like</c><00:12:56.560><c> synapse</c><00:12:57.040><c> links</c><00:12:57.519><c> so</c><00:12:57.600><c> you</c>
+
+00:12:57.670 --> 00:12:57.680 align:start position:0%
+it has things like synapse links so you
+ 
+
+00:12:57.680 --> 00:12:59.110 align:start position:0%
+it has things like synapse links so you
+can<00:12:57.760><c> actually</c><00:12:58.000><c> go</c><00:12:58.160><c> in</c><00:12:58.320><c> real</c><00:12:58.639><c> time</c><00:12:58.800><c> talk</c><00:12:59.040><c> to</c>
+
+00:12:59.110 --> 00:12:59.120 align:start position:0%
+can actually go in real time talk to
+ 
+
+00:12:59.120 --> 00:13:01.190 align:start position:0%
+can actually go in real time talk to
+things<00:12:59.360><c> like</c><00:12:59.519><c> cosmos</c><00:13:00.079><c> db</c>
+
+00:13:01.190 --> 00:13:01.200 align:start position:0%
+things like cosmos db
+ 
+
+00:13:01.200 --> 00:13:04.389 align:start position:0%
+things like cosmos db
+it<00:13:01.440><c> integrates</c><00:13:02.079><c> with</c><00:13:02.639><c> a</c><00:13:02.800><c> data</c><00:13:03.200><c> lake</c>
+
+00:13:04.389 --> 00:13:04.399 align:start position:0%
+it integrates with a data lake
+ 
+
+00:13:04.399 --> 00:13:07.110 align:start position:0%
+it integrates with a data lake
+so<00:13:04.800><c> it</c><00:13:05.040><c> gives</c><00:13:05.360><c> me</c><00:13:05.680><c> this</c><00:13:06.000><c> ability</c><00:13:06.639><c> now</c><00:13:06.800><c> with</c>
+
+00:13:07.110 --> 00:13:07.120 align:start position:0%
+so it gives me this ability now with
+ 
+
+00:13:07.120 --> 00:13:09.910 align:start position:0%
+so it gives me this ability now with
+azure<00:13:07.360><c> synapse</c><00:13:07.760><c> analytics</c><00:13:08.320><c> if</c><00:13:08.560><c> i</c><00:13:08.800><c> want</c><00:13:09.360><c> a</c><00:13:09.600><c> just</c>
+
+00:13:09.910 --> 00:13:09.920 align:start position:0%
+azure synapse analytics if i want a just
+ 
+
+00:13:09.920 --> 00:13:12.069 align:start position:0%
+azure synapse analytics if i want a just
+complete<00:13:10.720><c> analytic</c><00:13:11.200><c> solution</c><00:13:11.680><c> and</c><00:13:11.839><c> don't</c>
+
+00:13:12.069 --> 00:13:12.079 align:start position:0%
+complete analytic solution and don't
+ 
+
+00:13:12.079 --> 00:13:13.750 align:start position:0%
+complete analytic solution and don't
+want<00:13:12.320><c> to</c><00:13:12.480><c> have</c><00:13:12.720><c> to</c><00:13:12.880><c> grab</c><00:13:13.200><c> the</c><00:13:13.360><c> different</c>
+
+00:13:13.750 --> 00:13:13.760 align:start position:0%
+want to have to grab the different
+ 
+
+00:13:13.760 --> 00:13:15.110 align:start position:0%
+want to have to grab the different
+pieces
+
+00:13:15.110 --> 00:13:15.120 align:start position:0%
+pieces
+ 
+
+00:13:15.120 --> 00:13:18.230 align:start position:0%
+pieces
+with<00:13:15.360><c> synapse</c><00:13:15.920><c> it</c><00:13:16.160><c> uses</c><00:13:16.880><c> other</c><00:13:17.279><c> components</c>
+
+00:13:18.230 --> 00:13:18.240 align:start position:0%
+with synapse it uses other components
+ 
+
+00:13:18.240 --> 00:13:19.990 align:start position:0%
+with synapse it uses other components
+but<00:13:18.480><c> brings</c><00:13:18.800><c> it</c><00:13:18.959><c> all</c><00:13:19.200><c> into</c><00:13:19.440><c> this</c><00:13:19.600><c> single</c>
+
+00:13:19.990 --> 00:13:20.000 align:start position:0%
+but brings it all into this single
+ 
+
+00:13:20.000 --> 00:13:22.629 align:start position:0%
+but brings it all into this single
+workspace<00:13:21.120><c> to</c><00:13:21.360><c> really</c><00:13:21.600><c> give</c><00:13:21.839><c> me</c><00:13:22.000><c> this</c>
+
+00:13:22.629 --> 00:13:22.639 align:start position:0%
+workspace to really give me this
+ 
+
+00:13:22.639 --> 00:13:26.920 align:start position:0%
+workspace to really give me this
+infinite<00:13:23.279><c> type</c><00:13:23.519><c> scale</c><00:13:23.920><c> capability</c>
+

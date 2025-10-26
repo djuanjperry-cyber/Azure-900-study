@@ -1,0 +1,2288 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.480 --> 00:00:02.710 align:start position:0%
+ 
+in<00:00:01.680><c> this</c><00:00:01.880><c> lesson</c><00:00:02.159><c> we're</c><00:00:02.280><c> going</c><00:00:02.360><c> to</c><00:00:02.480><c> look</c><00:00:02.600><c> at</c>
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.720 --> 00:00:06.110 align:start position:0%
+in this lesson we're going to look at
+the<00:00:02.879><c> benefits</c><00:00:03.360><c> and</c><00:00:03.639><c> usage</c><00:00:04.279><c> of</c><00:00:04.600><c> database</c>
+
+00:00:06.110 --> 00:00:06.120 align:start position:0%
+the benefits and usage of database
+ 
+
+00:00:06.120 --> 00:00:08.990 align:start position:0%
+the benefits and usage of database
+resources<00:00:07.120><c> many</c><00:00:07.480><c> applications</c><00:00:08.240><c> will</c><00:00:08.440><c> use</c><00:00:08.679><c> a</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+resources many applications will use a
+ 
+
+00:00:09.000 --> 00:00:12.629 align:start position:0%
+resources many applications will use a
+database<00:00:09.880><c> for</c><00:00:10.280><c> their</c><00:00:10.639><c> durable</c><00:00:11.639><c> a</c><00:00:11.960><c> persistent</c>
+
+00:00:12.629 --> 00:00:12.639 align:start position:0%
+database for their durable a persistent
+ 
+
+00:00:12.639 --> 00:00:15.629 align:start position:0%
+database for their durable a persistent
+data<00:00:13.120><c> needs</c><00:00:14.120><c> there's</c><00:00:14.440><c> different</c><00:00:15.040><c> types</c><00:00:15.400><c> of</c>
+
+00:00:15.629 --> 00:00:15.639 align:start position:0%
+data needs there's different types of
+ 
+
+00:00:15.639 --> 00:00:17.910 align:start position:0%
+data needs there's different types of
+storage<00:00:16.160><c> and</c><00:00:16.520><c> interactions</c><00:00:17.480><c> possible</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+storage and interactions possible
+ 
+
+00:00:17.920 --> 00:00:20.310 align:start position:0%
+storage and interactions possible
+depending<00:00:18.279><c> on</c><00:00:18.560><c> which</c><00:00:18.920><c> database</c><00:00:19.520><c> solution</c><00:00:20.080><c> I</c>
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+depending on which database solution I
+ 
+
+00:00:20.320 --> 00:00:23.870 align:start position:0%
+depending on which database solution I
+use<00:00:21.080><c> but</c><00:00:21.240><c> the</c><00:00:21.480><c> key</c><00:00:21.720><c> point</c><00:00:22.039><c> of</c><00:00:22.240><c> these</c><00:00:22.880><c> Solutions</c>
+
+00:00:23.870 --> 00:00:23.880 align:start position:0%
+use but the key point of these Solutions
+ 
+
+00:00:23.880 --> 00:00:26.310 align:start position:0%
+use but the key point of these Solutions
+is<00:00:24.080><c> they</c><00:00:24.279><c> have</c><00:00:24.519><c> very</c><00:00:24.880><c> rich</c><00:00:25.279><c> abilities</c><00:00:25.880><c> to</c>
+
+00:00:26.310 --> 00:00:26.320 align:start position:0%
+is they have very rich abilities to
+ 
+
+00:00:26.320 --> 00:00:29.310 align:start position:0%
+is they have very rich abilities to
+interact<00:00:27.320><c> with</c><00:00:27.560><c> the</c><00:00:27.800><c> data</c><00:00:28.599><c> be</c><00:00:28.840><c> that</c><00:00:29.000><c> running</c>
+
+00:00:29.310 --> 00:00:29.320 align:start position:0%
+interact with the data be that running
+ 
+
+00:00:29.320 --> 00:00:31.710 align:start position:0%
+interact with the data be that running
+certain<00:00:29.640><c> quer</c><00:00:30.000><c> the</c><00:00:30.240><c> is</c><00:00:30.400><c> or</c><00:00:30.560><c> running</c><00:00:31.000><c> analysis</c>
+
+00:00:31.710 --> 00:00:31.720 align:start position:0%
+certain quer the is or running analysis
+ 
+
+00:00:31.720 --> 00:00:34.630 align:start position:0%
+certain quer the is or running analysis
+the<00:00:31.840><c> whole</c><00:00:32.119><c> point</c><00:00:32.599><c> is</c><00:00:32.800><c> to</c><00:00:33.280><c> get</c><00:00:33.680><c> insight</c><00:00:34.320><c> into</c>
+
+00:00:34.630 --> 00:00:34.640 align:start position:0%
+the whole point is to get insight into
+ 
+
+00:00:34.640 --> 00:00:35.750 align:start position:0%
+the whole point is to get insight into
+my
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+my
+ 
+
+00:00:35.760 --> 00:00:39.030 align:start position:0%
+my
+data<00:00:36.760><c> now</c><00:00:37.200><c> yes</c><00:00:37.640><c> I</c><00:00:37.800><c> could</c><00:00:38.079><c> install</c><00:00:38.480><c> database</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+data now yes I could install database
+ 
+
+00:00:39.040 --> 00:00:41.069 align:start position:0%
+data now yes I could install database
+software<00:00:39.520><c> into</c><00:00:39.760><c> a</c><00:00:39.920><c> virtual</c><00:00:40.280><c> machine</c><00:00:40.840><c> I</c><00:00:40.920><c> could</c>
+
+00:00:41.069 --> 00:00:41.079 align:start position:0%
+software into a virtual machine I could
+ 
+
+00:00:41.079 --> 00:00:44.029 align:start position:0%
+software into a virtual machine I could
+create<00:00:41.280><c> an</c><00:00:41.680><c> IVM</c><00:00:42.680><c> install</c><00:00:43.399><c> any</c><00:00:43.719><c> different</c>
+
+00:00:44.029 --> 00:00:44.039 align:start position:0%
+create an IVM install any different
+ 
+
+00:00:44.039 --> 00:00:46.069 align:start position:0%
+create an IVM install any different
+database<00:00:44.559><c> software</c><00:00:45.000><c> I</c><00:00:45.160><c> want</c><00:00:45.440><c> and</c><00:00:45.559><c> it</c><00:00:45.640><c> would</c>
+
+00:00:46.069 --> 00:00:46.079 align:start position:0%
+database software I want and it would
+ 
+
+00:00:46.079 --> 00:00:48.389 align:start position:0%
+database software I want and it would
+run<00:00:47.079><c> but</c><00:00:47.239><c> remember</c><00:00:47.559><c> that</c><00:00:47.680><c> idea</c><00:00:47.920><c> of</c>
+
+00:00:48.389 --> 00:00:48.399 align:start position:0%
+run but remember that idea of
+ 
+
+00:00:48.399 --> 00:00:50.549 align:start position:0%
+run but remember that idea of
+responsibility<00:00:49.399><c> generally</c><00:00:49.800><c> as</c><00:00:49.920><c> a</c><00:00:50.120><c> company</c>
+
+00:00:50.549 --> 00:00:50.559 align:start position:0%
+responsibility generally as a company
+ 
+
+00:00:50.559 --> 00:00:53.270 align:start position:0%
+responsibility generally as a company
+what<00:00:50.680><c> I</c><00:00:50.920><c> care</c><00:00:51.280><c> about</c><00:00:51.840><c> is</c><00:00:52.079><c> what</c><00:00:52.399><c> differentiates</c>
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+what I care about is what differentiates
+ 
+
+00:00:53.280 --> 00:00:56.950 align:start position:0%
+what I care about is what differentiates
+my<00:00:53.680><c> company</c><00:00:54.160><c> from</c><00:00:54.440><c> somewhere</c><00:00:55.559><c> else</c><00:00:56.559><c> managing</c>
+
+00:00:56.950 --> 00:00:56.960 align:start position:0%
+my company from somewhere else managing
+ 
+
+00:00:56.960 --> 00:00:58.830 align:start position:0%
+my company from somewhere else managing
+an<00:00:57.120><c> operating</c><00:00:57.600><c> system</c><00:00:57.960><c> even</c><00:00:58.239><c> managing</c><00:00:58.600><c> the</c>
+
+00:00:58.830 --> 00:00:58.840 align:start position:0%
+an operating system even managing the
+ 
+
+00:00:58.840 --> 00:01:00.950 align:start position:0%
+an operating system even managing the
+database<00:00:59.519><c> is</c><00:01:00.000><c> generally</c><00:01:00.280><c> think</c><00:01:00.559><c> that</c><00:01:00.680><c> doesn't</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+database is generally think that doesn't
+ 
+
+00:01:00.960 --> 00:01:03.030 align:start position:0%
+database is generally think that doesn't
+set<00:01:01.160><c> me</c><00:01:01.359><c> apart</c><00:01:01.760><c> I</c><00:01:01.840><c> focus</c><00:01:02.120><c> on</c><00:01:02.280><c> the</c><00:01:02.480><c> app</c><00:01:02.680><c> and</c><00:01:02.840><c> the</c>
+
+00:01:03.030 --> 00:01:03.040 align:start position:0%
+set me apart I focus on the app and the
+ 
+
+00:01:03.040 --> 00:01:06.469 align:start position:0%
+set me apart I focus on the app and the
+data<00:01:04.040><c> so</c><00:01:04.199><c> there</c><00:01:04.320><c> are</c><00:01:04.519><c> many</c><00:01:05.119><c> managed</c><00:01:05.720><c> database</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+data so there are many managed database
+ 
+
+00:01:06.479 --> 00:01:09.109 align:start position:0%
+data so there are many managed database
+offerings<00:01:07.159><c> in</c><00:01:07.439><c> Azure</c><00:01:07.799><c> we</c><00:01:07.880><c> think</c><00:01:08.080><c> of</c><00:01:08.159><c> them</c><00:01:08.280><c> as</c><00:01:08.560><c> P</c>
+
+00:01:09.109 --> 00:01:09.119 align:start position:0%
+offerings in Azure we think of them as P
+ 
+
+00:01:09.119 --> 00:01:11.630 align:start position:0%
+offerings in Azure we think of them as P
+Services<00:01:09.799><c> because</c><00:01:10.040><c> it's</c><00:01:10.240><c> managed</c><00:01:10.640><c> for</c><00:01:10.840><c> us</c><00:01:11.520><c> but</c>
+
+00:01:11.630 --> 00:01:11.640 align:start position:0%
+Services because it's managed for us but
+ 
+
+00:01:11.640 --> 00:01:13.590 align:start position:0%
+Services because it's managed for us but
+it's<00:01:11.759><c> not</c><00:01:12.000><c> delivering</c><00:01:12.520><c> a</c><00:01:12.799><c> complete</c><00:01:13.200><c> business</c>
+
+00:01:13.590 --> 00:01:13.600 align:start position:0%
+it's not delivering a complete business
+ 
+
+00:01:13.600 --> 00:01:15.749 align:start position:0%
+it's not delivering a complete business
+function<00:01:13.960><c> I</c><00:01:14.080><c> still</c><00:01:14.280><c> have</c><00:01:14.400><c> to</c><00:01:14.520><c> write</c><00:01:14.799><c> some</c><00:01:15.280><c> app</c>
+
+00:01:15.749 --> 00:01:15.759 align:start position:0%
+function I still have to write some app
+ 
+
+00:01:15.759 --> 00:01:18.190 align:start position:0%
+function I still have to write some app
+to<00:01:16.159><c> interact</c><00:01:16.759><c> with</c><00:01:16.920><c> the</c><00:01:17.119><c> database</c><00:01:17.640><c> to</c><00:01:17.840><c> provide</c>
+
+00:01:18.190 --> 00:01:18.200 align:start position:0%
+to interact with the database to provide
+ 
+
+00:01:18.200 --> 00:01:20.149 align:start position:0%
+to interact with the database to provide
+that<00:01:18.479><c> business</c>
+
+00:01:20.149 --> 00:01:20.159 align:start position:0%
+that business
+ 
+
+00:01:20.159 --> 00:01:22.630 align:start position:0%
+that business
+value<00:01:21.159><c> now</c><00:01:21.360><c> there</c><00:01:21.479><c> are</c><00:01:21.799><c> solutions</c><00:01:22.360><c> that</c><00:01:22.479><c> are</c>
+
+00:01:22.630 --> 00:01:22.640 align:start position:0%
+value now there are solutions that are
+ 
+
+00:01:22.640 --> 00:01:24.590 align:start position:0%
+value now there are solutions that are
+based<00:01:22.880><c> on</c><00:01:23.119><c> Microsoft</c><00:01:23.680><c> Technologies</c><00:01:24.479><c> there</c>
+
+00:01:24.590 --> 00:01:24.600 align:start position:0%
+based on Microsoft Technologies there
+ 
+
+00:01:24.600 --> 00:01:27.590 align:start position:0%
+based on Microsoft Technologies there
+are<00:01:24.799><c> solutions</c><00:01:25.439><c> based</c><00:01:25.960><c> on</c><00:01:26.600><c> thirdparty</c>
+
+00:01:27.590 --> 00:01:27.600 align:start position:0%
+are solutions based on thirdparty
+ 
+
+00:01:27.600 --> 00:01:29.670 align:start position:0%
+are solutions based on thirdparty
+open-source<00:01:28.600><c> Solutions</c><00:01:29.159><c> so</c><00:01:29.280><c> we'll</c><00:01:29.479><c> start</c>
+
+00:01:29.670 --> 00:01:29.680 align:start position:0%
+open-source Solutions so we'll start
+ 
+
+00:01:29.680 --> 00:01:32.910 align:start position:0%
+open-source Solutions so we'll start
+with<00:01:29.960><c> the</c><00:01:30.040><c> ones</c><00:01:30.280><c> based</c><00:01:30.560><c> on</c><00:01:30.880><c> SQL</c><00:01:31.880><c> so</c><00:01:32.079><c> remember</c>
+
+00:01:32.910 --> 00:01:32.920 align:start position:0%
+with the ones based on SQL so remember
+ 
+
+00:01:32.920 --> 00:01:37.030 align:start position:0%
+with the ones based on SQL so remember
+SQL<00:01:33.759><c> Server</c><00:01:34.759><c> is</c><00:01:35.000><c> the</c><00:01:35.399><c> Microsoft</c><00:01:36.119><c> relational</c>
+
+00:01:37.030 --> 00:01:37.040 align:start position:0%
+SQL Server is the Microsoft relational
+ 
+
+00:01:37.040 --> 00:01:40.109 align:start position:0%
+SQL Server is the Microsoft relational
+database<00:01:38.119><c> solution</c><00:01:39.119><c> so</c><00:01:39.320><c> the</c><00:01:39.479><c> whole</c><00:01:39.759><c> point</c>
+
+00:01:40.109 --> 00:01:40.119 align:start position:0%
+database solution so the whole point
+ 
+
+00:01:40.119 --> 00:01:41.389 align:start position:0%
+database solution so the whole point
+about<00:01:40.479><c> that</c>
+
+00:01:41.389 --> 00:01:41.399 align:start position:0%
+about that
+ 
+
+00:01:41.399 --> 00:01:46.670 align:start position:0%
+about that
+relational<00:01:42.560><c> nature</c><00:01:43.560><c> is</c><00:01:44.040><c> I</c><00:01:44.200><c> can</c><00:01:44.560><c> define</c><00:01:45.200><c> those</c>
+
+00:01:46.670 --> 00:01:46.680 align:start position:0%
+relational nature is I can define those
+ 
+
+00:01:46.680 --> 00:01:50.830 align:start position:0%
+relational nature is I can define those
+relationships<00:01:47.680><c> of</c><00:01:47.880><c> the</c><00:01:48.200><c> data</c><00:01:49.200><c> to</c><00:01:49.520><c> each</c><00:01:49.840><c> other</c>
+
+00:01:50.830 --> 00:01:50.840 align:start position:0%
+relationships of the data to each other
+ 
+
+00:01:50.840 --> 00:01:54.870 align:start position:0%
+relationships of the data to each other
+I<00:01:51.040><c> have</c><00:01:51.320><c> the</c><00:01:51.560><c> idea</c><00:01:52.280><c> of</c><00:01:52.600><c> a</c><00:01:52.960><c> fixed</c>
+
+00:01:54.870 --> 00:01:54.880 align:start position:0%
+I have the idea of a fixed
+ 
+
+00:01:54.880 --> 00:01:57.270 align:start position:0%
+I have the idea of a fixed
+schema<00:01:55.880><c> so</c><00:01:56.280><c> I</c>
+
+00:01:57.270 --> 00:01:57.280 align:start position:0%
+schema so I
+ 
+
+00:01:57.280 --> 00:02:00.230 align:start position:0%
+schema so I
+Define<00:01:58.280><c> hey</c><00:01:58.520><c> these</c><00:01:58.680><c> are</c><00:01:58.880><c> the</c><00:01:59.200><c> tables</c><00:02:00.039><c> I'm</c>
+
+00:02:00.230 --> 00:02:00.240 align:start position:0%
+Define hey these are the tables I'm
+ 
+
+00:02:00.240 --> 00:02:03.149 align:start position:0%
+Define hey these are the tables I'm
+going<00:02:00.479><c> to</c><00:02:00.880><c> have</c><00:02:01.840><c> and</c><00:02:02.039><c> these</c><00:02:02.200><c> are</c><00:02:02.399><c> the</c><00:02:02.640><c> columns</c>
+
+00:02:03.149 --> 00:02:03.159 align:start position:0%
+going to have and these are the columns
+ 
+
+00:02:03.159 --> 00:02:05.510 align:start position:0%
+going to have and these are the columns
+the<00:02:03.479><c> attributes</c><00:02:04.000><c> and</c><00:02:04.200><c> the</c><00:02:04.360><c> format</c><00:02:04.960><c> they</c><00:02:05.119><c> can</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+the attributes and the format they can
+ 
+
+00:02:05.520 --> 00:02:11.630 align:start position:0%
+the attributes and the format they can
+actually<00:02:06.000><c> be</c><00:02:07.000><c> so</c><00:02:07.200><c> we</c><00:02:07.360><c> have</c><00:02:07.600><c> this</c><00:02:08.000><c> concept</c><00:02:08.640><c> of</c><00:02:08.920><c> a</c>
+
+00:02:11.630 --> 00:02:11.640 align:start position:0%
+ 
+ 
+
+00:02:11.640 --> 00:02:13.790 align:start position:0%
+ 
+table<00:02:12.640><c> and</c><00:02:12.760><c> this</c><00:02:12.879><c> is</c><00:02:13.000><c> going</c><00:02:13.080><c> to</c><00:02:13.319><c> apply</c><00:02:13.599><c> to</c>
+
+00:02:13.790 --> 00:02:13.800 align:start position:0%
+table and this is going to apply to
+ 
+
+00:02:13.800 --> 00:02:15.070 align:start position:0%
+table and this is going to apply to
+really<00:02:14.120><c> any</c>
+
+00:02:15.070 --> 00:02:15.080 align:start position:0%
+really any
+ 
+
+00:02:15.080 --> 00:02:20.270 align:start position:0%
+really any
+relational<00:02:16.080><c> this</c><00:02:16.160><c> is</c><00:02:16.319><c> the</c><00:02:16.519><c> point</c><00:02:16.760><c> these</c><00:02:16.920><c> are</c>
+
+00:02:20.270 --> 00:02:20.280 align:start position:0%
+ 
+ 
+
+00:02:20.280 --> 00:02:23.509 align:start position:0%
+ 
+relational<00:02:21.760><c> database</c><00:02:22.760><c> we</c><00:02:22.879><c> have</c><00:02:23.040><c> this</c><00:02:23.200><c> idea</c><00:02:23.440><c> of</c>
+
+00:02:23.509 --> 00:02:23.519 align:start position:0%
+relational database we have this idea of
+ 
+
+00:02:23.519 --> 00:02:27.190 align:start position:0%
+relational database we have this idea of
+a<00:02:23.879><c> table</c><00:02:24.519><c> which</c><00:02:24.879><c> has</c><00:02:25.239><c> that</c><00:02:25.879><c> schema</c><00:02:26.879><c> and</c><00:02:27.000><c> it's</c>
+
+00:02:27.190 --> 00:02:27.200 align:start position:0%
+a table which has that schema and it's
+ 
+
+00:02:27.200 --> 00:02:28.589 align:start position:0%
+a table which has that schema and it's
+going<00:02:27.280><c> to</c>
+
+00:02:28.589 --> 00:02:28.599 align:start position:0%
+going to
+ 
+
+00:02:28.599 --> 00:02:32.750 align:start position:0%
+going to
+consist<00:02:29.599><c> of</c><00:02:30.000><c> of</c>
+
+00:02:32.750 --> 00:02:32.760 align:start position:0%
+consist of of
+ 
+
+00:02:32.760 --> 00:02:36.990 align:start position:0%
+consist of of
+rows<00:02:33.760><c> which</c><00:02:33.959><c> are</c>
+
+00:02:36.990 --> 00:02:37.000 align:start position:0%
+ 
+ 
+
+00:02:37.000 --> 00:02:40.030 align:start position:0%
+ 
+records<00:02:38.000><c> and</c><00:02:38.120><c> then</c><00:02:38.239><c> we</c><00:02:38.400><c> have</c><00:02:38.560><c> this</c><00:02:38.760><c> idea</c><00:02:39.159><c> of</c>
+
+00:02:40.030 --> 00:02:40.040 align:start position:0%
+records and then we have this idea of
+ 
+
+00:02:40.040 --> 00:02:43.550 align:start position:0%
+records and then we have this idea of
+columns<00:02:41.040><c> at</c><00:02:41.159><c> the</c><00:02:41.400><c> top</c><00:02:42.080><c> and</c><00:02:42.280><c> those</c><00:02:42.760><c> columns</c><00:02:43.280><c> are</c>
+
+00:02:43.550 --> 00:02:43.560 align:start position:0%
+columns at the top and those columns are
+ 
+
+00:02:43.560 --> 00:02:46.110 align:start position:0%
+columns at the top and those columns are
+defined<00:02:44.159><c> in</c><00:02:44.400><c> that</c><00:02:44.680><c> schema</c><00:02:45.560><c> these</c><00:02:45.720><c> are</c><00:02:45.920><c> the</c>
+
+00:02:46.110 --> 00:02:46.120 align:start position:0%
+defined in that schema these are the
+ 
+
+00:02:46.120 --> 00:02:48.710 align:start position:0%
+defined in that schema these are the
+various<00:02:46.599><c> kind</c><00:02:46.720><c> of</c><00:02:47.120><c> attributes</c><00:02:47.760><c> the</c>
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+various kind of attributes the
+ 
+
+00:02:48.720 --> 00:02:51.630 align:start position:0%
+various kind of attributes the
+properties<00:02:49.720><c> of</c><00:02:50.360><c> the</c><00:02:50.760><c> entries</c><00:02:51.319><c> that</c><00:02:51.440><c> I'm</c><00:02:51.560><c> going</c>
+
+00:02:51.630 --> 00:02:51.640 align:start position:0%
+properties of the entries that I'm going
+ 
+
+00:02:51.640 --> 00:02:56.110 align:start position:0%
+properties of the entries that I'm going
+to<00:02:51.760><c> put</c><00:02:51.959><c> within</c><00:02:52.519><c> here</c><00:02:53.879><c> now</c><00:02:54.879><c> one</c><00:02:55.080><c> of</c><00:02:55.400><c> these</c><00:02:55.959><c> is</c>
+
+00:02:56.110 --> 00:02:56.120 align:start position:0%
+to put within here now one of these is
+ 
+
+00:02:56.120 --> 00:02:58.470 align:start position:0%
+to put within here now one of these is
+going<00:02:56.200><c> to</c><00:02:56.319><c> be</c><00:02:56.480><c> kind</c><00:02:56.640><c> of</c><00:02:56.840><c> a</c><00:02:57.159><c> key</c><00:02:58.159><c> this</c><00:02:58.280><c> is</c><00:02:58.400><c> going</c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+going to be kind of a key this is going
+ 
+
+00:02:58.480 --> 00:03:00.390 align:start position:0%
+going to be kind of a key this is going
+to<00:02:58.599><c> be</c><00:02:58.720><c> a</c><00:02:58.920><c> unique</c><00:02:59.480><c> Val</c>
+
+00:03:00.390 --> 00:03:00.400 align:start position:0%
+to be a unique Val
+ 
+
+00:03:00.400 --> 00:03:03.509 align:start position:0%
+to be a unique Val
+value<00:03:01.400><c> for</c><00:03:01.879><c> every</c><00:03:02.319><c> record</c><00:03:03.159><c> and</c><00:03:03.239><c> one</c><00:03:03.360><c> of</c><00:03:03.440><c> the</c>
+
+00:03:03.509 --> 00:03:03.519 align:start position:0%
+value for every record and one of the
+ 
+
+00:03:03.519 --> 00:03:05.910 align:start position:0%
+value for every record and one of the
+things<00:03:03.680><c> we</c><00:03:03.799><c> can</c><00:03:03.920><c> do</c><00:03:04.040><c> is</c><00:03:04.159><c> we</c><00:03:04.280><c> have</c><00:03:04.519><c> other</c><00:03:04.920><c> tables</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+things we can do is we have other tables
+ 
+
+00:03:05.920 --> 00:03:08.149 align:start position:0%
+things we can do is we have other tables
+I<00:03:06.080><c> could</c><00:03:06.360><c> establish</c><00:03:06.959><c> relationships</c><00:03:07.680><c> between</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+I could establish relationships between
+ 
+
+00:03:08.159 --> 00:03:11.509 align:start position:0%
+I could establish relationships between
+those<00:03:08.480><c> keys</c><00:03:08.840><c> using</c><00:03:09.120><c> a</c><00:03:09.280><c> foreign</c><00:03:09.760><c> key</c><00:03:10.760><c> so</c><00:03:11.120><c> I</c><00:03:11.239><c> can</c>
+
+00:03:11.509 --> 00:03:11.519 align:start position:0%
+those keys using a foreign key so I can
+ 
+
+00:03:11.519 --> 00:03:13.710 align:start position:0%
+those keys using a foreign key so I can
+normalize<00:03:12.319><c> the</c><00:03:12.599><c> data</c><00:03:13.120><c> so</c><00:03:13.280><c> I</c><00:03:13.360><c> might</c><00:03:13.480><c> have</c><00:03:13.599><c> a</c>
+
+00:03:13.710 --> 00:03:13.720 align:start position:0%
+normalize the data so I might have a
+ 
+
+00:03:13.720 --> 00:03:17.110 align:start position:0%
+normalize the data so I might have a
+table<00:03:14.000><c> for</c><00:03:14.239><c> addresses</c><00:03:14.799><c> a</c><00:03:15.040><c> table</c><00:03:15.480><c> for</c><00:03:16.120><c> orders</c>
+
+00:03:17.110 --> 00:03:17.120 align:start position:0%
+table for addresses a table for orders
+ 
+
+00:03:17.120 --> 00:03:19.630 align:start position:0%
+table for addresses a table for orders
+uh<00:03:17.239><c> a</c><00:03:17.400><c> table</c><00:03:17.720><c> for</c><00:03:18.280><c> inventory</c><00:03:19.280><c> and</c><00:03:19.400><c> I</c><00:03:19.480><c> can</c>
+
+00:03:19.630 --> 00:03:19.640 align:start position:0%
+uh a table for inventory and I can
+ 
+
+00:03:19.640 --> 00:03:22.070 align:start position:0%
+uh a table for inventory and I can
+establish<00:03:20.120><c> relationships</c><00:03:20.920><c> between</c><00:03:21.400><c> those</c><00:03:21.920><c> so</c>
+
+00:03:22.070 --> 00:03:22.080 align:start position:0%
+establish relationships between those so
+ 
+
+00:03:22.080 --> 00:03:23.470 align:start position:0%
+establish relationships between those so
+I'm<00:03:22.239><c> really</c><00:03:22.519><c> efficient</c><00:03:23.000><c> with</c><00:03:23.200><c> how</c><00:03:23.360><c> I'm</c>
+
+00:03:23.470 --> 00:03:23.480 align:start position:0%
+I'm really efficient with how I'm
+ 
+
+00:03:23.480 --> 00:03:25.070 align:start position:0%
+I'm really efficient with how I'm
+storing<00:03:23.959><c> the</c><00:03:24.080><c> data</c><00:03:24.400><c> that's</c><00:03:24.560><c> that</c>
+
+00:03:25.070 --> 00:03:25.080 align:start position:0%
+storing the data that's that
+ 
+
+00:03:25.080 --> 00:03:27.110 align:start position:0%
+storing the data that's that
+normalization<00:03:26.080><c> so</c><00:03:26.280><c> we're</c><00:03:26.440><c> splitting</c><00:03:26.879><c> the</c>
+
+00:03:27.110 --> 00:03:27.120 align:start position:0%
+normalization so we're splitting the
+ 
+
+00:03:27.120 --> 00:03:30.190 align:start position:0%
+normalization so we're splitting the
+data<00:03:28.000><c> into</c><00:03:28.319><c> these</c><00:03:28.560><c> very</c><00:03:28.879><c> defined</c><00:03:29.400><c> sets</c><00:03:29.959><c> data</c>
+
+00:03:30.190 --> 00:03:30.200 align:start position:0%
+data into these very defined sets data
+ 
+
+00:03:30.200 --> 00:03:33.110 align:start position:0%
+data into these very defined sets data
+to<00:03:30.400><c> store</c><00:03:30.760><c> in</c><00:03:30.879><c> the</c><00:03:31.040><c> most</c><00:03:31.439><c> optimal</c><00:03:32.080><c> way</c><00:03:32.959><c> this</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+to store in the most optimal way this
+ 
+
+00:03:33.120 --> 00:03:35.470 align:start position:0%
+to store in the most optimal way this
+comes<00:03:33.360><c> back</c><00:03:33.519><c> from</c><00:03:34.000><c> the</c><00:03:34.200><c> days</c><00:03:34.519><c> where</c><00:03:34.920><c> dis</c><00:03:35.239><c> space</c>
+
+00:03:35.470 --> 00:03:35.480 align:start position:0%
+comes back from the days where dis space
+ 
+
+00:03:35.480 --> 00:03:37.270 align:start position:0%
+comes back from the days where dis space
+was<00:03:35.599><c> really</c><00:03:35.799><c> expensive</c><00:03:36.640><c> so</c><00:03:36.760><c> you</c><00:03:36.840><c> wanted</c><00:03:37.080><c> to</c><00:03:37.159><c> be</c>
+
+00:03:37.270 --> 00:03:37.280 align:start position:0%
+was really expensive so you wanted to be
+ 
+
+00:03:37.280 --> 00:03:39.470 align:start position:0%
+was really expensive so you wanted to be
+as<00:03:37.480><c> efficient</c><00:03:37.959><c> with</c><00:03:38.120><c> it</c><00:03:38.400><c> as</c><00:03:38.599><c> we</c>
+
+00:03:39.470 --> 00:03:39.480 align:start position:0%
+as efficient with it as we
+ 
+
+00:03:39.480 --> 00:03:42.789 align:start position:0%
+as efficient with it as we
+can<00:03:40.480><c> so</c><00:03:40.720><c> this</c><00:03:40.879><c> idea</c><00:03:41.159><c> of</c><00:03:41.319><c> SQL</c><00:03:41.920><c> Server</c><00:03:42.519><c> there's</c>
+
+00:03:42.789 --> 00:03:42.799 align:start position:0%
+can so this idea of SQL Server there's
+ 
+
+00:03:42.799 --> 00:03:45.309 align:start position:0%
+can so this idea of SQL Server there's
+actually<00:03:43.200><c> different</c><00:03:43.840><c> offerings</c><00:03:44.840><c> so</c><00:03:45.000><c> there's</c>
+
+00:03:45.309 --> 00:03:45.319 align:start position:0%
+actually different offerings so there's
+ 
+
+00:03:45.319 --> 00:03:51.789 align:start position:0%
+actually different offerings so there's
+Azure<00:03:45.799><c> SQL</c>
+
+00:03:51.789 --> 00:03:51.799 align:start position:0%
+ 
+ 
+
+00:03:51.799 --> 00:03:55.229 align:start position:0%
+ 
+database<00:03:52.799><c> this</c><00:03:52.959><c> is</c><00:03:53.159><c> a</c><00:03:53.480><c> complete</c><00:03:54.439><c> managed</c>
+
+00:03:55.229 --> 00:03:55.239 align:start position:0%
+database this is a complete managed
+ 
+
+00:03:55.239 --> 00:03:57.710 align:start position:0%
+database this is a complete managed
+offering<00:03:56.120><c> there</c><00:03:56.239><c> are</c><00:03:56.480><c> various</c><00:03:56.920><c> skews</c><00:03:57.519><c> with</c>
+
+00:03:57.710 --> 00:03:57.720 align:start position:0%
+offering there are various skews with
+ 
+
+00:03:57.720 --> 00:04:00.309 align:start position:0%
+offering there are various skews with
+different<00:03:58.439><c> aspects</c><00:03:58.799><c> of</c><00:03:59.040><c> scale</c><00:03:59.480><c> and</c><00:03:59.840><c> different</c>
+
+00:04:00.309 --> 00:04:00.319 align:start position:0%
+different aspects of scale and different
+ 
+
+00:04:00.319 --> 00:04:03.670 align:start position:0%
+different aspects of scale and different
+features<00:04:01.319><c> but</c><00:04:01.480><c> this</c><00:04:01.640><c> is</c><00:04:01.959><c> complete</c><00:04:02.760><c> managed</c><00:04:03.560><c> as</c>
+
+00:04:03.670 --> 00:04:03.680 align:start position:0%
+features but this is complete managed as
+ 
+
+00:04:03.680 --> 00:04:05.030 align:start position:0%
+features but this is complete managed as
+a<00:04:03.920><c> p</c>
+
+00:04:05.030 --> 00:04:05.040 align:start position:0%
+a p
+ 
+
+00:04:05.040 --> 00:04:09.149 align:start position:0%
+a p
+service<00:04:06.040><c> then</c><00:04:06.480><c> you'll</c><00:04:06.760><c> actually</c><00:04:07.000><c> see</c><00:04:07.400><c> there's</c>
+
+00:04:09.149 --> 00:04:09.159 align:start position:0%
+service then you'll actually see there's
+ 
+
+00:04:09.159 --> 00:04:10.830 align:start position:0%
+service then you'll actually see there's
+Azure
+
+00:04:10.830 --> 00:04:10.840 align:start position:0%
+Azure
+ 
+
+00:04:10.840 --> 00:04:12.589 align:start position:0%
+Azure
+SQL
+
+00:04:12.589 --> 00:04:12.599 align:start position:0%
+SQL
+ 
+
+00:04:12.599 --> 00:04:15.550 align:start position:0%
+SQL
+Mi<00:04:13.599><c> managed</c><00:04:14.159><c> instance</c><00:04:15.120><c> now</c><00:04:15.239><c> the</c><00:04:15.400><c> big</c>
+
+00:04:15.550 --> 00:04:15.560 align:start position:0%
+Mi managed instance now the big
+ 
+
+00:04:15.560 --> 00:04:20.310 align:start position:0%
+Mi managed instance now the big
+difference<00:04:15.959><c> about</c><00:04:16.359><c> this</c><00:04:16.720><c> is</c><00:04:17.199><c> this</c><00:04:17.280><c> is</c><00:04:17.400><c> a</c><00:04:17.680><c> p</c>
+
+00:04:20.310 --> 00:04:20.320 align:start position:0%
+ 
+ 
+
+00:04:20.320 --> 00:04:22.990 align:start position:0%
+ 
+service<00:04:21.320><c> and</c><00:04:21.720><c> there's</c><00:04:21.919><c> certain</c><00:04:22.320><c> limitations</c>
+
+00:04:22.990 --> 00:04:23.000 align:start position:0%
+service and there's certain limitations
+ 
+
+00:04:23.000 --> 00:04:25.070 align:start position:0%
+service and there's certain limitations
+on<00:04:23.199><c> some</c><00:04:23.320><c> of</c><00:04:23.400><c> the</c><00:04:23.520><c> features</c><00:04:24.120><c> it</c><00:04:24.320><c> exposes</c><00:04:24.880><c> to</c>
+
+00:04:25.070 --> 00:04:25.080 align:start position:0%
+on some of the features it exposes to
+ 
+
+00:04:25.080 --> 00:04:27.310 align:start position:0%
+on some of the features it exposes to
+you<00:04:25.440><c> because</c><00:04:25.800><c> it</c><00:04:25.919><c> is</c><00:04:26.160><c> p</c><00:04:26.479><c> it's</c><00:04:26.639><c> this</c>
+
+00:04:27.310 --> 00:04:27.320 align:start position:0%
+you because it is p it's this
+ 
+
+00:04:27.320 --> 00:04:29.510 align:start position:0%
+you because it is p it's this
+multi-tenant<00:04:28.320><c> with</c><00:04:28.560><c> managed</c><00:04:28.919><c> instance</c>
+
+00:04:29.510 --> 00:04:29.520 align:start position:0%
+multi-tenant with managed instance
+ 
+
+00:04:29.520 --> 00:04:33.310 align:start position:0%
+multi-tenant with managed instance
+actually<00:04:29.960><c> runs</c><00:04:30.560><c> in</c><00:04:30.960><c> your</c><00:04:31.759><c> v-net</c><00:04:32.759><c> and</c><00:04:32.960><c> it's</c>
+
+00:04:33.310 --> 00:04:33.320 align:start position:0%
+actually runs in your v-net and it's
+ 
+
+00:04:33.320 --> 00:04:39.710 align:start position:0%
+actually runs in your v-net and it's
+dedicated<00:04:34.759><c> instances</c><00:04:35.759><c> so</c><00:04:36.000><c> I</c><00:04:36.199><c> get</c><00:04:36.639><c> great</c>
+
+00:04:39.710 --> 00:04:39.720 align:start position:0%
+ 
+ 
+
+00:04:39.720 --> 00:04:42.150 align:start position:0%
+ 
+compatibility<00:04:40.720><c> with</c><00:04:41.080><c> existing</c><00:04:41.479><c> workflow</c><00:04:42.080><c> if</c>
+
+00:04:42.150 --> 00:04:42.160 align:start position:0%
+compatibility with existing workflow if
+ 
+
+00:04:42.160 --> 00:04:43.790 align:start position:0%
+compatibility with existing workflow if
+I<00:04:42.240><c> was</c><00:04:42.360><c> going</c><00:04:42.440><c> to</c><00:04:42.639><c> migrate</c><00:04:43.240><c> something</c><00:04:43.560><c> from</c><00:04:43.680><c> an</c>
+
+00:04:43.790 --> 00:04:43.800 align:start position:0%
+I was going to migrate something from an
+ 
+
+00:04:43.800 --> 00:04:47.909 align:start position:0%
+I was going to migrate something from an
+on-prem<00:04:44.320><c> SQL</c><00:04:44.800><c> Server</c><00:04:45.680><c> to</c><00:04:46.520><c> Azure</c><00:04:47.520><c> if</c><00:04:47.639><c> I</c><00:04:47.759><c> was</c>
+
+00:04:47.909 --> 00:04:47.919 align:start position:0%
+on-prem SQL Server to Azure if I was
+ 
+
+00:04:47.919 --> 00:04:50.270 align:start position:0%
+on-prem SQL Server to Azure if I was
+using<00:04:48.240><c> maybe</c><00:04:48.440><c> some</c><00:04:48.560><c> of</c><00:04:48.680><c> the</c><00:04:48.960><c> more</c><00:04:49.320><c> advanced</c>
+
+00:04:50.270 --> 00:04:50.280 align:start position:0%
+using maybe some of the more advanced
+ 
+
+00:04:50.280 --> 00:04:54.150 align:start position:0%
+using maybe some of the more advanced
+capabilities<00:04:51.280><c> I</c><00:04:51.400><c> may</c><00:04:51.600><c> use</c><00:04:51.880><c> this</c><00:04:52.160><c> Azure</c><00:04:52.600><c> SQL</c><00:04:53.160><c> Mi</c>
+
+00:04:54.150 --> 00:04:54.160 align:start position:0%
+capabilities I may use this Azure SQL Mi
+ 
+
+00:04:54.160 --> 00:04:55.670 align:start position:0%
+capabilities I may use this Azure SQL Mi
+if<00:04:54.280><c> we</c><00:04:54.479><c> actually</c><00:04:54.720><c> go</c><00:04:54.840><c> and</c><00:04:55.039><c> look</c><00:04:55.240><c> there's</c><00:04:55.400><c> a</c>
+
+00:04:55.670 --> 00:04:55.680 align:start position:0%
+if we actually go and look there's a
+ 
+
+00:04:55.680 --> 00:04:56.909 align:start position:0%
+if we actually go and look there's a
+document<00:04:56.160><c> that</c><00:04:56.280><c> talks</c><00:04:56.560><c> about</c><00:04:56.720><c> the</c>
+
+00:04:56.909 --> 00:04:56.919 align:start position:0%
+document that talks about the
+ 
+
+00:04:56.919 --> 00:04:58.830 align:start position:0%
+document that talks about the
+differences<00:04:57.479><c> between</c><00:04:57.880><c> regular</c><00:04:58.280><c> Azure</c><00:04:58.560><c> SLE</c>
+
+00:04:58.830 --> 00:04:58.840 align:start position:0%
+differences between regular Azure SLE
+ 
+
+00:04:58.840 --> 00:05:02.070 align:start position:0%
+differences between regular Azure SLE
+database<00:04:59.280><c> and</c><00:04:59.919><c> SQL</c><00:05:00.440><c> Mi</c><00:05:01.440><c> and</c><00:05:01.560><c> we</c><00:05:01.639><c> can</c><00:05:01.759><c> start</c><00:05:01.960><c> to</c>
+
+00:05:02.070 --> 00:05:02.080 align:start position:0%
+database and SQL Mi and we can start to
+ 
+
+00:05:02.080 --> 00:05:04.469 align:start position:0%
+database and SQL Mi and we can start to
+see<00:05:02.320><c> some</c><00:05:02.479><c> of</c><00:05:02.600><c> the</c><00:05:03.000><c> key</c><00:05:03.400><c> things</c><00:05:03.680><c> that</c><00:05:03.840><c> are</c><00:05:04.039><c> very</c>
+
+00:05:04.469 --> 00:05:04.479 align:start position:0%
+see some of the key things that are very
+ 
+
+00:05:04.479 --> 00:05:07.230 align:start position:0%
+see some of the key things that are very
+different<00:05:05.479><c> so</c><00:05:05.680><c> for</c><00:05:05.919><c> example</c><00:05:06.479><c> one</c><00:05:06.639><c> of</c><00:05:06.759><c> the</c><00:05:07.000><c> big</c>
+
+00:05:07.230 --> 00:05:07.240 align:start position:0%
+different so for example one of the big
+ 
+
+00:05:07.240 --> 00:05:10.390 align:start position:0%
+different so for example one of the big
+things<00:05:07.600><c> we</c><00:05:07.880><c> actually</c><00:05:08.639><c> have</c><00:05:09.639><c> is</c><00:05:09.880><c> this</c><00:05:10.080><c> idea</c><00:05:10.320><c> of</c>
+
+00:05:10.390 --> 00:05:10.400 align:start position:0%
+things we actually have is this idea of
+ 
+
+00:05:10.400 --> 00:05:13.110 align:start position:0%
+things we actually have is this idea of
+the<00:05:10.560><c> common</c><00:05:10.880><c> language</c><00:05:11.440><c> runtime</c><00:05:12.440><c> I</c><00:05:12.560><c> can</c><00:05:12.800><c> use</c>
+
+00:05:13.110 --> 00:05:13.120 align:start position:0%
+the common language runtime I can use
+ 
+
+00:05:13.120 --> 00:05:16.830 align:start position:0%
+the common language runtime I can use
+that<00:05:13.320><c> with</c><00:05:13.560><c> Azure</c><00:05:14.039><c> SQL</c><00:05:14.880><c> Mi</c><00:05:15.880><c> cross</c><00:05:16.479><c> cross</c>
+
+00:05:16.830 --> 00:05:16.840 align:start position:0%
+that with Azure SQL Mi cross cross
+ 
+
+00:05:16.840 --> 00:05:19.830 align:start position:0%
+that with Azure SQL Mi cross cross
+database<00:05:17.400><c> queries</c><00:05:18.199><c> I</c><00:05:18.280><c> can</c><00:05:18.479><c> do</c><00:05:18.720><c> with</c><00:05:18.960><c> Azure</c><00:05:19.400><c> SQL</c>
+
+00:05:19.830 --> 00:05:19.840 align:start position:0%
+database queries I can do with Azure SQL
+ 
+
+00:05:19.840 --> 00:05:23.150 align:start position:0%
+database queries I can do with Azure SQL
+Mi<00:05:20.520><c> cross</c><00:05:20.800><c> database</c><00:05:21.280><c> transactions</c><00:05:22.000><c> yes</c><00:05:22.240><c> I</c><00:05:22.360><c> can</c>
+
+00:05:23.150 --> 00:05:23.160 align:start position:0%
+Mi cross database transactions yes I can
+ 
+
+00:05:23.160 --> 00:05:26.749 align:start position:0%
+Mi cross database transactions yes I can
+do<00:05:24.160><c> if</c><00:05:24.280><c> we</c><00:05:24.440><c> keep</c><00:05:24.680><c> scrolling</c><00:05:25.360><c> down</c><00:05:26.280><c> things</c><00:05:26.520><c> like</c>
+
+00:05:26.749 --> 00:05:26.759 align:start position:0%
+do if we keep scrolling down things like
+ 
+
+00:05:26.759 --> 00:05:29.990 align:start position:0%
+do if we keep scrolling down things like
+distributed<00:05:27.400><c> partition</c><00:05:28.000><c> views</c>
+
+00:05:29.990 --> 00:05:30.000 align:start position:0%
+distributed partition views
+ 
+
+00:05:30.000 --> 00:05:32.870 align:start position:0%
+distributed partition views
+there's<00:05:30.280><c> also</c><00:05:30.680><c> things</c><00:05:31.000><c> around</c><00:05:31.440><c> the</c><00:05:31.880><c> agent</c>
+
+00:05:32.870 --> 00:05:32.880 align:start position:0%
+there's also things around the agent
+ 
+
+00:05:32.880 --> 00:05:36.950 align:start position:0%
+there's also things around the agent
+that<00:05:33.080><c> we</c><00:05:33.240><c> can</c><00:05:33.520><c> do</c><00:05:34.440><c> as</c><00:05:34.680><c> part</c><00:05:34.919><c> of</c><00:05:35.199><c> azure</c><00:05:35.600><c> SQL</c><00:05:36.000><c> Mi</c>
+
+00:05:36.950 --> 00:05:36.960 align:start position:0%
+that we can do as part of azure SQL Mi
+ 
+
+00:05:36.960 --> 00:05:39.950 align:start position:0%
+that we can do as part of azure SQL Mi
+so<00:05:37.160><c> the</c><00:05:37.280><c> whole</c><00:05:37.520><c> point</c><00:05:37.880><c> of</c><00:05:38.280><c> this</c><00:05:39.280><c> is</c><00:05:39.479><c> if</c><00:05:39.600><c> I</c><00:05:39.720><c> was</c>
+
+00:05:39.950 --> 00:05:39.960 align:start position:0%
+so the whole point of this is if I was
+ 
+
+00:05:39.960 --> 00:05:42.510 align:start position:0%
+so the whole point of this is if I was
+moving<00:05:40.520><c> something</c><00:05:40.960><c> from</c><00:05:41.319><c> on</c><00:05:41.759><c> premises</c>
+
+00:05:42.510 --> 00:05:42.520 align:start position:0%
+moving something from on premises
+ 
+
+00:05:42.520 --> 00:05:45.270 align:start position:0%
+moving something from on premises
+running<00:05:42.800><c> on</c><00:05:42.960><c> SQL</c><00:05:43.319><c> server</c><00:05:43.759><c> today</c><00:05:44.759><c> and</c><00:05:44.919><c> I</c><00:05:45.039><c> was</c>
+
+00:05:45.270 --> 00:05:45.280 align:start position:0%
+running on SQL server today and I was
+ 
+
+00:05:45.280 --> 00:05:48.189 align:start position:0%
+running on SQL server today and I was
+using<00:05:45.919><c> some</c><00:05:46.080><c> of</c><00:05:46.360><c> these</c><00:05:46.720><c> specific</c>
+
+00:05:48.189 --> 00:05:48.199 align:start position:0%
+using some of these specific
+ 
+
+00:05:48.199 --> 00:05:50.830 align:start position:0%
+using some of these specific
+capabilities<00:05:49.199><c> chances</c><00:05:49.600><c> are</c><00:05:49.960><c> if</c><00:05:50.080><c> I</c><00:05:50.360><c> have</c><00:05:50.520><c> to</c>
+
+00:05:50.830 --> 00:05:50.840 align:start position:0%
+capabilities chances are if I have to
+ 
+
+00:05:50.840 --> 00:05:53.590 align:start position:0%
+capabilities chances are if I have to
+have<00:05:51.160><c> that</c><00:05:51.400><c> full</c><00:05:51.840><c> set</c><00:05:52.120><c> of</c><00:05:52.479><c> compatibility</c><00:05:53.479><c> this</c>
+
+00:05:53.590 --> 00:05:53.600 align:start position:0%
+have that full set of compatibility this
+ 
+
+00:05:53.600 --> 00:05:55.749 align:start position:0%
+have that full set of compatibility this
+is<00:05:53.759><c> the</c><00:05:53.880><c> big</c><00:05:54.080><c> one</c><00:05:54.680><c> this</c><00:05:54.840><c> idea</c><00:05:55.080><c> of</c><00:05:55.199><c> the</c><00:05:55.319><c> SQL</c>
+
+00:05:55.749 --> 00:05:55.759 align:start position:0%
+is the big one this idea of the SQL
+ 
+
+00:05:55.759 --> 00:05:58.469 align:start position:0%
+is the big one this idea of the SQL
+Server<00:05:56.240><c> agent</c><00:05:56.919><c> I</c><00:05:57.120><c> can't</c><00:05:57.440><c> do</c><00:05:57.639><c> that</c><00:05:57.800><c> with</c><00:05:58.199><c> seq</c>
+
+00:05:58.469 --> 00:05:58.479 align:start position:0%
+Server agent I can't do that with seq
+ 
+
+00:05:58.479 --> 00:06:02.150 align:start position:0%
+Server agent I can't do that with seq
+database<00:05:59.160><c> but</c><00:05:59.319><c> I</c><00:05:59.440><c> can</c><00:05:59.680><c> and</c><00:05:59.840><c> with</c><00:06:00.080><c> Azure</c><00:06:00.479><c> SQL</c><00:06:01.160><c> Mi</c>
+
+00:06:02.150 --> 00:06:02.160 align:start position:0%
+database but I can and with Azure SQL Mi
+ 
+
+00:06:02.160 --> 00:06:05.070 align:start position:0%
+database but I can and with Azure SQL Mi
+so<00:06:02.400><c> depending</c><00:06:02.800><c> on</c><00:06:03.080><c> what</c><00:06:03.360><c> I</c><00:06:03.479><c> was</c>
+
+00:06:05.070 --> 00:06:05.080 align:start position:0%
+so depending on what I was
+ 
+
+00:06:05.080 --> 00:06:07.870 align:start position:0%
+so depending on what I was
+using<00:06:06.080><c> Azure</c><00:06:06.440><c> SQL</c><00:06:06.800><c> Mi</c><00:06:07.160><c> if</c><00:06:07.240><c> I</c><00:06:07.360><c> was</c><00:06:07.520><c> actually</c>
+
+00:06:07.870 --> 00:06:07.880 align:start position:0%
+using Azure SQL Mi if I was actually
+ 
+
+00:06:07.880 --> 00:06:10.589 align:start position:0%
+using Azure SQL Mi if I was actually
+migrating<00:06:08.639><c> it</c><00:06:09.360><c> might</c><00:06:09.560><c> be</c><00:06:09.720><c> the</c><00:06:09.880><c> better</c><00:06:10.199><c> option</c>
+
+00:06:10.589 --> 00:06:10.599 align:start position:0%
+migrating it might be the better option
+ 
+
+00:06:10.599 --> 00:06:12.990 align:start position:0%
+migrating it might be the better option
+for<00:06:10.919><c> that</c><00:06:11.560><c> compatibility</c><00:06:12.560><c> and</c><00:06:12.680><c> there's</c><00:06:12.840><c> a</c>
+
+00:06:12.990 --> 00:06:13.000 align:start position:0%
+for that compatibility and there's a
+ 
+
+00:06:13.000 --> 00:06:15.909 align:start position:0%
+for that compatibility and there's a
+Microsoft<00:06:13.520><c> data</c><00:06:13.880><c> migration</c><00:06:14.720><c> service</c><00:06:15.720><c> that</c><00:06:15.840><c> I</c>
+
+00:06:15.909 --> 00:06:15.919 align:start position:0%
+Microsoft data migration service that I
+ 
+
+00:06:15.919 --> 00:06:18.749 align:start position:0%
+Microsoft data migration service that I
+can<00:06:16.039><c> actually</c><00:06:16.240><c> use</c><00:06:16.440><c> to</c><00:06:16.720><c> migrate</c><00:06:17.560><c> from</c><00:06:18.440><c> an</c>
+
+00:06:18.749 --> 00:06:18.759 align:start position:0%
+can actually use to migrate from an
+ 
+
+00:06:18.759 --> 00:06:21.710 align:start position:0%
+can actually use to migrate from an
+external<00:06:19.240><c> to</c><00:06:19.440><c> Azure</c><00:06:19.840><c> database</c><00:06:20.840><c> into</c><00:06:21.360><c> one</c><00:06:21.520><c> of</c>
+
+00:06:21.710 --> 00:06:21.720 align:start position:0%
+external to Azure database into one of
+ 
+
+00:06:21.720 --> 00:06:24.309 align:start position:0%
+external to Azure database into one of
+these<00:06:22.479><c> Solutions</c><00:06:23.479><c> so</c><00:06:23.680><c> those</c><00:06:23.800><c> are</c><00:06:23.919><c> the</c><00:06:24.039><c> ones</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+these Solutions so those are the ones
+ 
+
+00:06:24.319 --> 00:06:27.550 align:start position:0%
+these Solutions so those are the ones
+based<00:06:24.599><c> on</c><00:06:24.759><c> kind</c><00:06:24.880><c> of</c><00:06:25.039><c> SQL</c><00:06:26.000><c> server</c><00:06:27.000><c> and</c><00:06:27.120><c> then</c><00:06:27.280><c> you</c>
+
+00:06:27.550 --> 00:06:27.560 align:start position:0%
+based on kind of SQL server and then you
+ 
+
+00:06:27.560 --> 00:06:35.309 align:start position:0%
+based on kind of SQL server and then you
+have<00:06:27.919><c> these</c><00:06:28.360><c> open</c><00:06:28.880><c> source</c>
+
+00:06:35.309 --> 00:06:35.319 align:start position:0%
+ 
+ 
+
+00:06:35.319 --> 00:06:37.469 align:start position:0%
+ 
+now<00:06:35.599><c> there's</c><00:06:36.080><c> many</c><00:06:36.479><c> different</c><00:06:36.840><c> open</c><00:06:37.160><c> source</c>
+
+00:06:37.469 --> 00:06:37.479 align:start position:0%
+now there's many different open source
+ 
+
+00:06:37.479 --> 00:06:40.150 align:start position:0%
+now there's many different open source
+offerings<00:06:38.000><c> out</c><00:06:38.280><c> out</c><00:06:38.560><c> there</c><00:06:39.440><c> some</c><00:06:39.680><c> of</c><00:06:39.800><c> the</c><00:06:39.960><c> big</c>
+
+00:06:40.150 --> 00:06:40.160 align:start position:0%
+offerings out out there some of the big
+ 
+
+00:06:40.160 --> 00:06:44.350 align:start position:0%
+offerings out out there some of the big
+ones<00:06:40.560><c> are</c><00:06:40.919><c> my</c>
+
+00:06:44.350 --> 00:06:44.360 align:start position:0%
+ 
+ 
+
+00:06:44.360 --> 00:06:51.029 align:start position:0%
+ 
+SQL<00:06:45.360><c> and</c>
+
+00:06:51.029 --> 00:06:51.039 align:start position:0%
+ 
+ 
+
+00:06:51.039 --> 00:06:54.270 align:start position:0%
+ 
+postgress<00:06:52.039><c> if</c><00:06:52.160><c> you're</c><00:06:52.440><c> using</c><00:06:52.919><c> those</c><00:06:53.280><c> today</c>
+
+00:06:54.270 --> 00:06:54.280 align:start position:0%
+postgress if you're using those today
+ 
+
+00:06:54.280 --> 00:06:57.589 align:start position:0%
+postgress if you're using those today
+there's<00:06:54.479><c> an</c><00:06:54.759><c> Azure</c><00:06:55.319><c> managed</c><00:06:56.240><c> database</c><00:06:57.039><c> for</c><00:06:57.360><c> my</c>
+
+00:06:57.589 --> 00:06:57.599 align:start position:0%
+there's an Azure managed database for my
+ 
+
+00:06:57.599 --> 00:07:01.469 align:start position:0%
+there's an Azure managed database for my
+SQL<00:06:58.280><c> for</c><00:06:58.720><c> postgress</c><00:06:59.840><c> for</c><00:07:00.280><c> Maria</c><00:07:00.720><c> DB</c><00:07:01.120><c> as</c><00:07:01.240><c> well</c>
+
+00:07:01.469 --> 00:07:01.479 align:start position:0%
+SQL for postgress for Maria DB as well
+ 
+
+00:07:01.479 --> 00:07:03.070 align:start position:0%
+SQL for postgress for Maria DB as well
+actually<00:07:02.160><c> so</c><00:07:02.360><c> once</c><00:07:02.520><c> again</c><00:07:02.720><c> these</c><00:07:02.840><c> are</c>
+
+00:07:03.070 --> 00:07:03.080 align:start position:0%
+actually so once again these are
+ 
+
+00:07:03.080 --> 00:07:06.110 align:start position:0%
+actually so once again these are
+relational<00:07:04.000><c> databases</c><00:07:05.000><c> but</c><00:07:05.199><c> these</c><00:07:05.440><c> managed</c>
+
+00:07:06.110 --> 00:07:06.120 align:start position:0%
+relational databases but these managed
+ 
+
+00:07:06.120 --> 00:07:07.869 align:start position:0%
+relational databases but these managed
+offerings<00:07:06.759><c> have</c><00:07:06.960><c> things</c><00:07:07.160><c> like</c><00:07:07.360><c> built-in</c>
+
+00:07:07.869 --> 00:07:07.879 align:start position:0%
+offerings have things like built-in
+ 
+
+00:07:07.879 --> 00:07:11.070 align:start position:0%
+offerings have things like built-in
+backup<00:07:08.759><c> built-in</c><00:07:09.240><c> High</c><00:07:09.879><c> availability</c><00:07:10.879><c> they</c>
+
+00:07:11.070 --> 00:07:11.080 align:start position:0%
+backup built-in High availability they
+ 
+
+00:07:11.080 --> 00:07:13.270 align:start position:0%
+backup built-in High availability they
+have<00:07:11.360><c> great</c><00:07:11.639><c> scale</c><00:07:12.080><c> options</c><00:07:12.520><c> they</c><00:07:12.680><c> have</c><00:07:12.840><c> full</c>
+
+00:07:13.270 --> 00:07:13.280 align:start position:0%
+have great scale options they have full
+ 
+
+00:07:13.280 --> 00:07:15.830 align:start position:0%
+have great scale options they have full
+monitoring<00:07:14.280><c> and</c><00:07:14.400><c> so</c><00:07:14.639><c> if</c><00:07:14.800><c> I</c><00:07:15.000><c> have</c><00:07:15.160><c> an</c><00:07:15.360><c> existing</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+monitoring and so if I have an existing
+ 
+
+00:07:15.840 --> 00:07:19.309 align:start position:0%
+monitoring and so if I have an existing
+application<00:07:16.800><c> today</c><00:07:17.800><c> that</c><00:07:18.039><c> was</c><00:07:18.879><c> using</c>
+
+00:07:19.309 --> 00:07:19.319 align:start position:0%
+application today that was using
+ 
+
+00:07:19.319 --> 00:07:21.469 align:start position:0%
+application today that was using
+postgress<00:07:19.919><c> or</c><00:07:20.080><c> using</c><00:07:20.400><c> my</c><00:07:20.560><c> SQL</c><00:07:21.000><c> I</c><00:07:21.120><c> didn't</c><00:07:21.319><c> want</c>
+
+00:07:21.469 --> 00:07:21.479 align:start position:0%
+postgress or using my SQL I didn't want
+ 
+
+00:07:21.479 --> 00:07:23.430 align:start position:0%
+postgress or using my SQL I didn't want
+to<00:07:21.680><c> worry</c><00:07:21.919><c> about</c><00:07:22.160><c> changing</c><00:07:22.560><c> my</c><00:07:22.800><c> code</c><00:07:23.080><c> and</c><00:07:23.280><c> how</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+to worry about changing my code and how
+ 
+
+00:07:23.440 --> 00:07:24.230 align:start position:0%
+to worry about changing my code and how
+I
+
+00:07:24.230 --> 00:07:24.240 align:start position:0%
+I
+ 
+
+00:07:24.240 --> 00:07:37.309 align:start position:0%
+I
+interact<00:07:25.240><c> well</c><00:07:25.560><c> Azure</c><00:07:26.520><c> has</c><00:07:27.520><c> managed</c><00:07:28.520><c> database</c>
+
+00:07:37.309 --> 00:07:37.319 align:start position:0%
+ 
+ 
+
+00:07:37.319 --> 00:07:40.550 align:start position:0%
+ 
+for<00:07:38.319><c> both</c><00:07:38.520><c> of</c><00:07:38.840><c> those</c><00:07:39.840><c> and</c><00:07:40.000><c> again</c><00:07:40.199><c> there's</c><00:07:40.360><c> ones</c>
+
+00:07:40.550 --> 00:07:40.560 align:start position:0%
+for both of those and again there's ones
+ 
+
+00:07:40.560 --> 00:07:43.390 align:start position:0%
+for both of those and again there's ones
+from<00:07:40.680><c> Maria</c><00:07:41.080><c> DB</c><00:07:41.479><c> as</c><00:07:41.599><c> well</c><00:07:42.280><c> they</c><00:07:42.440><c> can</c><00:07:42.639><c> run</c><00:07:43.120><c> in</c>
+
+00:07:43.390 --> 00:07:43.400 align:start position:0%
+from Maria DB as well they can run in
+ 
+
+00:07:43.400 --> 00:07:45.230 align:start position:0%
+from Maria DB as well they can run in
+kind<00:07:43.520><c> of</c><00:07:43.639><c> this</c><00:07:43.800><c> special</c><00:07:44.159><c> container</c><00:07:44.599><c> format</c><00:07:45.039><c> or</c>
+
+00:07:45.230 --> 00:07:45.240 align:start position:0%
+kind of this special container format or
+ 
+
+00:07:45.240 --> 00:07:47.070 align:start position:0%
+kind of this special container format or
+as<00:07:45.479><c> VMS</c><00:07:45.879><c> and</c><00:07:46.000><c> I</c><00:07:46.080><c> have</c><00:07:46.159><c> a</c><00:07:46.240><c> lot</c><00:07:46.360><c> of</c>
+
+00:07:47.070 --> 00:07:47.080 align:start position:0%
+as VMS and I have a lot of
+ 
+
+00:07:47.080 --> 00:07:49.110 align:start position:0%
+as VMS and I have a lot of
+flexibility<00:07:48.080><c> in</c><00:07:48.280><c> the</c><00:07:48.520><c> size</c><00:07:48.840><c> and</c><00:07:48.960><c> the</c>
+
+00:07:49.110 --> 00:07:49.120 align:start position:0%
+flexibility in the size and the
+ 
+
+00:07:49.120 --> 00:07:51.710 align:start position:0%
+flexibility in the size and the
+performance<00:07:49.720><c> I</c><00:07:49.960><c> actually</c><00:07:50.520><c> want</c>
+
+00:07:51.710 --> 00:07:51.720 align:start position:0%
+performance I actually want
+ 
+
+00:07:51.720 --> 00:07:55.510 align:start position:0%
+performance I actually want
+those<00:07:52.720><c> one</c><00:07:53.240><c> interesting</c><00:07:53.800><c> note</c><00:07:54.759><c> postgress</c>
+
+00:07:55.510 --> 00:07:55.520 align:start position:0%
+those one interesting note postgress
+ 
+
+00:07:55.520 --> 00:07:58.029 align:start position:0%
+those one interesting note postgress
+both<00:07:55.680><c> of</c><00:07:55.879><c> these</c><00:07:56.479><c> are</c><00:07:56.720><c> relational</c><00:07:57.159><c> databases</c>
+
+00:07:58.029 --> 00:07:58.039 align:start position:0%
+both of these are relational databases
+ 
+
+00:07:58.039 --> 00:07:59.670 align:start position:0%
+both of these are relational databases
+they're<00:07:58.199><c> based</c><00:07:58.479><c> around</c><00:07:58.680><c> a</c><00:07:58.840><c> single</c><00:07:59.199><c> box</c>
+
+00:07:59.670 --> 00:07:59.680 align:start position:0%
+they're based around a single box
+ 
+
+00:07:59.680 --> 00:08:02.790 align:start position:0%
+they're based around a single box
+hosting<00:08:00.039><c> the</c><00:08:00.240><c> data</c><00:08:01.000><c> and</c><00:08:01.199><c> running</c><00:08:01.520><c> the</c><00:08:01.680><c> various</c>
+
+00:08:02.790 --> 00:08:02.800 align:start position:0%
+hosting the data and running the various
+ 
+
+00:08:02.800 --> 00:08:05.149 align:start position:0%
+hosting the data and running the various
+queries<00:08:03.800><c> one</c><00:08:03.919><c> of</c><00:08:04.039><c> the</c><00:08:04.159><c> options</c><00:08:04.440><c> for</c><00:08:04.599><c> SQL</c><00:08:05.039><c> is</c>
+
+00:08:05.149 --> 00:08:05.159 align:start position:0%
+queries one of the options for SQL is
+ 
+
+00:08:05.159 --> 00:08:07.110 align:start position:0%
+queries one of the options for SQL is
+actually<00:08:05.319><c> something</c><00:08:05.520><c> called</c><00:08:06.120><c> hyperscale</c>
+
+00:08:07.110 --> 00:08:07.120 align:start position:0%
+actually something called hyperscale
+ 
+
+00:08:07.120 --> 00:08:09.070 align:start position:0%
+actually something called hyperscale
+that<00:08:07.280><c> gets</c><00:08:07.560><c> me</c><00:08:07.800><c> this</c><00:08:08.000><c> huge</c><00:08:08.400><c> distributed</c>
+
+00:08:09.070 --> 00:08:09.080 align:start position:0%
+that gets me this huge distributed
+ 
+
+00:08:09.080 --> 00:08:11.189 align:start position:0%
+that gets me this huge distributed
+architecture<00:08:09.759><c> for</c><00:08:10.000><c> the</c><00:08:10.319><c> page</c><00:08:10.639><c> servers</c><00:08:11.080><c> that</c>
+
+00:08:11.189 --> 00:08:11.199 align:start position:0%
+architecture for the page servers that
+ 
+
+00:08:11.199 --> 00:08:14.149 align:start position:0%
+architecture for the page servers that
+host<00:08:11.479><c> the</c><00:08:11.840><c> data</c><00:08:12.840><c> well</c><00:08:13.080><c> postgress</c><00:08:13.840><c> has</c><00:08:13.960><c> an</c>
+
+00:08:14.149 --> 00:08:14.159 align:start position:0%
+host the data well postgress has an
+ 
+
+00:08:14.159 --> 00:08:15.710 align:start position:0%
+host the data well postgress has an
+extension<00:08:14.720><c> called</c>
+
+00:08:15.710 --> 00:08:15.720 align:start position:0%
+extension called
+ 
+
+00:08:15.720 --> 00:08:19.469 align:start position:0%
+extension called
+citus<00:08:16.720><c> and</c><00:08:16.960><c> citus</c><00:08:17.639><c> is</c><00:08:17.879><c> all</c><00:08:18.120><c> around</c><00:08:18.639><c> this</c><00:08:18.960><c> idea</c>
+
+00:08:19.469 --> 00:08:19.479 align:start position:0%
+citus and citus is all around this idea
+ 
+
+00:08:19.479 --> 00:08:22.629 align:start position:0%
+citus and citus is all around this idea
+of<00:08:20.080><c> multi-</c>
+
+00:08:22.629 --> 00:08:22.639 align:start position:0%
+of multi-
+ 
+
+00:08:22.639 --> 00:08:26.270 align:start position:0%
+of multi-
+server<00:08:23.639><c> and</c><00:08:24.000><c> basically</c><00:08:24.400><c> sharding</c><00:08:25.240><c> the</c><00:08:25.440><c> data</c>
+
+00:08:26.270 --> 00:08:26.280 align:start position:0%
+server and basically sharding the data
+ 
+
+00:08:26.280 --> 00:08:30.830 align:start position:0%
+server and basically sharding the data
+that<00:08:26.400><c> means</c><00:08:27.120><c> separating</c><00:08:28.120><c> out</c><00:08:29.599><c> the</c><00:08:29.879><c> data</c><00:08:30.520><c> over</c>
+
+00:08:30.830 --> 00:08:30.840 align:start position:0%
+that means separating out the data over
+ 
+
+00:08:30.840 --> 00:08:33.149 align:start position:0%
+that means separating out the data over
+multiple<00:08:31.360><c> servers</c><00:08:31.919><c> that</c><00:08:32.039><c> gets</c><00:08:32.279><c> me</c><00:08:32.519><c> increased</c>
+
+00:08:33.149 --> 00:08:33.159 align:start position:0%
+multiple servers that gets me increased
+ 
+
+00:08:33.159 --> 00:08:36.550 align:start position:0%
+multiple servers that gets me increased
+scale<00:08:34.159><c> it</c><00:08:34.320><c> gets</c><00:08:34.640><c> me</c><00:08:35.320><c> increased</c>
+
+00:08:36.550 --> 00:08:36.560 align:start position:0%
+scale it gets me increased
+ 
+
+00:08:36.560 --> 00:08:39.350 align:start position:0%
+scale it gets me increased
+performance<00:08:37.560><c> so</c><00:08:37.760><c> with</c><00:08:37.880><c> the</c><00:08:38.000><c> managed</c><00:08:38.440><c> database</c>
+
+00:08:39.350 --> 00:08:39.360 align:start position:0%
+performance so with the managed database
+ 
+
+00:08:39.360 --> 00:08:42.230 align:start position:0%
+performance so with the managed database
+for<00:08:39.919><c> postgress</c><00:08:40.919><c> there</c><00:08:41.080><c> is</c><00:08:41.200><c> a</c><00:08:41.399><c> hyperscale</c>
+
+00:08:42.230 --> 00:08:42.240 align:start position:0%
+for postgress there is a hyperscale
+ 
+
+00:08:42.240 --> 00:08:45.949 align:start position:0%
+for postgress there is a hyperscale
+offering<00:08:42.680><c> so</c><00:08:42.880><c> in</c><00:08:43.600><c> Azure</c><00:08:44.600><c> this</c><00:08:44.880><c> option</c><00:08:45.279><c> here</c><00:08:45.800><c> is</c>
+
+00:08:45.949 --> 00:08:45.959 align:start position:0%
+offering so in Azure this option here is
+ 
+
+00:08:45.959 --> 00:08:47.310 align:start position:0%
+offering so in Azure this option here is
+its
+
+00:08:47.310 --> 00:08:47.320 align:start position:0%
+its
+ 
+
+00:08:47.320 --> 00:08:50.190 align:start position:0%
+its
+hyperscale<00:08:48.320><c> and</c><00:08:48.480><c> that</c><00:08:48.680><c> uses</c><00:08:49.240><c> the</c><00:08:49.560><c> postgress</c>
+
+00:08:50.190 --> 00:08:50.200 align:start position:0%
+hyperscale and that uses the postgress
+ 
+
+00:08:50.200 --> 00:08:53.630 align:start position:0%
+hyperscale and that uses the postgress
+cus<00:08:50.680><c> extension</c><00:08:51.680><c> it</c><00:08:51.880><c> gives</c><00:08:52.080><c> me</c><00:08:52.279><c> that</c><00:08:52.640><c> ability</c>
+
+00:08:53.630 --> 00:08:53.640 align:start position:0%
+cus extension it gives me that ability
+ 
+
+00:08:53.640 --> 00:08:55.630 align:start position:0%
+cus extension it gives me that ability
+to<00:08:53.880><c> have</c><00:08:54.040><c> things</c><00:08:54.279><c> like</c><00:08:54.880><c> reference</c><00:08:55.320><c> tables</c>
+
+00:08:55.630 --> 00:08:55.640 align:start position:0%
+to have things like reference tables
+ 
+
+00:08:55.640 --> 00:08:57.070 align:start position:0%
+to have things like reference tables
+that<00:08:55.760><c> are</c><00:08:55.880><c> replicated</c><00:08:56.440><c> to</c><00:08:56.640><c> all</c><00:08:56.800><c> of</c><00:08:56.920><c> the</c>
+
+00:08:57.070 --> 00:08:57.080 align:start position:0%
+that are replicated to all of the
+ 
+
+00:08:57.080 --> 00:08:59.470 align:start position:0%
+that are replicated to all of the
+servers<00:08:57.519><c> for</c><00:08:57.720><c> commonly</c><00:08:58.040><c> looked</c><00:08:58.320><c> up</c><00:08:58.560><c> data</c><00:08:59.200><c> in</c>
+
+00:08:59.470 --> 00:08:59.480 align:start position:0%
+servers for commonly looked up data in
+ 
+
+00:08:59.480 --> 00:09:01.750 align:start position:0%
+servers for commonly looked up data in
+then<00:08:59.600><c> it</c><00:08:59.720><c> has</c><00:08:59.920><c> those</c><00:09:00.240><c> distributed</c><00:09:00.920><c> tables</c>
+
+00:09:01.750 --> 00:09:01.760 align:start position:0%
+then it has those distributed tables
+ 
+
+00:09:01.760 --> 00:09:03.710 align:start position:0%
+then it has those distributed tables
+that<00:09:01.920><c> gives</c><00:09:02.160><c> me</c><00:09:02.320><c> that</c><00:09:02.440><c> sharding</c><00:09:03.320><c> so</c><00:09:03.519><c> this</c>
+
+00:09:03.710 --> 00:09:03.720 align:start position:0%
+that gives me that sharding so this
+ 
+
+00:09:03.720 --> 00:09:06.829 align:start position:0%
+that gives me that sharding so this
+gives<00:09:03.920><c> me</c><00:09:04.360><c> massive</c><00:09:04.959><c> distributed</c><00:09:05.680><c> scale</c><00:09:06.519><c> over</c>
+
+00:09:06.829 --> 00:09:06.839 align:start position:0%
+gives me massive distributed scale over
+ 
+
+00:09:06.839 --> 00:09:08.190 align:start position:0%
+gives me massive distributed scale over
+many
+
+00:09:08.190 --> 00:09:08.200 align:start position:0%
+many
+ 
+
+00:09:08.200 --> 00:09:11.829 align:start position:0%
+many
+boxes<00:09:09.200><c> now</c><00:09:09.399><c> all</c><00:09:09.560><c> of</c><00:09:09.720><c> these</c><00:09:09.959><c> so</c><00:09:10.560><c> far</c><00:09:11.560><c> were</c>
+
+00:09:11.829 --> 00:09:11.839 align:start position:0%
+boxes now all of these so far were
+ 
+
+00:09:11.839 --> 00:09:14.389 align:start position:0%
+boxes now all of these so far were
+existing<00:09:12.279><c> Solutions</c><00:09:13.240><c> it</c><00:09:13.360><c> was</c><00:09:13.680><c> a</c><00:09:13.920><c> Microsoft</c>
+
+00:09:14.389 --> 00:09:14.399 align:start position:0%
+existing Solutions it was a Microsoft
+ 
+
+00:09:14.399 --> 00:09:18.949 align:start position:0%
+existing Solutions it was a Microsoft
+SQL<00:09:14.800><c> Server</c><00:09:15.720><c> it</c><00:09:15.880><c> was</c><00:09:16.440><c> MySQL</c><00:09:17.279><c> or</c><00:09:17.839><c> postgress</c><00:09:18.839><c> and</c>
+
+00:09:18.949 --> 00:09:18.959 align:start position:0%
+SQL Server it was MySQL or postgress and
+ 
+
+00:09:18.959 --> 00:09:20.870 align:start position:0%
+SQL Server it was MySQL or postgress and
+so<00:09:19.079><c> there</c><00:09:19.160><c> are</c><00:09:19.360><c> things</c><00:09:19.640><c> we</c><00:09:19.760><c> can</c><00:09:19.959><c> do</c><00:09:20.279><c> to</c><00:09:20.600><c> make</c>
+
+00:09:20.870 --> 00:09:20.880 align:start position:0%
+so there are things we can do to make
+ 
+
+00:09:20.880 --> 00:09:23.550 align:start position:0%
+so there are things we can do to make
+them<00:09:21.560><c> Cloud</c><00:09:22.560><c> but</c><00:09:22.680><c> there's</c><00:09:22.880><c> still</c><00:09:23.200><c> those</c>
+
+00:09:23.550 --> 00:09:23.560 align:start position:0%
+them Cloud but there's still those
+ 
+
+00:09:23.560 --> 00:09:25.790 align:start position:0%
+them Cloud but there's still those
+pieces<00:09:23.839><c> of</c><00:09:24.079><c> software</c><00:09:24.560><c> so</c><00:09:24.880><c> generally</c><00:09:25.240><c> it's</c><00:09:25.320><c> a</c>
+
+00:09:25.790 --> 00:09:25.800 align:start position:0%
+pieces of software so generally it's a
+ 
+
+00:09:25.800 --> 00:09:28.670 align:start position:0%
+pieces of software so generally it's a
+single<00:09:26.800><c> primary</c><00:09:27.360><c> that</c><00:09:27.480><c> we</c><00:09:27.640><c> can</c><00:09:27.839><c> write</c><00:09:28.120><c> to</c><00:09:28.560><c> and</c>
+
+00:09:28.670 --> 00:09:28.680 align:start position:0%
+single primary that we can write to and
+ 
+
+00:09:28.680 --> 00:09:30.430 align:start position:0%
+single primary that we can write to and
+we<00:09:28.760><c> can</c><00:09:28.839><c> have</c><00:09:29.000><c> aing</c><00:09:29.360><c> L</c><00:09:29.560><c> read</c>
+
+00:09:30.430 --> 00:09:30.440 align:start position:0%
+we can have aing L read
+ 
+
+00:09:30.440 --> 00:09:33.150 align:start position:0%
+we can have aing L read
+replicas<00:09:31.440><c> well</c><00:09:31.680><c> then</c><00:09:31.880><c> we</c><00:09:32.079><c> actually</c><00:09:32.519><c> have</c><00:09:32.800><c> this</c>
+
+00:09:33.150 --> 00:09:33.160 align:start position:0%
+replicas well then we actually have this
+ 
+
+00:09:33.160 --> 00:09:39.389 align:start position:0%
+replicas well then we actually have this
+option<00:09:33.800><c> in</c><00:09:34.240><c> Azure</c><00:09:35.240><c> called</c><00:09:35.640><c> Cosmos</c>
+
+00:09:39.389 --> 00:09:39.399 align:start position:0%
+ 
+ 
+
+00:09:39.399 --> 00:09:43.310 align:start position:0%
+ 
+DB<00:09:40.399><c> this</c><00:09:40.640><c> was</c><00:09:40.920><c> born</c><00:09:41.600><c> in</c><00:09:42.000><c> the</c>
+
+00:09:43.310 --> 00:09:43.320 align:start position:0%
+DB this was born in the
+ 
+
+00:09:43.320 --> 00:09:45.910 align:start position:0%
+DB this was born in the
+cloud<00:09:44.320><c> what</c><00:09:44.519><c> that</c><00:09:44.720><c> gives</c><00:09:45.000><c> us</c><00:09:45.399><c> is</c><00:09:45.640><c> there's</c>
+
+00:09:45.910 --> 00:09:45.920 align:start position:0%
+cloud what that gives us is there's
+ 
+
+00:09:45.920 --> 00:09:51.150 align:start position:0%
+cloud what that gives us is there's
+multiple<00:09:46.440><c> models</c><00:09:47.160><c> so</c><00:09:47.320><c> we</c><00:09:47.440><c> have</c>
+
+00:09:51.150 --> 00:09:51.160 align:start position:0%
+ 
+ 
+
+00:09:51.160 --> 00:09:54.150 align:start position:0%
+ 
+multimodel<00:09:52.160><c> and</c><00:09:52.399><c> we</c><00:09:52.680><c> have</c>
+
+00:09:54.150 --> 00:09:54.160 align:start position:0%
+multimodel and we have
+ 
+
+00:09:54.160 --> 00:09:59.389 align:start position:0%
+multimodel and we have
+also<00:09:55.160><c> this</c><00:09:55.600><c> idea</c><00:09:56.440><c> of</c><00:09:57.320><c> different</c><00:09:58.320><c> capabilities</c>
+
+00:09:59.389 --> 00:09:59.399 align:start position:0%
+also this idea of different capabilities
+ 
+
+00:09:59.399 --> 00:10:03.790 align:start position:0%
+also this idea of different capabilities
+around
+
+00:10:03.790 --> 00:10:03.800 align:start position:0%
+ 
+ 
+
+00:10:03.800 --> 00:10:06.710 align:start position:0%
+ 
+consistency<00:10:05.160><c> I.E</c><00:10:06.160><c> if</c><00:10:06.279><c> I</c><00:10:06.399><c> have</c><00:10:06.560><c> this</c>
+
+00:10:06.710 --> 00:10:06.720 align:start position:0%
+consistency I.E if I have this
+ 
+
+00:10:06.720 --> 00:10:09.590 align:start position:0%
+consistency I.E if I have this
+distribute<00:10:07.160><c> over</c><00:10:07.360><c> multiple</c><00:10:08.279><c> regions</c><00:10:09.279><c> maybe</c><00:10:09.519><c> I</c>
+
+00:10:09.590 --> 00:10:09.600 align:start position:0%
+distribute over multiple regions maybe I
+ 
+
+00:10:09.600 --> 00:10:11.910 align:start position:0%
+distribute over multiple regions maybe I
+can<00:10:09.720><c> actually</c><00:10:09.920><c> write</c><00:10:10.200><c> to</c><00:10:10.360><c> all</c><00:10:10.519><c> of</c><00:10:10.640><c> the</c><00:10:10.920><c> regions</c>
+
+00:10:11.910 --> 00:10:11.920 align:start position:0%
+can actually write to all of the regions
+ 
+
+00:10:11.920 --> 00:10:13.150 align:start position:0%
+can actually write to all of the regions
+and<00:10:12.040><c> then</c><00:10:12.279><c> eventually</c><00:10:12.720><c> it</c><00:10:12.800><c> will</c><00:10:12.959><c> get</c>
+
+00:10:13.150 --> 00:10:13.160 align:start position:0%
+and then eventually it will get
+ 
+
+00:10:13.160 --> 00:10:14.829 align:start position:0%
+and then eventually it will get
+consistent<00:10:13.680><c> it</c><00:10:13.760><c> will</c><00:10:14.000><c> replicate</c><00:10:14.519><c> and</c><00:10:14.680><c> get</c>
+
+00:10:14.829 --> 00:10:14.839 align:start position:0%
+consistent it will replicate and get
+ 
+
+00:10:14.839 --> 00:10:16.750 align:start position:0%
+consistent it will replicate and get
+them<00:10:15.040><c> up</c><00:10:15.279><c> to</c><00:10:15.480><c> date</c><00:10:15.600><c> with</c><00:10:15.760><c> each</c><00:10:15.880><c> other</c><00:10:16.399><c> or</c><00:10:16.560><c> maybe</c>
+
+00:10:16.750 --> 00:10:16.760 align:start position:0%
+them up to date with each other or maybe
+ 
+
+00:10:16.760 --> 00:10:18.949 align:start position:0%
+them up to date with each other or maybe
+I<00:10:16.839><c> need</c><00:10:16.959><c> a</c><00:10:17.120><c> really</c><00:10:17.560><c> strong</c><00:10:17.839><c> consistency</c><00:10:18.839><c> and</c>
+
+00:10:18.949 --> 00:10:18.959 align:start position:0%
+I need a really strong consistency and
+ 
+
+00:10:18.959 --> 00:10:20.630 align:start position:0%
+I need a really strong consistency and
+only<00:10:19.279><c> one</c><00:10:19.440><c> of</c><00:10:19.560><c> them</c><00:10:19.720><c> is</c><00:10:19.880><c> writable</c><00:10:20.399><c> that</c><00:10:20.519><c> would</c>
+
+00:10:20.630 --> 00:10:20.640 align:start position:0%
+only one of them is writable that would
+ 
+
+00:10:20.640 --> 00:10:23.030 align:start position:0%
+only one of them is writable that would
+then<00:10:20.839><c> replicate</c><00:10:21.320><c> out</c><00:10:22.040><c> or</c><00:10:22.200><c> maybe</c><00:10:22.399><c> I</c><00:10:22.519><c> need</c><00:10:22.720><c> it</c>
+
+00:10:23.030 --> 00:10:23.040 align:start position:0%
+then replicate out or maybe I need it
+ 
+
+00:10:23.040 --> 00:10:26.190 align:start position:0%
+then replicate out or maybe I need it
+consistent<00:10:23.600><c> within</c><00:10:23.839><c> a</c><00:10:24.079><c> certain</c><00:10:24.760><c> session</c><00:10:25.760><c> I</c>
+
+00:10:26.190 --> 00:10:26.200 align:start position:0%
+consistent within a certain session I
+ 
+
+00:10:26.200 --> 00:10:27.470 align:start position:0%
+consistent within a certain session I
+reads<00:10:26.480><c> and</c><00:10:26.560><c> the</c><00:10:26.680><c> writs</c><00:10:26.920><c> are</c><00:10:27.000><c> in</c><00:10:27.120><c> the</c><00:10:27.240><c> same</c>
+
+00:10:27.470 --> 00:10:27.480 align:start position:0%
+reads and the writs are in the same
+ 
+
+00:10:27.480 --> 00:10:29.310 align:start position:0%
+reads and the writs are in the same
+order<00:10:28.120><c> no</c><00:10:28.279><c> matter</c><00:10:28.519><c> what</c><00:10:28.680><c> I</c><00:10:28.800><c> see</c><00:10:29.040><c> within</c><00:10:29.200><c> the</c>
+
+00:10:29.310 --> 00:10:29.320 align:start position:0%
+order no matter what I see within the
+ 
+
+00:10:29.320 --> 00:10:32.150 align:start position:0%
+order no matter what I see within the
+the<00:10:29.480><c> session</c><00:10:30.320><c> but</c><00:10:30.480><c> other</c><00:10:30.800><c> sessions</c><00:10:31.800><c> I</c><00:10:31.920><c> don't</c>
+
+00:10:32.150 --> 00:10:32.160 align:start position:0%
+the session but other sessions I don't
+ 
+
+00:10:32.160 --> 00:10:34.870 align:start position:0%
+the session but other sessions I don't
+care<00:10:32.440><c> about</c><00:10:33.360><c> so</c><00:10:33.519><c> we</c><00:10:33.640><c> have</c><00:10:33.839><c> this</c><00:10:34.040><c> ability</c><00:10:34.480><c> to</c>
+
+00:10:34.870 --> 00:10:34.880 align:start position:0%
+care about so we have this ability to
+ 
+
+00:10:34.880 --> 00:10:38.190 align:start position:0%
+care about so we have this ability to
+pick<00:10:35.440><c> what</c><00:10:35.720><c> I</c><00:10:36.040><c> actually</c><00:10:36.480><c> want</c><00:10:36.880><c> from</c><00:10:37.279><c> this</c><00:10:38.120><c> I</c>
+
+00:10:38.190 --> 00:10:38.200 align:start position:0%
+pick what I actually want from this I
+ 
+
+00:10:38.200 --> 00:10:39.670 align:start position:0%
+pick what I actually want from this I
+could<00:10:38.399><c> actually</c><00:10:38.600><c> have</c><00:10:38.720><c> a</c><00:10:38.839><c> replica</c><00:10:39.279><c> to</c><00:10:39.480><c> every</c>
+
+00:10:39.670 --> 00:10:39.680 align:start position:0%
+could actually have a replica to every
+ 
+
+00:10:39.680 --> 00:10:42.670 align:start position:0%
+could actually have a replica to every
+single<00:10:40.000><c> region</c><00:10:40.600><c> in</c><00:10:40.839><c> Azure</c><00:10:41.399><c> if</c><00:10:41.519><c> I</c><00:10:41.639><c> wanted</c><00:10:42.000><c> with</c>
+
+00:10:42.670 --> 00:10:42.680 align:start position:0%
+single region in Azure if I wanted with
+ 
+
+00:10:42.680 --> 00:10:45.110 align:start position:0%
+single region in Azure if I wanted with
+this<00:10:43.680><c> and</c><00:10:43.800><c> the</c><00:10:43.920><c> whole</c><00:10:44.079><c> point</c><00:10:44.279><c> of</c><00:10:44.399><c> this</c><00:10:44.560><c> multi</c>
+
+00:10:45.110 --> 00:10:45.120 align:start position:0%
+this and the whole point of this multi
+ 
+
+00:10:45.120 --> 00:10:47.150 align:start position:0%
+this and the whole point of this multi
+model<00:10:45.839><c> is</c><00:10:45.959><c> there's</c><00:10:46.200><c> different</c><00:10:46.519><c> ways</c><00:10:46.800><c> I</c><00:10:46.920><c> can</c>
+
+00:10:47.150 --> 00:10:47.160 align:start position:0%
+model is there's different ways I can
+ 
+
+00:10:47.160 --> 00:10:49.670 align:start position:0%
+model is there's different ways I can
+think<00:10:47.440><c> about</c><00:10:47.920><c> data</c><00:10:48.839><c> so</c><00:10:49.040><c> for</c><00:10:49.200><c> example</c><00:10:49.519><c> there's</c>
+
+00:10:49.670 --> 00:10:49.680 align:start position:0%
+think about data so for example there's
+ 
+
+00:10:49.680 --> 00:10:50.910 align:start position:0%
+think about data so for example there's
+the<00:10:49.760><c> idea</c><00:10:50.000><c> of</c>
+
+00:10:50.910 --> 00:10:50.920 align:start position:0%
+the idea of
+ 
+
+00:10:50.920 --> 00:10:53.790 align:start position:0%
+the idea of
+documents<00:10:51.920><c> this</c><00:10:52.040><c> is</c><00:10:52.279><c> very</c><00:10:52.680><c> common</c><00:10:53.079><c> where</c><00:10:53.320><c> it's</c>
+
+00:10:53.790 --> 00:10:53.800 align:start position:0%
+documents this is very common where it's
+ 
+
+00:10:53.800 --> 00:10:55.870 align:start position:0%
+documents this is very common where it's
+self-describing<00:10:54.800><c> this</c><00:10:54.920><c> could</c><00:10:55.040><c> be</c><00:10:55.160><c> a</c><00:10:55.279><c> Json</c>
+
+00:10:55.870 --> 00:10:55.880 align:start position:0%
+self-describing this could be a Json
+ 
+
+00:10:55.880 --> 00:10:58.509 align:start position:0%
+self-describing this could be a Json
+document<00:10:56.279><c> for</c><00:10:56.480><c> example</c><00:10:57.399><c> so</c><00:10:57.760><c> here</c><00:10:58.079><c> we</c><00:10:58.200><c> commonly</c>
+
+00:10:58.509 --> 00:10:58.519 align:start position:0%
+document for example so here we commonly
+ 
+
+00:10:58.519 --> 00:11:04.110 align:start position:0%
+document for example so here we commonly
+use<00:10:58.720><c> API</c><00:10:59.399><c> like</c><00:11:00.120><c> SQL</c><00:11:01.120><c> and</c><00:11:02.519><c> DB</c><00:11:03.519><c> so</c><00:11:03.760><c> Cosmos</c>
+
+00:11:04.110 --> 00:11:04.120 align:start position:0%
+use API like SQL and DB so Cosmos
+ 
+
+00:11:04.120 --> 00:11:07.670 align:start position:0%
+use API like SQL and DB so Cosmos
+DB<00:11:04.720><c> lets</c><00:11:05.000><c> me</c><00:11:05.240><c> do</c><00:11:05.519><c> that</c><00:11:05.680><c> if</c><00:11:05.880><c> that's</c><00:11:06.079><c> what</c><00:11:06.240><c> I</c><00:11:06.680><c> want</c>
+
+00:11:07.670 --> 00:11:07.680 align:start position:0%
+DB lets me do that if that's what I want
+ 
+
+00:11:07.680 --> 00:11:10.430 align:start position:0%
+DB lets me do that if that's what I want
+I<00:11:07.839><c> have</c><00:11:08.040><c> the</c><00:11:08.240><c> idea</c><00:11:08.600><c> of</c><00:11:08.839><c> the</c>
+
+00:11:10.430 --> 00:11:10.440 align:start position:0%
+I have the idea of the
+ 
+
+00:11:10.440 --> 00:11:13.230 align:start position:0%
+I have the idea of the
+column<00:11:11.440><c> um</c><00:11:11.639><c> based</c><00:11:12.079><c> interactions</c><00:11:12.680><c> the</c><00:11:12.880><c> content</c>
+
+00:11:13.230 --> 00:11:13.240 align:start position:0%
+column um based interactions the content
+ 
+
+00:11:13.240 --> 00:11:15.949 align:start position:0%
+column um based interactions the content
+rows<00:11:13.560><c> and</c><00:11:13.920><c> columns</c><00:11:14.920><c> um</c><00:11:15.040><c> have</c><00:11:15.279><c> various</c><00:11:15.519><c> column</c>
+
+00:11:15.949 --> 00:11:15.959 align:start position:0%
+rows and columns um have various column
+ 
+
+00:11:15.959 --> 00:11:18.629 align:start position:0%
+rows and columns um have various column
+families<00:11:16.760><c> in</c><00:11:17.040><c> how</c><00:11:17.320><c> I</c><00:11:17.519><c> relate</c><00:11:17.959><c> that</c><00:11:18.160><c> data</c>
+
+00:11:18.629 --> 00:11:18.639 align:start position:0%
+families in how I relate that data
+ 
+
+00:11:18.639 --> 00:11:23.269 align:start position:0%
+families in how I relate that data
+together<00:11:19.399><c> so</c><00:11:19.600><c> I</c><00:11:19.760><c> might</c><00:11:19.920><c> use</c>
+
+00:11:23.269 --> 00:11:23.279 align:start position:0%
+ 
+ 
+
+00:11:23.279 --> 00:11:25.949 align:start position:0%
+ 
+Cassandra<00:11:24.279><c> as</c><00:11:24.600><c> that</c><00:11:24.800><c> API</c><00:11:25.279><c> and</c><00:11:25.440><c> how</c><00:11:25.600><c> I</c><00:11:25.720><c> think</c>
+
+00:11:25.949 --> 00:11:25.959 align:start position:0%
+Cassandra as that API and how I think
+ 
+
+00:11:25.959 --> 00:11:29.629 align:start position:0%
+Cassandra as that API and how I think
+about<00:11:26.279><c> using</c><00:11:26.920><c> that</c><00:11:27.920><c> I</c><00:11:28.079><c> can</c><00:11:28.440><c> absolutely</c><00:11:29.440><c> have</c>
+
+00:11:29.629 --> 00:11:29.639 align:start position:0%
+about using that I can absolutely have
+ 
+
+00:11:29.639 --> 00:11:32.269 align:start position:0%
+about using that I can absolutely have
+the<00:11:29.760><c> idea</c><00:11:30.000><c> of</c>
+
+00:11:32.269 --> 00:11:32.279 align:start position:0%
+ 
+ 
+
+00:11:32.279 --> 00:11:37.590 align:start position:0%
+ 
+tables<00:11:33.279><c> that</c><00:11:33.639><c> key</c><00:11:34.480><c> value</c><00:11:35.480><c> pair</c><00:11:36.000><c> type</c><00:11:36.440><c> data</c><00:11:37.440><c> um</c>
+
+00:11:37.590 --> 00:11:37.600 align:start position:0%
+tables that key value pair type data um
+ 
+
+00:11:37.600 --> 00:11:39.590 align:start position:0%
+tables that key value pair type data um
+etcd<00:11:38.240><c> for</c><00:11:38.399><c> example</c><00:11:38.760><c> I</c><00:11:38.839><c> can</c><00:11:39.000><c> interact</c><00:11:39.440><c> there's</c>
+
+00:11:39.590 --> 00:11:39.600 align:start position:0%
+etcd for example I can interact there's
+ 
+
+00:11:39.600 --> 00:11:41.389 align:start position:0%
+etcd for example I can interact there's
+different<00:11:39.880><c> apis</c><00:11:40.440><c> for</c><00:11:40.639><c> the</c><00:11:40.760><c> Azure</c><00:11:41.040><c> storage</c>
+
+00:11:41.389 --> 00:11:41.399 align:start position:0%
+different apis for the Azure storage
+ 
+
+00:11:41.399 --> 00:11:43.470 align:start position:0%
+different apis for the Azure storage
+tables<00:11:42.200><c> and</c><00:11:42.399><c> more</c><00:11:42.680><c> that</c><00:11:42.839><c> I</c><00:11:42.920><c> can</c><00:11:43.079><c> use</c><00:11:43.279><c> to</c>
+
+00:11:43.470 --> 00:11:43.480 align:start position:0%
+tables and more that I can use to
+ 
+
+00:11:43.480 --> 00:11:46.550 align:start position:0%
+tables and more that I can use to
+interact<00:11:44.399><c> I</c><00:11:44.480><c> can</c><00:11:44.600><c> even</c><00:11:44.800><c> have</c>
+
+00:11:46.550 --> 00:11:46.560 align:start position:0%
+interact I can even have
+ 
+
+00:11:46.560 --> 00:11:50.790 align:start position:0%
+interact I can even have
+graph<00:11:47.560><c> so</c><00:11:47.880><c> graph</c><00:11:48.240><c> we</c><00:11:48.360><c> think</c><00:11:48.519><c> of</c><00:11:48.639><c> things</c><00:11:48.839><c> like</c>
+
+00:11:50.790 --> 00:11:50.800 align:start position:0%
+graph so graph we think of things like
+ 
+
+00:11:50.800 --> 00:11:53.269 align:start position:0%
+graph so graph we think of things like
+Gremlin<00:11:51.800><c> graph</c><00:11:52.200><c> is</c><00:11:52.399><c> based</c><00:11:52.680><c> around</c><00:11:52.959><c> the</c><00:11:53.040><c> idea</c>
+
+00:11:53.269 --> 00:11:53.279 align:start position:0%
+Gremlin graph is based around the idea
+ 
+
+00:11:53.279 --> 00:11:55.350 align:start position:0%
+Gremlin graph is based around the idea
+of<00:11:53.480><c> relationships</c><00:11:54.279><c> between</c><00:11:54.720><c> things</c><00:11:55.000><c> so</c><00:11:55.160><c> I</c>
+
+00:11:55.350 --> 00:11:55.360 align:start position:0%
+of relationships between things so I
+ 
+
+00:11:55.360 --> 00:11:59.350 align:start position:0%
+of relationships between things so I
+have<00:11:56.120><c> different</c><00:11:57.120><c> objects</c>
+
+00:11:59.350 --> 00:11:59.360 align:start position:0%
+have different objects
+ 
+
+00:11:59.360 --> 00:12:01.269 align:start position:0%
+have different objects
+that<00:11:59.880><c> actually</c><00:12:00.200><c> have</c><00:12:00.440><c> relationships</c><00:12:01.079><c> so</c>
+
+00:12:01.269 --> 00:12:01.279 align:start position:0%
+that actually have relationships so
+ 
+
+00:12:01.279 --> 00:12:02.629 align:start position:0%
+that actually have relationships so
+these<00:12:01.399><c> could</c><00:12:01.560><c> be</c><00:12:01.680><c> nodes</c><00:12:02.079><c> these</c><00:12:02.200><c> could</c><00:12:02.320><c> be</c>
+
+00:12:02.629 --> 00:12:02.639 align:start position:0%
+these could be nodes these could be
+ 
+
+00:12:02.639 --> 00:12:06.470 align:start position:0%
+these could be nodes these could be
+people<00:12:03.639><c> and</c><00:12:03.800><c> then</c><00:12:04.079><c> I</c><00:12:04.240><c> have</c><00:12:04.800><c> edges</c><00:12:05.800><c> on</c><00:12:06.079><c> how</c><00:12:06.320><c> they</c>
+
+00:12:06.470 --> 00:12:06.480 align:start position:0%
+people and then I have edges on how they
+ 
+
+00:12:06.480 --> 00:12:08.949 align:start position:0%
+people and then I have edges on how they
+relate<00:12:06.839><c> to</c><00:12:07.000><c> each</c><00:12:07.240><c> other</c><00:12:07.920><c> so</c><00:12:08.120><c> maybe</c><00:12:08.440><c> this</c><00:12:08.600><c> is</c>
+
+00:12:08.949 --> 00:12:08.959 align:start position:0%
+relate to each other so maybe this is
+ 
+
+00:12:08.959 --> 00:12:10.550 align:start position:0%
+relate to each other so maybe this is
+kind<00:12:09.120><c> of</c>
+
+00:12:10.550 --> 00:12:10.560 align:start position:0%
+kind of
+ 
+
+00:12:10.560 --> 00:12:13.350 align:start position:0%
+kind of
+John<00:12:11.560><c> and</c><00:12:11.680><c> John</c><00:12:11.880><c> could</c><00:12:12.000><c> be</c><00:12:12.160><c> the</c><00:12:12.320><c> boss</c><00:12:13.079><c> and</c><00:12:13.199><c> they</c>
+
+00:12:13.350 --> 00:12:13.360 align:start position:0%
+John and John could be the boss and they
+ 
+
+00:12:13.360 --> 00:12:14.430 align:start position:0%
+John and John could be the boss and they
+have
+
+00:12:14.430 --> 00:12:14.440 align:start position:0%
+have
+ 
+
+00:12:14.440 --> 00:12:16.949 align:start position:0%
+have
+employees<00:12:15.440><c> other</c><00:12:15.760><c> people</c><00:12:16.160><c> here</c><00:12:16.360><c> so</c><00:12:16.560><c> it's</c><00:12:16.800><c> how</c>
+
+00:12:16.949 --> 00:12:16.959 align:start position:0%
+employees other people here so it's how
+ 
+
+00:12:16.959 --> 00:12:19.629 align:start position:0%
+employees other people here so it's how
+I<00:12:17.040><c> can</c><00:12:17.240><c> Define</c><00:12:18.120><c> relationships</c><00:12:19.120><c> between</c>
+
+00:12:19.629 --> 00:12:19.639 align:start position:0%
+I can Define relationships between
+ 
+
+00:12:19.639 --> 00:12:22.069 align:start position:0%
+I can Define relationships between
+different<00:12:20.079><c> things</c><00:12:20.760><c> so</c><00:12:20.959><c> Cosmos</c><00:12:21.320><c> DB</c><00:12:21.600><c> supports</c>
+
+00:12:22.069 --> 00:12:22.079 align:start position:0%
+different things so Cosmos DB supports
+ 
+
+00:12:22.079 --> 00:12:23.990 align:start position:0%
+different things so Cosmos DB supports
+all<00:12:22.240><c> of</c><00:12:22.480><c> those</c><00:12:23.320><c> gives</c><00:12:23.480><c> me</c><00:12:23.600><c> a</c><00:12:23.720><c> lot</c><00:12:23.839><c> of</c>
+
+00:12:23.990 --> 00:12:24.000 align:start position:0%
+all of those gives me a lot of
+ 
+
+00:12:24.000 --> 00:12:26.750 align:start position:0%
+all of those gives me a lot of
+flexibility<00:12:24.880><c> in</c><00:12:25.199><c> how</c><00:12:25.519><c> I</c><00:12:25.760><c> actually</c><00:12:26.079><c> want</c><00:12:26.279><c> to</c>
+
+00:12:26.750 --> 00:12:26.760 align:start position:0%
+flexibility in how I actually want to
+ 
+
+00:12:26.760 --> 00:12:29.509 align:start position:0%
+flexibility in how I actually want to
+interact<00:12:27.760><c> and</c><00:12:27.959><c> once</c><00:12:28.199><c> again</c><00:12:28.760><c> there</c><00:12:28.959><c> are</c><00:12:29.199><c> other</c>
+
+00:12:29.509 --> 00:12:29.519 align:start position:0%
+interact and once again there are other
+ 
+
+00:12:29.519 --> 00:12:31.790 align:start position:0%
+interact and once again there are other
+offerings<00:12:29.880><c> in</c><00:12:30.279><c> Azure</c><00:12:31.279><c> these</c><00:12:31.399><c> are</c><00:12:31.560><c> the</c><00:12:31.680><c> key</c>
+
+00:12:31.790 --> 00:12:31.800 align:start position:0%
+offerings in Azure these are the key
+ 
+
+00:12:31.800 --> 00:12:34.509 align:start position:0%
+offerings in Azure these are the key
+ones<00:12:32.000><c> that</c><00:12:32.120><c> are</c><00:12:32.240><c> focused</c><00:12:32.600><c> around</c><00:12:32.760><c> a900</c><00:12:33.680><c> so</c><00:12:33.920><c> hey</c>
+
+00:12:34.509 --> 00:12:34.519 align:start position:0%
+ones that are focused around a900 so hey
+ 
+
+00:12:34.519 --> 00:12:36.910 align:start position:0%
+ones that are focused around a900 so hey
+I<00:12:34.639><c> want</c><00:12:34.800><c> to</c><00:12:34.959><c> use</c><00:12:35.560><c> SQL</c><00:12:36.000><c> Server</c><00:12:36.279><c> I'm</c><00:12:36.360><c> using</c><00:12:36.600><c> SQL</c>
+
+00:12:36.910 --> 00:12:36.920 align:start position:0%
+I want to use SQL Server I'm using SQL
+ 
+
+00:12:36.920 --> 00:12:38.710 align:start position:0%
+I want to use SQL Server I'm using SQL
+server<00:12:37.240><c> today</c><00:12:37.920><c> I'm</c><00:12:38.079><c> writing</c><00:12:38.360><c> it</c><00:12:38.440><c> for</c><00:12:38.600><c> the</c>
+
+00:12:38.710 --> 00:12:38.720 align:start position:0%
+server today I'm writing it for the
+ 
+
+00:12:38.720 --> 00:12:41.509 align:start position:0%
+server today I'm writing it for the
+cloud<00:12:39.000><c> I</c><00:12:39.079><c> don't</c><00:12:39.320><c> have</c><00:12:39.839><c> existing</c><00:12:40.839><c> limitations</c>
+
+00:12:41.509 --> 00:12:41.519 align:start position:0%
+cloud I don't have existing limitations
+ 
+
+00:12:41.519 --> 00:12:44.829 align:start position:0%
+cloud I don't have existing limitations
+hey<00:12:42.000><c> a</c><00:12:42.120><c> SQL</c><00:12:42.880><c> database</c><00:12:43.880><c> hey</c><00:12:44.040><c> I'm</c><00:12:44.199><c> migrating</c><00:12:44.680><c> a</c>
+
+00:12:44.829 --> 00:12:44.839 align:start position:0%
+hey a SQL database hey I'm migrating a
+ 
+
+00:12:44.839 --> 00:12:48.509 align:start position:0%
+hey a SQL database hey I'm migrating a
+SQL<00:12:45.519><c> database</c><00:12:46.399><c> to</c><00:12:46.959><c> AIA</c><00:12:47.959><c> but</c><00:12:48.079><c> I</c><00:12:48.160><c> need</c><00:12:48.320><c> it</c><00:12:48.399><c> to</c>
+
+00:12:48.509 --> 00:12:48.519 align:start position:0%
+SQL database to AIA but I need it to
+ 
+
+00:12:48.519 --> 00:12:50.710 align:start position:0%
+SQL database to AIA but I need it to
+integrate<00:12:48.880><c> with</c><00:12:49.000><c> my</c><00:12:49.160><c> virtual</c><00:12:49.560><c> Network</c><00:12:50.199><c> or</c><00:12:50.519><c> I'm</c>
+
+00:12:50.710 --> 00:12:50.720 align:start position:0%
+integrate with my virtual Network or I'm
+ 
+
+00:12:50.720 --> 00:12:52.670 align:start position:0%
+integrate with my virtual Network or I'm
+using<00:12:51.199><c> common</c><00:12:51.480><c> language</c><00:12:51.839><c> runtime</c><00:12:52.399><c> or</c><00:12:52.560><c> I'm</c>
+
+00:12:52.670 --> 00:12:52.680 align:start position:0%
+using common language runtime or I'm
+ 
+
+00:12:52.680 --> 00:12:55.189 align:start position:0%
+using common language runtime or I'm
+using<00:12:52.920><c> the</c><00:12:53.160><c> SQL</c><00:12:53.519><c> agent</c><00:12:54.199><c> hey</c><00:12:54.320><c> I</c><00:12:54.440><c> use</c><00:12:54.680><c> as</c><00:12:54.800><c> a</c><00:12:54.920><c> SQL</c>
+
+00:12:55.189 --> 00:12:55.199 align:start position:0%
+using the SQL agent hey I use as a SQL
+ 
+
+00:12:55.199 --> 00:12:57.750 align:start position:0%
+using the SQL agent hey I use as a SQL
+managed<00:12:55.639><c> instance</c><00:12:56.639><c> I'm</c><00:12:56.760><c> using</c><00:12:57.040><c> postgress</c><00:12:57.600><c> on</c>
+
+00:12:57.750 --> 00:12:57.760 align:start position:0%
+managed instance I'm using postgress on
+ 
+
+00:12:57.760 --> 00:13:00.829 align:start position:0%
+managed instance I'm using postgress on
+my<00:12:57.959><c> SQL</c><00:12:58.560><c> and</c><00:12:58.680><c> I</c><00:12:58.760><c> want</c><00:12:58.880><c> to</c><00:12:59.320><c> a</c><00:12:59.480><c> p</c><00:12:59.800><c> solution</c><00:13:00.639><c> hey</c>
+
+00:13:00.829 --> 00:13:00.839 align:start position:0%
+my SQL and I want to a p solution hey
+ 
+
+00:13:00.839 --> 00:13:03.470 align:start position:0%
+my SQL and I want to a p solution hey
+aure<00:13:01.160><c> manage</c><00:13:01.480><c> database</c><00:13:01.920><c> for</c><00:13:02.079><c> my</c><00:13:02.320><c> SQL</c><00:13:02.959><c> or</c>
+
+00:13:03.470 --> 00:13:03.480 align:start position:0%
+aure manage database for my SQL or
+ 
+
+00:13:03.480 --> 00:13:06.230 align:start position:0%
+aure manage database for my SQL or
+postgress<00:13:04.480><c> if</c><00:13:04.600><c> I</c><00:13:04.720><c> need</c><00:13:04.959><c> postgress</c><00:13:05.600><c> very</c><00:13:05.880><c> large</c>
+
+00:13:06.230 --> 00:13:06.240 align:start position:0%
+postgress if I need postgress very large
+ 
+
+00:13:06.240 --> 00:13:08.590 align:start position:0%
+postgress if I need postgress very large
+scale<00:13:06.720><c> high</c><00:13:06.920><c> performance</c><00:13:07.720><c> hey</c><00:13:07.880><c> I'll</c><00:13:08.000><c> use</c>
+
+00:13:08.590 --> 00:13:08.600 align:start position:0%
+scale high performance hey I'll use
+ 
+
+00:13:08.600 --> 00:13:10.829 align:start position:0%
+scale high performance hey I'll use
+hyperscale<00:13:09.600><c> I'm</c><00:13:09.720><c> writing</c><00:13:10.000><c> a</c><00:13:10.120><c> new</c><00:13:10.360><c> application</c>
+
+00:13:10.829 --> 00:13:10.839 align:start position:0%
+hyperscale I'm writing a new application
+ 
+
+00:13:10.839 --> 00:13:13.590 align:start position:0%
+hyperscale I'm writing a new application
+in<00:13:10.959><c> the</c><00:13:11.160><c> cloud</c><00:13:12.079><c> uh</c><00:13:12.320><c> I</c><00:13:12.440><c> want</c><00:13:12.600><c> to</c><00:13:12.800><c> be</c><00:13:13.079><c> have</c><00:13:13.279><c> this</c>
+
+00:13:13.590 --> 00:13:13.600 align:start position:0%
+in the cloud uh I want to be have this
+ 
+
+00:13:13.600 --> 00:13:16.509 align:start position:0%
+in the cloud uh I want to be have this
+document<00:13:14.079><c> based</c><00:13:14.480><c> storage</c><00:13:15.199><c> so</c><00:13:15.399><c> this</c><00:13:15.519><c> is</c><00:13:15.880><c> not</c><00:13:16.360><c> a</c>
+
+00:13:16.509 --> 00:13:16.519 align:start position:0%
+document based storage so this is not a
+ 
+
+00:13:16.519 --> 00:13:18.389 align:start position:0%
+document based storage so this is not a
+relational<00:13:17.000><c> DB</c><00:13:17.440><c> Cosmos</c><00:13:17.760><c> DB</c><00:13:18.040><c> is</c><00:13:18.199><c> not</c>
+
+00:13:18.389 --> 00:13:18.399 align:start position:0%
+relational DB Cosmos DB is not
+ 
+
+00:13:18.399 --> 00:13:20.870 align:start position:0%
+relational DB Cosmos DB is not
+relational<00:13:19.399><c> it's</c><00:13:19.600><c> what</c><00:13:19.720><c> we</c><00:13:19.880><c> call</c><00:13:20.120><c> nosql</c>
+
+00:13:20.870 --> 00:13:20.880 align:start position:0%
+relational it's what we call nosql
+ 
+
+00:13:20.880 --> 00:13:23.350 align:start position:0%
+relational it's what we call nosql
+schema<00:13:21.360><c> list</c><00:13:22.360><c> I</c><00:13:22.440><c> want</c><00:13:22.560><c> to</c><00:13:22.639><c> have</c><00:13:22.800><c> replicas</c><00:13:23.199><c> in</c>
+
+00:13:23.350 --> 00:13:23.360 align:start position:0%
+schema list I want to have replicas in
+ 
+
+00:13:23.360 --> 00:13:24.829 align:start position:0%
+schema list I want to have replicas in
+every<00:13:23.600><c> region</c><00:13:24.040><c> I</c><00:13:24.120><c> want</c><00:13:24.199><c> to</c><00:13:24.279><c> be</c><00:13:24.360><c> able</c><00:13:24.480><c> to</c><00:13:24.639><c> pick</c>
+
+00:13:24.829 --> 00:13:24.839 align:start position:0%
+every region I want to be able to pick
+ 
+
+00:13:24.839 --> 00:13:25.990 align:start position:0%
+every region I want to be able to pick
+my
+
+00:13:25.990 --> 00:13:26.000 align:start position:0%
+my
+ 
+
+00:13:26.000 --> 00:13:30.440 align:start position:0%
+my
+consistency<00:13:27.000><c> Cosmos</c><00:13:27.440><c> DB</c>
+

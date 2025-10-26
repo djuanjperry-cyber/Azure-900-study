@@ -1,0 +1,4272 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.439 --> 00:00:02.790 align:start position:0%
+ 
+in<00:00:01.599><c> this</c><00:00:01.920><c> lesson</c><00:00:02.159><c> we're</c><00:00:02.320><c> going</c><00:00:02.399><c> to</c><00:00:02.560><c> look</c><00:00:02.720><c> at</c>
+
+00:00:02.790 --> 00:00:02.800 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.800 --> 00:00:06.470 align:start position:0%
+in this lesson we're going to look at
+the<00:00:03.040><c> benefits</c><00:00:03.679><c> and</c><00:00:03.919><c> usage</c><00:00:04.640><c> of</c><00:00:04.799><c> the</c><00:00:05.120><c> azure</c><00:00:05.759><c> iot</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+the benefits and usage of the azure iot
+ 
+
+00:00:06.480 --> 00:00:07.829 align:start position:0%
+the benefits and usage of the azure iot
+services
+
+00:00:07.829 --> 00:00:07.839 align:start position:0%
+services
+ 
+
+00:00:07.839 --> 00:00:09.830 align:start position:0%
+services
+if<00:00:08.000><c> we</c><00:00:08.240><c> look</c><00:00:08.480><c> back</c><00:00:08.720><c> to</c><00:00:08.880><c> those</c><00:00:09.120><c> skills</c><00:00:09.519><c> that</c><00:00:09.679><c> are</c>
+
+00:00:09.830 --> 00:00:09.840 align:start position:0%
+if we look back to those skills that are
+ 
+
+00:00:09.840 --> 00:00:12.950 align:start position:0%
+if we look back to those skills that are
+being<00:00:10.080><c> assessed</c><00:00:10.559><c> as</c><00:00:10.719><c> part</c><00:00:10.960><c> of</c><00:00:11.480><c> az900</c><00:00:12.799><c> we're</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+being assessed as part of az900 we're
+ 
+
+00:00:12.960 --> 00:00:14.709 align:start position:0%
+being assessed as part of az900 we're
+now<00:00:13.200><c> going</c><00:00:13.440><c> into</c><00:00:13.679><c> this</c><00:00:14.000><c> new</c><00:00:14.320><c> set</c><00:00:14.480><c> of</c>
+
+00:00:14.709 --> 00:00:14.719 align:start position:0%
+now going into this new set of
+ 
+
+00:00:14.719 --> 00:00:17.670 align:start position:0%
+now going into this new set of
+objectives<00:00:15.759><c> all</c><00:00:15.839><c> about</c><00:00:16.240><c> this</c><00:00:16.560><c> describe</c><00:00:17.359><c> core</c>
+
+00:00:17.670 --> 00:00:17.680 align:start position:0%
+objectives all about this describe core
+ 
+
+00:00:17.680 --> 00:00:20.150 align:start position:0%
+objectives all about this describe core
+solutions<00:00:18.320><c> and</c><00:00:18.400><c> management</c><00:00:18.880><c> tools</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+solutions and management tools
+ 
+
+00:00:20.160 --> 00:00:21.910 align:start position:0%
+solutions and management tools
+and<00:00:20.320><c> then</c><00:00:20.560><c> this</c><00:00:20.800><c> particular</c><00:00:21.520><c> set</c><00:00:21.680><c> of</c>
+
+00:00:21.910 --> 00:00:21.920 align:start position:0%
+and then this particular set of
+ 
+
+00:00:21.920 --> 00:00:24.070 align:start position:0%
+and then this particular set of
+objectives<00:00:22.560><c> and</c><00:00:22.720><c> skills</c><00:00:23.119><c> around</c><00:00:23.359><c> describe</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+objectives and skills around describe
+ 
+
+00:00:24.080 --> 00:00:26.790 align:start position:0%
+objectives and skills around describe
+core<00:00:24.320><c> solutions</c><00:00:24.960><c> available</c><00:00:25.519><c> in</c><00:00:25.760><c> azure</c>
+
+00:00:26.790 --> 00:00:26.800 align:start position:0%
+core solutions available in azure
+ 
+
+00:00:26.800 --> 00:00:28.630 align:start position:0%
+core solutions available in azure
+now<00:00:26.960><c> this</c><00:00:27.199><c> particular</c><00:00:27.760><c> lesson</c><00:00:28.400><c> we're</c><00:00:28.560><c> going</c>
+
+00:00:28.630 --> 00:00:28.640 align:start position:0%
+now this particular lesson we're going
+ 
+
+00:00:28.640 --> 00:00:30.950 align:start position:0%
+now this particular lesson we're going
+to<00:00:28.720><c> go</c><00:00:28.880><c> ahead</c><00:00:29.119><c> and</c><00:00:29.279><c> explore</c><00:00:29.679><c> the</c><00:00:29.920><c> ones</c><00:00:30.400><c> around</c>
+
+00:00:30.950 --> 00:00:30.960 align:start position:0%
+to go ahead and explore the ones around
+ 
+
+00:00:30.960 --> 00:00:32.709 align:start position:0%
+to go ahead and explore the ones around
+internet<00:00:31.519><c> of</c><00:00:31.760><c> things</c>
+
+00:00:32.709 --> 00:00:32.719 align:start position:0%
+internet of things
+ 
+
+00:00:32.719 --> 00:00:34.870 align:start position:0%
+internet of things
+but<00:00:32.880><c> then</c><00:00:33.200><c> over</c><00:00:33.680><c> subsequent</c><00:00:34.320><c> lessons</c><00:00:34.719><c> we'll</c>
+
+00:00:34.870 --> 00:00:34.880 align:start position:0%
+but then over subsequent lessons we'll
+ 
+
+00:00:34.880 --> 00:00:37.350 align:start position:0%
+but then over subsequent lessons we'll
+look<00:00:35.040><c> at</c><00:00:35.200><c> things</c><00:00:35.440><c> about</c><00:00:35.760><c> big</c><00:00:36.000><c> data</c><00:00:36.880><c> machine</c>
+
+00:00:37.350 --> 00:00:37.360 align:start position:0%
+look at things about big data machine
+ 
+
+00:00:37.360 --> 00:00:40.229 align:start position:0%
+look at things about big data machine
+learning<00:00:38.320><c> serverless</c><00:00:38.879><c> compute</c><00:00:39.680><c> and</c><00:00:39.840><c> then</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+learning serverless compute and then
+ 
+
+00:00:40.239 --> 00:00:43.030 align:start position:0%
+learning serverless compute and then
+devops<00:00:41.120><c> so</c><00:00:41.280><c> this</c><00:00:41.440><c> is</c><00:00:41.600><c> our</c><00:00:41.840><c> focus</c><00:00:42.320><c> for</c><00:00:42.480><c> the</c><00:00:42.559><c> next</c>
+
+00:00:43.030 --> 00:00:43.040 align:start position:0%
+devops so this is our focus for the next
+ 
+
+00:00:43.040 --> 00:00:44.709 align:start position:0%
+devops so this is our focus for the next
+set<00:00:43.280><c> of</c><00:00:43.360><c> lessons</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+set of lessons
+ 
+
+00:00:44.719 --> 00:00:47.990 align:start position:0%
+set of lessons
+so<00:00:44.879><c> what</c><00:00:45.120><c> is</c><00:00:45.440><c> internet</c><00:00:45.920><c> of</c><00:00:46.079><c> things</c>
+
+00:00:47.990 --> 00:00:48.000 align:start position:0%
+so what is internet of things
+ 
+
+00:00:48.000 --> 00:00:49.110 align:start position:0%
+so what is internet of things
+today
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+today
+ 
+
+00:00:49.120 --> 00:00:53.110 align:start position:0%
+today
+anything<00:00:49.600><c> that</c><00:00:50.000><c> has</c><00:00:50.719><c> a</c><00:00:50.879><c> button</c><00:00:51.760><c> or</c><00:00:52.000><c> a</c><00:00:52.160><c> screen</c>
+
+00:00:53.110 --> 00:00:53.120 align:start position:0%
+anything that has a button or a screen
+ 
+
+00:00:53.120 --> 00:00:55.990 align:start position:0%
+anything that has a button or a screen
+has<00:00:53.440><c> some</c><00:00:53.760><c> kind</c><00:00:54.000><c> of</c><00:00:54.320><c> micro</c><00:00:54.960><c> controller</c><00:00:55.600><c> units</c>
+
+00:00:55.990 --> 00:00:56.000 align:start position:0%
+has some kind of micro controller units
+ 
+
+00:00:56.000 --> 00:00:58.549 align:start position:0%
+has some kind of micro controller units
+we<00:00:56.160><c> have</c><00:00:56.399><c> some</c><00:00:56.640><c> kind</c><00:00:56.879><c> of</c><00:00:56.960><c> device</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+we have some kind of device
+ 
+
+00:00:58.559 --> 00:01:00.549 align:start position:0%
+we have some kind of device
+it<00:00:58.640><c> could</c><00:00:58.800><c> be</c><00:00:58.960><c> very</c><00:00:59.199><c> very</c><00:00:59.440><c> simple</c><00:01:00.079><c> and</c><00:01:00.160><c> it</c><00:01:00.320><c> has</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+it could be very very simple and it has
+ 
+
+00:01:00.559 --> 00:01:01.510 align:start position:0%
+it could be very very simple and it has
+some
+
+00:01:01.510 --> 00:01:01.520 align:start position:0%
+some
+ 
+
+00:01:01.520 --> 00:01:04.869 align:start position:0%
+some
+micro<00:01:02.160><c> controller</c><00:01:02.800><c> unit</c><00:01:03.120><c> within</c><00:01:03.520><c> there</c>
+
+00:01:04.869 --> 00:01:04.879 align:start position:0%
+micro controller unit within there
+ 
+
+00:01:04.879 --> 00:01:07.109 align:start position:0%
+micro controller unit within there
+now<00:01:05.119><c> many</c><00:01:05.360><c> of</c><00:01:05.439><c> them</c><00:01:05.600><c> are</c><00:01:05.760><c> not</c><00:01:06.000><c> connected</c><00:01:06.799><c> to</c>
+
+00:01:07.109 --> 00:01:07.119 align:start position:0%
+now many of them are not connected to
+ 
+
+00:01:07.119 --> 00:01:09.350 align:start position:0%
+now many of them are not connected to
+the<00:01:07.360><c> internet</c><00:01:08.240><c> and</c><00:01:08.320><c> so</c><00:01:08.560><c> they're</c><00:01:08.799><c> configured</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+the internet and so they're configured
+ 
+
+00:01:09.360 --> 00:01:11.990 align:start position:0%
+the internet and so they're configured
+with<00:01:09.600><c> a</c><00:01:09.760><c> certain</c><00:01:10.240><c> set</c><00:01:10.479><c> of</c><00:01:10.840><c> capabilities</c><00:01:11.840><c> they</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+with a certain set of capabilities they
+ 
+
+00:01:12.000 --> 00:01:13.910 align:start position:0%
+with a certain set of capabilities they
+have<00:01:12.159><c> a</c><00:01:12.240><c> certain</c><00:01:12.560><c> set</c><00:01:12.720><c> of</c><00:01:12.799><c> protections</c><00:01:13.520><c> maybe</c>
+
+00:01:13.910 --> 00:01:13.920 align:start position:0%
+have a certain set of protections maybe
+ 
+
+00:01:13.920 --> 00:01:16.070 align:start position:0%
+have a certain set of protections maybe
+for<00:01:14.080><c> what</c><00:01:14.240><c> we</c><00:01:14.400><c> know</c><00:01:14.560><c> about</c><00:01:14.960><c> today</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+for what we know about today
+ 
+
+00:01:16.080 --> 00:01:19.030 align:start position:0%
+for what we know about today
+but<00:01:16.240><c> they</c><00:01:16.400><c> can't</c><00:01:16.640><c> be</c><00:01:16.799><c> updated</c><00:01:17.439><c> so</c><00:01:17.840><c> new</c><00:01:18.159><c> threats</c>
+
+00:01:19.030 --> 00:01:19.040 align:start position:0%
+but they can't be updated so new threats
+ 
+
+00:01:19.040 --> 00:01:21.270 align:start position:0%
+but they can't be updated so new threats
+there's<00:01:19.439><c> no</c><00:01:19.759><c> way</c><00:01:20.080><c> to</c><00:01:20.400><c> give</c><00:01:20.640><c> them</c><00:01:20.880><c> additional</c>
+
+00:01:21.270 --> 00:01:21.280 align:start position:0%
+there's no way to give them additional
+ 
+
+00:01:21.280 --> 00:01:23.830 align:start position:0%
+there's no way to give them additional
+protection<00:01:22.159><c> they</c><00:01:22.400><c> can't</c><00:01:22.640><c> get</c><00:01:23.040><c> new</c><00:01:23.280><c> skills</c><00:01:23.759><c> or</c>
+
+00:01:23.830 --> 00:01:23.840 align:start position:0%
+protection they can't get new skills or
+ 
+
+00:01:23.840 --> 00:01:26.070 align:start position:0%
+protection they can't get new skills or
+new<00:01:24.080><c> capabilities</c>
+
+00:01:26.070 --> 00:01:26.080 align:start position:0%
+new capabilities
+ 
+
+00:01:26.080 --> 00:01:28.230 align:start position:0%
+new capabilities
+the<00:01:26.320><c> internet</c><00:01:26.799><c> of</c><00:01:26.960><c> things</c><00:01:27.280><c> is</c><00:01:27.439><c> about</c><00:01:27.759><c> the</c><00:01:27.920><c> idea</c>
+
+00:01:28.230 --> 00:01:28.240 align:start position:0%
+the internet of things is about the idea
+ 
+
+00:01:28.240 --> 00:01:30.230 align:start position:0%
+the internet of things is about the idea
+that<00:01:28.400><c> we're</c><00:01:28.560><c> then</c><00:01:28.720><c> going</c><00:01:28.880><c> to</c><00:01:29.119><c> light</c><00:01:29.600><c> up</c><00:01:29.840><c> these</c>
+
+00:01:30.230 --> 00:01:30.240 align:start position:0%
+that we're then going to light up these
+ 
+
+00:01:30.240 --> 00:01:31.109 align:start position:0%
+that we're then going to light up these
+things
+
+00:01:31.109 --> 00:01:31.119 align:start position:0%
+things
+ 
+
+00:01:31.119 --> 00:01:34.149 align:start position:0%
+things
+so<00:01:31.360><c> they</c><00:01:31.520><c> can</c><00:01:31.920><c> actually</c><00:01:32.560><c> connect</c>
+
+00:01:34.149 --> 00:01:34.159 align:start position:0%
+so they can actually connect
+ 
+
+00:01:34.159 --> 00:01:34.950 align:start position:0%
+so they can actually connect
+to
+
+00:01:34.950 --> 00:01:34.960 align:start position:0%
+to
+ 
+
+00:01:34.960 --> 00:01:37.590 align:start position:0%
+to
+some<00:01:35.439><c> cloud-based</c><00:01:36.560><c> service</c>
+
+00:01:37.590 --> 00:01:37.600 align:start position:0%
+some cloud-based service
+ 
+
+00:01:37.600 --> 00:01:39.590 align:start position:0%
+some cloud-based service
+this<00:01:37.840><c> is</c><00:01:37.920><c> going</c><00:01:38.000><c> to</c><00:01:38.079><c> enable</c><00:01:38.560><c> them</c><00:01:39.119><c> also</c><00:01:39.439><c> to</c>
+
+00:01:39.590 --> 00:01:39.600 align:start position:0%
+this is going to enable them also to
+ 
+
+00:01:39.600 --> 00:01:41.429 align:start position:0%
+this is going to enable them also to
+talk<00:01:39.759><c> to</c><00:01:40.079><c> each</c><00:01:40.320><c> other</c><00:01:40.640><c> where</c><00:01:40.880><c> i</c><00:01:40.960><c> have</c><00:01:41.119><c> lots</c><00:01:41.360><c> of</c>
+
+00:01:41.429 --> 00:01:41.439 align:start position:0%
+talk to each other where i have lots of
+ 
+
+00:01:41.439 --> 00:01:44.389 align:start position:0%
+talk to each other where i have lots of
+devices<00:01:42.399><c> but</c><00:01:42.640><c> also</c><00:01:43.119><c> go</c><00:01:43.360><c> ahead</c><00:01:43.840><c> and</c><00:01:44.000><c> actually</c>
+
+00:01:44.389 --> 00:01:44.399 align:start position:0%
+devices but also go ahead and actually
+ 
+
+00:01:44.399 --> 00:01:47.350 align:start position:0%
+devices but also go ahead and actually
+talk<00:01:44.720><c> to</c><00:01:45.040><c> some</c><00:01:45.360><c> cloud</c><00:01:45.840><c> service</c>
+
+00:01:47.350 --> 00:01:47.360 align:start position:0%
+talk to some cloud service
+ 
+
+00:01:47.360 --> 00:01:49.830 align:start position:0%
+talk to some cloud service
+this<00:01:47.680><c> is</c><00:01:48.000><c> both</c><00:01:48.320><c> the</c><00:01:48.479><c> idea</c><00:01:48.880><c> of</c><00:01:49.119><c> sending</c>
+
+00:01:49.830 --> 00:01:49.840 align:start position:0%
+this is both the idea of sending
+ 
+
+00:01:49.840 --> 00:01:52.830 align:start position:0%
+this is both the idea of sending
+information<00:01:51.119><c> this</c><00:01:51.360><c> is</c><00:01:51.520><c> often</c><00:01:51.840><c> things</c><00:01:52.079><c> like</c>
+
+00:01:52.830 --> 00:01:52.840 align:start position:0%
+information this is often things like
+ 
+
+00:01:52.840 --> 00:01:55.749 align:start position:0%
+information this is often things like
+telemetry<00:01:54.079><c> but</c><00:01:54.399><c> also</c>
+
+00:01:55.749 --> 00:01:55.759 align:start position:0%
+telemetry but also
+ 
+
+00:01:55.759 --> 00:01:57.990 align:start position:0%
+telemetry but also
+there's<00:01:56.000><c> the</c><00:01:56.159><c> idea</c><00:01:56.399><c> that</c><00:01:56.640><c> i</c><00:01:56.880><c> can</c><00:01:57.360><c> send</c><00:01:57.759><c> for</c>
+
+00:01:57.990 --> 00:01:58.000 align:start position:0%
+there's the idea that i can send for
+ 
+
+00:01:58.000 --> 00:02:00.469 align:start position:0%
+there's the idea that i can send for
+example<00:01:58.479><c> commands</c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+example commands
+ 
+
+00:02:00.479 --> 00:02:02.789 align:start position:0%
+example commands
+so<00:02:00.719><c> i</c><00:02:00.880><c> could</c><00:02:01.040><c> send</c><00:02:01.280><c> things</c><00:02:01.520><c> like</c><00:02:01.920><c> command</c><00:02:02.640><c> and</c>
+
+00:02:02.789 --> 00:02:02.799 align:start position:0%
+so i could send things like command and
+ 
+
+00:02:02.799 --> 00:02:04.069 align:start position:0%
+so i could send things like command and
+control
+
+00:02:04.069 --> 00:02:04.079 align:start position:0%
+control
+ 
+
+00:02:04.079 --> 00:02:07.510 align:start position:0%
+control
+to<00:02:04.320><c> these</c><00:02:04.560><c> devices</c><00:02:05.280><c> i</c><00:02:05.439><c> could</c><00:02:05.759><c> update</c><00:02:06.320><c> firmware</c>
+
+00:02:07.510 --> 00:02:07.520 align:start position:0%
+to these devices i could update firmware
+ 
+
+00:02:07.520 --> 00:02:10.070 align:start position:0%
+to these devices i could update firmware
+i<00:02:07.840><c> could</c><00:02:08.000><c> say</c><00:02:08.239><c> perform</c><00:02:08.640><c> these</c><00:02:09.200><c> actions</c><00:02:09.920><c> on</c>
+
+00:02:10.070 --> 00:02:10.080 align:start position:0%
+i could say perform these actions on
+ 
+
+00:02:10.080 --> 00:02:12.070 align:start position:0%
+i could say perform these actions on
+your<00:02:10.319><c> unit</c><00:02:10.959><c> so</c><00:02:11.120><c> i</c><00:02:11.280><c> think</c><00:02:11.440><c> a</c><00:02:11.520><c> lot</c><00:02:11.760><c> about</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+your unit so i think a lot about
+ 
+
+00:02:12.080 --> 00:02:14.949 align:start position:0%
+your unit so i think a lot about
+telemetry<00:02:13.040><c> going</c><00:02:13.599><c> up</c><00:02:13.920><c> to</c><00:02:14.160><c> the</c><00:02:14.319><c> cloud</c><00:02:14.720><c> but</c><00:02:14.879><c> it</c>
+
+00:02:14.949 --> 00:02:14.959 align:start position:0%
+telemetry going up to the cloud but it
+ 
+
+00:02:14.959 --> 00:02:16.710 align:start position:0%
+telemetry going up to the cloud but it
+could<00:02:15.120><c> be</c><00:02:15.280><c> other</c><00:02:15.599><c> things</c>
+
+00:02:16.710 --> 00:02:16.720 align:start position:0%
+could be other things
+ 
+
+00:02:16.720 --> 00:02:18.150 align:start position:0%
+could be other things
+and<00:02:16.800><c> they've</c><00:02:16.959><c> been</c><00:02:17.200><c> able</c><00:02:17.280><c> to</c><00:02:17.440><c> send</c><00:02:17.680><c> commands</c>
+
+00:02:18.150 --> 00:02:18.160 align:start position:0%
+and they've been able to send commands
+ 
+
+00:02:18.160 --> 00:02:20.869 align:start position:0%
+and they've been able to send commands
+back<00:02:18.720><c> the</c><00:02:18.879><c> benefit</c><00:02:19.440><c> here</c><00:02:19.760><c> is</c><00:02:20.160><c> if</c><00:02:20.319><c> there's</c><00:02:20.560><c> this</c>
+
+00:02:20.869 --> 00:02:20.879 align:start position:0%
+back the benefit here is if there's this
+ 
+
+00:02:20.879 --> 00:02:23.589 align:start position:0%
+back the benefit here is if there's this
+ongoing<00:02:21.680><c> communication</c>
+
+00:02:23.589 --> 00:02:23.599 align:start position:0%
+ongoing communication
+ 
+
+00:02:23.599 --> 00:02:25.750 align:start position:0%
+ongoing communication
+i<00:02:23.760><c> can</c><00:02:24.000><c> update</c><00:02:24.480><c> it</c><00:02:24.879><c> i</c><00:02:24.959><c> can</c><00:02:25.120><c> give</c><00:02:25.360><c> it</c><00:02:25.520><c> new</c>
+
+00:02:25.750 --> 00:02:25.760 align:start position:0%
+i can update it i can give it new
+ 
+
+00:02:25.760 --> 00:02:27.589 align:start position:0%
+i can update it i can give it new
+capabilities<00:02:26.400><c> i</c><00:02:26.480><c> can</c><00:02:26.640><c> give</c><00:02:26.800><c> it</c><00:02:26.959><c> enhanced</c>
+
+00:02:27.589 --> 00:02:27.599 align:start position:0%
+capabilities i can give it enhanced
+ 
+
+00:02:27.599 --> 00:02:29.190 align:start position:0%
+capabilities i can give it enhanced
+protection
+
+00:02:29.190 --> 00:02:29.200 align:start position:0%
+protection
+ 
+
+00:02:29.200 --> 00:02:32.070 align:start position:0%
+protection
+but<00:02:29.520><c> so</c><00:02:29.840><c> too</c><00:02:30.080><c> there</c><00:02:30.239><c> becomes</c><00:02:30.800><c> new</c><00:02:31.120><c> threats</c>
+
+00:02:32.070 --> 00:02:32.080 align:start position:0%
+but so too there becomes new threats
+ 
+
+00:02:32.080 --> 00:02:34.309 align:start position:0%
+but so too there becomes new threats
+because<00:02:33.040><c> now</c><00:02:33.280><c> it</c><00:02:33.440><c> is</c><00:02:33.599><c> connected</c><00:02:34.000><c> to</c><00:02:34.160><c> the</c>
+
+00:02:34.309 --> 00:02:34.319 align:start position:0%
+because now it is connected to the
+ 
+
+00:02:34.319 --> 00:02:35.990 align:start position:0%
+because now it is connected to the
+internet<00:02:34.800><c> there's</c><00:02:35.040><c> a</c><00:02:35.120><c> broader</c><00:02:35.599><c> attack</c>
+
+00:02:35.990 --> 00:02:36.000 align:start position:0%
+internet there's a broader attack
+ 
+
+00:02:36.000 --> 00:02:38.229 align:start position:0%
+internet there's a broader attack
+surface<00:02:36.400><c> people</c><00:02:36.800><c> can</c><00:02:36.959><c> try</c><00:02:37.200><c> and</c><00:02:37.360><c> use</c>
+
+00:02:38.229 --> 00:02:38.239 align:start position:0%
+surface people can try and use
+ 
+
+00:02:38.239 --> 00:02:40.869 align:start position:0%
+surface people can try and use
+so<00:02:38.400><c> i</c><00:02:38.560><c> have</c><00:02:38.800><c> new</c><00:02:39.040><c> sets</c><00:02:39.360><c> of</c><00:02:39.519><c> requirements</c><00:02:40.720><c> i</c>
+
+00:02:40.869 --> 00:02:40.879 align:start position:0%
+so i have new sets of requirements i
+ 
+
+00:02:40.879 --> 00:02:43.270 align:start position:0%
+so i have new sets of requirements i
+need<00:02:41.040><c> to</c><00:02:41.200><c> have</c><00:02:41.440><c> very</c><00:02:41.599><c> good</c><00:02:41.840><c> security</c><00:02:42.720><c> between</c>
+
+00:02:43.270 --> 00:02:43.280 align:start position:0%
+need to have very good security between
+ 
+
+00:02:43.280 --> 00:02:44.229 align:start position:0%
+need to have very good security between
+these
+
+00:02:44.229 --> 00:02:44.239 align:start position:0%
+these
+ 
+
+00:02:44.239 --> 00:02:47.030 align:start position:0%
+these
+i<00:02:44.400><c> need</c><00:02:44.560><c> to</c><00:02:44.720><c> secure</c><00:02:45.280><c> the</c><00:02:45.560><c> communication</c><00:02:46.959><c> i</c>
+
+00:02:47.030 --> 00:02:47.040 align:start position:0%
+i need to secure the communication i
+ 
+
+00:02:47.040 --> 00:02:49.830 align:start position:0%
+i need to secure the communication i
+need<00:02:47.200><c> to</c><00:02:47.440><c> authenticate</c><00:02:48.720><c> is</c><00:02:48.879><c> this</c><00:02:49.200><c> really</c><00:02:49.599><c> who</c>
+
+00:02:49.830 --> 00:02:49.840 align:start position:0%
+need to authenticate is this really who
+ 
+
+00:02:49.840 --> 00:02:52.150 align:start position:0%
+need to authenticate is this really who
+they<00:02:50.160><c> say</c><00:02:50.400><c> they</c><00:02:50.640><c> are</c><00:02:51.120><c> because</c><00:02:51.360><c> yes</c><00:02:51.680><c> bad</c><00:02:51.920><c> things</c>
+
+00:02:52.150 --> 00:02:52.160 align:start position:0%
+they say they are because yes bad things
+ 
+
+00:02:52.160 --> 00:02:54.550 align:start position:0%
+they say they are because yes bad things
+can<00:02:52.319><c> happen</c><00:02:52.959><c> this</c><00:02:53.280><c> way</c><00:02:53.519><c> and</c><00:02:53.680><c> make</c><00:02:53.920><c> it</c><00:02:54.000><c> do</c><00:02:54.239><c> bad</c>
+
+00:02:54.550 --> 00:02:54.560 align:start position:0%
+can happen this way and make it do bad
+ 
+
+00:02:54.560 --> 00:02:55.670 align:start position:0%
+can happen this way and make it do bad
+things
+
+00:02:55.670 --> 00:02:55.680 align:start position:0%
+things
+ 
+
+00:02:55.680 --> 00:02:58.070 align:start position:0%
+things
+but<00:02:55.920><c> likewise</c><00:02:56.400><c> i</c><00:02:56.480><c> could</c><00:02:56.640><c> think</c><00:02:56.800><c> about</c><00:02:57.200><c> sending</c>
+
+00:02:58.070 --> 00:02:58.080 align:start position:0%
+but likewise i could think about sending
+ 
+
+00:02:58.080 --> 00:03:00.149 align:start position:0%
+but likewise i could think about sending
+false<00:02:58.480><c> information</c><00:02:59.040><c> by</c><00:02:59.200><c> pretending</c><00:02:59.840><c> to</c><00:03:00.000><c> be</c>
+
+00:03:00.149 --> 00:03:00.159 align:start position:0%
+false information by pretending to be
+ 
+
+00:03:00.159 --> 00:03:02.470 align:start position:0%
+false information by pretending to be
+this<00:03:00.400><c> device</c><00:03:01.360><c> into</c><00:03:01.760><c> whatever</c><00:03:02.239><c> that</c>
+
+00:03:02.470 --> 00:03:02.480 align:start position:0%
+this device into whatever that
+ 
+
+00:03:02.480 --> 00:03:05.670 align:start position:0%
+this device into whatever that
+cloud-based<00:03:03.200><c> service</c><00:03:03.760><c> is</c>
+
+00:03:05.670 --> 00:03:05.680 align:start position:0%
+cloud-based service is
+ 
+
+00:03:05.680 --> 00:03:06.710 align:start position:0%
+cloud-based service is
+now
+
+00:03:06.710 --> 00:03:06.720 align:start position:0%
+now
+ 
+
+00:03:06.720 --> 00:03:08.710 align:start position:0%
+now
+this<00:03:06.959><c> is</c><00:03:07.120><c> the</c><00:03:07.200><c> focus</c><00:03:07.519><c> of</c><00:03:07.680><c> internet</c><00:03:08.000><c> of</c><00:03:08.159><c> things</c>
+
+00:03:08.710 --> 00:03:08.720 align:start position:0%
+this is the focus of internet of things
+ 
+
+00:03:08.720 --> 00:03:11.190 align:start position:0%
+this is the focus of internet of things
+those<00:03:09.120><c> various</c><00:03:10.000><c> problems</c><00:03:10.480><c> that</c><00:03:10.560><c> we</c><00:03:10.800><c> need</c><00:03:11.040><c> to</c>
+
+00:03:11.190 --> 00:03:11.200 align:start position:0%
+those various problems that we need to
+ 
+
+00:03:11.200 --> 00:03:14.149 align:start position:0%
+those various problems that we need to
+solve<00:03:11.599><c> now</c><00:03:11.920><c> in</c><00:03:12.000><c> the</c><00:03:12.319><c> enterprise</c><00:03:13.040><c> environment</c>
+
+00:03:14.149 --> 00:03:14.159 align:start position:0%
+solve now in the enterprise environment
+ 
+
+00:03:14.159 --> 00:03:17.190 align:start position:0%
+solve now in the enterprise environment
+i<00:03:14.239><c> can</c><00:03:14.400><c> think</c><00:03:14.640><c> about</c><00:03:15.040><c> huge</c><00:03:15.519><c> ranges</c><00:03:15.920><c> of</c><00:03:16.080><c> devices</c>
+
+00:03:17.190 --> 00:03:17.200 align:start position:0%
+i can think about huge ranges of devices
+ 
+
+00:03:17.200 --> 00:03:19.589 align:start position:0%
+i can think about huge ranges of devices
+that<00:03:17.360><c> may</c><00:03:17.599><c> have</c><00:03:18.000><c> sensors</c><00:03:18.400><c> for</c><00:03:18.560><c> example</c>
+
+00:03:19.589 --> 00:03:19.599 align:start position:0%
+that may have sensors for example
+ 
+
+00:03:19.599 --> 00:03:22.550 align:start position:0%
+that may have sensors for example
+and<00:03:19.760><c> i</c><00:03:19.920><c> need</c><00:03:20.080><c> to</c><00:03:20.400><c> gather</c><00:03:20.720><c> that</c><00:03:21.080><c> information</c><00:03:22.319><c> to</c>
+
+00:03:22.550 --> 00:03:22.560 align:start position:0%
+and i need to gather that information to
+ 
+
+00:03:22.560 --> 00:03:24.550 align:start position:0%
+and i need to gather that information to
+use<00:03:22.879><c> as</c><00:03:23.040><c> part</c><00:03:23.280><c> of</c><00:03:23.519><c> some</c><00:03:23.920><c> service</c><00:03:24.239><c> maybe</c><00:03:24.480><c> it</c>
+
+00:03:24.550 --> 00:03:24.560 align:start position:0%
+use as part of some service maybe it
+ 
+
+00:03:24.560 --> 00:03:26.949 align:start position:0%
+use as part of some service maybe it
+performs<00:03:24.959><c> computations</c><00:03:25.680><c> on</c><00:03:25.840><c> it</c><00:03:26.480><c> maybe</c><00:03:26.720><c> it</c>
+
+00:03:26.949 --> 00:03:26.959 align:start position:0%
+performs computations on it maybe it
+ 
+
+00:03:26.959 --> 00:03:29.270 align:start position:0%
+performs computations on it maybe it
+looks<00:03:27.200><c> at</c><00:03:27.360><c> those</c><00:03:27.599><c> various</c><00:03:28.080><c> values</c><00:03:28.879><c> and</c><00:03:28.959><c> uses</c>
+
+00:03:29.270 --> 00:03:29.280 align:start position:0%
+looks at those various values and uses
+ 
+
+00:03:29.280 --> 00:03:31.589 align:start position:0%
+looks at those various values and uses
+things<00:03:29.519><c> like</c><00:03:29.760><c> machine</c><00:03:30.239><c> learning</c><00:03:30.799><c> to</c><00:03:31.040><c> predict</c>
+
+00:03:31.589 --> 00:03:31.599 align:start position:0%
+things like machine learning to predict
+ 
+
+00:03:31.599 --> 00:03:34.190 align:start position:0%
+things like machine learning to predict
+imminent<00:03:32.080><c> failure</c><00:03:33.040><c> i</c><00:03:33.200><c> can</c><00:03:33.440><c> do</c>
+
+00:03:34.190 --> 00:03:34.200 align:start position:0%
+imminent failure i can do
+ 
+
+00:03:34.200 --> 00:03:36.470 align:start position:0%
+imminent failure i can do
+preemptive<00:03:35.200><c> maintenance</c><00:03:35.760><c> to</c><00:03:35.920><c> stop</c><00:03:36.239><c> there</c>
+
+00:03:36.470 --> 00:03:36.480 align:start position:0%
+preemptive maintenance to stop there
+ 
+
+00:03:36.480 --> 00:03:38.229 align:start position:0%
+preemptive maintenance to stop there
+being<00:03:36.720><c> a</c><00:03:36.879><c> failure</c>
+
+00:03:38.229 --> 00:03:38.239 align:start position:0%
+being a failure
+ 
+
+00:03:38.239 --> 00:03:41.270 align:start position:0%
+being a failure
+i<00:03:38.400><c> want</c><00:03:38.560><c> to</c><00:03:38.640><c> get</c><00:03:39.120><c> analysis</c><00:03:39.760><c> to</c><00:03:39.920><c> gain</c><00:03:40.400><c> insight</c>
+
+00:03:41.270 --> 00:03:41.280 align:start position:0%
+i want to get analysis to gain insight
+ 
+
+00:03:41.280 --> 00:03:43.350 align:start position:0%
+i want to get analysis to gain insight
+and<00:03:41.440><c> it</c><00:03:41.519><c> could</c><00:03:41.680><c> be</c><00:03:41.920><c> thousands</c><00:03:42.400><c> or</c><00:03:42.640><c> millions</c><00:03:43.120><c> of</c>
+
+00:03:43.350 --> 00:03:43.360 align:start position:0%
+and it could be thousands or millions of
+ 
+
+00:03:43.360 --> 00:03:44.869 align:start position:0%
+and it could be thousands or millions of
+these<00:03:43.599><c> sensors</c>
+
+00:03:44.869 --> 00:03:44.879 align:start position:0%
+these sensors
+ 
+
+00:03:44.879 --> 00:03:47.110 align:start position:0%
+these sensors
+now<00:03:45.040><c> when</c><00:03:45.200><c> i</c><00:03:45.440><c> say</c><00:03:45.599><c> the</c><00:03:45.840><c> idea</c><00:03:46.159><c> of</c><00:03:46.480><c> sensors</c><00:03:47.040><c> and</c>
+
+00:03:47.110 --> 00:03:47.120 align:start position:0%
+now when i say the idea of sensors and
+ 
+
+00:03:47.120 --> 00:03:48.710 align:start position:0%
+now when i say the idea of sensors and
+this<00:03:47.280><c> is</c><00:03:47.360><c> a</c><00:03:47.440><c> big</c><00:03:47.680><c> focus</c><00:03:48.000><c> for</c><00:03:48.159><c> the</c><00:03:48.319><c> idea</c><00:03:48.560><c> of</c>
+
+00:03:48.710 --> 00:03:48.720 align:start position:0%
+this is a big focus for the idea of
+ 
+
+00:03:48.720 --> 00:03:52.070 align:start position:0%
+this is a big focus for the idea of
+metrics<00:03:49.920><c> they</c><00:03:50.080><c> can</c><00:03:50.239><c> be</c><00:03:50.400><c> of</c><00:03:50.720><c> huge</c><00:03:51.440><c> numbers</c><00:03:51.920><c> of</c>
+
+00:03:52.070 --> 00:03:52.080 align:start position:0%
+metrics they can be of huge numbers of
+ 
+
+00:03:52.080 --> 00:03:54.630 align:start position:0%
+metrics they can be of huge numbers of
+different<00:03:52.640><c> types</c><00:03:53.360><c> that</c><00:03:53.599><c> i'm</c><00:03:53.920><c> gathering</c>
+
+00:03:54.630 --> 00:03:54.640 align:start position:0%
+different types that i'm gathering
+ 
+
+00:03:54.640 --> 00:03:57.670 align:start position:0%
+different types that i'm gathering
+information<00:03:55.439><c> on</c><00:03:55.920><c> it</c><00:03:56.080><c> could</c><00:03:56.319><c> gather</c><00:03:56.680><c> gps</c>
+
+00:03:57.670 --> 00:03:57.680 align:start position:0%
+information on it could gather gps
+ 
+
+00:03:57.680 --> 00:03:59.270 align:start position:0%
+information on it could gather gps
+coordinates<00:03:58.239><c> it</c><00:03:58.400><c> could</c><00:03:58.560><c> be</c><00:03:58.720><c> gathering</c>
+
+00:03:59.270 --> 00:03:59.280 align:start position:0%
+coordinates it could be gathering
+ 
+
+00:03:59.280 --> 00:04:01.110 align:start position:0%
+coordinates it could be gathering
+temperature<00:04:00.080><c> it</c><00:04:00.319><c> could</c><00:04:00.480><c> be</c><00:04:00.640><c> gathering</c>
+
+00:04:01.110 --> 00:04:01.120 align:start position:0%
+temperature it could be gathering
+ 
+
+00:04:01.120 --> 00:04:02.949 align:start position:0%
+temperature it could be gathering
+acceleration
+
+00:04:02.949 --> 00:04:02.959 align:start position:0%
+acceleration
+ 
+
+00:04:02.959 --> 00:04:05.270 align:start position:0%
+acceleration
+it<00:04:03.120><c> could</c><00:04:03.280><c> be</c><00:04:03.599><c> gathering</c><00:04:04.239><c> a</c><00:04:04.400><c> picture</c><00:04:05.040><c> it</c><00:04:05.120><c> could</c>
+
+00:04:05.270 --> 00:04:05.280 align:start position:0%
+it could be gathering a picture it could
+ 
+
+00:04:05.280 --> 00:04:06.710 align:start position:0%
+it could be gathering a picture it could
+be<00:04:05.439><c> gathering</c><00:04:05.840><c> the</c><00:04:05.920><c> amount</c><00:04:06.239><c> of</c><00:04:06.319><c> light</c><00:04:06.640><c> it</c>
+
+00:04:06.710 --> 00:04:06.720 align:start position:0%
+be gathering the amount of light it
+ 
+
+00:04:06.720 --> 00:04:08.789 align:start position:0%
+be gathering the amount of light it
+could<00:04:06.879><c> be</c><00:04:07.040><c> detecting</c><00:04:07.760><c> sound</c>
+
+00:04:08.789 --> 00:04:08.799 align:start position:0%
+could be detecting sound
+ 
+
+00:04:08.799 --> 00:04:09.830 align:start position:0%
+could be detecting sound
+tilt
+
+00:04:09.830 --> 00:04:09.840 align:start position:0%
+tilt
+ 
+
+00:04:09.840 --> 00:04:11.589 align:start position:0%
+tilt
+the<00:04:10.000><c> presence</c><00:04:10.319><c> of</c><00:04:10.480><c> different</c><00:04:10.720><c> types</c><00:04:11.040><c> of</c><00:04:11.200><c> gas</c>
+
+00:04:11.589 --> 00:04:11.599 align:start position:0%
+the presence of different types of gas
+ 
+
+00:04:11.599 --> 00:04:14.390 align:start position:0%
+the presence of different types of gas
+or<00:04:11.920><c> smoke</c><00:04:12.400><c> really</c><00:04:12.879><c> anything</c>
+
+00:04:14.390 --> 00:04:14.400 align:start position:0%
+or smoke really anything
+ 
+
+00:04:14.400 --> 00:04:16.789 align:start position:0%
+or smoke really anything
+can<00:04:14.640><c> be</c><00:04:14.720><c> enabled</c><00:04:15.760><c> and</c><00:04:15.920><c> i</c><00:04:16.000><c> have</c><00:04:16.160><c> these</c><00:04:16.400><c> sensors</c>
+
+00:04:16.789 --> 00:04:16.799 align:start position:0%
+can be enabled and i have these sensors
+ 
+
+00:04:16.799 --> 00:04:20.789 align:start position:0%
+can be enabled and i have these sensors
+and<00:04:16.880><c> i</c><00:04:16.959><c> want</c><00:04:17.120><c> to</c><00:04:17.199><c> gather</c><00:04:17.519><c> that</c><00:04:17.759><c> information</c>
+
+00:04:20.789 --> 00:04:20.799 align:start position:0%
+ 
+ 
+
+00:04:20.799 --> 00:04:22.870 align:start position:0%
+ 
+remember<00:04:21.280><c> also</c><00:04:21.759><c> i</c><00:04:21.919><c> want</c><00:04:22.079><c> to</c><00:04:22.160><c> be</c><00:04:22.320><c> able</c><00:04:22.479><c> to</c>
+
+00:04:22.870 --> 00:04:22.880 align:start position:0%
+remember also i want to be able to
+ 
+
+00:04:22.880 --> 00:04:26.150 align:start position:0%
+remember also i want to be able to
+identify
+
+00:04:26.150 --> 00:04:26.160 align:start position:0%
+ 
+ 
+
+00:04:26.160 --> 00:04:28.550 align:start position:0%
+ 
+a<00:04:26.400><c> particular</c><00:04:27.120><c> device</c><00:04:27.600><c> out</c><00:04:27.759><c> of</c><00:04:27.919><c> all</c><00:04:28.000><c> those</c>
+
+00:04:28.550 --> 00:04:28.560 align:start position:0%
+a particular device out of all those
+ 
+
+00:04:28.560 --> 00:04:30.710 align:start position:0%
+a particular device out of all those
+thousands<00:04:29.120><c> and</c><00:04:29.280><c> millions</c><00:04:30.080><c> i</c><00:04:30.160><c> want</c><00:04:30.320><c> to</c><00:04:30.400><c> be</c><00:04:30.560><c> able</c>
+
+00:04:30.710 --> 00:04:30.720 align:start position:0%
+thousands and millions i want to be able
+ 
+
+00:04:30.720 --> 00:04:33.110 align:start position:0%
+thousands and millions i want to be able
+to<00:04:31.040><c> authenticate</c>
+
+00:04:33.110 --> 00:04:33.120 align:start position:0%
+to authenticate
+ 
+
+00:04:33.120 --> 00:04:36.150 align:start position:0%
+to authenticate
+that<00:04:33.360><c> particular</c><00:04:33.840><c> device</c><00:04:34.400><c> in</c><00:04:34.639><c> a</c><00:04:34.880><c> strong</c><00:04:35.360><c> way</c>
+
+00:04:36.150 --> 00:04:36.160 align:start position:0%
+that particular device in a strong way
+ 
+
+00:04:36.160 --> 00:04:37.590 align:start position:0%
+that particular device in a strong way
+and<00:04:36.320><c> again</c><00:04:36.560><c> i</c><00:04:36.639><c> want</c><00:04:36.880><c> that</c><00:04:37.120><c> management</c>
+
+00:04:37.590 --> 00:04:37.600 align:start position:0%
+and again i want that management
+ 
+
+00:04:37.600 --> 00:04:40.230 align:start position:0%
+and again i want that management
+capability<00:04:38.240><c> sent</c><00:04:38.560><c> to</c><00:04:38.800><c> a</c><00:04:38.960><c> specific</c><00:04:39.360><c> device</c>
+
+00:04:40.230 --> 00:04:40.240 align:start position:0%
+capability sent to a specific device
+ 
+
+00:04:40.240 --> 00:04:41.830 align:start position:0%
+capability sent to a specific device
+maybe<00:04:40.560><c> sent</c><00:04:40.800><c> to</c><00:04:40.880><c> a</c><00:04:40.960><c> whole</c><00:04:41.199><c> collection</c><00:04:41.680><c> of</c>
+
+00:04:41.830 --> 00:04:41.840 align:start position:0%
+maybe sent to a whole collection of
+ 
+
+00:04:41.840 --> 00:04:43.510 align:start position:0%
+maybe sent to a whole collection of
+device
+
+00:04:43.510 --> 00:04:43.520 align:start position:0%
+device
+ 
+
+00:04:43.520 --> 00:04:46.070 align:start position:0%
+device
+so<00:04:43.680><c> we</c><00:04:43.919><c> need</c><00:04:44.479><c> services</c>
+
+00:04:46.070 --> 00:04:46.080 align:start position:0%
+so we need services
+ 
+
+00:04:46.080 --> 00:04:49.030 align:start position:0%
+so we need services
+around<00:04:46.479><c> these</c><00:04:46.960><c> internet</c><00:04:47.440><c> of</c><00:04:47.600><c> things</c>
+
+00:04:49.030 --> 00:04:49.040 align:start position:0%
+around these internet of things
+ 
+
+00:04:49.040 --> 00:04:50.710 align:start position:0%
+around these internet of things
+to<00:04:49.440><c> enable</c>
+
+00:04:50.710 --> 00:04:50.720 align:start position:0%
+to enable
+ 
+
+00:04:50.720 --> 00:04:54.230 align:start position:0%
+to enable
+all<00:04:51.040><c> of</c><00:04:51.280><c> these</c><00:04:51.840><c> different</c><00:04:52.400><c> capabilities</c>
+
+00:04:54.230 --> 00:04:54.240 align:start position:0%
+all of these different capabilities
+ 
+
+00:04:54.240 --> 00:04:56.150 align:start position:0%
+all of these different capabilities
+and<00:04:54.479><c> azure</c><00:04:54.960><c> has</c><00:04:55.199><c> a</c><00:04:55.280><c> number</c><00:04:55.520><c> of</c><00:04:55.680><c> services</c>
+
+00:04:56.150 --> 00:04:56.160 align:start position:0%
+and azure has a number of services
+ 
+
+00:04:56.160 --> 00:04:57.590 align:start position:0%
+and azure has a number of services
+around<00:04:56.479><c> this</c>
+
+00:04:57.590 --> 00:04:57.600 align:start position:0%
+around this
+ 
+
+00:04:57.600 --> 00:05:00.390 align:start position:0%
+around this
+now<00:04:57.840><c> the</c><00:04:58.080><c> first</c><00:04:58.400><c> of</c><00:04:58.560><c> those</c><00:04:58.960><c> services</c>
+
+00:05:00.390 --> 00:05:00.400 align:start position:0%
+now the first of those services
+ 
+
+00:05:00.400 --> 00:05:02.070 align:start position:0%
+now the first of those services
+is<00:05:00.800><c> azure</c>
+
+00:05:02.070 --> 00:05:02.080 align:start position:0%
+is azure
+ 
+
+00:05:02.080 --> 00:05:03.350 align:start position:0%
+is azure
+iot
+
+00:05:03.350 --> 00:05:03.360 align:start position:0%
+iot
+ 
+
+00:05:03.360 --> 00:05:05.830 align:start position:0%
+iot
+hub
+
+00:05:05.830 --> 00:05:05.840 align:start position:0%
+ 
+ 
+
+00:05:05.840 --> 00:05:08.310 align:start position:0%
+ 
+this<00:05:06.080><c> is</c><00:05:06.240><c> really</c><00:05:06.720><c> a</c><00:05:07.039><c> foundational</c><00:05:07.919><c> service</c>
+
+00:05:08.310 --> 00:05:08.320 align:start position:0%
+this is really a foundational service
+ 
+
+00:05:08.320 --> 00:05:11.189 align:start position:0%
+this is really a foundational service
+and<00:05:08.400><c> as</c><00:05:08.560><c> the</c><00:05:08.639><c> name</c><00:05:08.960><c> implies</c><00:05:09.919><c> it's</c><00:05:10.160><c> a</c><00:05:10.320><c> hub</c>
+
+00:05:11.189 --> 00:05:11.199 align:start position:0%
+and as the name implies it's a hub
+ 
+
+00:05:11.199 --> 00:05:14.469 align:start position:0%
+and as the name implies it's a hub
+where<00:05:11.680><c> internet</c><00:05:12.240><c> of</c><00:05:12.560><c> things</c><00:05:13.039><c> devices</c><00:05:14.160><c> can</c>
+
+00:05:14.469 --> 00:05:14.479 align:start position:0%
+where internet of things devices can
+ 
+
+00:05:14.479 --> 00:05:16.390 align:start position:0%
+where internet of things devices can
+communicate<00:05:15.199><c> to</c>
+
+00:05:16.390 --> 00:05:16.400 align:start position:0%
+communicate to
+ 
+
+00:05:16.400 --> 00:05:18.950 align:start position:0%
+communicate to
+it's<00:05:16.720><c> all</c><00:05:16.880><c> about</c><00:05:17.199><c> that</c><00:05:17.440><c> idea</c><00:05:17.840><c> of</c><00:05:18.160><c> device</c><00:05:18.720><c> to</c>
+
+00:05:18.950 --> 00:05:18.960 align:start position:0%
+it's all about that idea of device to
+ 
+
+00:05:18.960 --> 00:05:21.029 align:start position:0%
+it's all about that idea of device to
+cloud
+
+00:05:21.029 --> 00:05:21.039 align:start position:0%
+cloud
+ 
+
+00:05:21.039 --> 00:05:27.270 align:start position:0%
+cloud
+telemetry<00:05:22.400><c> so</c><00:05:22.560><c> i</c><00:05:22.639><c> can</c><00:05:22.800><c> think</c><00:05:23.120><c> device</c><00:05:24.000><c> to</c><00:05:24.320><c> cloud</c>
+
+00:05:27.270 --> 00:05:27.280 align:start position:0%
+ 
+ 
+
+00:05:27.280 --> 00:05:28.790 align:start position:0%
+ 
+but<00:05:27.520><c> it's</c><00:05:27.759><c> also</c>
+
+00:05:28.790 --> 00:05:28.800 align:start position:0%
+but it's also
+ 
+
+00:05:28.800 --> 00:05:32.390 align:start position:0%
+but it's also
+about<00:05:29.360><c> enabling</c><00:05:30.080><c> the</c><00:05:30.320><c> idea</c><00:05:30.880><c> of</c><00:05:31.440><c> maybe</c><00:05:31.919><c> it's</c><00:05:32.240><c> a</c>
+
+00:05:32.390 --> 00:05:32.400 align:start position:0%
+about enabling the idea of maybe it's a
+ 
+
+00:05:32.400 --> 00:05:34.629 align:start position:0%
+about enabling the idea of maybe it's a
+device
+
+00:05:34.629 --> 00:05:34.639 align:start position:0%
+device
+ 
+
+00:05:34.639 --> 00:05:37.110 align:start position:0%
+device
+to<00:05:34.880><c> cloud</c>
+
+00:05:37.110 --> 00:05:37.120 align:start position:0%
+to cloud
+ 
+
+00:05:37.120 --> 00:05:39.670 align:start position:0%
+to cloud
+upload<00:05:37.600><c> maybe</c><00:05:37.919><c> some</c><00:05:38.320><c> file</c>
+
+00:05:39.670 --> 00:05:39.680 align:start position:0%
+upload maybe some file
+ 
+
+00:05:39.680 --> 00:05:40.950 align:start position:0%
+upload maybe some file
+i<00:05:39.840><c> want</c><00:05:40.160><c> to</c>
+
+00:05:40.950 --> 00:05:40.960 align:start position:0%
+i want to
+ 
+
+00:05:40.960 --> 00:05:43.029 align:start position:0%
+i want to
+gather<00:05:41.280><c> so</c><00:05:41.440><c> i'll</c><00:05:41.520><c> say</c><00:05:41.759><c> metrics</c><00:05:42.320><c> telemetry</c>
+
+00:05:43.029 --> 00:05:43.039 align:start position:0%
+gather so i'll say metrics telemetry
+ 
+
+00:05:43.039 --> 00:05:43.990 align:start position:0%
+gather so i'll say metrics telemetry
+there
+
+00:05:43.990 --> 00:05:44.000 align:start position:0%
+there
+ 
+
+00:05:44.000 --> 00:05:47.110 align:start position:0%
+there
+but<00:05:44.160><c> it's</c><00:05:44.479><c> also</c><00:05:44.880><c> about</c><00:05:45.360><c> cloud</c>
+
+00:05:47.110 --> 00:05:47.120 align:start position:0%
+but it's also about cloud
+ 
+
+00:05:47.120 --> 00:05:47.990 align:start position:0%
+but it's also about cloud
+to
+
+00:05:47.990 --> 00:05:48.000 align:start position:0%
+to
+ 
+
+00:05:48.000 --> 00:05:49.830 align:start position:0%
+to
+device
+
+00:05:49.830 --> 00:05:49.840 align:start position:0%
+device
+ 
+
+00:05:49.840 --> 00:05:53.510 align:start position:0%
+device
+i<00:05:50.080><c> think</c><00:05:50.479><c> that</c><00:05:50.880><c> whole</c><00:05:51.199><c> idea</c><00:05:52.320><c> about</c><00:05:52.880><c> command</c>
+
+00:05:53.510 --> 00:05:53.520 align:start position:0%
+i think that whole idea about command
+ 
+
+00:05:53.520 --> 00:05:54.950 align:start position:0%
+i think that whole idea about command
+and<00:05:53.680><c> control</c>
+
+00:05:54.950 --> 00:05:54.960 align:start position:0%
+and control
+ 
+
+00:05:54.960 --> 00:05:57.430 align:start position:0%
+and control
+also<00:05:55.360><c> there's</c><00:05:55.759><c> request</c><00:05:56.319><c> and</c><00:05:56.479><c> i</c><00:05:56.560><c> get</c><00:05:56.720><c> responses</c>
+
+00:05:57.430 --> 00:05:57.440 align:start position:0%
+also there's request and i get responses
+ 
+
+00:05:57.440 --> 00:05:59.590 align:start position:0%
+also there's request and i get responses
+back<00:05:57.680><c> to</c><00:05:57.840><c> that</c>
+
+00:05:59.590 --> 00:05:59.600 align:start position:0%
+back to that
+ 
+
+00:05:59.600 --> 00:06:01.270 align:start position:0%
+back to that
+so<00:05:59.840><c> cloud</c><00:06:00.080><c> to</c><00:06:00.240><c> device</c><00:06:00.720><c> hey</c><00:06:00.880><c> i</c><00:06:00.960><c> want</c><00:06:01.120><c> you</c><00:06:01.199><c> to</c>
+
+00:06:01.270 --> 00:06:01.280 align:start position:0%
+so cloud to device hey i want you to
+ 
+
+00:06:01.280 --> 00:06:03.510 align:start position:0%
+so cloud to device hey i want you to
+perform<00:06:01.680><c> this</c><00:06:02.000><c> operation</c><00:06:02.720><c> perform</c><00:06:03.199><c> this</c>
+
+00:06:03.510 --> 00:06:03.520 align:start position:0%
+perform this operation perform this
+ 
+
+00:06:03.520 --> 00:06:04.550 align:start position:0%
+perform this operation perform this
+action
+
+00:06:04.550 --> 00:06:04.560 align:start position:0%
+action
+ 
+
+00:06:04.560 --> 00:06:06.550 align:start position:0%
+action
+the<00:06:04.720><c> device</c><00:06:05.120><c> to</c><00:06:05.360><c> cloud</c><00:06:05.840><c> is</c><00:06:06.080><c> hey</c><00:06:06.240><c> i'm</c><00:06:06.319><c> giving</c>
+
+00:06:06.550 --> 00:06:06.560 align:start position:0%
+the device to cloud is hey i'm giving
+ 
+
+00:06:06.560 --> 00:06:08.710 align:start position:0%
+the device to cloud is hey i'm giving
+you<00:06:06.720><c> these</c><00:06:06.960><c> metrics</c><00:06:07.520><c> or</c><00:06:07.680><c> i'm</c><00:06:07.840><c> uploading</c><00:06:08.479><c> this</c>
+
+00:06:08.710 --> 00:06:08.720 align:start position:0%
+you these metrics or i'm uploading this
+ 
+
+00:06:08.720 --> 00:06:11.350 align:start position:0%
+you these metrics or i'm uploading this
+file<00:06:09.199><c> or</c><00:06:09.440><c> i</c><00:06:09.520><c> have</c><00:06:09.680><c> some</c><00:06:09.919><c> requests</c><00:06:10.880><c> and</c><00:06:11.039><c> i</c><00:06:11.199><c> want</c>
+
+00:06:11.350 --> 00:06:11.360 align:start position:0%
+file or i have some requests and i want
+ 
+
+00:06:11.360 --> 00:06:13.510 align:start position:0%
+file or i have some requests and i want
+a<00:06:11.520><c> response</c><00:06:12.319><c> back</c><00:06:12.720><c> so</c><00:06:12.880><c> there's</c><00:06:13.120><c> different</c>
+
+00:06:13.510 --> 00:06:13.520 align:start position:0%
+a response back so there's different
+ 
+
+00:06:13.520 --> 00:06:15.270 align:start position:0%
+a response back so there's different
+types<00:06:13.759><c> of</c><00:06:13.840><c> thing</c><00:06:14.000><c> i'll</c><00:06:14.160><c> put</c><00:06:14.319><c> that</c><00:06:14.479><c> kind</c><00:06:14.720><c> of</c>
+
+00:06:15.270 --> 00:06:15.280 align:start position:0%
+types of thing i'll put that kind of
+ 
+
+00:06:15.280 --> 00:06:17.670 align:start position:0%
+types of thing i'll put that kind of
+also<00:06:15.759><c> request</c>
+
+00:06:17.670 --> 00:06:17.680 align:start position:0%
+also request
+ 
+
+00:06:17.680 --> 00:06:19.510 align:start position:0%
+also request
+response
+
+00:06:19.510 --> 00:06:19.520 align:start position:0%
+response
+ 
+
+00:06:19.520 --> 00:06:22.390 align:start position:0%
+response
+as<00:06:19.919><c> an</c><00:06:20.080><c> option</c><00:06:20.400><c> now</c>
+
+00:06:22.390 --> 00:06:22.400 align:start position:0%
+as an option now
+ 
+
+00:06:22.400 --> 00:06:24.790 align:start position:0%
+as an option now
+and<00:06:22.560><c> what</c><00:06:22.800><c> the</c><00:06:22.960><c> iot</c><00:06:23.600><c> hub</c><00:06:23.919><c> is</c><00:06:24.000><c> going</c><00:06:24.080><c> to</c><00:06:24.319><c> do</c><00:06:24.560><c> for</c>
+
+00:06:24.790 --> 00:06:24.800 align:start position:0%
+and what the iot hub is going to do for
+ 
+
+00:06:24.800 --> 00:06:27.909 align:start position:0%
+and what the iot hub is going to do for
+us<00:06:25.199><c> it</c><00:06:25.440><c> provides</c><00:06:26.400><c> well</c><00:06:26.639><c> a</c><00:06:26.960><c> these</c>
+
+00:06:27.909 --> 00:06:27.919 align:start position:0%
+us it provides well a these
+ 
+
+00:06:27.919 --> 00:06:30.070 align:start position:0%
+us it provides well a these
+endpoints<00:06:28.960><c> that</c><00:06:29.120><c> these</c><00:06:29.360><c> devices</c><00:06:29.919><c> can</c>
+
+00:06:30.070 --> 00:06:30.080 align:start position:0%
+endpoints that these devices can
+ 
+
+00:06:30.080 --> 00:06:32.070 align:start position:0%
+endpoints that these devices can
+actually<00:06:30.400><c> communicate</c><00:06:31.120><c> to</c>
+
+00:06:32.070 --> 00:06:32.080 align:start position:0%
+actually communicate to
+ 
+
+00:06:32.080 --> 00:06:34.070 align:start position:0%
+actually communicate to
+but<00:06:32.240><c> what</c><00:06:32.400><c> it</c><00:06:32.560><c> also</c><00:06:32.960><c> does</c><00:06:33.199><c> is</c><00:06:33.360><c> give</c><00:06:33.600><c> us</c><00:06:33.759><c> that</c>
+
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+but what it also does is give us that
+ 
+
+00:06:34.080 --> 00:06:35.510 align:start position:0%
+but what it also does is give us that
+ability
+
+00:06:35.510 --> 00:06:35.520 align:start position:0%
+ability
+ 
+
+00:06:35.520 --> 00:06:38.790 align:start position:0%
+ability
+to<00:06:35.919><c> uniquely</c><00:06:36.960><c> identify</c>
+
+00:06:38.790 --> 00:06:38.800 align:start position:0%
+to uniquely identify
+ 
+
+00:06:38.800 --> 00:06:41.909 align:start position:0%
+to uniquely identify
+each<00:06:39.199><c> of</c><00:06:39.440><c> the</c><00:06:39.680><c> various</c><00:06:40.160><c> devices</c>
+
+00:06:41.909 --> 00:06:41.919 align:start position:0%
+each of the various devices
+ 
+
+00:06:41.919 --> 00:06:43.350 align:start position:0%
+each of the various devices
+and<00:06:42.000><c> what</c><00:06:42.240><c> it's</c><00:06:42.479><c> actually</c><00:06:42.720><c> going</c><00:06:42.880><c> to</c><00:06:43.039><c> do</c><00:06:43.199><c> is</c>
+
+00:06:43.350 --> 00:06:43.360 align:start position:0%
+and what it's actually going to do is
+ 
+
+00:06:43.360 --> 00:06:45.590 align:start position:0%
+and what it's actually going to do is
+within<00:06:43.759><c> this</c><00:06:44.160><c> service</c>
+
+00:06:45.590 --> 00:06:45.600 align:start position:0%
+within this service
+ 
+
+00:06:45.600 --> 00:06:48.150 align:start position:0%
+within this service
+yes<00:06:45.840><c> there's</c><00:06:46.080><c> that</c><00:06:46.319><c> physical</c><00:06:46.840><c> device</c><00:06:48.000><c> but</c>
+
+00:06:48.150 --> 00:06:48.160 align:start position:0%
+yes there's that physical device but
+ 
+
+00:06:48.160 --> 00:06:50.950 align:start position:0%
+yes there's that physical device but
+what<00:06:48.400><c> it's</c><00:06:48.639><c> going</c><00:06:48.720><c> to</c><00:06:48.960><c> do</c><00:06:49.360><c> is</c><00:06:49.680><c> as</c><00:06:49.919><c> part</c><00:06:50.160><c> of</c><00:06:50.319><c> iot</c>
+
+00:06:50.950 --> 00:06:50.960 align:start position:0%
+what it's going to do is as part of iot
+ 
+
+00:06:50.960 --> 00:06:53.510 align:start position:0%
+what it's going to do is as part of iot
+hub
+
+00:06:53.510 --> 00:06:53.520 align:start position:0%
+ 
+ 
+
+00:06:53.520 --> 00:06:58.550 align:start position:0%
+ 
+it<00:06:53.759><c> creates</c><00:06:54.400><c> this</c><00:06:54.800><c> idea</c><00:06:55.840><c> of</c><00:06:56.240><c> a</c><00:06:56.560><c> device</c>
+
+00:06:58.550 --> 00:06:58.560 align:start position:0%
+it creates this idea of a device
+ 
+
+00:06:58.560 --> 00:07:01.110 align:start position:0%
+it creates this idea of a device
+twin
+
+00:07:01.110 --> 00:07:01.120 align:start position:0%
+ 
+ 
+
+00:07:01.120 --> 00:07:04.150 align:start position:0%
+ 
+so<00:07:01.360><c> a</c><00:07:01.680><c> representation</c>
+
+00:07:04.150 --> 00:07:04.160 align:start position:0%
+so a representation
+ 
+
+00:07:04.160 --> 00:07:06.710 align:start position:0%
+so a representation
+of<00:07:04.800><c> that</c><00:07:05.039><c> device</c>
+
+00:07:06.710 --> 00:07:06.720 align:start position:0%
+of that device
+ 
+
+00:07:06.720 --> 00:07:10.230 align:start position:0%
+of that device
+within<00:07:07.360><c> iot</c><00:07:08.080><c> hub</c><00:07:08.400><c> and</c><00:07:08.479><c> the</c><00:07:08.639><c> benefit</c><00:07:09.199><c> there</c><00:07:09.520><c> is</c>
+
+00:07:10.230 --> 00:07:10.240 align:start position:0%
+within iot hub and the benefit there is
+ 
+
+00:07:10.240 --> 00:07:12.070 align:start position:0%
+within iot hub and the benefit there is
+in<00:07:10.400><c> terms</c><00:07:10.720><c> of</c><00:07:11.039><c> interacting</c><00:07:11.680><c> with</c><00:07:11.840><c> this</c>
+
+00:07:12.070 --> 00:07:12.080 align:start position:0%
+in terms of interacting with this
+ 
+
+00:07:12.080 --> 00:07:13.990 align:start position:0%
+in terms of interacting with this
+service
+
+00:07:13.990 --> 00:07:14.000 align:start position:0%
+service
+ 
+
+00:07:14.000 --> 00:07:16.469 align:start position:0%
+service
+my<00:07:14.319><c> application</c><00:07:15.039><c> i</c><00:07:15.280><c> write</c>
+
+00:07:16.469 --> 00:07:16.479 align:start position:0%
+my application i write
+ 
+
+00:07:16.479 --> 00:07:18.950 align:start position:0%
+my application i write
+i<00:07:16.720><c> interact</c><00:07:17.120><c> with</c><00:07:17.280><c> this</c><00:07:17.440><c> device</c><00:07:17.840><c> twin</c>
+
+00:07:18.950 --> 00:07:18.960 align:start position:0%
+i interact with this device twin
+ 
+
+00:07:18.960 --> 00:07:21.029 align:start position:0%
+i interact with this device twin
+i<00:07:19.120><c> can</c><00:07:19.360><c> think</c><00:07:19.599><c> about</c><00:07:19.919><c> well</c><00:07:20.080><c> the</c><00:07:20.240><c> device</c><00:07:20.639><c> twin</c>
+
+00:07:21.029 --> 00:07:21.039 align:start position:0%
+i can think about well the device twin
+ 
+
+00:07:21.039 --> 00:07:23.430 align:start position:0%
+i can think about well the device twin
+captures<00:07:21.440><c> the</c><00:07:21.599><c> metrics</c><00:07:22.160><c> about</c><00:07:22.560><c> that</c><00:07:23.199><c> are</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+captures the metrics about that are
+ 
+
+00:07:23.440 --> 00:07:24.629 align:start position:0%
+captures the metrics about that are
+exposed
+
+00:07:24.629 --> 00:07:24.639 align:start position:0%
+exposed
+ 
+
+00:07:24.639 --> 00:07:25.830 align:start position:0%
+exposed
+through<00:07:24.960><c> this</c>
+
+00:07:25.830 --> 00:07:25.840 align:start position:0%
+through this
+ 
+
+00:07:25.840 --> 00:07:28.550 align:start position:0%
+through this
+so<00:07:26.000><c> i</c><00:07:26.080><c> can</c><00:07:26.319><c> look</c><00:07:26.560><c> at</c><00:07:26.720><c> that</c><00:07:26.880><c> device</c><00:07:27.440><c> twin</c>
+
+00:07:28.550 --> 00:07:28.560 align:start position:0%
+so i can look at that device twin
+ 
+
+00:07:28.560 --> 00:07:31.430 align:start position:0%
+so i can look at that device twin
+but<00:07:28.800><c> also</c><00:07:29.440><c> if</c><00:07:29.599><c> i</c><00:07:29.919><c> tell</c><00:07:30.160><c> it</c><00:07:30.479><c> actions</c><00:07:30.960><c> i</c><00:07:31.120><c> want</c>
+
+00:07:31.430 --> 00:07:31.440 align:start position:0%
+but also if i tell it actions i want
+ 
+
+00:07:31.440 --> 00:07:33.189 align:start position:0%
+but also if i tell it actions i want
+performed
+
+00:07:33.189 --> 00:07:33.199 align:start position:0%
+performed
+ 
+
+00:07:33.199 --> 00:07:35.670 align:start position:0%
+performed
+so<00:07:33.520><c> i</c><00:07:33.840><c> configure</c><00:07:34.800><c> those</c><00:07:35.120><c> hey</c><00:07:35.360><c> i</c><00:07:35.440><c> want</c><00:07:35.520><c> you</c><00:07:35.599><c> to</c>
+
+00:07:35.670 --> 00:07:35.680 align:start position:0%
+so i configure those hey i want you to
+ 
+
+00:07:35.680 --> 00:07:37.749 align:start position:0%
+so i configure those hey i want you to
+go<00:07:35.759><c> and</c><00:07:35.919><c> update</c><00:07:36.240><c> your</c><00:07:36.400><c> firmware</c><00:07:37.280><c> i</c><00:07:37.440><c> want</c><00:07:37.599><c> you</c>
+
+00:07:37.749 --> 00:07:37.759 align:start position:0%
+go and update your firmware i want you
+ 
+
+00:07:37.759 --> 00:07:39.830 align:start position:0%
+go and update your firmware i want you
+to<00:07:37.840><c> go</c><00:07:38.000><c> and</c><00:07:38.080><c> perform</c><00:07:38.479><c> a</c><00:07:38.639><c> restart</c>
+
+00:07:39.830 --> 00:07:39.840 align:start position:0%
+to go and perform a restart
+ 
+
+00:07:39.840 --> 00:07:42.070 align:start position:0%
+to go and perform a restart
+the<00:07:40.000><c> next</c><00:07:40.319><c> time</c><00:07:40.639><c> the</c><00:07:40.880><c> physical</c><00:07:41.280><c> device</c><00:07:41.759><c> checks</c>
+
+00:07:42.070 --> 00:07:42.080 align:start position:0%
+the next time the physical device checks
+ 
+
+00:07:42.080 --> 00:07:44.950 align:start position:0%
+the next time the physical device checks
+in<00:07:42.319><c> with</c><00:07:42.560><c> the</c><00:07:42.720><c> iot</c><00:07:43.360><c> hub</c><00:07:44.240><c> it</c><00:07:44.319><c> will</c><00:07:44.560><c> see</c><00:07:44.800><c> that</c>
+
+00:07:44.950 --> 00:07:44.960 align:start position:0%
+in with the iot hub it will see that
+ 
+
+00:07:44.960 --> 00:07:47.029 align:start position:0%
+in with the iot hub it will see that
+there's<00:07:45.199><c> this</c><00:07:45.440><c> action</c><00:07:45.919><c> waiting</c>
+
+00:07:47.029 --> 00:07:47.039 align:start position:0%
+there's this action waiting
+ 
+
+00:07:47.039 --> 00:07:49.270 align:start position:0%
+there's this action waiting
+and<00:07:47.280><c> it</c><00:07:47.440><c> will</c><00:07:47.599><c> perform</c><00:07:48.080><c> it</c><00:07:48.720><c> so</c><00:07:48.879><c> it</c><00:07:48.960><c> gives</c><00:07:49.120><c> me</c>
+
+00:07:49.270 --> 00:07:49.280 align:start position:0%
+and it will perform it so it gives me
+ 
+
+00:07:49.280 --> 00:07:51.510 align:start position:0%
+and it will perform it so it gives me
+this<00:07:49.520><c> great</c><00:07:49.759><c> ability</c><00:07:50.400><c> in</c><00:07:50.479><c> terms</c><00:07:50.720><c> of</c><00:07:51.039><c> my</c>
+
+00:07:51.510 --> 00:07:51.520 align:start position:0%
+this great ability in terms of my
+ 
+
+00:07:51.520 --> 00:07:54.070 align:start position:0%
+this great ability in terms of my
+application<00:07:52.800><c> to</c><00:07:53.039><c> interact</c><00:07:53.440><c> with</c><00:07:53.520><c> the</c><00:07:53.680><c> devices</c>
+
+00:07:54.070 --> 00:07:54.080 align:start position:0%
+application to interact with the devices
+ 
+
+00:07:54.080 --> 00:07:55.830 align:start position:0%
+application to interact with the devices
+without<00:07:54.319><c> having</c><00:07:54.560><c> to</c><00:07:54.720><c> actually</c><00:07:55.280><c> live</c><00:07:55.599><c> be</c>
+
+00:07:55.830 --> 00:07:55.840 align:start position:0%
+without having to actually live be
+ 
+
+00:07:55.840 --> 00:07:58.869 align:start position:0%
+without having to actually live be
+talking<00:07:56.240><c> to</c><00:07:56.400><c> the</c><00:07:56.560><c> physical</c><00:07:56.960><c> device</c><00:07:57.440><c> iot</c><00:07:58.080><c> hub</c>
+
+00:07:58.869 --> 00:07:58.879 align:start position:0%
+talking to the physical device iot hub
+ 
+
+00:07:58.879 --> 00:08:01.270 align:start position:0%
+talking to the physical device iot hub
+is<00:07:59.039><c> responsible</c><00:07:59.599><c> for</c><00:07:59.759><c> that</c><00:08:00.240><c> plumbing</c>
+
+00:08:01.270 --> 00:08:01.280 align:start position:0%
+is responsible for that plumbing
+ 
+
+00:08:01.280 --> 00:08:02.710 align:start position:0%
+is responsible for that plumbing
+under<00:08:01.520><c> the</c><00:08:01.680><c> covers</c>
+
+00:08:02.710 --> 00:08:02.720 align:start position:0%
+under the covers
+ 
+
+00:08:02.720 --> 00:08:04.469 align:start position:0%
+under the covers
+and<00:08:02.879><c> i</c><00:08:03.039><c> can</c><00:08:03.360><c> focus</c><00:08:03.840><c> more</c><00:08:04.080><c> on</c><00:08:04.240><c> the</c>
+
+00:08:04.469 --> 00:08:04.479 align:start position:0%
+and i can focus more on the
+ 
+
+00:08:04.479 --> 00:08:07.029 align:start position:0%
+and i can focus more on the
+functionality<00:08:05.280><c> i</c><00:08:05.360><c> want</c><00:08:05.599><c> in</c><00:08:05.759><c> my</c><00:08:06.000><c> application</c>
+
+00:08:07.029 --> 00:08:07.039 align:start position:0%
+functionality i want in my application
+ 
+
+00:08:07.039 --> 00:08:10.869 align:start position:0%
+functionality i want in my application
+and<00:08:07.280><c> all</c><00:08:07.440><c> of</c><00:08:07.599><c> this</c><00:08:08.000><c> is</c><00:08:08.240><c> by</c><00:08:08.479><c> the</c><00:08:08.560><c> various</c><00:08:09.199><c> sdks</c>
+
+00:08:10.869 --> 00:08:10.879 align:start position:0%
+and all of this is by the various sdks
+ 
+
+00:08:10.879 --> 00:08:15.029 align:start position:0%
+and all of this is by the various sdks
+that<00:08:11.199><c> iot</c><00:08:11.919><c> hub</c><00:08:12.400><c> is</c><00:08:12.560><c> going</c><00:08:12.960><c> to</c><00:08:13.199><c> support</c><00:08:14.160><c> so</c><00:08:14.400><c> iot</c>
+
+00:08:15.029 --> 00:08:15.039 align:start position:0%
+that iot hub is going to support so iot
+ 
+
+00:08:15.039 --> 00:08:17.749 align:start position:0%
+that iot hub is going to support so iot
+hub<00:08:15.440><c> is</c><00:08:15.599><c> providing</c><00:08:16.240><c> all</c><00:08:16.400><c> the</c><00:08:16.560><c> various</c><00:08:17.199><c> flows</c>
+
+00:08:17.749 --> 00:08:17.759 align:start position:0%
+hub is providing all the various flows
+ 
+
+00:08:17.759 --> 00:08:20.629 align:start position:0%
+hub is providing all the various flows
+required
+
+00:08:20.629 --> 00:08:20.639 align:start position:0%
+required
+ 
+
+00:08:20.639 --> 00:08:23.270 align:start position:0%
+required
+for<00:08:20.960><c> this</c><00:08:21.440><c> actually</c><00:08:22.000><c> to</c><00:08:22.240><c> work</c>
+
+00:08:23.270 --> 00:08:23.280 align:start position:0%
+for this actually to work
+ 
+
+00:08:23.280 --> 00:08:26.150 align:start position:0%
+for this actually to work
+it's<00:08:23.599><c> providing</c><00:08:24.160><c> me</c><00:08:24.400><c> those</c><00:08:24.560><c> various</c><00:08:25.120><c> sdk</c><00:08:25.680><c> so</c><00:08:26.000><c> i</c>
+
+00:08:26.150 --> 00:08:26.160 align:start position:0%
+it's providing me those various sdk so i
+ 
+
+00:08:26.160 --> 00:08:28.790 align:start position:0%
+it's providing me those various sdk so i
+can<00:08:26.319><c> then</c><00:08:26.639><c> write</c><00:08:26.960><c> my</c><00:08:27.280><c> application</c><00:08:28.560><c> and</c>
+
+00:08:28.790 --> 00:08:28.800 align:start position:0%
+can then write my application and
+ 
+
+00:08:28.800 --> 00:08:30.710 align:start position:0%
+can then write my application and
+interact<00:08:29.199><c> with</c><00:08:29.440><c> it</c>
+
+00:08:30.710 --> 00:08:30.720 align:start position:0%
+interact with it
+ 
+
+00:08:30.720 --> 00:08:33.509 align:start position:0%
+interact with it
+and<00:08:31.199><c> this</c><00:08:31.440><c> is</c><00:08:31.599><c> a</c><00:08:31.759><c> really</c><00:08:32.080><c> good</c><00:08:32.320><c> option</c>
+
+00:08:33.509 --> 00:08:33.519 align:start position:0%
+and this is a really good option
+ 
+
+00:08:33.519 --> 00:08:35.909 align:start position:0%
+and this is a really good option
+if<00:08:33.919><c> my</c><00:08:34.240><c> requirement</c>
+
+00:08:35.909 --> 00:08:35.919 align:start position:0%
+if my requirement
+ 
+
+00:08:35.919 --> 00:08:37.029 align:start position:0%
+if my requirement
+is
+
+00:08:37.029 --> 00:08:37.039 align:start position:0%
+is
+ 
+
+00:08:37.039 --> 00:08:39.190 align:start position:0%
+is
+i<00:08:37.200><c> just</c><00:08:37.360><c> need</c><00:08:37.599><c> connectivity</c><00:08:38.640><c> to</c><00:08:38.800><c> remote</c>
+
+00:08:39.190 --> 00:08:39.200 align:start position:0%
+i just need connectivity to remote
+ 
+
+00:08:39.200 --> 00:08:40.389 align:start position:0%
+i just need connectivity to remote
+devices
+
+00:08:40.389 --> 00:08:40.399 align:start position:0%
+devices
+ 
+
+00:08:40.399 --> 00:08:42.469 align:start position:0%
+devices
+i<00:08:40.560><c> want</c><00:08:40.719><c> to</c><00:08:40.800><c> be</c><00:08:40.959><c> able</c><00:08:41.120><c> to</c><00:08:41.440><c> sense</c>
+
+00:08:42.469 --> 00:08:42.479 align:start position:0%
+i want to be able to sense
+ 
+
+00:08:42.479 --> 00:08:44.470 align:start position:0%
+i want to be able to sense
+and<00:08:42.640><c> receive</c><00:08:43.200><c> i</c><00:08:43.360><c> want</c><00:08:43.440><c> to</c><00:08:43.519><c> get</c><00:08:43.680><c> those</c><00:08:43.919><c> signals</c>
+
+00:08:44.470 --> 00:08:44.480 align:start position:0%
+and receive i want to get those signals
+ 
+
+00:08:44.480 --> 00:08:46.150 align:start position:0%
+and receive i want to get those signals
+i<00:08:44.640><c> want</c><00:08:44.720><c> to</c><00:08:44.800><c> get</c><00:08:45.040><c> those</c><00:08:45.279><c> telemetry</c><00:08:45.839><c> so</c><00:08:46.000><c> those</c>
+
+00:08:46.150 --> 00:08:46.160 align:start position:0%
+i want to get those telemetry so those
+ 
+
+00:08:46.160 --> 00:08:48.150 align:start position:0%
+i want to get those telemetry so those
+various<00:08:46.480><c> types</c><00:08:46.720><c> of</c><00:08:46.800><c> metrics</c><00:08:47.680><c> i</c><00:08:47.839><c> want</c><00:08:48.000><c> to</c><00:08:48.080><c> be</c>
+
+00:08:48.150 --> 00:08:48.160 align:start position:0%
+various types of metrics i want to be
+ 
+
+00:08:48.160 --> 00:08:51.350 align:start position:0%
+various types of metrics i want to be
+able<00:08:48.320><c> to</c><00:08:48.640><c> push</c><00:08:49.200><c> updates</c><00:08:49.920><c> and</c><00:08:50.160><c> i</c><00:08:50.399><c> want</c><00:08:50.640><c> to</c><00:08:50.959><c> write</c>
+
+00:08:51.350 --> 00:08:51.360 align:start position:0%
+able to push updates and i want to write
+ 
+
+00:08:51.360 --> 00:08:54.710 align:start position:0%
+able to push updates and i want to write
+my<00:08:51.839><c> own</c><00:08:52.160><c> solution</c><00:08:52.880><c> i</c><00:08:53.040><c> want</c><00:08:53.200><c> to</c><00:08:53.279><c> use</c><00:08:53.519><c> the</c><00:08:53.680><c> sdk</c><00:08:54.560><c> to</c>
+
+00:08:54.710 --> 00:08:54.720 align:start position:0%
+my own solution i want to use the sdk to
+ 
+
+00:08:54.720 --> 00:08:56.470 align:start position:0%
+my own solution i want to use the sdk to
+write<00:08:54.959><c> my</c><00:08:55.200><c> own</c><00:08:55.360><c> solution</c><00:08:55.760><c> so</c><00:08:55.920><c> i</c><00:08:56.000><c> think</c><00:08:56.160><c> about</c>
+
+00:08:56.470 --> 00:08:56.480 align:start position:0%
+write my own solution so i think about
+ 
+
+00:08:56.480 --> 00:08:58.310 align:start position:0%
+write my own solution so i think about
+iot<00:08:57.200><c> hub</c>
+
+00:08:58.310 --> 00:08:58.320 align:start position:0%
+iot hub
+ 
+
+00:08:58.320 --> 00:09:00.870 align:start position:0%
+iot hub
+when<00:08:58.640><c> i</c><00:08:58.800><c> just</c><00:08:59.120><c> need</c><00:08:59.440><c> that</c><00:08:59.920><c> basic</c><00:09:00.480><c> set</c><00:09:00.720><c> of</c>
+
+00:09:00.870 --> 00:09:00.880 align:start position:0%
+when i just need that basic set of
+ 
+
+00:09:00.880 --> 00:09:02.870 align:start position:0%
+when i just need that basic set of
+capabilities<00:09:02.080><c> and</c><00:09:02.160><c> basically</c><00:09:02.560><c> i'm</c><00:09:02.640><c> going</c><00:09:02.800><c> to</c>
+
+00:09:02.870 --> 00:09:02.880 align:start position:0%
+capabilities and basically i'm going to
+ 
+
+00:09:02.880 --> 00:09:04.790 align:start position:0%
+capabilities and basically i'm going to
+do<00:09:03.200><c> my</c>
+
+00:09:04.790 --> 00:09:04.800 align:start position:0%
+do my
+ 
+
+00:09:04.800 --> 00:09:06.829 align:start position:0%
+do my
+own
+
+00:09:06.829 --> 00:09:06.839 align:start position:0%
+own
+ 
+
+00:09:06.839 --> 00:09:10.310 align:start position:0%
+own
+application<00:09:08.240><c> that</c><00:09:08.480><c> is</c><00:09:08.640><c> going</c><00:09:08.720><c> to</c><00:09:08.880><c> communicate</c>
+
+00:09:10.310 --> 00:09:10.320 align:start position:0%
+application that is going to communicate
+ 
+
+00:09:10.320 --> 00:09:13.190 align:start position:0%
+application that is going to communicate
+with<00:09:10.560><c> that</c><00:09:10.800><c> sdk</c><00:09:11.519><c> so</c><00:09:11.680><c> this</c><00:09:11.920><c> is</c><00:09:12.080><c> where</c>
+
+00:09:13.190 --> 00:09:13.200 align:start position:0%
+with that sdk so this is where
+ 
+
+00:09:13.200 --> 00:09:14.790 align:start position:0%
+with that sdk so this is where
+that<00:09:13.519><c> is</c><00:09:13.680><c> the</c><00:09:13.839><c> right</c><00:09:14.000><c> solution</c><00:09:14.399><c> i</c><00:09:14.480><c> just</c><00:09:14.640><c> need</c>
+
+00:09:14.790 --> 00:09:14.800 align:start position:0%
+that is the right solution i just need
+ 
+
+00:09:14.800 --> 00:09:16.790 align:start position:0%
+that is the right solution i just need
+something<00:09:15.040><c> to</c><00:09:15.120><c> provide</c><00:09:15.519><c> that</c><00:09:16.000><c> communication</c>
+
+00:09:16.790 --> 00:09:16.800 align:start position:0%
+something to provide that communication
+ 
+
+00:09:16.800 --> 00:09:19.750 align:start position:0%
+something to provide that communication
+with<00:09:16.880><c> the</c><00:09:17.040><c> device</c><00:09:17.920><c> identifying</c><00:09:18.800><c> it</c><00:09:19.360><c> and</c><00:09:19.519><c> then</c>
+
+00:09:19.750 --> 00:09:19.760 align:start position:0%
+with the device identifying it and then
+ 
+
+00:09:19.760 --> 00:09:21.910 align:start position:0%
+with the device identifying it and then
+give<00:09:20.000><c> me</c><00:09:20.160><c> the</c><00:09:20.360><c> representation</c><00:09:21.519><c> that</c><00:09:21.680><c> i</c><00:09:21.760><c> can</c>
+
+00:09:21.910 --> 00:09:21.920 align:start position:0%
+give me the representation that i can
+ 
+
+00:09:21.920 --> 00:09:24.389 align:start position:0%
+give me the representation that i can
+then<00:09:22.160><c> work</c><00:09:22.399><c> with</c><00:09:22.720><c> via</c><00:09:22.959><c> the</c><00:09:23.279><c> sdk</c><00:09:23.920><c> but</c><00:09:24.080><c> i'm</c><00:09:24.240><c> going</c>
+
+00:09:24.389 --> 00:09:24.399 align:start position:0%
+then work with via the sdk but i'm going
+ 
+
+00:09:24.399 --> 00:09:27.190 align:start position:0%
+then work with via the sdk but i'm going
+to<00:09:24.800><c> write</c><00:09:25.279><c> code</c><00:09:25.920><c> write</c><00:09:26.160><c> my</c><00:09:26.399><c> application</c><00:09:27.040><c> to</c>
+
+00:09:27.190 --> 00:09:27.200 align:start position:0%
+to write code write my application to
+ 
+
+00:09:27.200 --> 00:09:29.509 align:start position:0%
+to write code write my application to
+actually<00:09:27.760><c> do</c><00:09:28.000><c> the</c><00:09:28.160><c> work</c>
+
+00:09:29.509 --> 00:09:29.519 align:start position:0%
+actually do the work
+ 
+
+00:09:29.519 --> 00:09:32.070 align:start position:0%
+actually do the work
+so<00:09:29.680><c> that's</c><00:09:29.920><c> iot</c><00:09:30.399><c> hub</c>
+
+00:09:32.070 --> 00:09:32.080 align:start position:0%
+so that's iot hub
+ 
+
+00:09:32.080 --> 00:09:35.190 align:start position:0%
+so that's iot hub
+the<00:09:32.320><c> next</c><00:09:33.120><c> solution</c><00:09:33.680><c> we</c><00:09:33.920><c> get</c>
+
+00:09:35.190 --> 00:09:35.200 align:start position:0%
+the next solution we get
+ 
+
+00:09:35.200 --> 00:09:36.389 align:start position:0%
+the next solution we get
+is
+
+00:09:36.389 --> 00:09:36.399 align:start position:0%
+is
+ 
+
+00:09:36.399 --> 00:09:38.790 align:start position:0%
+is
+azure<00:09:36.880><c> iot</c><00:09:37.760><c> central</c>
+
+00:09:38.790 --> 00:09:38.800 align:start position:0%
+azure iot central
+ 
+
+00:09:38.800 --> 00:09:40.790 align:start position:0%
+azure iot central
+so<00:09:38.959><c> now</c><00:09:39.120><c> we</c><00:09:39.279><c> have</c><00:09:39.440><c> this</c><00:09:39.680><c> idea</c>
+
+00:09:40.790 --> 00:09:40.800 align:start position:0%
+so now we have this idea
+ 
+
+00:09:40.800 --> 00:09:42.949 align:start position:0%
+so now we have this idea
+of<00:09:41.200><c> iot</c>
+
+00:09:42.949 --> 00:09:42.959 align:start position:0%
+of iot
+ 
+
+00:09:42.959 --> 00:09:45.750 align:start position:0%
+of iot
+central
+
+00:09:45.750 --> 00:09:45.760 align:start position:0%
+ 
+ 
+
+00:09:45.760 --> 00:09:48.949 align:start position:0%
+ 
+now<00:09:46.000><c> i'm</c><00:09:46.240><c> drawing</c><00:09:46.640><c> it</c><00:09:46.959><c> kind</c><00:09:47.120><c> of</c><00:09:47.519><c> on</c><00:09:47.839><c> top</c><00:09:48.080><c> of</c><00:09:48.320><c> iot</c>
+
+00:09:48.949 --> 00:09:48.959 align:start position:0%
+now i'm drawing it kind of on top of iot
+ 
+
+00:09:48.959 --> 00:09:51.590 align:start position:0%
+now i'm drawing it kind of on top of iot
+hub<00:09:49.839><c> because</c>
+
+00:09:51.590 --> 00:09:51.600 align:start position:0%
+hub because
+ 
+
+00:09:51.600 --> 00:09:54.150 align:start position:0%
+hub because
+it<00:09:51.920><c> uses</c>
+
+00:09:54.150 --> 00:09:54.160 align:start position:0%
+it uses
+ 
+
+00:09:54.160 --> 00:09:56.470 align:start position:0%
+it uses
+iot<00:09:54.720><c> hub</c>
+
+00:09:56.470 --> 00:09:56.480 align:start position:0%
+iot hub
+ 
+
+00:09:56.480 --> 00:09:59.190 align:start position:0%
+iot hub
+what<00:09:56.720><c> we're</c><00:09:56.880><c> doing</c><00:09:57.120><c> with</c><00:09:57.440><c> iot</c><00:09:58.080><c> central</c>
+
+00:09:59.190 --> 00:09:59.200 align:start position:0%
+what we're doing with iot central
+ 
+
+00:09:59.200 --> 00:10:01.829 align:start position:0%
+what we're doing with iot central
+is<00:09:59.519><c> if</c><00:09:59.680><c> you</c><00:09:59.760><c> think</c><00:09:59.920><c> of</c><00:10:00.080><c> iot</c><00:10:00.720><c> hub</c><00:10:01.440><c> you</c><00:10:01.600><c> could</c>
+
+00:10:01.829 --> 00:10:01.839 align:start position:0%
+is if you think of iot hub you could
+ 
+
+00:10:01.839 --> 00:10:04.069 align:start position:0%
+is if you think of iot hub you could
+almost<00:10:02.320><c> think</c><00:10:02.720><c> as</c><00:10:02.880><c> it's</c><00:10:03.040><c> kind</c><00:10:03.200><c> of</c><00:10:03.360><c> a</c><00:10:03.440><c> paz</c>
+
+00:10:04.069 --> 00:10:04.079 align:start position:0%
+almost think as it's kind of a paz
+ 
+
+00:10:04.079 --> 00:10:05.590 align:start position:0%
+almost think as it's kind of a paz
+solution
+
+00:10:05.590 --> 00:10:05.600 align:start position:0%
+solution
+ 
+
+00:10:05.600 --> 00:10:08.550 align:start position:0%
+solution
+it's<00:10:05.920><c> giving</c><00:10:06.240><c> me</c><00:10:06.480><c> that</c><00:10:06.880><c> framework</c><00:10:07.519><c> the</c><00:10:07.760><c> sdks</c>
+
+00:10:08.550 --> 00:10:08.560 align:start position:0%
+it's giving me that framework the sdks
+ 
+
+00:10:08.560 --> 00:10:11.110 align:start position:0%
+it's giving me that framework the sdks
+on<00:10:08.720><c> which</c><00:10:09.040><c> i</c><00:10:09.279><c> can</c><00:10:09.440><c> write</c><00:10:09.680><c> an</c><00:10:09.760><c> application</c>
+
+00:10:11.110 --> 00:10:11.120 align:start position:0%
+on which i can write an application
+ 
+
+00:10:11.120 --> 00:10:13.750 align:start position:0%
+on which i can write an application
+to<00:10:11.360><c> work</c><00:10:11.680><c> with</c><00:10:12.000><c> iot</c>
+
+00:10:13.750 --> 00:10:13.760 align:start position:0%
+to work with iot
+ 
+
+00:10:13.760 --> 00:10:16.310 align:start position:0%
+to work with iot
+iot<00:10:14.399><c> central</c><00:10:15.200><c> i</c><00:10:15.279><c> can</c><00:10:15.519><c> actually</c><00:10:15.760><c> think</c><00:10:16.000><c> as</c><00:10:16.160><c> more</c>
+
+00:10:16.310 --> 00:10:16.320 align:start position:0%
+iot central i can actually think as more
+ 
+
+00:10:16.320 --> 00:10:18.550 align:start position:0%
+iot central i can actually think as more
+of<00:10:16.480><c> a</c><00:10:17.040><c> sas</c><00:10:17.360><c> solution</c>
+
+00:10:18.550 --> 00:10:18.560 align:start position:0%
+of a sas solution
+ 
+
+00:10:18.560 --> 00:10:21.990 align:start position:0%
+of a sas solution
+it<00:10:18.880><c> provides</c><00:10:19.839><c> a</c><00:10:20.079><c> complete</c><00:10:20.800><c> solution</c><00:10:21.519><c> because</c>
+
+00:10:21.990 --> 00:10:22.000 align:start position:0%
+it provides a complete solution because
+ 
+
+00:10:22.000 --> 00:10:25.509 align:start position:0%
+it provides a complete solution because
+it's<00:10:22.320><c> adding</c><00:10:22.800><c> functionality</c><00:10:23.760><c> on</c><00:10:24.000><c> top</c><00:10:24.640><c> of</c><00:10:24.880><c> iot</c>
+
+00:10:25.509 --> 00:10:25.519 align:start position:0%
+it's adding functionality on top of iot
+ 
+
+00:10:25.519 --> 00:10:26.470 align:start position:0%
+it's adding functionality on top of iot
+hub
+
+00:10:26.470 --> 00:10:26.480 align:start position:0%
+hub
+ 
+
+00:10:26.480 --> 00:10:28.790 align:start position:0%
+hub
+so<00:10:26.640><c> what</c><00:10:26.800><c> it</c><00:10:27.040><c> gives</c><00:10:27.360><c> me</c><00:10:28.000><c> is</c><00:10:28.160><c> things</c><00:10:28.399><c> like</c>
+
+00:10:28.790 --> 00:10:28.800 align:start position:0%
+so what it gives me is things like
+ 
+
+00:10:28.800 --> 00:10:33.190 align:start position:0%
+so what it gives me is things like
+dashboards
+
+00:10:33.190 --> 00:10:33.200 align:start position:0%
+ 
+ 
+
+00:10:33.200 --> 00:10:34.470 align:start position:0%
+ 
+out<00:10:33.360><c> of</c><00:10:33.519><c> the</c><00:10:33.600><c> box</c>
+
+00:10:34.470 --> 00:10:34.480 align:start position:0%
+out of the box
+ 
+
+00:10:34.480 --> 00:10:38.230 align:start position:0%
+out of the box
+it<00:10:34.720><c> has</c><00:10:35.200><c> different</c><00:10:35.680><c> starter</c><00:10:36.480><c> applications</c>
+
+00:10:38.230 --> 00:10:38.240 align:start position:0%
+it has different starter applications
+ 
+
+00:10:38.240 --> 00:10:40.310 align:start position:0%
+it has different starter applications
+so<00:10:38.399><c> we</c><00:10:38.480><c> do</c><00:10:38.720><c> apps</c><00:10:39.040><c> as</c><00:10:39.200><c> well</c>
+
+00:10:40.310 --> 00:10:40.320 align:start position:0%
+so we do apps as well
+ 
+
+00:10:40.320 --> 00:10:42.710 align:start position:0%
+so we do apps as well
+based<00:10:40.720><c> on</c><00:10:41.200><c> many</c><00:10:41.519><c> different</c><00:10:42.079><c> industry</c>
+
+00:10:42.710 --> 00:10:42.720 align:start position:0%
+based on many different industry
+ 
+
+00:10:42.720 --> 00:10:44.389 align:start position:0%
+based on many different industry
+scenarios
+
+00:10:44.389 --> 00:10:44.399 align:start position:0%
+scenarios
+ 
+
+00:10:44.399 --> 00:10:48.949 align:start position:0%
+scenarios
+it<00:10:44.720><c> has</c><00:10:45.120><c> device</c><00:10:45.839><c> templates</c>
+
+00:10:48.949 --> 00:10:48.959 align:start position:0%
+ 
+ 
+
+00:10:48.959 --> 00:10:52.150 align:start position:0%
+ 
+for<00:10:49.200><c> many</c><00:10:49.519><c> types</c><00:10:49.920><c> of</c><00:10:50.000><c> device</c><00:10:50.720><c> based</c><00:10:51.200><c> on</c>
+
+00:10:52.150 --> 00:10:52.160 align:start position:0%
+for many types of device based on
+ 
+
+00:10:52.160 --> 00:10:54.069 align:start position:0%
+for many types of device based on
+those<00:10:52.560><c> types</c><00:10:52.880><c> of</c><00:10:53.040><c> industry</c><00:10:53.519><c> and</c><00:10:53.600><c> the</c><00:10:53.680><c> device</c>
+
+00:10:54.069 --> 00:10:54.079 align:start position:0%
+those types of industry and the device
+ 
+
+00:10:54.079 --> 00:10:55.910 align:start position:0%
+those types of industry and the device
+template<00:10:54.880><c> would</c><00:10:55.040><c> have</c><00:10:55.200><c> the</c><00:10:55.360><c> various</c>
+
+00:10:55.910 --> 00:10:55.920 align:start position:0%
+template would have the various
+ 
+
+00:10:55.920 --> 00:10:58.230 align:start position:0%
+template would have the various
+attributes<00:10:56.880><c> or</c><00:10:57.040><c> things</c><00:10:57.200><c> like</c><00:10:57.360><c> the</c><00:10:57.519><c> metrics</c><00:10:58.160><c> i</c>
+
+00:10:58.230 --> 00:10:58.240 align:start position:0%
+attributes or things like the metrics i
+ 
+
+00:10:58.240 --> 00:11:01.350 align:start position:0%
+attributes or things like the metrics i
+would<00:10:58.480><c> expect</c><00:10:58.959><c> to</c><00:10:59.519><c> actually</c><00:11:00.079><c> receive</c>
+
+00:11:01.350 --> 00:11:01.360 align:start position:0%
+would expect to actually receive
+ 
+
+00:11:01.360 --> 00:11:05.030 align:start position:0%
+would expect to actually receive
+so<00:11:01.600><c> it</c><00:11:01.760><c> really</c><00:11:02.399><c> addresses</c><00:11:03.040><c> those</c><00:11:03.519><c> common</c>
+
+00:11:05.030 --> 00:11:05.040 align:start position:0%
+so it really addresses those common
+ 
+
+00:11:05.040 --> 00:11:08.389 align:start position:0%
+so it really addresses those common
+industry
+
+00:11:08.389 --> 00:11:08.399 align:start position:0%
+ 
+ 
+
+00:11:08.399 --> 00:11:12.470 align:start position:0%
+ 
+scenarios
+
+00:11:12.470 --> 00:11:12.480 align:start position:0%
+ 
+ 
+
+00:11:12.480 --> 00:11:14.790 align:start position:0%
+ 
+and<00:11:12.640><c> it</c><00:11:12.720><c> helps</c><00:11:12.959><c> me</c><00:11:13.200><c> get</c><00:11:13.519><c> up</c><00:11:13.760><c> and</c><00:11:14.000><c> running</c><00:11:14.480><c> very</c>
+
+00:11:14.790 --> 00:11:14.800 align:start position:0%
+and it helps me get up and running very
+ 
+
+00:11:14.800 --> 00:11:17.990 align:start position:0%
+and it helps me get up and running very
+very<00:11:15.040><c> quickly</c><00:11:15.600><c> now</c><00:11:15.920><c> all</c><00:11:16.079><c> of</c><00:11:16.240><c> these</c><00:11:16.640><c> things</c>
+
+00:11:17.990 --> 00:11:18.000 align:start position:0%
+very quickly now all of these things
+ 
+
+00:11:18.000 --> 00:11:22.470 align:start position:0%
+very quickly now all of these things
+i<00:11:18.079><c> can</c><00:11:18.320><c> still</c><00:11:18.560><c> customize</c>
+
+00:11:22.470 --> 00:11:22.480 align:start position:0%
+ 
+ 
+
+00:11:22.480 --> 00:11:25.269 align:start position:0%
+ 
+so<00:11:22.720><c> it's</c><00:11:22.800><c> given</c><00:11:23.040><c> me</c><00:11:23.360><c> a</c><00:11:23.519><c> place</c><00:11:24.000><c> to</c><00:11:24.240><c> start</c>
+
+00:11:25.269 --> 00:11:25.279 align:start position:0%
+so it's given me a place to start
+ 
+
+00:11:25.279 --> 00:11:28.949 align:start position:0%
+so it's given me a place to start
+but<00:11:25.519><c> i</c><00:11:25.680><c> can</c><00:11:26.079><c> change</c><00:11:26.560><c> it</c><00:11:26.880><c> as</c><00:11:27.360><c> i</c><00:11:27.600><c> need</c><00:11:27.920><c> to</c>
+
+00:11:28.949 --> 00:11:28.959 align:start position:0%
+but i can change it as i need to
+ 
+
+00:11:28.959 --> 00:11:30.470 align:start position:0%
+but i can change it as i need to
+and<00:11:29.120><c> when</c><00:11:29.279><c> i</c><00:11:29.360><c> think</c><00:11:29.519><c> about</c><00:11:29.760><c> these</c><00:11:29.920><c> device</c>
+
+00:11:30.470 --> 00:11:30.480 align:start position:0%
+and when i think about these device
+ 
+
+00:11:30.480 --> 00:11:32.069 align:start position:0%
+and when i think about these device
+templates<00:11:30.959><c> a</c><00:11:31.040><c> really</c><00:11:31.360><c> nice</c><00:11:31.680><c> thing</c><00:11:31.839><c> it</c>
+
+00:11:32.069 --> 00:11:32.079 align:start position:0%
+templates a really nice thing it
+ 
+
+00:11:32.079 --> 00:11:34.310 align:start position:0%
+templates a really nice thing it
+actually<00:11:32.320><c> gives</c><00:11:32.640><c> me</c><00:11:32.800><c> as</c><00:11:32.959><c> well</c>
+
+00:11:34.310 --> 00:11:34.320 align:start position:0%
+actually gives me as well
+ 
+
+00:11:34.320 --> 00:11:39.829 align:start position:0%
+actually gives me as well
+is<00:11:34.800><c> simulated</c><00:11:35.920><c> devices</c>
+
+00:11:39.829 --> 00:11:39.839 align:start position:0%
+ 
+ 
+
+00:11:39.839 --> 00:11:42.630 align:start position:0%
+ 
+so<00:11:40.079><c> maybe</c><00:11:40.399><c> i</c><00:11:40.480><c> don't</c><00:11:40.959><c> have</c><00:11:41.519><c> a</c><00:11:41.600><c> device</c><00:11:42.240><c> actually</c>
+
+00:11:42.630 --> 00:11:42.640 align:start position:0%
+so maybe i don't have a device actually
+ 
+
+00:11:42.640 --> 00:11:45.110 align:start position:0%
+so maybe i don't have a device actually
+connected<00:11:43.360><c> yet</c><00:11:44.000><c> but</c><00:11:44.160><c> it</c><00:11:44.240><c> will</c><00:11:44.480><c> simulate</c><00:11:45.040><c> the</c>
+
+00:11:45.110 --> 00:11:45.120 align:start position:0%
+connected yet but it will simulate the
+ 
+
+00:11:45.120 --> 00:11:47.829 align:start position:0%
+connected yet but it will simulate the
+devices<00:11:45.760><c> that</c><00:11:45.920><c> i</c><00:11:46.079><c> enable</c><00:11:46.560><c> for</c><00:11:46.720><c> my</c><00:11:46.880><c> application</c>
+
+00:11:47.829 --> 00:11:47.839 align:start position:0%
+devices that i enable for my application
+ 
+
+00:11:47.839 --> 00:11:50.389 align:start position:0%
+devices that i enable for my application
+so<00:11:48.079><c> i</c><00:11:48.160><c> can</c><00:11:48.320><c> start</c><00:11:48.720><c> testing</c><00:11:49.120><c> the</c><00:11:49.440><c> things</c><00:11:49.920><c> that</c><00:11:50.079><c> i</c>
+
+00:11:50.389 --> 00:11:50.399 align:start position:0%
+so i can start testing the things that i
+ 
+
+00:11:50.399 --> 00:11:52.230 align:start position:0%
+so i can start testing the things that i
+actually<00:11:50.880><c> do</c>
+
+00:11:52.230 --> 00:11:52.240 align:start position:0%
+actually do
+ 
+
+00:11:52.240 --> 00:11:56.629 align:start position:0%
+actually do
+i<00:11:52.399><c> can</c><00:11:52.560><c> do</c><00:11:52.720><c> things</c><00:11:52.959><c> like</c><00:11:53.279><c> add</c><00:11:53.600><c> rules</c>
+
+00:11:56.629 --> 00:11:56.639 align:start position:0%
+ 
+ 
+
+00:11:56.639 --> 00:11:59.350 align:start position:0%
+ 
+via<00:11:57.279><c> a</c><00:11:57.600><c> wizard</c><00:11:58.079><c> so</c><00:11:58.240><c> it's</c><00:11:58.399><c> kind</c><00:11:58.480><c> of</c><00:11:58.639><c> a</c><00:11:58.720><c> graphical</c>
+
+00:11:59.350 --> 00:11:59.360 align:start position:0%
+via a wizard so it's kind of a graphical
+ 
+
+00:11:59.360 --> 00:12:00.949 align:start position:0%
+via a wizard so it's kind of a graphical
+experience
+
+00:12:00.949 --> 00:12:00.959 align:start position:0%
+experience
+ 
+
+00:12:00.959 --> 00:12:02.870 align:start position:0%
+experience
+and<00:12:01.120><c> i</c><00:12:01.200><c> could</c><00:12:01.360><c> create</c><00:12:01.600><c> a</c><00:12:01.680><c> rule</c><00:12:01.920><c> based</c><00:12:02.320><c> on</c><00:12:02.480><c> some</c>
+
+00:12:02.870 --> 00:12:02.880 align:start position:0%
+and i could create a rule based on some
+ 
+
+00:12:02.880 --> 00:12:06.550 align:start position:0%
+and i could create a rule based on some
+telemetry<00:12:03.920><c> some</c><00:12:04.240><c> signal</c><00:12:04.720><c> from</c><00:12:05.040><c> the</c><00:12:05.200><c> device</c><00:12:06.320><c> is</c>
+
+00:12:06.550 --> 00:12:06.560 align:start position:0%
+telemetry some signal from the device is
+ 
+
+00:12:06.560 --> 00:12:08.870 align:start position:0%
+telemetry some signal from the device is
+over<00:12:06.880><c> a</c><00:12:06.959><c> certain</c><00:12:07.360><c> value</c><00:12:08.320><c> and</c><00:12:08.399><c> then</c><00:12:08.560><c> go</c><00:12:08.720><c> and</c>
+
+00:12:08.870 --> 00:12:08.880 align:start position:0%
+over a certain value and then go and
+ 
+
+00:12:08.880 --> 00:12:12.230 align:start position:0%
+over a certain value and then go and
+perform<00:12:09.680><c> these</c><00:12:10.000><c> various</c><00:12:10.639><c> actions</c><00:12:11.519><c> so</c><00:12:11.760><c> i</c><00:12:11.920><c> can</c>
+
+00:12:12.230 --> 00:12:12.240 align:start position:0%
+perform these various actions so i can
+ 
+
+00:12:12.240 --> 00:12:13.110 align:start position:0%
+perform these various actions so i can
+think
+
+00:12:13.110 --> 00:12:13.120 align:start position:0%
+think
+ 
+
+00:12:13.120 --> 00:12:17.110 align:start position:0%
+think
+signal
+
+00:12:17.110 --> 00:12:17.120 align:start position:0%
+ 
+ 
+
+00:12:17.120 --> 00:12:21.030 align:start position:0%
+ 
+condition
+
+00:12:21.030 --> 00:12:21.040 align:start position:0%
+ 
+ 
+
+00:12:21.040 --> 00:12:22.230 align:start position:0%
+ 
+action
+
+00:12:22.230 --> 00:12:22.240 align:start position:0%
+action
+ 
+
+00:12:22.240 --> 00:12:24.629 align:start position:0%
+action
+and<00:12:22.399><c> those</c><00:12:22.720><c> actions</c><00:12:23.279><c> are</c><00:12:23.519><c> vast</c>
+
+00:12:24.629 --> 00:12:24.639 align:start position:0%
+and those actions are vast
+ 
+
+00:12:24.639 --> 00:12:26.629 align:start position:0%
+and those actions are vast
+i<00:12:24.880><c> could</c><00:12:25.200><c> think</c><00:12:25.440><c> well</c><00:12:25.680><c> that</c><00:12:25.920><c> could</c><00:12:26.079><c> be</c><00:12:26.320><c> hey</c>
+
+00:12:26.629 --> 00:12:26.639 align:start position:0%
+i could think well that could be hey
+ 
+
+00:12:26.639 --> 00:12:28.710 align:start position:0%
+i could think well that could be hey
+send<00:12:26.880><c> an</c><00:12:27.120><c> email</c>
+
+00:12:28.710 --> 00:12:28.720 align:start position:0%
+send an email
+ 
+
+00:12:28.720 --> 00:12:31.190 align:start position:0%
+send an email
+it<00:12:28.959><c> could</c><00:12:29.120><c> be</c><00:12:29.360><c> send</c><00:12:29.680><c> an</c><00:12:29.920><c> sms</c>
+
+00:12:31.190 --> 00:12:31.200 align:start position:0%
+it could be send an sms
+ 
+
+00:12:31.200 --> 00:12:33.670 align:start position:0%
+it could be send an sms
+it<00:12:31.440><c> might</c><00:12:31.680><c> be</c><00:12:32.000><c> called</c><00:12:32.480><c> a</c><00:12:32.720><c> web</c><00:12:33.040><c> hook</c><00:12:33.360><c> which</c><00:12:33.600><c> is</c>
+
+00:12:33.670 --> 00:12:33.680 align:start position:0%
+it might be called a web hook which is
+ 
+
+00:12:33.680 --> 00:12:36.710 align:start position:0%
+it might be called a web hook which is
+just<00:12:33.920><c> some</c><00:12:34.560><c> restful</c><00:12:35.360><c> endpoint</c>
+
+00:12:36.710 --> 00:12:36.720 align:start position:0%
+just some restful endpoint
+ 
+
+00:12:36.720 --> 00:12:40.150 align:start position:0%
+just some restful endpoint
+i<00:12:36.880><c> can</c><00:12:37.040><c> call</c><00:12:37.279><c> things</c><00:12:37.519><c> like</c><00:12:37.839><c> azure</c><00:12:38.240><c> functions</c>
+
+00:12:40.150 --> 00:12:40.160 align:start position:0%
+i can call things like azure functions
+ 
+
+00:12:40.160 --> 00:12:42.949 align:start position:0%
+i can call things like azure functions
+i<00:12:40.240><c> could</c><00:12:40.399><c> call</c><00:12:40.639><c> things</c><00:12:40.880><c> like</c><00:12:41.120><c> a</c><00:12:41.279><c> logic</c><00:12:41.760><c> app</c>
+
+00:12:42.949 --> 00:12:42.959 align:start position:0%
+i could call things like a logic app
+ 
+
+00:12:42.959 --> 00:12:45.350 align:start position:0%
+i could call things like a logic app
+remember<00:12:43.200><c> those</c><00:12:43.600><c> serverless</c><00:12:44.240><c> solutions</c><00:12:45.279><c> and</c>
+
+00:12:45.350 --> 00:12:45.360 align:start position:0%
+remember those serverless solutions and
+ 
+
+00:12:45.360 --> 00:12:47.430 align:start position:0%
+remember those serverless solutions and
+there's<00:12:45.600><c> more</c><00:12:45.839><c> i</c><00:12:45.920><c> can</c><00:12:46.079><c> hook</c><00:12:46.240><c> into</c><00:12:46.480><c> my</c><00:12:46.639><c> itsm</c>
+
+00:12:47.430 --> 00:12:47.440 align:start position:0%
+there's more i can hook into my itsm
+ 
+
+00:12:47.440 --> 00:12:48.470 align:start position:0%
+there's more i can hook into my itsm
+system
+
+00:12:48.470 --> 00:12:48.480 align:start position:0%
+system
+ 
+
+00:12:48.480 --> 00:12:50.870 align:start position:0%
+system
+my<00:12:48.959><c> ticketing</c><00:12:49.519><c> system</c><00:12:50.320><c> so</c><00:12:50.480><c> if</c><00:12:50.639><c> you</c><00:12:50.720><c> think</c>
+
+00:12:50.870 --> 00:12:50.880 align:start position:0%
+my ticketing system so if you think
+ 
+
+00:12:50.880 --> 00:12:53.430 align:start position:0%
+my ticketing system so if you think
+about<00:12:51.279><c> that</c><00:12:52.000><c> i</c><00:12:52.160><c> could</c><00:12:52.399><c> graphically</c><00:12:52.959><c> create</c><00:12:53.279><c> a</c>
+
+00:12:53.430 --> 00:12:53.440 align:start position:0%
+about that i could graphically create a
+ 
+
+00:12:53.440 --> 00:12:55.829 align:start position:0%
+about that i could graphically create a
+rule<00:12:54.240><c> that's</c><00:12:54.480><c> maybe</c><00:12:54.880><c> hey</c><00:12:55.120><c> if</c><00:12:55.279><c> i</c><00:12:55.440><c> get</c><00:12:55.600><c> this</c>
+
+00:12:55.829 --> 00:12:55.839 align:start position:0%
+rule that's maybe hey if i get this
+ 
+
+00:12:55.839 --> 00:12:57.509 align:start position:0%
+rule that's maybe hey if i get this
+signal<00:12:56.079><c> maybe</c><00:12:56.320><c> it's</c><00:12:56.480><c> temperature</c>
+
+00:12:57.509 --> 00:12:57.519 align:start position:0%
+signal maybe it's temperature
+ 
+
+00:12:57.519 --> 00:12:59.590 align:start position:0%
+signal maybe it's temperature
+and<00:12:57.680><c> it's</c><00:12:58.040><c> refrigerators</c>
+
+00:12:59.590 --> 00:12:59.600 align:start position:0%
+and it's refrigerators
+ 
+
+00:12:59.600 --> 00:13:01.670 align:start position:0%
+and it's refrigerators
+if<00:13:00.079><c> the</c><00:13:00.240><c> refrigerator</c><00:13:01.040><c> temperature</c><00:13:01.440><c> goes</c>
+
+00:13:01.670 --> 00:13:01.680 align:start position:0%
+if the refrigerator temperature goes
+ 
+
+00:13:01.680 --> 00:13:03.990 align:start position:0%
+if the refrigerator temperature goes
+above<00:13:02.000><c> a</c><00:13:02.160><c> certain</c><00:13:02.560><c> value</c><00:13:03.120><c> i</c><00:13:03.360><c> am</c><00:13:03.519><c> now</c>
+
+00:13:03.990 --> 00:13:04.000 align:start position:0%
+above a certain value i am now
+ 
+
+00:13:04.000 --> 00:13:05.509 align:start position:0%
+above a certain value i am now
+compromising<00:13:04.880><c> what's</c><00:13:05.200><c> in</c><00:13:05.360><c> that</c>
+
+00:13:05.509 --> 00:13:05.519 align:start position:0%
+compromising what's in that
+ 
+
+00:13:05.519 --> 00:13:07.110 align:start position:0%
+compromising what's in that
+refrigeration
+
+00:13:07.110 --> 00:13:07.120 align:start position:0%
+refrigeration
+ 
+
+00:13:07.120 --> 00:13:08.949 align:start position:0%
+refrigeration
+it<00:13:07.360><c> could</c>
+
+00:13:08.949 --> 00:13:08.959 align:start position:0%
+it could
+ 
+
+00:13:08.959 --> 00:13:10.550 align:start position:0%
+it could
+trigger
+
+00:13:10.550 --> 00:13:10.560 align:start position:0%
+trigger
+ 
+
+00:13:10.560 --> 00:13:12.629 align:start position:0%
+trigger
+creating<00:13:10.959><c> a</c><00:13:11.040><c> ticket</c><00:13:11.360><c> in</c><00:13:11.519><c> my</c><00:13:11.680><c> itsm</c><00:13:12.399><c> so</c><00:13:12.480><c> then</c>
+
+00:13:12.629 --> 00:13:12.639 align:start position:0%
+creating a ticket in my itsm so then
+ 
+
+00:13:12.639 --> 00:13:16.389 align:start position:0%
+creating a ticket in my itsm so then
+someone<00:13:13.040><c> actually</c><00:13:13.440><c> goes</c><00:13:14.000><c> and</c><00:13:14.160><c> looks</c><00:13:14.480><c> at</c><00:13:14.639><c> that</c>
+
+00:13:16.389 --> 00:13:16.399 align:start position:0%
+someone actually goes and looks at that
+ 
+
+00:13:16.399 --> 00:13:18.230 align:start position:0%
+someone actually goes and looks at that
+and<00:13:16.720><c> you</c><00:13:16.880><c> can</c><00:13:17.279><c> see</c><00:13:17.519><c> so</c><00:13:17.760><c> it's</c><00:13:17.839><c> actually</c><00:13:18.079><c> got</c>
+
+00:13:18.230 --> 00:13:18.240 align:start position:0%
+and you can see so it's actually got
+ 
+
+00:13:18.240 --> 00:13:20.230 align:start position:0%
+and you can see so it's actually got
+some<00:13:18.480><c> nice</c><00:13:18.720><c> little</c><00:13:18.959><c> demos</c><00:13:19.440><c> if</c><00:13:19.519><c> we</c><00:13:19.680><c> jump</c><00:13:20.000><c> over</c>
+
+00:13:20.230 --> 00:13:20.240 align:start position:0%
+some nice little demos if we jump over
+ 
+
+00:13:20.240 --> 00:13:22.150 align:start position:0%
+some nice little demos if we jump over
+for<00:13:20.399><c> a</c><00:13:20.560><c> second</c>
+
+00:13:22.150 --> 00:13:22.160 align:start position:0%
+for a second
+ 
+
+00:13:22.160 --> 00:13:24.310 align:start position:0%
+for a second
+this<00:13:22.399><c> is</c><00:13:22.639><c> iot</c><00:13:23.200><c> central</c>
+
+00:13:24.310 --> 00:13:24.320 align:start position:0%
+this is iot central
+ 
+
+00:13:24.320 --> 00:13:26.069 align:start position:0%
+this is iot central
+and<00:13:24.480><c> you'll</c><00:13:24.720><c> actually</c><00:13:25.120><c> notice</c><00:13:25.839><c> i</c><00:13:25.920><c> mean</c>
+
+00:13:26.069 --> 00:13:26.079 align:start position:0%
+and you'll actually notice i mean
+ 
+
+00:13:26.079 --> 00:13:27.350 align:start position:0%
+and you'll actually notice i mean
+there's<00:13:26.240><c> great</c><00:13:26.399><c> videos</c><00:13:26.720><c> i</c><00:13:26.880><c> recommend</c><00:13:27.120><c> you</c><00:13:27.200><c> go</c>
+
+00:13:27.350 --> 00:13:27.360 align:start position:0%
+there's great videos i recommend you go
+ 
+
+00:13:27.360 --> 00:13:28.710 align:start position:0%
+there's great videos i recommend you go
+and<00:13:27.440><c> watch</c><00:13:27.680><c> this</c><00:13:27.839><c> but</c><00:13:28.000><c> here's</c><00:13:28.320><c> the</c><00:13:28.399><c> whole</c>
+
+00:13:28.710 --> 00:13:28.720 align:start position:0%
+and watch this but here's the whole
+ 
+
+00:13:28.720 --> 00:13:29.910 align:start position:0%
+and watch this but here's the whole
+point
+
+00:13:29.910 --> 00:13:29.920 align:start position:0%
+point
+ 
+
+00:13:29.920 --> 00:13:32.310 align:start position:0%
+point
+it<00:13:30.160><c> has</c><00:13:30.399><c> this</c><00:13:30.639><c> idea</c><00:13:30.880><c> of</c><00:13:30.959><c> the</c><00:13:31.120><c> iot</c><00:13:31.519><c> devices</c>
+
+00:13:32.310 --> 00:13:32.320 align:start position:0%
+it has this idea of the iot devices
+ 
+
+00:13:32.320 --> 00:13:35.670 align:start position:0%
+it has this idea of the iot devices
+gateway<00:13:32.880><c> devices</c><00:13:33.680><c> iot</c><00:13:34.160><c> edge</c><00:13:34.480><c> devices</c>
+
+00:13:35.670 --> 00:13:35.680 align:start position:0%
+gateway devices iot edge devices
+ 
+
+00:13:35.680 --> 00:13:37.590 align:start position:0%
+gateway devices iot edge devices
+into<00:13:36.000><c> iot</c><00:13:36.560><c> central</c>
+
+00:13:37.590 --> 00:13:37.600 align:start position:0%
+into iot central
+ 
+
+00:13:37.600 --> 00:13:40.389 align:start position:0%
+into iot central
+that<00:13:37.760><c> then</c><00:13:37.920><c> can</c><00:13:38.160><c> hook</c><00:13:38.560><c> into</c><00:13:39.199><c> many</c><00:13:39.839><c> other</c>
+
+00:13:40.389 --> 00:13:40.399 align:start position:0%
+that then can hook into many other
+ 
+
+00:13:40.399 --> 00:13:41.990 align:start position:0%
+that then can hook into many other
+things
+
+00:13:41.990 --> 00:13:42.000 align:start position:0%
+things
+ 
+
+00:13:42.000 --> 00:13:43.030 align:start position:0%
+things
+to<00:13:42.240><c> then</c>
+
+00:13:43.030 --> 00:13:43.040 align:start position:0%
+to then
+ 
+
+00:13:43.040 --> 00:13:45.509 align:start position:0%
+to then
+help<00:13:43.279><c> me</c><00:13:43.519><c> see</c><00:13:43.680><c> and</c><00:13:43.839><c> visualize</c><00:13:44.320><c> the</c><00:13:44.399><c> data</c>
+
+00:13:45.509 --> 00:13:45.519 align:start position:0%
+help me see and visualize the data
+ 
+
+00:13:45.519 --> 00:13:47.269 align:start position:0%
+help me see and visualize the data
+but<00:13:45.680><c> notice</c><00:13:46.079><c> all</c><00:13:46.320><c> of</c><00:13:46.399><c> these</c><00:13:46.800><c> industry</c>
+
+00:13:47.269 --> 00:13:47.279 align:start position:0%
+but notice all of these industry
+ 
+
+00:13:47.279 --> 00:13:49.670 align:start position:0%
+but notice all of these industry
+standards<00:13:47.760><c> retail</c><00:13:48.480><c> energy</c><00:13:49.040><c> government</c>
+
+00:13:49.670 --> 00:13:49.680 align:start position:0%
+standards retail energy government
+ 
+
+00:13:49.680 --> 00:13:51.750 align:start position:0%
+standards retail energy government
+health<00:13:50.000><c> care</c>
+
+00:13:51.750 --> 00:13:51.760 align:start position:0%
+health care
+ 
+
+00:13:51.760 --> 00:13:53.590 align:start position:0%
+health care
+i<00:13:51.920><c> could</c><00:13:52.079><c> pick</c><00:13:52.240><c> one</c><00:13:52.399><c> of</c><00:13:52.480><c> these</c><00:13:53.120><c> hey</c><00:13:53.279><c> i'll</c><00:13:53.440><c> get</c>
+
+00:13:53.590 --> 00:13:53.600 align:start position:0%
+i could pick one of these hey i'll get
+ 
+
+00:13:53.600 --> 00:13:55.189 align:start position:0%
+i could pick one of these hey i'll get
+started<00:13:53.920><c> in</c><00:13:54.000><c> retail</c>
+
+00:13:55.189 --> 00:13:55.199 align:start position:0%
+started in retail
+ 
+
+00:13:55.199 --> 00:13:57.750 align:start position:0%
+started in retail
+well<00:13:55.360><c> that's</c><00:13:55.680><c> showing</c><00:13:56.079><c> me</c><00:13:56.639><c> some</c><00:13:56.880><c> of</c><00:13:56.959><c> the</c><00:13:57.199><c> very</c>
+
+00:13:57.750 --> 00:13:57.760 align:start position:0%
+well that's showing me some of the very
+ 
+
+00:13:57.760 --> 00:14:00.629 align:start position:0%
+well that's showing me some of the very
+common<00:13:58.240><c> types</c><00:13:58.480><c> of</c><00:13:58.639><c> applications</c><00:13:59.360><c> i</c><00:13:59.519><c> may</c><00:13:59.839><c> have</c>
+
+00:14:00.629 --> 00:14:00.639 align:start position:0%
+common types of applications i may have
+ 
+
+00:14:00.639 --> 00:14:02.069 align:start position:0%
+common types of applications i may have
+and<00:14:00.800><c> it</c><00:14:00.880><c> can</c><00:14:01.040><c> then</c><00:14:01.120><c> go</c><00:14:01.279><c> and</c><00:14:01.440><c> create</c><00:14:01.760><c> that</c>
+
+00:14:02.069 --> 00:14:02.079 align:start position:0%
+and it can then go and create that
+ 
+
+00:14:02.079 --> 00:14:04.389 align:start position:0%
+and it can then go and create that
+application<00:14:02.720><c> for</c><00:14:02.880><c> me</c><00:14:03.040><c> with</c><00:14:03.279><c> the</c>
+
+00:14:04.389 --> 00:14:04.399 align:start position:0%
+application for me with the
+ 
+
+00:14:04.399 --> 00:14:06.790 align:start position:0%
+application for me with the
+dashboards<00:14:05.040><c> with</c><00:14:05.199><c> the</c><00:14:05.360><c> devices</c><00:14:06.160><c> and</c><00:14:06.320><c> it's</c><00:14:06.560><c> all</c>
+
+00:14:06.790 --> 00:14:06.800 align:start position:0%
+dashboards with the devices and it's all
+ 
+
+00:14:06.800 --> 00:14:08.790 align:start position:0%
+dashboards with the devices and it's all
+this<00:14:07.199><c> gui</c><00:14:07.920><c> based</c>
+
+00:14:08.790 --> 00:14:08.800 align:start position:0%
+this gui based
+ 
+
+00:14:08.800 --> 00:14:10.310 align:start position:0%
+this gui based
+if<00:14:08.959><c> i</c><00:14:09.040><c> actually</c><00:14:09.199><c> go</c><00:14:09.360><c> and</c><00:14:09.440><c> look</c><00:14:09.600><c> at</c><00:14:09.680><c> the</c><00:14:09.839><c> iot</c>
+
+00:14:10.310 --> 00:14:10.320 align:start position:0%
+if i actually go and look at the iot
+ 
+
+00:14:10.320 --> 00:14:12.150 align:start position:0%
+if i actually go and look at the iot
+central<00:14:10.639><c> demo</c><00:14:10.959><c> it</c><00:14:11.120><c> has</c><00:14:11.279><c> that</c><00:14:11.440><c> idea</c><00:14:11.680><c> of</c><00:14:11.839><c> hey</c><00:14:12.000><c> the</c>
+
+00:14:12.150 --> 00:14:12.160 align:start position:0%
+central demo it has that idea of hey the
+ 
+
+00:14:12.160 --> 00:14:13.590 align:start position:0%
+central demo it has that idea of hey the
+jump<00:14:12.399><c> start</c>
+
+00:14:13.590 --> 00:14:13.600 align:start position:0%
+jump start
+ 
+
+00:14:13.600 --> 00:14:15.110 align:start position:0%
+jump start
+then<00:14:13.839><c> it</c><00:14:13.920><c> has</c><00:14:14.160><c> hey</c><00:14:14.399><c> all</c><00:14:14.560><c> these</c><00:14:14.720><c> different</c>
+
+00:14:15.110 --> 00:14:15.120 align:start position:0%
+then it has hey all these different
+ 
+
+00:14:15.120 --> 00:14:17.509 align:start position:0%
+then it has hey all these different
+types<00:14:15.440><c> of</c><00:14:15.519><c> devices</c><00:14:16.480><c> that</c><00:14:16.800><c> i</c><00:14:16.959><c> can</c><00:14:17.120><c> say</c><00:14:17.360><c> to</c>
+
+00:14:17.509 --> 00:14:17.519 align:start position:0%
+types of devices that i can say to
+ 
+
+00:14:17.519 --> 00:14:20.550 align:start position:0%
+types of devices that i can say to
+connect<00:14:17.920><c> to</c><00:14:18.079><c> it</c><00:14:18.240><c> and</c><00:14:18.399><c> again</c><00:14:19.120><c> it</c><00:14:19.360><c> can</c><00:14:19.920><c> simulate</c>
+
+00:14:20.550 --> 00:14:20.560 align:start position:0%
+connect to it and again it can simulate
+ 
+
+00:14:20.560 --> 00:14:23.189 align:start position:0%
+connect to it and again it can simulate
+those<00:14:20.880><c> for</c><00:14:21.040><c> my</c><00:14:21.279><c> testing</c>
+
+00:14:23.189 --> 00:14:23.199 align:start position:0%
+those for my testing
+ 
+
+00:14:23.199 --> 00:14:25.509 align:start position:0%
+those for my testing
+it<00:14:23.360><c> then</c><00:14:23.600><c> has</c><00:14:23.760><c> this</c><00:14:23.920><c> nice</c><00:14:24.320><c> management</c><00:14:24.959><c> set</c><00:14:25.279><c> of</c>
+
+00:14:25.509 --> 00:14:25.519 align:start position:0%
+it then has this nice management set of
+ 
+
+00:14:25.519 --> 00:14:28.310 align:start position:0%
+it then has this nice management set of
+dashboards<00:14:26.079><c> and</c><00:14:26.240><c> it</c><00:14:26.320><c> has</c><00:14:26.639><c> roles</c><00:14:27.440><c> so</c><00:14:27.680><c> depending</c>
+
+00:14:28.310 --> 00:14:28.320 align:start position:0%
+dashboards and it has roles so depending
+ 
+
+00:14:28.320 --> 00:14:31.269 align:start position:0%
+dashboards and it has roles so depending
+on<00:14:28.480><c> the</c><00:14:28.720><c> role</c><00:14:29.040><c> i</c><00:14:29.279><c> have</c><00:14:29.920><c> i</c><00:14:30.079><c> would</c><00:14:30.399><c> see</c><00:14:30.720><c> different</c>
+
+00:14:31.269 --> 00:14:31.279 align:start position:0%
+on the role i have i would see different
+ 
+
+00:14:31.279 --> 00:14:34.310 align:start position:0%
+on the role i have i would see different
+things<00:14:31.760><c> in</c><00:14:31.920><c> these</c><00:14:32.160><c> dashboards</c>
+
+00:14:34.310 --> 00:14:34.320 align:start position:0%
+things in these dashboards
+ 
+
+00:14:34.320 --> 00:14:36.710 align:start position:0%
+things in these dashboards
+scale<00:14:34.959><c> is</c><00:14:35.120><c> really</c><00:14:35.519><c> to</c><00:14:35.920><c> any</c><00:14:36.240><c> level</c><00:14:36.480><c> i</c><00:14:36.560><c> can</c>
+
+00:14:36.710 --> 00:14:36.720 align:start position:0%
+scale is really to any level i can
+ 
+
+00:14:36.720 --> 00:14:39.030 align:start position:0%
+scale is really to any level i can
+create<00:14:36.880><c> these</c><00:14:37.120><c> hierarchies</c><00:14:38.000><c> to</c><00:14:38.240><c> break</c><00:14:38.639><c> up</c><00:14:38.800><c> how</c>
+
+00:14:39.030 --> 00:14:39.040 align:start position:0%
+create these hierarchies to break up how
+ 
+
+00:14:39.040 --> 00:14:41.189 align:start position:0%
+create these hierarchies to break up how
+i<00:14:39.279><c> see</c><00:14:39.519><c> these</c><00:14:39.839><c> things</c>
+
+00:14:41.189 --> 00:14:41.199 align:start position:0%
+i see these things
+ 
+
+00:14:41.199 --> 00:14:43.430 align:start position:0%
+i see these things
+again<00:14:41.519><c> you</c><00:14:41.600><c> can</c><00:14:41.839><c> extend</c><00:14:42.800><c> we</c><00:14:42.959><c> have</c><00:14:43.120><c> all</c><00:14:43.199><c> those</c>
+
+00:14:43.430 --> 00:14:43.440 align:start position:0%
+again you can extend we have all those
+ 
+
+00:14:43.440 --> 00:14:44.790 align:start position:0%
+again you can extend we have all those
+different<00:14:43.680><c> connectors</c>
+
+00:14:44.790 --> 00:14:44.800 align:start position:0%
+different connectors
+ 
+
+00:14:44.800 --> 00:14:48.310 align:start position:0%
+different connectors
+and<00:14:44.880><c> then</c><00:14:45.360><c> you</c><00:14:45.680><c> can</c><00:14:45.839><c> monetize</c><00:14:46.480><c> as</c><00:14:46.800><c> required</c>
+
+00:14:48.310 --> 00:14:48.320 align:start position:0%
+and then you can monetize as required
+ 
+
+00:14:48.320 --> 00:14:50.949 align:start position:0%
+and then you can monetize as required
+so<00:14:48.480><c> the</c><00:14:48.720><c> key</c><00:14:48.959><c> point</c><00:14:49.440><c> here</c><00:14:49.839><c> is</c>
+
+00:14:50.949 --> 00:14:50.959 align:start position:0%
+so the key point here is
+ 
+
+00:14:50.959 --> 00:14:54.310 align:start position:0%
+so the key point here is
+if<00:14:51.040><c> we</c><00:14:51.279><c> think</c><00:14:51.440><c> of</c><00:14:51.760><c> iot</c><00:14:52.720><c> hub</c><00:14:53.519><c> was</c><00:14:53.760><c> hey</c><00:14:54.000><c> i</c><00:14:54.079><c> want</c><00:14:54.240><c> to</c>
+
+00:14:54.310 --> 00:14:54.320 align:start position:0%
+if we think of iot hub was hey i want to
+ 
+
+00:14:54.320 --> 00:14:56.470 align:start position:0%
+if we think of iot hub was hey i want to
+write<00:14:54.639><c> my</c><00:14:54.959><c> own</c><00:14:55.279><c> app</c><00:14:55.920><c> and</c><00:14:56.079><c> i</c><00:14:56.160><c> just</c><00:14:56.320><c> need</c>
+
+00:14:56.470 --> 00:14:56.480 align:start position:0%
+write my own app and i just need
+ 
+
+00:14:56.480 --> 00:14:58.949 align:start position:0%
+write my own app and i just need
+something<00:14:56.720><c> to</c><00:14:56.880><c> work</c><00:14:57.120><c> with</c><00:14:57.279><c> the</c><00:14:57.440><c> devices</c>
+
+00:14:58.949 --> 00:14:58.959 align:start position:0%
+something to work with the devices
+ 
+
+00:14:58.959 --> 00:15:01.829 align:start position:0%
+something to work with the devices
+well<00:14:59.680><c> iot</c><00:15:00.399><c> central</c>
+
+00:15:01.829 --> 00:15:01.839 align:start position:0%
+well iot central
+ 
+
+00:15:01.839 --> 00:15:04.949 align:start position:0%
+well iot central
+is<00:15:02.079><c> where</c><00:15:02.720><c> i</c><00:15:02.959><c> want</c><00:15:03.279><c> something</c>
+
+00:15:04.949 --> 00:15:04.959 align:start position:0%
+is where i want something
+ 
+
+00:15:04.959 --> 00:15:12.069 align:start position:0%
+is where i want something
+out<00:15:05.120><c> of</c><00:15:05.279><c> the</c><00:15:05.360><c> box</c>
+
+00:15:12.069 --> 00:15:12.079 align:start position:0%
+ 
+ 
+
+00:15:12.079 --> 00:15:14.470 align:start position:0%
+ 
+then<00:15:12.399><c> this</c><00:15:12.639><c> is</c><00:15:12.800><c> the</c><00:15:12.959><c> right</c><00:15:13.199><c> solution</c><00:15:14.000><c> i</c><00:15:14.240><c> don't</c>
+
+00:15:14.470 --> 00:15:14.480 align:start position:0%
+then this is the right solution i don't
+ 
+
+00:15:14.480 --> 00:15:16.230 align:start position:0%
+then this is the right solution i don't
+want<00:15:14.639><c> to</c><00:15:14.720><c> write</c><00:15:14.959><c> a</c><00:15:15.040><c> bunch</c><00:15:15.279><c> of</c><00:15:15.360><c> code</c><00:15:15.760><c> i</c><00:15:15.920><c> don't</c>
+
+00:15:16.230 --> 00:15:16.240 align:start position:0%
+want to write a bunch of code i don't
+ 
+
+00:15:16.240 --> 00:15:18.790 align:start position:0%
+want to write a bunch of code i don't
+want<00:15:16.399><c> to</c><00:15:16.560><c> interface</c><00:15:16.959><c> with</c><00:15:17.040><c> an</c><00:15:17.199><c> sdk</c><00:15:18.240><c> i</c><00:15:18.480><c> want</c><00:15:18.639><c> to</c>
+
+00:15:18.790 --> 00:15:18.800 align:start position:0%
+want to interface with an sdk i want to
+ 
+
+00:15:18.800 --> 00:15:20.470 align:start position:0%
+want to interface with an sdk i want to
+be<00:15:18.959><c> able</c><00:15:19.199><c> to</c><00:15:19.279><c> get</c><00:15:19.519><c> up</c><00:15:19.680><c> and</c><00:15:19.760><c> running</c><00:15:20.079><c> super</c>
+
+00:15:20.470 --> 00:15:20.480 align:start position:0%
+be able to get up and running super
+ 
+
+00:15:20.480 --> 00:15:23.590 align:start position:0%
+be able to get up and running super
+quickly<00:15:21.360><c> with</c><00:15:21.839><c> pre-built</c><00:15:22.720><c> dashboards</c><00:15:23.440><c> and</c>
+
+00:15:23.590 --> 00:15:23.600 align:start position:0%
+quickly with pre-built dashboards and
+ 
+
+00:15:23.600 --> 00:15:24.829 align:start position:0%
+quickly with pre-built dashboards and
+pre-built
+
+00:15:24.829 --> 00:15:24.839 align:start position:0%
+pre-built
+ 
+
+00:15:24.839 --> 00:15:27.910 align:start position:0%
+pre-built
+solutions<00:15:25.920><c> for</c><00:15:26.079><c> my</c><00:15:26.320><c> industry</c><00:15:27.360><c> that's</c><00:15:27.680><c> where</c><00:15:27.839><c> i</c>
+
+00:15:27.910 --> 00:15:27.920 align:start position:0%
+solutions for my industry that's where i
+ 
+
+00:15:27.920 --> 00:15:31.749 align:start position:0%
+solutions for my industry that's where i
+would<00:15:28.079><c> go</c><00:15:28.240><c> and</c><00:15:28.399><c> use</c><00:15:28.959><c> the</c><00:15:29.120><c> iot</c><00:15:29.680><c> central</c>
+
+00:15:31.749 --> 00:15:31.759 align:start position:0%
+would go and use the iot central
+ 
+
+00:15:31.759 --> 00:15:34.949 align:start position:0%
+would go and use the iot central
+now<00:15:32.079><c> i</c><00:15:32.160><c> talked</c><00:15:32.399><c> about</c><00:15:32.800><c> at</c><00:15:32.880><c> the</c><00:15:33.120><c> start</c>
+
+00:15:34.949 --> 00:15:34.959 align:start position:0%
+now i talked about at the start
+ 
+
+00:15:34.959 --> 00:15:37.030 align:start position:0%
+now i talked about at the start
+well<00:15:35.120><c> there's</c><00:15:35.360><c> this</c><00:15:35.600><c> idea</c><00:15:36.160><c> of</c><00:15:36.480><c> how</c><00:15:36.720><c> you</c><00:15:36.880><c> have</c>
+
+00:15:37.030 --> 00:15:37.040 align:start position:0%
+well there's this idea of how you have
+ 
+
+00:15:37.040 --> 00:15:39.590 align:start position:0%
+well there's this idea of how you have
+this<00:15:37.279><c> micro</c><00:15:37.839><c> controller</c><00:15:38.480><c> unit</c>
+
+00:15:39.590 --> 00:15:39.600 align:start position:0%
+this micro controller unit
+ 
+
+00:15:39.600 --> 00:15:41.670 align:start position:0%
+this micro controller unit
+well<00:15:39.759><c> there's</c><00:15:39.920><c> a</c><00:15:40.000><c> certain</c><00:15:40.399><c> element</c><00:15:40.880><c> of</c><00:15:41.279><c> trust</c>
+
+00:15:41.670 --> 00:15:41.680 align:start position:0%
+well there's a certain element of trust
+ 
+
+00:15:41.680 --> 00:15:44.230 align:start position:0%
+well there's a certain element of trust
+and<00:15:41.759><c> security</c><00:15:42.720><c> in</c><00:15:42.880><c> the</c><00:15:43.120><c> hardware</c>
+
+00:15:44.230 --> 00:15:44.240 align:start position:0%
+and security in the hardware
+ 
+
+00:15:44.240 --> 00:15:45.749 align:start position:0%
+and security in the hardware
+there's<00:15:44.560><c> the</c><00:15:44.720><c> idea</c><00:15:45.120><c> that</c><00:15:45.440><c> there's</c><00:15:45.600><c> going</c><00:15:45.680><c> to</c>
+
+00:15:45.749 --> 00:15:45.759 align:start position:0%
+there's the idea that there's going to
+ 
+
+00:15:45.759 --> 00:15:47.829 align:start position:0%
+there's the idea that there's going to
+be<00:15:45.839><c> an</c><00:15:45.920><c> operating</c><00:15:46.480><c> system</c><00:15:46.959><c> here</c>
+
+00:15:47.829 --> 00:15:47.839 align:start position:0%
+be an operating system here
+ 
+
+00:15:47.839 --> 00:15:50.069 align:start position:0%
+be an operating system here
+and<00:15:47.920><c> then</c><00:15:48.240><c> a</c><00:15:48.320><c> way</c><00:15:48.639><c> to</c><00:15:48.800><c> assure</c><00:15:49.199><c> the</c><00:15:49.360><c> security</c>
+
+00:15:50.069 --> 00:15:50.079 align:start position:0%
+and then a way to assure the security
+ 
+
+00:15:50.079 --> 00:15:52.150 align:start position:0%
+and then a way to assure the security
+and<00:15:50.320><c> integrity</c><00:15:51.120><c> of</c><00:15:51.360><c> it</c><00:15:51.440><c> that</c><00:15:51.600><c> it's</c><00:15:51.759><c> not</c><00:15:51.920><c> been</c>
+
+00:15:52.150 --> 00:15:52.160 align:start position:0%
+and integrity of it that it's not been
+ 
+
+00:15:52.160 --> 00:15:54.629 align:start position:0%
+and integrity of it that it's not been
+compromised<00:15:52.959><c> in</c><00:15:53.120><c> some</c><00:15:53.440><c> way</c>
+
+00:15:54.629 --> 00:15:54.639 align:start position:0%
+compromised in some way
+ 
+
+00:15:54.639 --> 00:15:55.590 align:start position:0%
+compromised in some way
+and<00:15:54.800><c> so</c>
+
+00:15:55.590 --> 00:15:55.600 align:start position:0%
+and so
+ 
+
+00:15:55.600 --> 00:15:57.829 align:start position:0%
+and so
+if<00:15:55.839><c> i</c><00:15:56.000><c> have</c><00:15:56.160><c> a</c><00:15:56.320><c> scenario</c>
+
+00:15:57.829 --> 00:15:57.839 align:start position:0%
+if i have a scenario
+ 
+
+00:15:57.839 --> 00:15:58.629 align:start position:0%
+if i have a scenario
+where
+
+00:15:58.629 --> 00:15:58.639 align:start position:0%
+where
+ 
+
+00:15:58.639 --> 00:16:01.189 align:start position:0%
+where
+it's<00:15:59.279><c> really</c><00:15:59.600><c> important</c><00:16:00.320><c> to</c><00:16:00.480><c> ensure</c><00:16:00.959><c> the</c>
+
+00:16:01.189 --> 00:16:01.199 align:start position:0%
+it's really important to ensure the
+ 
+
+00:16:01.199 --> 00:16:04.310 align:start position:0%
+it's really important to ensure the
+security<00:16:02.160><c> of</c><00:16:02.560><c> my</c><00:16:02.720><c> ot</c><00:16:03.279><c> devices</c>
+
+00:16:04.310 --> 00:16:04.320 align:start position:0%
+security of my ot devices
+ 
+
+00:16:04.320 --> 00:16:06.389 align:start position:0%
+security of my ot devices
+if<00:16:04.480><c> it's</c><00:16:04.639><c> my</c><00:16:04.800><c> wife's</c><00:16:05.120><c> coffee</c><00:16:05.440><c> machine</c><00:16:06.079><c> if</c><00:16:06.240><c> it</c>
+
+00:16:06.389 --> 00:16:06.399 align:start position:0%
+if it's my wife's coffee machine if it
+ 
+
+00:16:06.399 --> 00:16:08.230 align:start position:0%
+if it's my wife's coffee machine if it
+got<00:16:06.639><c> hacked</c><00:16:07.120><c> hey</c><00:16:07.360><c> it</c><00:16:07.440><c> might</c><00:16:07.600><c> ruin</c><00:16:07.839><c> a</c><00:16:07.920><c> cup</c><00:16:08.160><c> of</c>
+
+00:16:08.230 --> 00:16:08.240 align:start position:0%
+got hacked hey it might ruin a cup of
+ 
+
+00:16:08.240 --> 00:16:10.550 align:start position:0%
+got hacked hey it might ruin a cup of
+coffee<00:16:09.040><c> not</c><00:16:09.279><c> the</c><00:16:09.360><c> end</c><00:16:09.519><c> of</c><00:16:09.600><c> the</c><00:16:09.680><c> world</c>
+
+00:16:10.550 --> 00:16:10.560 align:start position:0%
+coffee not the end of the world
+ 
+
+00:16:10.560 --> 00:16:12.550 align:start position:0%
+coffee not the end of the world
+but<00:16:10.720><c> if</c><00:16:10.800><c> this</c><00:16:11.040><c> is</c><00:16:11.120><c> a</c><00:16:11.279><c> sensor</c><00:16:11.759><c> on</c><00:16:11.920><c> a</c><00:16:12.079><c> medical</c>
+
+00:16:12.550 --> 00:16:12.560 align:start position:0%
+but if this is a sensor on a medical
+ 
+
+00:16:12.560 --> 00:16:14.949 align:start position:0%
+but if this is a sensor on a medical
+device<00:16:13.360><c> if</c><00:16:13.440><c> this</c><00:16:13.680><c> is</c><00:16:13.759><c> a</c><00:16:13.839><c> sensor</c><00:16:14.399><c> on</c><00:16:14.560><c> some</c>
+
+00:16:14.949 --> 00:16:14.959 align:start position:0%
+device if this is a sensor on some
+ 
+
+00:16:14.959 --> 00:16:17.269 align:start position:0%
+device if this is a sensor on some
+industry<00:16:15.360><c> that's</c><00:16:15.600><c> detecting</c><00:16:16.240><c> something</c><00:16:17.120><c> and</c>
+
+00:16:17.269 --> 00:16:17.279 align:start position:0%
+industry that's detecting something and
+ 
+
+00:16:17.279 --> 00:16:19.110 align:start position:0%
+industry that's detecting something and
+from<00:16:17.519><c> a</c><00:16:17.680><c> safety</c><00:16:18.160><c> perspective</c><00:16:18.800><c> if</c><00:16:18.959><c> it's</c>
+
+00:16:19.110 --> 00:16:19.120 align:start position:0%
+from a safety perspective if it's
+ 
+
+00:16:19.120 --> 00:16:20.790 align:start position:0%
+from a safety perspective if it's
+something<00:16:19.360><c> to</c><00:16:19.440><c> do</c><00:16:19.680><c> with</c><00:16:19.920><c> maybe</c><00:16:20.160><c> financial</c>
+
+00:16:20.790 --> 00:16:20.800 align:start position:0%
+something to do with maybe financial
+ 
+
+00:16:20.800 --> 00:16:24.870 align:start position:0%
+something to do with maybe financial
+systems<00:16:22.160><c> i</c><00:16:22.639><c> need</c><00:16:22.880><c> to</c><00:16:23.120><c> really</c><00:16:23.600><c> make</c><00:16:23.920><c> sure</c><00:16:24.639><c> that</c>
+
+00:16:24.870 --> 00:16:24.880 align:start position:0%
+systems i need to really make sure that
+ 
+
+00:16:24.880 --> 00:16:27.670 align:start position:0%
+systems i need to really make sure that
+the<00:16:25.040><c> integrity</c><00:16:25.759><c> and</c><00:16:25.920><c> security</c>
+
+00:16:27.670 --> 00:16:27.680 align:start position:0%
+the integrity and security
+ 
+
+00:16:27.680 --> 00:16:30.629 align:start position:0%
+the integrity and security
+of<00:16:28.160><c> that</c><00:16:28.399><c> complete</c><00:16:29.120><c> end</c><00:16:29.519><c> to</c><00:16:29.839><c> end</c>
+
+00:16:30.629 --> 00:16:30.639 align:start position:0%
+of that complete end to end
+ 
+
+00:16:30.639 --> 00:16:32.629 align:start position:0%
+of that complete end to end
+communication
+
+00:16:32.629 --> 00:16:32.639 align:start position:0%
+communication
+ 
+
+00:16:32.639 --> 00:16:35.509 align:start position:0%
+communication
+and<00:16:32.800><c> so</c><00:16:33.040><c> that</c><00:16:33.440><c> solution</c><00:16:34.560><c> when</c><00:16:34.720><c> we</c><00:16:34.880><c> think</c><00:16:35.040><c> about</c>
+
+00:16:35.509 --> 00:16:35.519 align:start position:0%
+and so that solution when we think about
+ 
+
+00:16:35.519 --> 00:16:37.990 align:start position:0%
+and so that solution when we think about
+end<00:16:35.839><c> to</c><00:16:36.160><c> end</c>
+
+00:16:37.990 --> 00:16:38.000 align:start position:0%
+end to end
+ 
+
+00:16:38.000 --> 00:16:42.949 align:start position:0%
+end to end
+is<00:16:38.639><c> this</c><00:16:38.959><c> azure</c><00:16:39.440><c> sphere</c>
+
+00:16:42.949 --> 00:16:42.959 align:start position:0%
+ 
+ 
+
+00:16:42.959 --> 00:16:46.629 align:start position:0%
+ 
+and<00:16:43.120><c> it</c><00:16:43.360><c> is</c><00:16:43.600><c> focused</c><00:16:44.320><c> again</c><00:16:44.959><c> on</c><00:16:45.279><c> that</c><00:16:45.759><c> end</c><00:16:46.320><c> to</c>
+
+00:16:46.629 --> 00:16:46.639 align:start position:0%
+and it is focused again on that end to
+ 
+
+00:16:46.639 --> 00:16:47.910 align:start position:0%
+and it is focused again on that end to
+end
+
+00:16:47.910 --> 00:16:47.920 align:start position:0%
+end
+ 
+
+00:16:47.920 --> 00:16:49.430 align:start position:0%
+end
+security
+
+00:16:49.430 --> 00:16:49.440 align:start position:0%
+security
+ 
+
+00:16:49.440 --> 00:16:52.389 align:start position:0%
+security
+that's<00:16:50.000><c> its</c><00:16:50.480><c> job</c>
+
+00:16:52.389 --> 00:16:52.399 align:start position:0%
+that's its job
+ 
+
+00:16:52.399 --> 00:16:54.550 align:start position:0%
+that's its job
+and<00:16:52.560><c> it's</c><00:16:52.800><c> really</c><00:16:53.120><c> built</c><00:16:53.519><c> up</c><00:16:53.839><c> of</c>
+
+00:16:54.550 --> 00:16:54.560 align:start position:0%
+and it's really built up of
+ 
+
+00:16:54.560 --> 00:16:57.509 align:start position:0%
+and it's really built up of
+three<00:16:55.279><c> different</c><00:16:55.680><c> components</c>
+
+00:16:57.509 --> 00:16:57.519 align:start position:0%
+three different components
+ 
+
+00:16:57.519 --> 00:16:59.670 align:start position:0%
+three different components
+so<00:16:57.839><c> we</c><00:16:58.000><c> talked</c><00:16:58.160><c> about</c><00:16:58.320><c> this</c><00:16:58.600><c> microcontroller</c>
+
+00:16:59.670 --> 00:16:59.680 align:start position:0%
+so we talked about this microcontroller
+ 
+
+00:16:59.680 --> 00:17:02.150 align:start position:0%
+so we talked about this microcontroller
+unit<00:17:00.399><c> what</c><00:17:00.639><c> we</c><00:17:00.880><c> actually</c><00:17:01.199><c> get</c><00:17:01.360><c> with</c><00:17:01.680><c> azure</c>
+
+00:17:02.150 --> 00:17:02.160 align:start position:0%
+unit what we actually get with azure
+ 
+
+00:17:02.160 --> 00:17:04.789 align:start position:0%
+unit what we actually get with azure
+sphere<00:17:02.639><c> there</c><00:17:02.800><c> is</c><00:17:02.959><c> an</c><00:17:03.199><c> azure</c><00:17:03.759><c> sphere</c>
+
+00:17:04.789 --> 00:17:04.799 align:start position:0%
+sphere there is an azure sphere
+ 
+
+00:17:04.799 --> 00:17:09.110 align:start position:0%
+sphere there is an azure sphere
+micro<00:17:05.280><c> controller</c><00:17:05.760><c> unit</c>
+
+00:17:09.110 --> 00:17:09.120 align:start position:0%
+ 
+ 
+
+00:17:09.120 --> 00:17:10.069 align:start position:0%
+ 
+oh
+
+00:17:10.069 --> 00:17:10.079 align:start position:0%
+oh
+ 
+
+00:17:10.079 --> 00:17:11.990 align:start position:0%
+oh
+let's<00:17:10.240><c> just</c><00:17:10.640><c> change</c><00:17:10.880><c> that</c><00:17:11.360><c> let's</c><00:17:11.520><c> just</c><00:17:11.839><c> go</c>
+
+00:17:11.990 --> 00:17:12.000 align:start position:0%
+let's just change that let's just go
+ 
+
+00:17:12.000 --> 00:17:13.909 align:start position:0%
+let's just change that let's just go
+backwards<00:17:12.319><c> for</c><00:17:12.400><c> a</c><00:17:12.480><c> sec</c>
+
+00:17:13.909 --> 00:17:13.919 align:start position:0%
+backwards for a sec
+ 
+
+00:17:13.919 --> 00:17:16.150 align:start position:0%
+backwards for a sec
+let's<00:17:14.079><c> try</c><00:17:14.240><c> and</c><00:17:14.319><c> write</c><00:17:14.480><c> two</c><00:17:14.640><c> words</c><00:17:14.959><c> at</c><00:17:15.039><c> once</c>
+
+00:17:16.150 --> 00:17:16.160 align:start position:0%
+let's try and write two words at once
+ 
+
+00:17:16.160 --> 00:17:16.949 align:start position:0%
+let's try and write two words at once
+so
+
+00:17:16.949 --> 00:17:16.959 align:start position:0%
+so
+ 
+
+00:17:16.959 --> 00:17:19.829 align:start position:0%
+so
+if<00:17:17.120><c> we</c><00:17:17.360><c> go</c><00:17:17.600><c> back</c><00:17:18.160><c> and</c><00:17:18.319><c> we</c><00:17:18.480><c> do</c><00:17:18.720><c> the</c><00:17:18.880><c> idea</c><00:17:19.360><c> of</c>
+
+00:17:19.829 --> 00:17:19.839 align:start position:0%
+if we go back and we do the idea of
+ 
+
+00:17:19.839 --> 00:17:22.230 align:start position:0%
+if we go back and we do the idea of
+azure
+
+00:17:22.230 --> 00:17:22.240 align:start position:0%
+azure
+ 
+
+00:17:22.240 --> 00:17:24.949 align:start position:0%
+azure
+sphere
+
+00:17:24.949 --> 00:17:24.959 align:start position:0%
+sphere
+ 
+
+00:17:24.959 --> 00:17:27.270 align:start position:0%
+sphere
+microcontroller<00:17:25.839><c> unit</c><00:17:26.240><c> so</c><00:17:26.720><c> azure</c><00:17:27.039><c> actually</c>
+
+00:17:27.270 --> 00:17:27.280 align:start position:0%
+microcontroller unit so azure actually
+ 
+
+00:17:27.280 --> 00:17:29.990 align:start position:0%
+microcontroller unit so azure actually
+go<00:17:27.439><c> and</c><00:17:27.679><c> license</c><00:17:28.319><c> the</c><00:17:28.480><c> technology</c><00:17:29.120><c> to</c><00:17:29.360><c> various</c>
+
+00:17:29.990 --> 00:17:30.000 align:start position:0%
+go and license the technology to various
+ 
+
+00:17:30.000 --> 00:17:32.950 align:start position:0%
+go and license the technology to various
+providers<00:17:31.200><c> who</c><00:17:31.360><c> can</c><00:17:31.520><c> then</c><00:17:31.919><c> build</c><00:17:32.240><c> these</c><00:17:32.480><c> micro</c>
+
+00:17:32.950 --> 00:17:32.960 align:start position:0%
+providers who can then build these micro
+ 
+
+00:17:32.960 --> 00:17:34.789 align:start position:0%
+providers who can then build these micro
+control<00:17:33.360><c> units</c><00:17:33.600><c> there</c><00:17:33.760><c> are</c><00:17:33.840><c> various</c><00:17:34.240><c> starter</c>
+
+00:17:34.789 --> 00:17:34.799 align:start position:0%
+control units there are various starter
+ 
+
+00:17:34.799 --> 00:17:37.110 align:start position:0%
+control units there are various starter
+kits<00:17:35.520><c> and</c><00:17:35.679><c> these</c><00:17:36.080><c> then</c><00:17:36.240><c> you</c><00:17:36.320><c> get</c><00:17:36.480><c> these</c><00:17:36.720><c> azure</c>
+
+00:17:37.110 --> 00:17:37.120 align:start position:0%
+kits and these then you get these azure
+ 
+
+00:17:37.120 --> 00:17:38.870 align:start position:0%
+kits and these then you get these azure
+certified<00:17:37.679><c> micro</c><00:17:38.080><c> controller</c><00:17:38.559><c> units</c><00:17:38.799><c> so</c>
+
+00:17:38.870 --> 00:17:38.880 align:start position:0%
+certified micro controller units so
+ 
+
+00:17:38.880 --> 00:17:41.029 align:start position:0%
+certified micro controller units so
+that's<00:17:39.120><c> kind</c><00:17:39.280><c> of</c><00:17:39.760><c> part</c><00:17:40.160><c> one</c>
+
+00:17:41.029 --> 00:17:41.039 align:start position:0%
+that's kind of part one
+ 
+
+00:17:41.039 --> 00:17:42.950 align:start position:0%
+that's kind of part one
+is<00:17:41.200><c> this</c><00:17:41.520><c> azure</c><00:17:41.840><c> sphere</c><00:17:42.240><c> microcontroller</c>
+
+00:17:42.950 --> 00:17:42.960 align:start position:0%
+is this azure sphere microcontroller
+ 
+
+00:17:42.960 --> 00:17:45.909 align:start position:0%
+is this azure sphere microcontroller
+unit<00:17:43.679><c> then</c><00:17:43.840><c> you</c><00:17:44.000><c> have</c><00:17:44.160><c> the</c><00:17:44.240><c> operating</c><00:17:44.880><c> system</c>
+
+00:17:45.909 --> 00:17:45.919 align:start position:0%
+unit then you have the operating system
+ 
+
+00:17:45.919 --> 00:17:48.710 align:start position:0%
+unit then you have the operating system
+so<00:17:46.080><c> the</c><00:17:46.320><c> next</c><00:17:46.720><c> part</c><00:17:47.360><c> of</c><00:17:47.520><c> azure</c><00:17:47.840><c> sphere</c><00:17:48.400><c> is</c>
+
+00:17:48.710 --> 00:17:48.720 align:start position:0%
+so the next part of azure sphere is
+ 
+
+00:17:48.720 --> 00:17:50.789 align:start position:0%
+so the next part of azure sphere is
+actually<00:17:49.039><c> this</c><00:17:49.520><c> linux</c>
+
+00:17:50.789 --> 00:17:50.799 align:start position:0%
+actually this linux
+ 
+
+00:17:50.799 --> 00:17:52.070 align:start position:0%
+actually this linux
+based
+
+00:17:52.070 --> 00:17:52.080 align:start position:0%
+based
+ 
+
+00:17:52.080 --> 00:17:53.830 align:start position:0%
+based
+os
+
+00:17:53.830 --> 00:17:53.840 align:start position:0%
+os
+ 
+
+00:17:53.840 --> 00:17:56.630 align:start position:0%
+os
+that<00:17:54.080><c> is</c><00:17:54.320><c> a</c><00:17:54.559><c> customized</c><00:17:55.360><c> kernel</c><00:17:56.240><c> but</c><00:17:56.400><c> once</c>
+
+00:17:56.630 --> 00:17:56.640 align:start position:0%
+that is a customized kernel but once
+ 
+
+00:17:56.640 --> 00:17:59.669 align:start position:0%
+that is a customized kernel but once
+again<00:17:56.880><c> microsoft</c><00:17:57.440><c> are</c><00:17:57.520><c> providing</c><00:17:58.320><c> it</c><00:17:58.799><c> to</c><00:17:59.520><c> the</c>
+
+00:17:59.669 --> 00:17:59.679 align:start position:0%
+again microsoft are providing it to the
+ 
+
+00:17:59.679 --> 00:18:01.430 align:start position:0%
+again microsoft are providing it to the
+various<00:18:00.000><c> manufacturers</c>
+
+00:18:01.430 --> 00:18:01.440 align:start position:0%
+various manufacturers
+ 
+
+00:18:01.440 --> 00:18:03.350 align:start position:0%
+various manufacturers
+they<00:18:01.679><c> are</c><00:18:01.840><c> responsible</c><00:18:02.640><c> for</c><00:18:02.880><c> all</c><00:18:03.039><c> the</c>
+
+00:18:03.350 --> 00:18:03.360 align:start position:0%
+they are responsible for all the
+ 
+
+00:18:03.360 --> 00:18:07.110 align:start position:0%
+they are responsible for all the
+updating<00:18:04.160><c> and</c><00:18:04.400><c> maintenance</c><00:18:05.120><c> of</c><00:18:05.360><c> this</c><00:18:05.679><c> kernel</c>
+
+00:18:07.110 --> 00:18:07.120 align:start position:0%
+updating and maintenance of this kernel
+ 
+
+00:18:07.120 --> 00:18:09.669 align:start position:0%
+updating and maintenance of this kernel
+and<00:18:07.200><c> then</c><00:18:07.360><c> what</c><00:18:07.520><c> we</c><00:18:07.760><c> also</c><00:18:08.240><c> get</c><00:18:08.880><c> for</c><00:18:09.039><c> the</c><00:18:09.360><c> third</c>
+
+00:18:09.669 --> 00:18:09.679 align:start position:0%
+and then what we also get for the third
+ 
+
+00:18:09.679 --> 00:18:10.950 align:start position:0%
+and then what we also get for the third
+part
+
+00:18:10.950 --> 00:18:10.960 align:start position:0%
+part
+ 
+
+00:18:10.960 --> 00:18:13.750 align:start position:0%
+part
+is<00:18:11.200><c> this</c><00:18:11.520><c> idea</c><00:18:11.919><c> of</c><00:18:12.080><c> a</c><00:18:12.160><c> security</c><00:18:12.960><c> service</c>
+
+00:18:13.750 --> 00:18:13.760 align:start position:0%
+is this idea of a security service
+ 
+
+00:18:13.760 --> 00:18:15.310 align:start position:0%
+is this idea of a security service
+you'll<00:18:14.000><c> hear</c><00:18:14.160><c> this</c><00:18:14.480><c> term</c>
+
+00:18:15.310 --> 00:18:15.320 align:start position:0%
+you'll hear this term
+ 
+
+00:18:15.320 --> 00:18:16.950 align:start position:0%
+you'll hear this term
+as3
+
+00:18:16.950 --> 00:18:16.960 align:start position:0%
+as3
+ 
+
+00:18:16.960 --> 00:18:19.750 align:start position:0%
+as3
+it's<00:18:17.200><c> as3</c><00:18:17.840><c> because</c><00:18:18.080><c> there's</c><00:18:18.400><c> three</c><00:18:18.880><c> s's</c><00:18:19.440><c> the</c>
+
+00:18:19.750 --> 00:18:19.760 align:start position:0%
+it's as3 because there's three s's the
+ 
+
+00:18:19.760 --> 00:18:23.110 align:start position:0%
+it's as3 because there's three s's the
+azure<00:18:20.480><c> sphere</c><00:18:21.039><c> security</c><00:18:22.080><c> service</c>
+
+00:18:23.110 --> 00:18:23.120 align:start position:0%
+azure sphere security service
+ 
+
+00:18:23.120 --> 00:18:25.110 align:start position:0%
+azure sphere security service
+so<00:18:23.280><c> the</c><00:18:23.360><c> azure</c><00:18:23.600><c> sphere</c><00:18:23.919><c> security</c><00:18:24.480><c> service</c><00:18:24.960><c> is</c>
+
+00:18:25.110 --> 00:18:25.120 align:start position:0%
+so the azure sphere security service is
+ 
+
+00:18:25.120 --> 00:18:26.870 align:start position:0%
+so the azure sphere security service is
+all<00:18:25.200><c> about</c><00:18:25.520><c> making</c><00:18:25.919><c> sure</c><00:18:26.080><c> there's</c><00:18:26.320><c> not</c><00:18:26.480><c> been</c><00:18:26.720><c> a</c>
+
+00:18:26.870 --> 00:18:26.880 align:start position:0%
+all about making sure there's not been a
+ 
+
+00:18:26.880 --> 00:18:28.390 align:start position:0%
+all about making sure there's not been a
+compromise
+
+00:18:28.390 --> 00:18:28.400 align:start position:0%
+compromise
+ 
+
+00:18:28.400 --> 00:18:29.510 align:start position:0%
+compromise
+making<00:18:28.640><c> sure</c><00:18:28.799><c> there's</c><00:18:28.960><c> not</c><00:18:29.120><c> been</c><00:18:29.280><c> some</c>
+
+00:18:29.510 --> 00:18:29.520 align:start position:0%
+making sure there's not been some
+ 
+
+00:18:29.520 --> 00:18:31.350 align:start position:0%
+making sure there's not been some
+malicious<00:18:30.000><c> software</c>
+
+00:18:31.350 --> 00:18:31.360 align:start position:0%
+malicious software
+ 
+
+00:18:31.360 --> 00:18:32.630 align:start position:0%
+malicious software
+for<00:18:31.520><c> this</c>
+
+00:18:32.630 --> 00:18:32.640 align:start position:0%
+for this
+ 
+
+00:18:32.640 --> 00:18:35.270 align:start position:0%
+for this
+identification<00:18:33.520><c> and</c><00:18:33.720><c> authentication</c><00:18:34.880><c> with</c>
+
+00:18:35.270 --> 00:18:35.280 align:start position:0%
+identification and authentication with
+ 
+
+00:18:35.280 --> 00:18:38.630 align:start position:0%
+identification and authentication with
+azure<00:18:35.600><c> sphere</c><00:18:36.320><c> this</c><00:18:36.559><c> is</c><00:18:36.960><c> cert</c><00:18:37.520><c> based</c>
+
+00:18:38.630 --> 00:18:38.640 align:start position:0%
+azure sphere this is cert based
+ 
+
+00:18:38.640 --> 00:18:40.310 align:start position:0%
+azure sphere this is cert based
+so<00:18:38.880><c> certificates</c>
+
+00:18:40.310 --> 00:18:40.320 align:start position:0%
+so certificates
+ 
+
+00:18:40.320 --> 00:18:41.750 align:start position:0%
+so certificates
+we<00:18:40.480><c> want</c><00:18:40.640><c> to</c><00:18:40.720><c> use</c><00:18:40.960><c> that</c><00:18:41.120><c> we</c><00:18:41.280><c> don't</c><00:18:41.440><c> really</c><00:18:41.600><c> want</c>
+
+00:18:41.750 --> 00:18:41.760 align:start position:0%
+we want to use that we don't really want
+ 
+
+00:18:41.760 --> 00:18:44.470 align:start position:0%
+we want to use that we don't really want
+to<00:18:41.919><c> use</c><00:18:42.240><c> passwords</c><00:18:43.360><c> so</c><00:18:43.600><c> this</c><00:18:43.840><c> azure</c><00:18:44.160><c> sphere</c><00:18:44.400><c> is</c>
+
+00:18:44.470 --> 00:18:44.480 align:start position:0%
+to use passwords so this azure sphere is
+ 
+
+00:18:44.480 --> 00:18:46.070 align:start position:0%
+to use passwords so this azure sphere is
+going<00:18:44.640><c> to</c><00:18:44.720><c> use</c><00:18:44.960><c> certificates</c><00:18:45.679><c> as</c><00:18:45.840><c> part</c><00:18:46.000><c> of</c>
+
+00:18:46.070 --> 00:18:46.080 align:start position:0%
+going to use certificates as part of
+ 
+
+00:18:46.080 --> 00:18:48.390 align:start position:0%
+going to use certificates as part of
+that<00:18:46.320><c> authentication</c>
+
+00:18:48.390 --> 00:18:48.400 align:start position:0%
+that authentication
+ 
+
+00:18:48.400 --> 00:18:51.909 align:start position:0%
+that authentication
+and<00:18:48.559><c> then</c><00:18:49.120><c> once</c><00:18:49.440><c> we</c><00:18:49.679><c> have</c><00:18:50.000><c> this</c><00:18:50.320><c> in</c><00:18:50.559><c> place</c>
+
+00:18:51.909 --> 00:18:51.919 align:start position:0%
+and then once we have this in place
+ 
+
+00:18:51.919 --> 00:18:55.110 align:start position:0%
+and then once we have this in place
+azure<00:18:52.320><c> can</c><00:18:52.559><c> attest</c><00:18:53.440><c> to</c><00:18:53.600><c> the</c><00:18:53.760><c> security</c>
+
+00:18:55.110 --> 00:18:55.120 align:start position:0%
+azure can attest to the security
+ 
+
+00:18:55.120 --> 00:18:58.549 align:start position:0%
+azure can attest to the security
+and<00:18:55.760><c> integrity</c><00:18:56.640><c> of</c><00:18:56.960><c> this</c><00:18:57.280><c> particular</c><00:18:57.760><c> device</c>
+
+00:18:58.549 --> 00:18:58.559 align:start position:0%
+and integrity of this particular device
+ 
+
+00:18:58.559 --> 00:19:01.430 align:start position:0%
+and integrity of this particular device
+whether<00:18:58.880><c> it's</c><00:18:59.039><c> talking</c><00:18:59.360><c> to</c><00:18:59.600><c> other</c><00:18:59.919><c> devices</c><00:19:00.960><c> or</c>
+
+00:19:01.430 --> 00:19:01.440 align:start position:0%
+whether it's talking to other devices or
+ 
+
+00:19:01.440 --> 00:19:05.430 align:start position:0%
+whether it's talking to other devices or
+it<00:19:01.600><c> is</c><00:19:01.760><c> going</c><00:19:02.000><c> to</c><00:19:02.160><c> talk</c><00:19:02.480><c> to</c><00:19:02.799><c> other</c><00:19:03.120><c> solutions</c>
+
+00:19:05.430 --> 00:19:05.440 align:start position:0%
+it is going to talk to other solutions
+ 
+
+00:19:05.440 --> 00:19:06.549 align:start position:0%
+it is going to talk to other solutions
+and<00:19:05.600><c> then</c>
+
+00:19:06.549 --> 00:19:06.559 align:start position:0%
+and then
+ 
+
+00:19:06.559 --> 00:19:09.110 align:start position:0%
+and then
+that's<00:19:06.799><c> the</c><00:19:07.039><c> end</c><00:19:07.280><c> to</c><00:19:07.440><c> end</c><00:19:07.679><c> security</c>
+
+00:19:09.110 --> 00:19:09.120 align:start position:0%
+that's the end to end security
+ 
+
+00:19:09.120 --> 00:19:10.950 align:start position:0%
+that's the end to end security
+then<00:19:09.360><c> it</c><00:19:09.440><c> would</c><00:19:09.760><c> work</c><00:19:10.080><c> with</c><00:19:10.320><c> maybe</c><00:19:10.640><c> something</c>
+
+00:19:10.950 --> 00:19:10.960 align:start position:0%
+then it would work with maybe something
+ 
+
+00:19:10.960 --> 00:19:14.310 align:start position:0%
+then it would work with maybe something
+like<00:19:11.120><c> iot</c><00:19:11.679><c> hub</c><00:19:12.160><c> or</c><00:19:12.400><c> iot</c><00:19:12.960><c> central</c><00:19:13.840><c> so</c><00:19:14.000><c> this</c><00:19:14.160><c> is</c>
+
+00:19:14.310 --> 00:19:14.320 align:start position:0%
+like iot hub or iot central so this is
+ 
+
+00:19:14.320 --> 00:19:17.750 align:start position:0%
+like iot hub or iot central so this is
+all<00:19:14.480><c> about</c><00:19:14.799><c> the</c><00:19:15.000><c> security</c><00:19:16.080><c> side</c><00:19:17.039><c> of</c><00:19:17.280><c> that</c><00:19:17.600><c> end</c>
+
+00:19:17.750 --> 00:19:17.760 align:start position:0%
+all about the security side of that end
+ 
+
+00:19:17.760 --> 00:19:20.710 align:start position:0%
+all about the security side of that end
+to<00:19:18.000><c> end</c><00:19:18.320><c> flow</c><00:19:19.120><c> but</c><00:19:19.360><c> it's</c><00:19:19.760><c> not</c><00:19:20.000><c> providing</c><00:19:20.559><c> the</c>
+
+00:19:20.710 --> 00:19:20.720 align:start position:0%
+to end flow but it's not providing the
+ 
+
+00:19:20.720 --> 00:19:22.470 align:start position:0%
+to end flow but it's not providing the
+services<00:19:21.200><c> then</c><00:19:21.440><c> about</c><00:19:21.679><c> hey</c>
+
+00:19:22.470 --> 00:19:22.480 align:start position:0%
+services then about hey
+ 
+
+00:19:22.480 --> 00:19:24.630 align:start position:0%
+services then about hey
+working<00:19:22.799><c> with</c><00:19:23.039><c> it</c><00:19:23.280><c> and</c><00:19:23.520><c> gathering</c><00:19:24.000><c> telemetry</c>
+
+00:19:24.630 --> 00:19:24.640 align:start position:0%
+working with it and gathering telemetry
+ 
+
+00:19:24.640 --> 00:19:26.070 align:start position:0%
+working with it and gathering telemetry
+and<00:19:24.720><c> all</c><00:19:24.880><c> of</c><00:19:24.960><c> that</c><00:19:25.200><c> stuff</c>
+
+00:19:26.070 --> 00:19:26.080 align:start position:0%
+and all of that stuff
+ 
+
+00:19:26.080 --> 00:19:27.590 align:start position:0%
+and all of that stuff
+the<00:19:26.240><c> azure</c><00:19:26.480><c> sphere</c><00:19:26.799><c> is</c><00:19:26.960><c> really</c><00:19:27.200><c> focused</c><00:19:27.520><c> on</c>
+
+00:19:27.590 --> 00:19:27.600 align:start position:0%
+the azure sphere is really focused on
+ 
+
+00:19:27.600 --> 00:19:30.390 align:start position:0%
+the azure sphere is really focused on
+that<00:19:27.919><c> end-to-end</c><00:19:28.640><c> security</c><00:19:29.600><c> so</c><00:19:29.840><c> if</c><00:19:29.919><c> you</c><00:19:30.160><c> have</c>
+
+00:19:30.390 --> 00:19:30.400 align:start position:0%
+that end-to-end security so if you have
+ 
+
+00:19:30.400 --> 00:19:33.590 align:start position:0%
+that end-to-end security so if you have
+that<00:19:30.640><c> requirement</c><00:19:31.840><c> where</c><00:19:32.080><c> security</c>
+
+00:19:33.590 --> 00:19:33.600 align:start position:0%
+that requirement where security
+ 
+
+00:19:33.600 --> 00:19:36.390 align:start position:0%
+that requirement where security
+is<00:19:34.240><c> absolutely</c><00:19:35.280><c> critical</c>
+
+00:19:36.390 --> 00:19:36.400 align:start position:0%
+is absolutely critical
+ 
+
+00:19:36.400 --> 00:19:38.390 align:start position:0%
+is absolutely critical
+i<00:19:36.840><c> must</c>
+
+00:19:38.390 --> 00:19:38.400 align:start position:0%
+i must
+ 
+
+00:19:38.400 --> 00:19:40.310 align:start position:0%
+i must
+have<00:19:38.720><c> the</c><00:19:38.960><c> highest</c><00:19:39.280><c> level</c><00:19:39.600><c> of</c><00:19:39.679><c> security</c><00:19:40.160><c> and</c>
+
+00:19:40.310 --> 00:19:40.320 align:start position:0%
+have the highest level of security and
+ 
+
+00:19:40.320 --> 00:19:42.549 align:start position:0%
+have the highest level of security and
+integrity
+
+00:19:42.549 --> 00:19:42.559 align:start position:0%
+integrity
+ 
+
+00:19:42.559 --> 00:19:44.470 align:start position:0%
+integrity
+azure<00:19:42.960><c> sphere</c><00:19:43.520><c> is</c><00:19:43.679><c> going</c><00:19:43.760><c> to</c><00:19:43.840><c> help</c><00:19:44.080><c> provide</c>
+
+00:19:44.470 --> 00:19:44.480 align:start position:0%
+azure sphere is going to help provide
+ 
+
+00:19:44.480 --> 00:19:47.190 align:start position:0%
+azure sphere is going to help provide
+that<00:19:44.720><c> complete</c><00:19:45.200><c> end</c><00:19:45.440><c> to</c><00:19:45.600><c> end</c><00:19:46.160><c> with</c><00:19:46.400><c> that</c><00:19:46.799><c> azure</c>
+
+00:19:47.190 --> 00:19:47.200 align:start position:0%
+that complete end to end with that azure
+ 
+
+00:19:47.200 --> 00:19:49.830 align:start position:0%
+that complete end to end with that azure
+sphere<00:19:47.600><c> certified</c><00:19:48.240><c> micro</c><00:19:48.640><c> controller</c><00:19:49.120><c> unit</c>
+
+00:19:49.830 --> 00:19:49.840 align:start position:0%
+sphere certified micro controller unit
+ 
+
+00:19:49.840 --> 00:19:52.470 align:start position:0%
+sphere certified micro controller unit
+with<00:19:50.080><c> that</c><00:19:50.320><c> customized</c><00:19:50.880><c> linux</c><00:19:51.360><c> kernel</c><00:19:52.240><c> with</c>
+
+00:19:52.470 --> 00:19:52.480 align:start position:0%
+with that customized linux kernel with
+ 
+
+00:19:52.480 --> 00:19:55.350 align:start position:0%
+with that customized linux kernel with
+that<00:19:52.960><c> azure</c><00:19:53.440><c> sphere</c><00:19:53.840><c> the</c><00:19:54.000><c> as3</c><00:19:54.720><c> security</c>
+
+00:19:55.350 --> 00:19:55.360 align:start position:0%
+that azure sphere the as3 security
+ 
+
+00:19:55.360 --> 00:19:58.070 align:start position:0%
+that azure sphere the as3 security
+service<00:19:56.320><c> to</c><00:19:56.559><c> ensure</c><00:19:57.200><c> there</c><00:19:57.440><c> hasn't</c><00:19:57.679><c> been</c><00:19:57.840><c> any</c>
+
+00:19:58.070 --> 00:19:58.080 align:start position:0%
+service to ensure there hasn't been any
+ 
+
+00:19:58.080 --> 00:19:59.669 align:start position:0%
+service to ensure there hasn't been any
+malicious<00:19:58.559><c> compromise</c><00:19:59.200><c> and</c><00:19:59.280><c> help</c><00:19:59.440><c> me</c>
+
+00:19:59.669 --> 00:19:59.679 align:start position:0%
+malicious compromise and help me
+ 
+
+00:19:59.679 --> 00:20:01.990 align:start position:0%
+malicious compromise and help me
+actually<00:19:59.919><c> attest</c><00:20:00.320><c> hey</c><00:20:00.480><c> yes</c><00:20:00.720><c> i'm</c><00:20:00.880><c> healthy</c>
+
+00:20:01.990 --> 00:20:02.000 align:start position:0%
+actually attest hey yes i'm healthy
+ 
+
+00:20:02.000 --> 00:20:04.070 align:start position:0%
+actually attest hey yes i'm healthy
+and<00:20:02.159><c> help</c><00:20:02.400><c> me</c><00:20:02.720><c> authenticate</c><00:20:03.440><c> to</c><00:20:03.600><c> the</c><00:20:03.760><c> service</c>
+
+00:20:04.070 --> 00:20:04.080 align:start position:0%
+and help me authenticate to the service
+ 
+
+00:20:04.080 --> 00:20:06.789 align:start position:0%
+and help me authenticate to the service
+to<00:20:04.159><c> make</c><00:20:04.320><c> sure</c><00:20:04.480><c> no</c><00:20:04.640><c> one</c><00:20:04.960><c> is</c><00:20:05.280><c> impersonating</c><00:20:06.080><c> me</c>
+
+00:20:06.789 --> 00:20:06.799 align:start position:0%
+to make sure no one is impersonating me
+ 
+
+00:20:06.799 --> 00:20:09.029 align:start position:0%
+to make sure no one is impersonating me
+so<00:20:06.960><c> we</c><00:20:07.120><c> have</c><00:20:07.360><c> those</c><00:20:07.679><c> selection</c><00:20:08.400><c> of</c><00:20:08.640><c> three</c>
+
+00:20:09.029 --> 00:20:09.039 align:start position:0%
+so we have those selection of three
+ 
+
+00:20:09.039 --> 00:20:11.430 align:start position:0%
+so we have those selection of three
+services<00:20:10.080><c> iot</c><00:20:10.640><c> hub</c>
+
+00:20:11.430 --> 00:20:11.440 align:start position:0%
+services iot hub
+ 
+
+00:20:11.440 --> 00:20:12.710 align:start position:0%
+services iot hub
+hey<00:20:11.679><c> it's</c><00:20:11.840><c> going</c><00:20:11.919><c> to</c><00:20:12.080><c> handle</c><00:20:12.480><c> that</c>
+
+00:20:12.710 --> 00:20:12.720 align:start position:0%
+hey it's going to handle that
+ 
+
+00:20:12.720 --> 00:20:15.190 align:start position:0%
+hey it's going to handle that
+communication<00:20:13.520><c> the</c><00:20:13.760><c> plumbing</c><00:20:14.480><c> underneath</c><00:20:15.039><c> to</c>
+
+00:20:15.190 --> 00:20:15.200 align:start position:0%
+communication the plumbing underneath to
+ 
+
+00:20:15.200 --> 00:20:17.350 align:start position:0%
+communication the plumbing underneath to
+have<00:20:15.440><c> those</c><00:20:15.760><c> flows</c><00:20:16.240><c> going</c>
+
+00:20:17.350 --> 00:20:17.360 align:start position:0%
+have those flows going
+ 
+
+00:20:17.360 --> 00:20:19.909 align:start position:0%
+have those flows going
+gather<00:20:17.679><c> the</c><00:20:17.840><c> metrics</c><00:20:18.400><c> let</c><00:20:18.559><c> me</c><00:20:18.880><c> send</c><00:20:19.360><c> actions</c>
+
+00:20:19.909 --> 00:20:19.919 align:start position:0%
+gather the metrics let me send actions
+ 
+
+00:20:19.919 --> 00:20:22.390 align:start position:0%
+gather the metrics let me send actions
+enabled<00:20:20.320><c> by</c><00:20:20.480><c> these</c><00:20:20.720><c> device</c><00:20:21.200><c> twins</c><00:20:21.919><c> but</c><00:20:22.159><c> i'm</c>
+
+00:20:22.390 --> 00:20:22.400 align:start position:0%
+enabled by these device twins but i'm
+ 
+
+00:20:22.400 --> 00:20:24.470 align:start position:0%
+enabled by these device twins but i'm
+writing<00:20:22.799><c> my</c><00:20:23.039><c> own</c><00:20:23.280><c> app</c><00:20:23.840><c> but</c><00:20:24.000><c> it's</c><00:20:24.159><c> providing</c>
+
+00:20:24.470 --> 00:20:24.480 align:start position:0%
+writing my own app but it's providing
+ 
+
+00:20:24.480 --> 00:20:26.789 align:start position:0%
+writing my own app but it's providing
+those<00:20:24.799><c> sdks</c><00:20:25.919><c> if</c><00:20:26.000><c> i</c><00:20:26.080><c> want</c><00:20:26.240><c> something</c><00:20:26.480><c> out</c><00:20:26.720><c> of</c>
+
+00:20:26.789 --> 00:20:26.799 align:start position:0%
+those sdks if i want something out of
+ 
+
+00:20:26.799 --> 00:20:27.830 align:start position:0%
+those sdks if i want something out of
+the<00:20:26.880><c> box</c>
+
+00:20:27.830 --> 00:20:27.840 align:start position:0%
+the box
+ 
+
+00:20:27.840 --> 00:20:30.789 align:start position:0%
+the box
+or<00:20:28.080><c> hey</c><00:20:28.400><c> iot</c><00:20:28.960><c> central</c><00:20:29.600><c> gives</c><00:20:29.840><c> me</c><00:20:30.000><c> that</c><00:20:30.400><c> lots</c><00:20:30.640><c> of</c>
+
+00:20:30.789 --> 00:20:30.799 align:start position:0%
+or hey iot central gives me that lots of
+ 
+
+00:20:30.799 --> 00:20:32.870 align:start position:0%
+or hey iot central gives me that lots of
+industry<00:20:31.280><c> solutions</c><00:20:32.240><c> i</c><00:20:32.320><c> can</c><00:20:32.480><c> get</c><00:20:32.640><c> up</c><00:20:32.799><c> and</c>
+
+00:20:32.870 --> 00:20:32.880 align:start position:0%
+industry solutions i can get up and
+ 
+
+00:20:32.880 --> 00:20:35.909 align:start position:0%
+industry solutions i can get up and
+running<00:20:33.200><c> super</c><00:20:33.520><c> quickly</c><00:20:34.240><c> click</c><00:20:34.480><c> click</c><00:20:34.799><c> click</c>
+
+00:20:35.909 --> 00:20:35.919 align:start position:0%
+running super quickly click click click
+ 
+
+00:20:35.919 --> 00:20:38.549 align:start position:0%
+running super quickly click click click
+dashboards<00:20:36.799><c> apps</c><00:20:37.200><c> device</c><00:20:37.679><c> templates</c>
+
+00:20:38.549 --> 00:20:38.559 align:start position:0%
+dashboards apps device templates
+ 
+
+00:20:38.559 --> 00:20:40.630 align:start position:0%
+dashboards apps device templates
+simulates<00:20:39.200><c> devices</c>
+
+00:20:40.630 --> 00:20:40.640 align:start position:0%
+simulates devices
+ 
+
+00:20:40.640 --> 00:20:42.789 align:start position:0%
+simulates devices
+fully<00:20:40.880><c> customizable</c><00:20:42.159><c> create</c><00:20:42.320><c> those</c><00:20:42.559><c> nice</c>
+
+00:20:42.789 --> 00:20:42.799 align:start position:0%
+fully customizable create those nice
+ 
+
+00:20:42.799 --> 00:20:45.270 align:start position:0%
+fully customizable create those nice
+little<00:20:43.039><c> rules</c><00:20:43.360><c> for</c><00:20:43.600><c> a</c><00:20:43.679><c> wizard</c><00:20:44.400><c> hey</c><00:20:44.720><c> if</c><00:20:44.960><c> this</c>
+
+00:20:45.270 --> 00:20:45.280 align:start position:0%
+little rules for a wizard hey if this
+ 
+
+00:20:45.280 --> 00:20:47.270 align:start position:0%
+little rules for a wizard hey if this
+piece<00:20:45.520><c> of</c><00:20:45.600><c> telemetry</c><00:20:46.159><c> is</c><00:20:46.320><c> this</c><00:20:46.559><c> value</c><00:20:47.039><c> go</c><00:20:47.200><c> and</c>
+
+00:20:47.270 --> 00:20:47.280 align:start position:0%
+piece of telemetry is this value go and
+ 
+
+00:20:47.280 --> 00:20:49.190 align:start position:0%
+piece of telemetry is this value go and
+perform<00:20:48.000><c> this</c><00:20:48.240><c> thing</c>
+
+00:20:49.190 --> 00:20:49.200 align:start position:0%
+perform this thing
+ 
+
+00:20:49.200 --> 00:20:51.430 align:start position:0%
+perform this thing
+and<00:20:49.280><c> then</c><00:20:49.440><c> if</c><00:20:49.600><c> i</c><00:20:49.760><c> care</c><00:20:50.320><c> very</c><00:20:50.640><c> strongly</c><00:20:51.039><c> about</c>
+
+00:20:51.430 --> 00:20:51.440 align:start position:0%
+and then if i care very strongly about
+ 
+
+00:20:51.440 --> 00:20:54.549 align:start position:0%
+and then if i care very strongly about
+security<00:20:52.640><c> i</c><00:20:52.720><c> can</c><00:20:53.039><c> add</c><00:20:53.280><c> on</c><00:20:53.600><c> azure</c><00:20:54.000><c> sphere</c><00:20:54.400><c> for</c>
+
+00:20:54.549 --> 00:20:54.559 align:start position:0%
+security i can add on azure sphere for
+ 
+
+00:20:54.559 --> 00:20:57.590 align:start position:0%
+security i can add on azure sphere for
+that<00:20:54.720><c> complete</c><00:20:55.520><c> end</c><00:20:55.840><c> to</c><00:20:56.080><c> end</c><00:20:56.400><c> assurance</c><00:20:57.039><c> so</c><00:20:57.440><c> we</c>
+
+00:20:57.590 --> 00:20:57.600 align:start position:0%
+that complete end to end assurance so we
+ 
+
+00:20:57.600 --> 00:20:59.909 align:start position:0%
+that complete end to end assurance so we
+might<00:20:57.840><c> use</c><00:20:58.000><c> combinations</c><00:20:58.799><c> azure</c><00:20:59.120><c> sphere</c>
+
+00:20:59.909 --> 00:20:59.919 align:start position:0%
+might use combinations azure sphere
+ 
+
+00:20:59.919 --> 00:21:01.270 align:start position:0%
+might use combinations azure sphere
+would<00:21:00.159><c> not</c><00:21:00.320><c> generally</c><00:21:00.640><c> be</c><00:21:00.799><c> on</c><00:21:00.880><c> its</c><00:21:01.039><c> own</c><00:21:01.200><c> i'm</c>
+
+00:21:01.270 --> 00:21:01.280 align:start position:0%
+would not generally be on its own i'm
+ 
+
+00:21:01.280 --> 00:21:03.669 align:start position:0%
+would not generally be on its own i'm
+going<00:21:01.360><c> to</c><00:21:01.440><c> use</c><00:21:02.000><c> one</c><00:21:02.240><c> of</c><00:21:02.320><c> these</c><00:21:02.559><c> with</c><00:21:02.799><c> it</c><00:21:03.440><c> but</c>
+
+00:21:03.669 --> 00:21:03.679 align:start position:0%
+going to use one of these with it but
+ 
+
+00:21:03.679 --> 00:21:05.510 align:start position:0%
+going to use one of these with it but
+those<00:21:04.000><c> are</c><00:21:04.080><c> the</c><00:21:04.240><c> collections</c><00:21:04.799><c> of</c><00:21:04.960><c> iot</c>
+
+00:21:05.510 --> 00:21:05.520 align:start position:0%
+those are the collections of iot
+ 
+
+00:21:05.520 --> 00:21:09.159 align:start position:0%
+those are the collections of iot
+services<00:21:05.919><c> for</c><00:21:06.159><c> azure</c>
+

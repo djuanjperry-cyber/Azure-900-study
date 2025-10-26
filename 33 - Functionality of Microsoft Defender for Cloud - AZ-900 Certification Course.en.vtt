@@ -1,0 +1,2096 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.120 --> 00:00:02.710 align:start position:0%
+ 
+in<00:00:01.280><c> this</c><00:00:01.520><c> lesson</c><00:00:01.839><c> we're</c><00:00:02.000><c> going</c><00:00:02.159><c> to</c><00:00:02.240><c> look</c><00:00:02.560><c> at</c>
+
+00:00:02.710 --> 00:00:02.720 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.720 --> 00:00:05.269 align:start position:0%
+in this lesson we're going to look at
+the<00:00:02.879><c> functionality</c><00:00:03.840><c> of</c><00:00:04.080><c> microsoft</c><00:00:04.640><c> defender</c>
+
+00:00:05.269 --> 00:00:05.279 align:start position:0%
+the functionality of microsoft defender
+ 
+
+00:00:05.279 --> 00:00:08.230 align:start position:0%
+the functionality of microsoft defender
+for<00:00:05.600><c> cloud</c><00:00:06.319><c> previously</c><00:00:06.879><c> known</c><00:00:07.279><c> as</c><00:00:07.839><c> azure</c>
+
+00:00:08.230 --> 00:00:08.240 align:start position:0%
+for cloud previously known as azure
+ 
+
+00:00:08.240 --> 00:00:10.070 align:start position:0%
+for cloud previously known as azure
+security<00:00:08.800><c> center</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+security center
+ 
+
+00:00:10.080 --> 00:00:12.709 align:start position:0%
+security center
+if<00:00:10.240><c> we</c><00:00:10.400><c> look</c><00:00:10.639><c> at</c><00:00:10.719><c> the</c><00:00:10.880><c> various</c><00:00:11.360><c> objectives</c><00:00:12.320><c> for</c>
+
+00:00:12.709 --> 00:00:12.719 align:start position:0%
+if we look at the various objectives for
+ 
+
+00:00:12.719 --> 00:00:16.310 align:start position:0%
+if we look at the various objectives for
+az<00:00:13.120><c> 900</c><00:00:14.080><c> what</c><00:00:14.240><c> we're</c><00:00:14.559><c> diving</c><00:00:15.040><c> into</c><00:00:15.440><c> now</c><00:00:16.080><c> is</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+az 900 what we're diving into now is
+ 
+
+00:00:16.320 --> 00:00:18.950 align:start position:0%
+az 900 what we're diving into now is
+we're<00:00:16.560><c> starting</c><00:00:17.039><c> this</c><00:00:17.279><c> new</c><00:00:17.680><c> section</c><00:00:18.560><c> around</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+we're starting this new section around
+ 
+
+00:00:18.960 --> 00:00:21.429 align:start position:0%
+we're starting this new section around
+describe<00:00:19.600><c> general</c><00:00:20.000><c> security</c><00:00:20.800><c> and</c><00:00:21.039><c> network</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+describe general security and network
+ 
+
+00:00:21.439 --> 00:00:23.269 align:start position:0%
+describe general security and network
+security<00:00:22.080><c> features</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+security features
+ 
+
+00:00:23.279 --> 00:00:25.830 align:start position:0%
+security features
+and<00:00:23.439><c> now</c><00:00:23.600><c> we're</c><00:00:23.920><c> diving</c><00:00:24.400><c> into</c><00:00:24.640><c> these</c><00:00:25.039><c> describe</c>
+
+00:00:25.830 --> 00:00:25.840 align:start position:0%
+and now we're diving into these describe
+ 
+
+00:00:25.840 --> 00:00:27.990 align:start position:0%
+and now we're diving into these describe
+azure<00:00:26.240><c> security</c><00:00:26.720><c> features</c><00:00:27.680><c> where</c><00:00:27.840><c> we're</c>
+
+00:00:27.990 --> 00:00:28.000 align:start position:0%
+azure security features where we're
+ 
+
+00:00:28.000 --> 00:00:29.429 align:start position:0%
+azure security features where we're
+going<00:00:28.080><c> to</c><00:00:28.240><c> look</c><00:00:28.480><c> at</c><00:00:28.640><c> a</c><00:00:28.720><c> number</c><00:00:28.960><c> of</c><00:00:29.199><c> key</c>
+
+00:00:29.429 --> 00:00:29.439 align:start position:0%
+going to look at a number of key
+ 
+
+00:00:29.439 --> 00:00:31.509 align:start position:0%
+going to look at a number of key
+components<00:00:30.080><c> like</c><00:00:30.640><c> what</c><00:00:30.880><c> was</c><00:00:31.119><c> called</c><00:00:31.359><c> the</c>
+
+00:00:31.509 --> 00:00:31.519 align:start position:0%
+components like what was called the
+ 
+
+00:00:31.519 --> 00:00:33.110 align:start position:0%
+components like what was called the
+azure<00:00:31.760><c> security</c><00:00:32.239><c> center</c><00:00:32.640><c> and</c><00:00:32.800><c> i'm</c><00:00:32.880><c> sure</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+azure security center and i'm sure
+ 
+
+00:00:33.120 --> 00:00:34.630 align:start position:0%
+azure security center and i'm sure
+they'll<00:00:33.440><c> update</c><00:00:33.840><c> this</c><00:00:34.079><c> to</c><00:00:34.239><c> microsoft</c>
+
+00:00:34.630 --> 00:00:34.640 align:start position:0%
+they'll update this to microsoft
+ 
+
+00:00:34.640 --> 00:00:36.630 align:start position:0%
+they'll update this to microsoft
+defender<00:00:35.040><c> for</c><00:00:35.120><c> cloud</c><00:00:35.440><c> at</c><00:00:35.520><c> some</c><00:00:35.760><c> point</c>
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+defender for cloud at some point
+ 
+
+00:00:36.640 --> 00:00:38.950 align:start position:0%
+defender for cloud at some point
+and<00:00:36.800><c> then</c><00:00:36.960><c> looking</c><00:00:37.200><c> at</c><00:00:37.360><c> azure</c><00:00:37.760><c> keyboard</c><00:00:38.640><c> azure</c>
+
+00:00:38.950 --> 00:00:38.960 align:start position:0%
+and then looking at azure keyboard azure
+ 
+
+00:00:38.960 --> 00:00:41.670 align:start position:0%
+and then looking at azure keyboard azure
+sentinel<00:00:39.760><c> and</c><00:00:40.000><c> azure</c><00:00:40.399><c> dedicated</c><00:00:41.200><c> hosts</c>
+
+00:00:41.670 --> 00:00:41.680 align:start position:0%
+sentinel and azure dedicated hosts
+ 
+
+00:00:41.680 --> 00:00:44.470 align:start position:0%
+sentinel and azure dedicated hosts
+before<00:00:42.079><c> moving</c><00:00:42.480><c> on</c><00:00:42.640><c> to</c><00:00:43.200><c> describing</c><00:00:44.000><c> azure</c>
+
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+before moving on to describing azure
+ 
+
+00:00:44.480 --> 00:00:46.389 align:start position:0%
+before moving on to describing azure
+network<00:00:44.879><c> security</c>
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+network security
+ 
+
+00:00:46.399 --> 00:00:48.310 align:start position:0%
+network security
+so<00:00:46.559><c> we</c><00:00:46.719><c> want</c><00:00:46.879><c> to</c><00:00:47.120><c> look</c><00:00:47.440><c> at</c>
+
+00:00:48.310 --> 00:00:48.320 align:start position:0%
+so we want to look at
+ 
+
+00:00:48.320 --> 00:00:50.150 align:start position:0%
+so we want to look at
+what<00:00:48.559><c> formerly</c><00:00:48.960><c> was</c><00:00:49.120><c> known</c><00:00:49.360><c> as</c><00:00:49.600><c> was</c><00:00:49.840><c> azure</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+what formerly was known as was azure
+ 
+
+00:00:50.160 --> 00:00:51.750 align:start position:0%
+what formerly was known as was azure
+security<00:00:50.800><c> center</c>
+
+00:00:51.750 --> 00:00:51.760 align:start position:0%
+security center
+ 
+
+00:00:51.760 --> 00:00:54.069 align:start position:0%
+security center
+now<00:00:52.000><c> this</c><00:00:52.239><c> has</c><00:00:52.480><c> been</c><00:00:52.719><c> rebranded</c><00:00:53.600><c> with</c><00:00:53.760><c> a</c><00:00:53.840><c> whole</c>
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+now this has been rebranded with a whole
+ 
+
+00:00:54.079 --> 00:00:55.830 align:start position:0%
+now this has been rebranded with a whole
+bunch<00:00:54.320><c> of</c><00:00:54.559><c> other</c><00:00:54.800><c> things</c><00:00:55.120><c> to</c><00:00:55.280><c> microsoft</c>
+
+00:00:55.830 --> 00:00:55.840 align:start position:0%
+bunch of other things to microsoft
+ 
+
+00:00:55.840 --> 00:00:57.750 align:start position:0%
+bunch of other things to microsoft
+defender<00:00:56.320><c> for</c><00:00:56.480><c> the</c><00:00:56.640><c> cloud</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+defender for the cloud
+ 
+
+00:00:57.760 --> 00:01:00.549 align:start position:0%
+defender for the cloud
+and<00:00:57.920><c> as</c><00:00:58.079><c> the</c><00:00:58.320><c> name</c><00:00:58.879><c> suggests</c><00:00:59.680><c> it</c><00:00:59.920><c> becomes</c><00:01:00.320><c> this</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+and as the name suggests it becomes this
+ 
+
+00:01:00.559 --> 00:01:04.070 align:start position:0%
+and as the name suggests it becomes this
+security<00:01:01.440><c> hub</c><00:01:02.079><c> not</c><00:01:02.320><c> just</c><00:01:02.640><c> for</c><00:01:02.960><c> azure</c>
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+security hub not just for azure
+ 
+
+00:01:04.080 --> 00:01:05.990 align:start position:0%
+security hub not just for azure
+but<00:01:04.320><c> also</c><00:01:04.720><c> potentially</c><00:01:05.199><c> for</c><00:01:05.360><c> things</c><00:01:05.600><c> you</c><00:01:05.760><c> have</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+but also potentially for things you have
+ 
+
+00:01:06.000 --> 00:01:10.149 align:start position:0%
+but also potentially for things you have
+in<00:01:06.320><c> other</c><00:01:06.640><c> clouds</c><00:01:07.520><c> and</c><00:01:07.840><c> even</c><00:01:08.320><c> on</c><00:01:08.640><c> premises</c>
+
+00:01:10.149 --> 00:01:10.159 align:start position:0%
+in other clouds and even on premises
+ 
+
+00:01:10.159 --> 00:01:13.750 align:start position:0%
+in other clouds and even on premises
+what<00:01:10.320><c> it's</c><00:01:10.560><c> going</c><00:01:10.799><c> to</c><00:01:11.119><c> do</c><00:01:11.600><c> is</c><00:01:12.320><c> firstly</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+what it's going to do is firstly
+ 
+
+00:01:13.760 --> 00:01:15.910 align:start position:0%
+what it's going to do is firstly
+it<00:01:13.920><c> integrates</c><00:01:14.320><c> with</c><00:01:14.560><c> azure</c><00:01:14.880><c> policy</c>
+
+00:01:15.910 --> 00:01:15.920 align:start position:0%
+it integrates with azure policy
+ 
+
+00:01:15.920 --> 00:01:19.109 align:start position:0%
+it integrates with azure policy
+it<00:01:16.159><c> has</c><00:01:16.400><c> this</c><00:01:16.799><c> azure</c><00:01:17.200><c> security</c><00:01:18.000><c> benchmark</c>
+
+00:01:19.109 --> 00:01:19.119 align:start position:0%
+it has this azure security benchmark
+ 
+
+00:01:19.119 --> 00:01:21.749 align:start position:0%
+it has this azure security benchmark
+that<00:01:19.360><c> looks</c><00:01:19.680><c> at</c><00:01:19.840><c> a</c><00:01:20.000><c> whole</c><00:01:20.479><c> broad</c><00:01:21.040><c> range</c><00:01:21.439><c> of</c>
+
+00:01:21.749 --> 00:01:21.759 align:start position:0%
+that looks at a whole broad range of
+ 
+
+00:01:21.759 --> 00:01:23.910 align:start position:0%
+that looks at a whole broad range of
+different<00:01:22.400><c> aspects</c><00:01:22.960><c> of</c><00:01:23.040><c> the</c><00:01:23.200><c> resources</c><00:01:23.759><c> you</c>
+
+00:01:23.910 --> 00:01:23.920 align:start position:0%
+different aspects of the resources you
+ 
+
+00:01:23.920 --> 00:01:25.670 align:start position:0%
+different aspects of the resources you
+have<00:01:24.159><c> in</c><00:01:24.320><c> azure</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+have in azure
+ 
+
+00:01:25.680 --> 00:01:27.830 align:start position:0%
+have in azure
+and<00:01:25.840><c> looks</c><00:01:26.159><c> at</c><00:01:26.240><c> the</c><00:01:26.320><c> security</c><00:01:26.960><c> of</c><00:01:27.119><c> them</c>
+
+00:01:27.830 --> 00:01:27.840 align:start position:0%
+and looks at the security of them
+ 
+
+00:01:27.840 --> 00:01:29.990 align:start position:0%
+and looks at the security of them
+and<00:01:28.080><c> through</c><00:01:28.320><c> that</c><00:01:28.640><c> it</c><00:01:28.799><c> lets</c><00:01:29.040><c> you</c><00:01:29.280><c> get</c><00:01:29.520><c> various</c>
+
+00:01:29.990 --> 00:01:30.000 align:start position:0%
+and through that it lets you get various
+ 
+
+00:01:30.000 --> 00:01:32.069 align:start position:0%
+and through that it lets you get various
+recommendations<00:01:30.960><c> this</c><00:01:31.200><c> is</c><00:01:31.280><c> probably</c><00:01:31.759><c> easier</c>
+
+00:01:32.069 --> 00:01:32.079 align:start position:0%
+recommendations this is probably easier
+ 
+
+00:01:32.079 --> 00:01:34.390 align:start position:0%
+recommendations this is probably easier
+to<00:01:32.320><c> understand</c><00:01:32.720><c> if</c><00:01:32.880><c> we</c><00:01:32.960><c> look</c><00:01:33.200><c> at</c><00:01:33.280><c> this</c><00:01:34.000><c> so</c><00:01:34.159><c> if</c>
+
+00:01:34.390 --> 00:01:34.400 align:start position:0%
+to understand if we look at this so if
+ 
+
+00:01:34.400 --> 00:01:37.590 align:start position:0%
+to understand if we look at this so if
+we<00:01:34.640><c> jump</c><00:01:35.040><c> over</c><00:01:35.439><c> to</c><00:01:35.840><c> our</c><00:01:36.079><c> portal</c>
+
+00:01:37.590 --> 00:01:37.600 align:start position:0%
+we jump over to our portal
+ 
+
+00:01:37.600 --> 00:01:39.429 align:start position:0%
+we jump over to our portal
+what<00:01:37.759><c> we</c><00:01:37.920><c> can</c><00:01:38.079><c> do</c><00:01:38.240><c> is</c><00:01:38.479><c> scroll</c><00:01:38.880><c> down</c><00:01:39.119><c> now</c><00:01:39.280><c> you'll</c>
+
+00:01:39.429 --> 00:01:39.439 align:start position:0%
+what we can do is scroll down now you'll
+ 
+
+00:01:39.439 --> 00:01:41.590 align:start position:0%
+what we can do is scroll down now you'll
+notice<00:01:40.000><c> it's</c><00:01:40.320><c> saying</c><00:01:40.720><c> now</c>
+
+00:01:41.590 --> 00:01:41.600 align:start position:0%
+notice it's saying now
+ 
+
+00:01:41.600 --> 00:01:44.310 align:start position:0%
+notice it's saying now
+microsoft<00:01:42.159><c> defender</c><00:01:42.799><c> for</c><00:01:43.040><c> cloud</c><00:01:43.840><c> but</c><00:01:44.000><c> this</c><00:01:44.240><c> is</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+microsoft defender for cloud but this is
+ 
+
+00:01:44.320 --> 00:01:47.350 align:start position:0%
+microsoft defender for cloud but this is
+the<00:01:44.479><c> same</c><00:01:44.799><c> as</c><00:01:45.040><c> azure</c><00:01:45.360><c> security</c><00:01:46.159><c> center</c>
+
+00:01:47.350 --> 00:01:47.360 align:start position:0%
+the same as azure security center
+ 
+
+00:01:47.360 --> 00:01:49.429 align:start position:0%
+the same as azure security center
+so<00:01:47.520><c> if</c><00:01:47.680><c> we</c><00:01:47.759><c> go</c><00:01:47.920><c> and</c><00:01:48.000><c> look</c><00:01:48.240><c> at</c><00:01:48.320><c> this</c>
+
+00:01:49.429 --> 00:01:49.439 align:start position:0%
+so if we go and look at this
+ 
+
+00:01:49.439 --> 00:01:51.590 align:start position:0%
+so if we go and look at this
+what<00:01:49.600><c> we</c><00:01:49.759><c> can</c><00:01:50.000><c> now</c><00:01:50.320><c> do</c>
+
+00:01:51.590 --> 00:01:51.600 align:start position:0%
+what we can now do
+ 
+
+00:01:51.600 --> 00:01:53.350 align:start position:0%
+what we can now do
+is<00:01:51.920><c> from</c><00:01:52.159><c> here</c>
+
+00:01:53.350 --> 00:01:53.360 align:start position:0%
+is from here
+ 
+
+00:01:53.360 --> 00:01:55.190 align:start position:0%
+is from here
+it's<00:01:53.600><c> broken</c><00:01:54.000><c> up</c><00:01:54.159><c> into</c><00:01:54.399><c> a</c><00:01:54.479><c> number</c><00:01:54.960><c> of</c>
+
+00:01:55.190 --> 00:01:55.200 align:start position:0%
+it's broken up into a number of
+ 
+
+00:01:55.200 --> 00:01:57.190 align:start position:0%
+it's broken up into a number of
+different<00:01:55.680><c> sections</c><00:01:56.240><c> now</c><00:01:56.560><c> first</c><00:01:56.960><c> and</c>
+
+00:01:57.190 --> 00:01:57.200 align:start position:0%
+different sections now first and
+ 
+
+00:01:57.200 --> 00:01:59.590 align:start position:0%
+different sections now first and
+foremost<00:01:58.240><c> it's</c><00:01:58.399><c> going</c><00:01:58.560><c> to</c><00:01:58.719><c> show</c><00:01:59.040><c> me</c><00:01:59.360><c> an</c>
+
+00:01:59.590 --> 00:01:59.600 align:start position:0%
+foremost it's going to show me an
+ 
+
+00:01:59.600 --> 00:02:00.789 align:start position:0%
+foremost it's going to show me an
+overview
+
+00:02:00.789 --> 00:02:00.799 align:start position:0%
+overview
+ 
+
+00:02:00.799 --> 00:02:02.709 align:start position:0%
+overview
+it's<00:02:01.040><c> showing</c><00:02:01.360><c> me</c><00:02:01.680><c> the</c><00:02:01.920><c> various</c><00:02:02.399><c> azure</c>
+
+00:02:02.709 --> 00:02:02.719 align:start position:0%
+it's showing me the various azure
+ 
+
+00:02:02.719 --> 00:02:04.550 align:start position:0%
+it's showing me the various azure
+subscriptions<00:02:03.280><c> it's</c><00:02:03.439><c> looking</c><00:02:03.759><c> at</c><00:02:03.920><c> and</c><00:02:04.079><c> i</c><00:02:04.159><c> can</c>
+
+00:02:04.550 --> 00:02:04.560 align:start position:0%
+subscriptions it's looking at and i can
+ 
+
+00:02:04.560 --> 00:02:07.190 align:start position:0%
+subscriptions it's looking at and i can
+filter<00:02:04.960><c> those</c><00:02:05.680><c> if</c><00:02:05.920><c> i</c><00:02:06.000><c> do</c><00:02:06.240><c> restrict</c><00:02:06.719><c> it</c><00:02:06.799><c> to</c><00:02:06.960><c> just</c>
+
+00:02:07.190 --> 00:02:07.200 align:start position:0%
+filter those if i do restrict it to just
+ 
+
+00:02:07.200 --> 00:02:09.109 align:start position:0%
+filter those if i do restrict it to just
+certain<00:02:07.600><c> subscriptions</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+certain subscriptions
+ 
+
+00:02:09.119 --> 00:02:10.469 align:start position:0%
+certain subscriptions
+it's<00:02:09.280><c> showing</c><00:02:09.520><c> me</c><00:02:09.599><c> the</c><00:02:09.679><c> number</c><00:02:09.920><c> of</c><00:02:10.080><c> active</c>
+
+00:02:10.469 --> 00:02:10.479 align:start position:0%
+it's showing me the number of active
+ 
+
+00:02:10.479 --> 00:02:12.949 align:start position:0%
+it's showing me the number of active
+recommendations<00:02:11.760><c> showing</c><00:02:12.080><c> me</c><00:02:12.239><c> security</c>
+
+00:02:12.949 --> 00:02:12.959 align:start position:0%
+recommendations showing me security
+ 
+
+00:02:12.959 --> 00:02:14.150 align:start position:0%
+recommendations showing me security
+alerts
+
+00:02:14.150 --> 00:02:14.160 align:start position:0%
+alerts
+ 
+
+00:02:14.160 --> 00:02:16.869 align:start position:0%
+alerts
+it<00:02:14.400><c> starts</c><00:02:14.720><c> off</c><00:02:14.879><c> with</c><00:02:15.040><c> this</c><00:02:15.280><c> idea</c><00:02:15.680><c> of</c><00:02:15.840><c> a</c><00:02:16.000><c> secure</c>
+
+00:02:16.869 --> 00:02:16.879 align:start position:0%
+it starts off with this idea of a secure
+ 
+
+00:02:16.879 --> 00:02:18.869 align:start position:0%
+it starts off with this idea of a secure
+score<00:02:17.280><c> now</c><00:02:17.440><c> this</c><00:02:17.599><c> is</c><00:02:17.680><c> an</c><00:02:17.840><c> assessment</c><00:02:18.480><c> of</c><00:02:18.560><c> your</c>
+
+00:02:18.869 --> 00:02:18.879 align:start position:0%
+score now this is an assessment of your
+ 
+
+00:02:18.879 --> 00:02:21.510 align:start position:0%
+score now this is an assessment of your
+overall<00:02:19.599><c> security</c><00:02:20.319><c> posture</c>
+
+00:02:21.510 --> 00:02:21.520 align:start position:0%
+overall security posture
+ 
+
+00:02:21.520 --> 00:02:23.750 align:start position:0%
+overall security posture
+based<00:02:21.840><c> on</c><00:02:22.000><c> all</c><00:02:22.160><c> the</c><00:02:22.400><c> different</c><00:02:22.800><c> items</c><00:02:23.360><c> in</c>
+
+00:02:23.750 --> 00:02:23.760 align:start position:0%
+based on all the different items in
+ 
+
+00:02:23.760 --> 00:02:26.309 align:start position:0%
+based on all the different items in
+specs<00:02:24.480><c> and</c><00:02:24.640><c> what</c><00:02:24.879><c> is</c><00:02:24.959><c> this</c><00:02:25.200><c> useful</c><00:02:25.760><c> is</c><00:02:25.920><c> yes</c><00:02:26.239><c> i</c>
+
+00:02:26.309 --> 00:02:26.319 align:start position:0%
+specs and what is this useful is yes i
+ 
+
+00:02:26.319 --> 00:02:28.630 align:start position:0%
+specs and what is this useful is yes i
+can<00:02:26.480><c> get</c><00:02:26.720><c> a</c><00:02:26.879><c> broad</c><00:02:27.360><c> understanding</c><00:02:28.080><c> of</c><00:02:28.319><c> well</c>
+
+00:02:28.630 --> 00:02:28.640 align:start position:0%
+can get a broad understanding of well
+ 
+
+00:02:28.640 --> 00:02:30.550 align:start position:0%
+can get a broad understanding of well
+what<00:02:28.879><c> is</c><00:02:29.040><c> the</c><00:02:29.200><c> security</c><00:02:29.840><c> posture</c><00:02:30.319><c> of</c><00:02:30.400><c> my</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+what is the security posture of my
+ 
+
+00:02:30.560 --> 00:02:32.070 align:start position:0%
+what is the security posture of my
+subscriptions
+
+00:02:32.070 --> 00:02:32.080 align:start position:0%
+subscriptions
+ 
+
+00:02:32.080 --> 00:02:34.309 align:start position:0%
+subscriptions
+but<00:02:32.239><c> it</c><00:02:32.400><c> has</c><00:02:32.560><c> this</c><00:02:32.959><c> ability</c><00:02:33.440><c> to</c><00:02:33.680><c> improve</c><00:02:34.080><c> your</c>
+
+00:02:34.309 --> 00:02:34.319 align:start position:0%
+but it has this ability to improve your
+ 
+
+00:02:34.319 --> 00:02:37.030 align:start position:0%
+but it has this ability to improve your
+secure<00:02:34.879><c> score</c><00:02:35.680><c> so</c><00:02:35.920><c> it's</c><00:02:36.000><c> then</c><00:02:36.160><c> going</c><00:02:36.319><c> to</c><00:02:36.480><c> dive</c>
+
+00:02:37.030 --> 00:02:37.040 align:start position:0%
+secure score so it's then going to dive
+ 
+
+00:02:37.040 --> 00:02:39.350 align:start position:0%
+secure score so it's then going to dive
+into<00:02:37.920><c> well</c><00:02:38.239><c> looking</c><00:02:38.720><c> at</c><00:02:38.959><c> each</c><00:02:39.200><c> of</c><00:02:39.280><c> the</c>
+
+00:02:39.350 --> 00:02:39.360 align:start position:0%
+into well looking at each of the
+ 
+
+00:02:39.360 --> 00:02:41.190 align:start position:0%
+into well looking at each of the
+subscriptions
+
+00:02:41.190 --> 00:02:41.200 align:start position:0%
+subscriptions
+ 
+
+00:02:41.200 --> 00:02:43.110 align:start position:0%
+subscriptions
+and<00:02:41.280><c> then</c><00:02:41.440><c> i</c><00:02:41.519><c> can</c><00:02:41.840><c> actually</c><00:02:42.319><c> break</c><00:02:42.640><c> that</c><00:02:42.879><c> down</c>
+
+00:02:43.110 --> 00:02:43.120 align:start position:0%
+and then i can actually break that down
+ 
+
+00:02:43.120 --> 00:02:45.350 align:start position:0%
+and then i can actually break that down
+to<00:02:43.280><c> a</c><00:02:43.360><c> particular</c><00:02:43.920><c> subscription</c>
+
+00:02:45.350 --> 00:02:45.360 align:start position:0%
+to a particular subscription
+ 
+
+00:02:45.360 --> 00:02:47.350 align:start position:0%
+to a particular subscription
+and<00:02:45.440><c> then</c><00:02:45.680><c> look</c><00:02:45.840><c> at</c><00:02:46.000><c> the</c><00:02:46.280><c> recommendations</c>
+
+00:02:47.350 --> 00:02:47.360 align:start position:0%
+and then look at the recommendations
+ 
+
+00:02:47.360 --> 00:02:50.309 align:start position:0%
+and then look at the recommendations
+they<00:02:47.680><c> have</c><00:02:48.319><c> now</c><00:02:48.480><c> the</c><00:02:48.640><c> recommendations</c><00:02:49.599><c> have</c>
+
+00:02:50.309 --> 00:02:50.319 align:start position:0%
+they have now the recommendations have
+ 
+
+00:02:50.319 --> 00:02:52.470 align:start position:0%
+they have now the recommendations have
+different<00:02:50.720><c> amounts</c><00:02:51.360><c> of</c><00:02:51.599><c> points</c><00:02:51.920><c> available</c>
+
+00:02:52.470 --> 00:02:52.480 align:start position:0%
+different amounts of points available
+ 
+
+00:02:52.480 --> 00:02:55.110 align:start position:0%
+different amounts of points available
+based<00:02:52.800><c> on</c><00:02:52.879><c> their</c><00:02:53.120><c> criticality</c><00:02:53.920><c> for</c><00:02:54.080><c> example</c>
+
+00:02:55.110 --> 00:02:55.120 align:start position:0%
+based on their criticality for example
+ 
+
+00:02:55.120 --> 00:02:58.630 align:start position:0%
+based on their criticality for example
+enabling<00:02:55.840><c> mfa</c><00:02:56.720><c> well</c><00:02:56.879><c> that's</c><00:02:57.120><c> a</c><00:02:57.280><c> huge</c><00:02:57.680><c> one</c><00:02:58.400><c> so</c>
+
+00:02:58.630 --> 00:02:58.640 align:start position:0%
+enabling mfa well that's a huge one so
+ 
+
+00:02:58.640 --> 00:03:01.190 align:start position:0%
+enabling mfa well that's a huge one so
+that<00:02:58.879><c> has</c><00:02:59.120><c> a</c><00:02:59.200><c> potential</c><00:03:00.000><c> score</c><00:03:00.480><c> in</c><00:03:00.560><c> this</c><00:03:00.879><c> case</c>
+
+00:03:01.190 --> 00:03:01.200 align:start position:0%
+that has a potential score in this case
+ 
+
+00:03:01.200 --> 00:03:02.550 align:start position:0%
+that has a potential score in this case
+as<00:03:01.280><c> we</c><00:03:01.440><c> can</c><00:03:01.680><c> see</c>
+
+00:03:02.550 --> 00:03:02.560 align:start position:0%
+as we can see
+ 
+
+00:03:02.560 --> 00:03:05.670 align:start position:0%
+as we can see
+of<00:03:02.959><c> 10</c><00:03:03.760><c> and</c><00:03:03.840><c> company</c><00:03:04.159><c> has</c><00:03:04.319><c> given</c><00:03:04.480><c> me</c><00:03:04.720><c> zero</c><00:03:05.519><c> so</c>
+
+00:03:05.670 --> 00:03:05.680 align:start position:0%
+of 10 and company has given me zero so
+ 
+
+00:03:05.680 --> 00:03:08.550 align:start position:0%
+of 10 and company has given me zero so
+if<00:03:05.840><c> i</c><00:03:05.920><c> went</c><00:03:06.159><c> and</c><00:03:06.319><c> enabled</c><00:03:06.959><c> that</c><00:03:07.680><c> then</c>
+
+00:03:08.550 --> 00:03:08.560 align:start position:0%
+if i went and enabled that then
+ 
+
+00:03:08.560 --> 00:03:10.869 align:start position:0%
+if i went and enabled that then
+it<00:03:08.720><c> will</c><00:03:08.959><c> improve</c><00:03:09.519><c> my</c><00:03:09.840><c> score</c>
+
+00:03:10.869 --> 00:03:10.879 align:start position:0%
+it will improve my score
+ 
+
+00:03:10.879 --> 00:03:12.710 align:start position:0%
+it will improve my score
+securing<00:03:11.440><c> certain</c><00:03:11.840><c> management</c><00:03:12.319><c> ports</c>
+
+00:03:12.710 --> 00:03:12.720 align:start position:0%
+securing certain management ports
+ 
+
+00:03:12.720 --> 00:03:15.990 align:start position:0%
+securing certain management ports
+applying<00:03:13.280><c> certain</c><00:03:13.680><c> system</c><00:03:14.319><c> updates</c><00:03:15.360><c> certain</c>
+
+00:03:15.990 --> 00:03:16.000 align:start position:0%
+applying certain system updates certain
+ 
+
+00:03:16.000 --> 00:03:17.110 align:start position:0%
+applying certain system updates certain
+agents
+
+00:03:17.110 --> 00:03:17.120 align:start position:0%
+agents
+ 
+
+00:03:17.120 --> 00:03:19.750 align:start position:0%
+agents
+remediate<00:03:17.760><c> certain</c><00:03:18.159><c> vulnerabilities</c>
+
+00:03:19.750 --> 00:03:19.760 align:start position:0%
+remediate certain vulnerabilities
+ 
+
+00:03:19.760 --> 00:03:21.750 align:start position:0%
+remediate certain vulnerabilities
+and<00:03:20.000><c> some</c><00:03:20.239><c> of</c><00:03:20.400><c> these</c><00:03:20.720><c> it</c><00:03:20.879><c> will</c><00:03:21.040><c> actually</c><00:03:21.440><c> give</c>
+
+00:03:21.750 --> 00:03:21.760 align:start position:0%
+and some of these it will actually give
+ 
+
+00:03:21.760 --> 00:03:24.229 align:start position:0%
+and some of these it will actually give
+you<00:03:21.920><c> the</c><00:03:22.319><c> option</c><00:03:22.800><c> for</c><00:03:22.959><c> example</c><00:03:23.840><c> there'll</c><00:03:24.159><c> be</c>
+
+00:03:24.229 --> 00:03:24.239 align:start position:0%
+you the option for example there'll be
+ 
+
+00:03:24.239 --> 00:03:26.229 align:start position:0%
+you the option for example there'll be
+like<00:03:24.400><c> a</c><00:03:24.560><c> quick</c><00:03:24.959><c> fix</c><00:03:25.360><c> option</c>
+
+00:03:26.229 --> 00:03:26.239 align:start position:0%
+like a quick fix option
+ 
+
+00:03:26.239 --> 00:03:28.390 align:start position:0%
+like a quick fix option
+so<00:03:26.480><c> we'll</c><00:03:26.640><c> actually</c><00:03:27.040><c> let</c><00:03:27.280><c> me</c><00:03:27.519><c> go</c><00:03:27.920><c> through</c><00:03:28.239><c> and</c>
+
+00:03:28.390 --> 00:03:28.400 align:start position:0%
+so we'll actually let me go through and
+ 
+
+00:03:28.400 --> 00:03:30.789 align:start position:0%
+so we'll actually let me go through and
+help<00:03:28.720><c> me</c><00:03:29.040><c> fix</c><00:03:29.360><c> that</c><00:03:29.680><c> item</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+help me fix that item
+ 
+
+00:03:30.799 --> 00:03:32.309 align:start position:0%
+help me fix that item
+and<00:03:30.959><c> potentially</c><00:03:31.760><c> it's</c><00:03:31.840><c> giving</c><00:03:32.080><c> me</c><00:03:32.239><c> a</c>
+
+00:03:32.309 --> 00:03:32.319 align:start position:0%
+and potentially it's giving me a
+ 
+
+00:03:32.319 --> 00:03:34.309 align:start position:0%
+and potentially it's giving me a
+recommendation<00:03:32.959><c> that</c><00:03:33.040><c> doesn't</c><00:03:33.519><c> apply</c><00:03:33.920><c> to</c><00:03:34.159><c> my</c>
+
+00:03:34.309 --> 00:03:34.319 align:start position:0%
+recommendation that doesn't apply to my
+ 
+
+00:03:34.319 --> 00:03:36.630 align:start position:0%
+recommendation that doesn't apply to my
+environment<00:03:35.200><c> maybe</c><00:03:35.440><c> i'm</c><00:03:35.599><c> using</c><00:03:36.000><c> some</c><00:03:36.239><c> other</c>
+
+00:03:36.630 --> 00:03:36.640 align:start position:0%
+environment maybe i'm using some other
+ 
+
+00:03:36.640 --> 00:03:38.789 align:start position:0%
+environment maybe i'm using some other
+technology<00:03:37.440><c> to</c><00:03:37.599><c> remediate</c><00:03:38.239><c> that</c><00:03:38.480><c> risk</c><00:03:38.720><c> in</c>
+
+00:03:38.789 --> 00:03:38.799 align:start position:0%
+technology to remediate that risk in
+ 
+
+00:03:38.799 --> 00:03:41.270 align:start position:0%
+technology to remediate that risk in
+which<00:03:39.040><c> case</c><00:03:39.680><c> i</c><00:03:39.840><c> can</c><00:03:40.000><c> say</c><00:03:40.239><c> hey</c>
+
+00:03:41.270 --> 00:03:41.280 align:start position:0%
+which case i can say hey
+ 
+
+00:03:41.280 --> 00:03:43.670 align:start position:0%
+which case i can say hey
+i<00:03:41.440><c> just</c><00:03:41.599><c> want</c><00:03:41.840><c> you</c><00:03:42.080><c> to</c><00:03:42.400><c> make</c><00:03:42.640><c> this</c><00:03:42.959><c> exempt</c><00:03:43.599><c> i</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+i just want you to make this exempt i
+ 
+
+00:03:43.680 --> 00:03:45.430 align:start position:0%
+i just want you to make this exempt i
+don't<00:03:43.840><c> want</c><00:03:44.000><c> you</c><00:03:44.159><c> to</c><00:03:44.319><c> kind</c><00:03:44.480><c> of</c><00:03:44.640><c> flag</c><00:03:44.959><c> this</c><00:03:45.200><c> or</c>
+
+00:03:45.430 --> 00:03:45.440 align:start position:0%
+don't want you to kind of flag this or
+ 
+
+00:03:45.440 --> 00:03:47.509 align:start position:0%
+don't want you to kind of flag this or
+consider<00:03:45.920><c> this</c><00:03:46.239><c> anymore</c>
+
+00:03:47.509 --> 00:03:47.519 align:start position:0%
+consider this anymore
+ 
+
+00:03:47.519 --> 00:03:49.990 align:start position:0%
+consider this anymore
+so<00:03:47.760><c> first</c><00:03:48.159><c> and</c><00:03:48.400><c> foremost</c><00:03:48.959><c> azure</c><00:03:49.280><c> security</c>
+
+00:03:49.990 --> 00:03:50.000 align:start position:0%
+so first and foremost azure security
+ 
+
+00:03:50.000 --> 00:03:52.789 align:start position:0%
+so first and foremost azure security
+center<00:03:50.480><c> is</c><00:03:50.640><c> giving</c><00:03:51.040><c> me</c><00:03:51.599><c> a</c><00:03:51.840><c> whole</c><00:03:52.159><c> set</c><00:03:52.480><c> of</c>
+
+00:03:52.789 --> 00:03:52.799 align:start position:0%
+center is giving me a whole set of
+ 
+
+00:03:52.799 --> 00:03:54.390 align:start position:0%
+center is giving me a whole set of
+recommendations
+
+00:03:54.390 --> 00:03:54.400 align:start position:0%
+recommendations
+ 
+
+00:03:54.400 --> 00:03:56.070 align:start position:0%
+recommendations
+so<00:03:54.560><c> we</c><00:03:54.640><c> can</c><00:03:54.799><c> see</c><00:03:55.040><c> hey</c><00:03:55.280><c> there's</c><00:03:55.599><c> other</c><00:03:55.840><c> things</c>
+
+00:03:56.070 --> 00:03:56.080 align:start position:0%
+so we can see hey there's other things
+ 
+
+00:03:56.080 --> 00:03:58.390 align:start position:0%
+so we can see hey there's other things
+it<00:03:56.159><c> hooks</c><00:03:56.480><c> into</c><00:03:57.120><c> inventory</c>
+
+00:03:58.390 --> 00:03:58.400 align:start position:0%
+it hooks into inventory
+ 
+
+00:03:58.400 --> 00:04:01.190 align:start position:0%
+it hooks into inventory
+but<00:03:58.560><c> this</c><00:03:58.879><c> recommendation</c><00:04:00.319><c> is</c><00:04:00.480><c> what</c><00:04:00.799><c> drives</c>
+
+00:04:01.190 --> 00:04:01.200 align:start position:0%
+but this recommendation is what drives
+ 
+
+00:04:01.200 --> 00:04:03.270 align:start position:0%
+but this recommendation is what drives
+the<00:04:01.280><c> secure</c><00:04:01.760><c> score</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+the secure score
+ 
+
+00:04:03.280 --> 00:04:05.190 align:start position:0%
+the secure score
+and<00:04:03.519><c> also</c><00:04:03.840><c> i</c><00:04:03.920><c> can</c><00:04:04.080><c> just</c><00:04:04.239><c> see</c><00:04:04.400><c> a</c><00:04:04.480><c> list</c><00:04:04.720><c> of</c><00:04:04.959><c> all</c>
+
+00:04:05.190 --> 00:04:05.200 align:start position:0%
+and also i can just see a list of all
+ 
+
+00:04:05.200 --> 00:04:07.750 align:start position:0%
+and also i can just see a list of all
+recommendations<00:04:06.319><c> in</c><00:04:06.480><c> my</c><00:04:06.640><c> environment</c><00:04:07.599><c> and</c>
+
+00:04:07.750 --> 00:04:07.760 align:start position:0%
+recommendations in my environment and
+ 
+
+00:04:07.760 --> 00:04:09.350 align:start position:0%
+recommendations in my environment and
+it's<00:04:07.920><c> going</c><00:04:08.159><c> through</c><00:04:08.560><c> all</c><00:04:08.720><c> those</c><00:04:08.959><c> different</c>
+
+00:04:09.350 --> 00:04:09.360 align:start position:0%
+it's going through all those different
+ 
+
+00:04:09.360 --> 00:04:10.630 align:start position:0%
+it's going through all those different
+services
+
+00:04:10.630 --> 00:04:10.640 align:start position:0%
+services
+ 
+
+00:04:10.640 --> 00:04:12.390 align:start position:0%
+services
+and<00:04:10.799><c> giving</c><00:04:11.040><c> me</c><00:04:11.280><c> things</c><00:04:11.680><c> i</c><00:04:11.760><c> should</c><00:04:12.000><c> look</c><00:04:12.239><c> at</c>
+
+00:04:12.390 --> 00:04:12.400 align:start position:0%
+and giving me things i should look at
+ 
+
+00:04:12.400 --> 00:04:14.070 align:start position:0%
+and giving me things i should look at
+it's<00:04:12.560><c> showing</c><00:04:12.799><c> me</c><00:04:13.040><c> what</c><00:04:13.200><c> is</c><00:04:13.360><c> my</c><00:04:13.519><c> compliance</c>
+
+00:04:14.070 --> 00:04:14.080 align:start position:0%
+it's showing me what is my compliance
+ 
+
+00:04:14.080 --> 00:04:16.710 align:start position:0%
+it's showing me what is my compliance
+status<00:04:15.040><c> all</c><00:04:15.280><c> red</c><00:04:15.519><c> means</c><00:04:15.840><c> well</c><00:04:16.079><c> nothing</c><00:04:16.560><c> is</c>
+
+00:04:16.710 --> 00:04:16.720 align:start position:0%
+status all red means well nothing is
+ 
+
+00:04:16.720 --> 00:04:17.990 align:start position:0%
+status all red means well nothing is
+meeting<00:04:17.120><c> this</c>
+
+00:04:17.990 --> 00:04:18.000 align:start position:0%
+meeting this
+ 
+
+00:04:18.000 --> 00:04:20.069 align:start position:0%
+meeting this
+some<00:04:18.160><c> of</c><00:04:18.239><c> them</c><00:04:18.400><c> i</c><00:04:18.479><c> have</c><00:04:18.720><c> a</c><00:04:18.799><c> certain</c><00:04:19.280><c> portion</c><00:04:19.840><c> so</c>
+
+00:04:20.069 --> 00:04:20.079 align:start position:0%
+some of them i have a certain portion so
+ 
+
+00:04:20.079 --> 00:04:21.670 align:start position:0%
+some of them i have a certain portion so
+some<00:04:20.239><c> of</c><00:04:20.320><c> them</c><00:04:20.560><c> are</c><00:04:20.720><c> meeting</c><00:04:21.120><c> it</c><00:04:21.280><c> some</c><00:04:21.440><c> of</c><00:04:21.519><c> them</c>
+
+00:04:21.670 --> 00:04:21.680 align:start position:0%
+some of them are meeting it some of them
+ 
+
+00:04:21.680 --> 00:04:22.550 align:start position:0%
+some of them are meeting it some of them
+are<00:04:21.759><c> not</c>
+
+00:04:22.550 --> 00:04:22.560 align:start position:0%
+are not
+ 
+
+00:04:22.560 --> 00:04:24.230 align:start position:0%
+are not
+and<00:04:22.720><c> some</c><00:04:22.880><c> of</c><00:04:22.960><c> them</c><00:04:23.120><c> i'm</c><00:04:23.280><c> green</c><00:04:23.520><c> on</c><00:04:23.759><c> hey</c><00:04:23.919><c> yes</c>
+
+00:04:24.230 --> 00:04:24.240 align:start position:0%
+and some of them i'm green on hey yes
+ 
+
+00:04:24.240 --> 00:04:26.830 align:start position:0%
+and some of them i'm green on hey yes
+i'm<00:04:24.400><c> meeting</c><00:04:24.880><c> this</c><00:04:25.120><c> particular</c>
+
+00:04:26.830 --> 00:04:26.840 align:start position:0%
+i'm meeting this particular
+ 
+
+00:04:26.840 --> 00:04:29.590 align:start position:0%
+i'm meeting this particular
+requirement<00:04:27.840><c> there's</c><00:04:28.240><c> also</c><00:04:28.720><c> an</c><00:04:28.960><c> idea</c><00:04:29.440><c> of</c>
+
+00:04:29.590 --> 00:04:29.600 align:start position:0%
+requirement there's also an idea of
+ 
+
+00:04:29.600 --> 00:04:32.390 align:start position:0%
+requirement there's also an idea of
+regulatory<00:04:30.479><c> compliance</c><00:04:31.199><c> so</c><00:04:31.360><c> if</c><00:04:31.520><c> i</c><00:04:31.600><c> go</c><00:04:31.759><c> down</c><00:04:32.000><c> to</c>
+
+00:04:32.390 --> 00:04:32.400 align:start position:0%
+regulatory compliance so if i go down to
+ 
+
+00:04:32.400 --> 00:04:34.629 align:start position:0%
+regulatory compliance so if i go down to
+regulatory<00:04:33.120><c> compliance</c><00:04:33.840><c> down</c><00:04:34.080><c> in</c><00:04:34.160><c> this</c><00:04:34.320><c> cloud</c>
+
+00:04:34.629 --> 00:04:34.639 align:start position:0%
+regulatory compliance down in this cloud
+ 
+
+00:04:34.639 --> 00:04:36.390 align:start position:0%
+regulatory compliance down in this cloud
+security
+
+00:04:36.390 --> 00:04:36.400 align:start position:0%
+security
+ 
+
+00:04:36.400 --> 00:04:39.030 align:start position:0%
+security
+by<00:04:36.720><c> default</c><00:04:37.759><c> it's</c><00:04:38.080><c> just</c><00:04:38.320><c> comparing</c><00:04:38.880><c> me</c>
+
+00:04:39.030 --> 00:04:39.040 align:start position:0%
+by default it's just comparing me
+ 
+
+00:04:39.040 --> 00:04:42.150 align:start position:0%
+by default it's just comparing me
+against<00:04:39.520><c> this</c><00:04:39.919><c> azure</c><00:04:40.240><c> security</c><00:04:40.960><c> benchmark</c><00:04:42.000><c> so</c>
+
+00:04:42.150 --> 00:04:42.160 align:start position:0%
+against this azure security benchmark so
+ 
+
+00:04:42.160 --> 00:04:44.230 align:start position:0%
+against this azure security benchmark so
+that<00:04:42.400><c> consists</c><00:04:42.800><c> of</c><00:04:42.880><c> a</c><00:04:42.960><c> number</c><00:04:43.199><c> of</c><00:04:43.440><c> controls</c>
+
+00:04:44.230 --> 00:04:44.240 align:start position:0%
+that consists of a number of controls
+ 
+
+00:04:44.240 --> 00:04:45.990 align:start position:0%
+that consists of a number of controls
+that<00:04:44.400><c> i</c><00:04:44.560><c> can</c><00:04:44.720><c> see</c><00:04:45.040><c> here</c>
+
+00:04:45.990 --> 00:04:46.000 align:start position:0%
+that i can see here
+ 
+
+00:04:46.000 --> 00:04:48.230 align:start position:0%
+that i can see here
+i<00:04:46.080><c> can</c><00:04:46.240><c> go</c><00:04:46.400><c> into</c><00:04:46.720><c> details</c><00:04:47.360><c> and</c><00:04:47.440><c> see</c><00:04:47.680><c> what</c><00:04:48.000><c> each</c>
+
+00:04:48.230 --> 00:04:48.240 align:start position:0%
+i can go into details and see what each
+ 
+
+00:04:48.240 --> 00:04:50.790 align:start position:0%
+i can go into details and see what each
+of<00:04:48.479><c> those</c><00:04:49.040><c> are</c><00:04:49.199><c> really</c><00:04:49.600><c> looking</c><00:04:49.919><c> at</c>
+
+00:04:50.790 --> 00:04:50.800 align:start position:0%
+of those are really looking at
+ 
+
+00:04:50.800 --> 00:04:52.870 align:start position:0%
+of those are really looking at
+but<00:04:50.960><c> there</c><00:04:51.199><c> are</c><00:04:51.440><c> others</c><00:04:52.160><c> there</c><00:04:52.400><c> are</c><00:04:52.639><c> other</c>
+
+00:04:52.870 --> 00:04:52.880 align:start position:0%
+but there are others there are other
+ 
+
+00:04:52.880 --> 00:04:56.390 align:start position:0%
+but there are others there are other
+compliance<00:04:53.680><c> policies</c><00:04:54.400><c> i</c><00:04:54.639><c> can</c><00:04:54.880><c> add</c><00:04:55.600><c> if</c><00:04:55.840><c> i</c><00:04:56.080><c> add</c>
+
+00:04:56.390 --> 00:04:56.400 align:start position:0%
+compliance policies i can add if i add
+ 
+
+00:04:56.400 --> 00:04:58.310 align:start position:0%
+compliance policies i can add if i add
+the<00:04:56.720><c> enhanced</c>
+
+00:04:58.310 --> 00:04:58.320 align:start position:0%
+the enhanced
+ 
+
+00:04:58.320 --> 00:05:00.150 align:start position:0%
+the enhanced
+defender<00:04:58.800><c> capabilities</c><00:04:59.520><c> so</c><00:04:59.600><c> if</c><00:04:59.759><c> i</c><00:04:59.840><c> look</c><00:05:00.000><c> at</c>
+
+00:05:00.150 --> 00:05:00.160 align:start position:0%
+defender capabilities so if i look at
+ 
+
+00:05:00.160 --> 00:05:02.310 align:start position:0%
+defender capabilities so if i look at
+managed<00:05:00.479><c> compliance</c><00:05:01.120><c> policies</c>
+
+00:05:02.310 --> 00:05:02.320 align:start position:0%
+managed compliance policies
+ 
+
+00:05:02.320 --> 00:05:03.749 align:start position:0%
+managed compliance policies
+and<00:05:02.479><c> for</c><00:05:02.639><c> right</c><00:05:02.800><c> now</c><00:05:02.960><c> i'll</c><00:05:03.120><c> just</c><00:05:03.280><c> do</c><00:05:03.440><c> it</c><00:05:03.600><c> at</c><00:05:03.680><c> the</c>
+
+00:05:03.749 --> 00:05:03.759 align:start position:0%
+and for right now i'll just do it at the
+ 
+
+00:05:03.759 --> 00:05:05.590 align:start position:0%
+and for right now i'll just do it at the
+management<00:05:04.320><c> group</c><00:05:04.560><c> level</c>
+
+00:05:05.590 --> 00:05:05.600 align:start position:0%
+management group level
+ 
+
+00:05:05.600 --> 00:05:07.350 align:start position:0%
+management group level
+we<00:05:05.759><c> can</c><00:05:05.840><c> see</c><00:05:06.000><c> there</c><00:05:06.240><c> are</c><00:05:06.320><c> a</c><00:05:06.400><c> whole</c><00:05:06.639><c> bunch</c><00:05:06.960><c> of</c>
+
+00:05:07.350 --> 00:05:07.360 align:start position:0%
+we can see there are a whole bunch of
+ 
+
+00:05:07.360 --> 00:05:10.150 align:start position:0%
+we can see there are a whole bunch of
+other<00:05:07.840><c> types</c><00:05:08.400><c> of</c><00:05:08.479><c> regulatory</c><00:05:09.120><c> compliance</c>
+
+00:05:10.150 --> 00:05:10.160 align:start position:0%
+other types of regulatory compliance
+ 
+
+00:05:10.160 --> 00:05:13.189 align:start position:0%
+other types of regulatory compliance
+dashboards<00:05:10.800><c> available</c><00:05:11.280><c> and</c><00:05:11.440><c> i</c><00:05:11.520><c> can</c><00:05:11.759><c> add</c><00:05:12.080><c> more</c>
+
+00:05:13.189 --> 00:05:13.199 align:start position:0%
+dashboards available and i can add more
+ 
+
+00:05:13.199 --> 00:05:15.110 align:start position:0%
+dashboards available and i can add more
+so<00:05:13.360><c> all</c><00:05:13.520><c> of</c><00:05:13.600><c> these</c><00:05:13.840><c> are</c><00:05:13.919><c> built</c><00:05:14.240><c> in</c><00:05:14.880><c> all</c><00:05:15.039><c> of</c>
+
+00:05:15.110 --> 00:05:15.120 align:start position:0%
+so all of these are built in all of
+ 
+
+00:05:15.120 --> 00:05:17.830 align:start position:0%
+so all of these are built in all of
+these<00:05:15.440><c> i</c><00:05:15.600><c> can</c><00:05:15.919><c> add</c><00:05:16.560><c> which</c><00:05:16.880><c> looks</c><00:05:17.360><c> at</c><00:05:17.520><c> the</c>
+
+00:05:17.830 --> 00:05:17.840 align:start position:0%
+these i can add which looks at the
+ 
+
+00:05:17.840 --> 00:05:20.550 align:start position:0%
+these i can add which looks at the
+aspects<00:05:18.320><c> of</c><00:05:18.400><c> security</c><00:05:19.120><c> related</c><00:05:19.759><c> to</c><00:05:20.080><c> this</c>
+
+00:05:20.550 --> 00:05:20.560 align:start position:0%
+aspects of security related to this
+ 
+
+00:05:20.560 --> 00:05:21.749 align:start position:0%
+aspects of security related to this
+particular
+
+00:05:21.749 --> 00:05:21.759 align:start position:0%
+particular
+ 
+
+00:05:21.759 --> 00:05:24.070 align:start position:0%
+particular
+compliance<00:05:22.400><c> standard</c>
+
+00:05:24.070 --> 00:05:24.080 align:start position:0%
+compliance standard
+ 
+
+00:05:24.080 --> 00:05:26.550 align:start position:0%
+compliance standard
+but<00:05:24.240><c> the</c><00:05:24.400><c> important</c><00:05:24.880><c> thing</c><00:05:25.039><c> is</c><00:05:25.199><c> to</c><00:05:25.440><c> use</c><00:05:25.840><c> those</c>
+
+00:05:26.550 --> 00:05:26.560 align:start position:0%
+but the important thing is to use those
+ 
+
+00:05:26.560 --> 00:05:28.390 align:start position:0%
+but the important thing is to use those
+yes<00:05:26.960><c> azure</c><00:05:27.199><c> security</c><00:05:27.759><c> benchmark</c><00:05:28.240><c> is</c>
+
+00:05:28.390 --> 00:05:28.400 align:start position:0%
+yes azure security benchmark is
+ 
+
+00:05:28.400 --> 00:05:30.629 align:start position:0%
+yes azure security benchmark is
+available<00:05:28.880><c> to</c><00:05:29.039><c> everyone</c><00:05:30.080><c> but</c><00:05:30.240><c> if</c><00:05:30.400><c> i</c><00:05:30.479><c> want</c><00:05:30.560><c> to</c>
+
+00:05:30.629 --> 00:05:30.639 align:start position:0%
+available to everyone but if i want to
+ 
+
+00:05:30.639 --> 00:05:32.469 align:start position:0%
+available to everyone but if i want to
+be<00:05:30.800><c> able</c><00:05:30.880><c> to</c><00:05:31.039><c> use</c><00:05:31.280><c> some</c><00:05:31.440><c> of</c><00:05:31.520><c> the</c><00:05:31.759><c> other</c><00:05:32.000><c> ones</c><00:05:32.320><c> i</c>
+
+00:05:32.469 --> 00:05:32.479 align:start position:0%
+be able to use some of the other ones i
+ 
+
+00:05:32.479 --> 00:05:35.110 align:start position:0%
+be able to use some of the other ones i
+actually<00:05:32.960><c> have</c><00:05:33.120><c> to</c><00:05:33.520><c> enhance</c><00:05:34.560><c> my</c><00:05:34.720><c> level</c><00:05:34.960><c> of</c>
+
+00:05:35.110 --> 00:05:35.120 align:start position:0%
+actually have to enhance my level of
+ 
+
+00:05:35.120 --> 00:05:37.510 align:start position:0%
+actually have to enhance my level of
+environment<00:05:36.080><c> if</c><00:05:36.240><c> i</c><00:05:36.320><c> go</c><00:05:36.479><c> to</c><00:05:36.639><c> environmental</c>
+
+00:05:37.510 --> 00:05:37.520 align:start position:0%
+environment if i go to environmental
+ 
+
+00:05:37.520 --> 00:05:38.790 align:start position:0%
+environment if i go to environmental
+settings
+
+00:05:38.790 --> 00:05:38.800 align:start position:0%
+settings
+ 
+
+00:05:38.800 --> 00:05:40.550 align:start position:0%
+settings
+and<00:05:38.960><c> here</c><00:05:39.199><c> i</c><00:05:39.280><c> could</c><00:05:39.440><c> look</c><00:05:39.600><c> at</c><00:05:39.759><c> a</c><00:05:39.919><c> particular</c>
+
+00:05:40.550 --> 00:05:40.560 align:start position:0%
+and here i could look at a particular
+ 
+
+00:05:40.560 --> 00:05:43.749 align:start position:0%
+and here i could look at a particular
+subscription<00:05:41.360><c> so</c><00:05:41.520><c> let's</c><00:05:41.759><c> expand</c><00:05:42.240><c> this</c><00:05:42.560><c> out</c>
+
+00:05:43.749 --> 00:05:43.759 align:start position:0%
+subscription so let's expand this out
+ 
+
+00:05:43.759 --> 00:05:46.390 align:start position:0%
+subscription so let's expand this out
+and<00:05:43.840><c> look</c><00:05:44.080><c> at</c><00:05:44.240><c> lab</c><00:05:44.479><c> for</c><00:05:44.720><c> example</c>
+
+00:05:46.390 --> 00:05:46.400 align:start position:0%
+and look at lab for example
+ 
+
+00:05:46.400 --> 00:05:49.110 align:start position:0%
+and look at lab for example
+right<00:05:46.639><c> now</c><00:05:46.880><c> i</c><00:05:47.039><c> have</c><00:05:47.280><c> enhanced</c><00:05:47.759><c> security</c><00:05:48.479><c> off</c>
+
+00:05:49.110 --> 00:05:49.120 align:start position:0%
+right now i have enhanced security off
+ 
+
+00:05:49.120 --> 00:05:51.909 align:start position:0%
+right now i have enhanced security off
+so<00:05:49.360><c> yes</c><00:05:49.759><c> i</c><00:05:49.919><c> get</c><00:05:50.160><c> these</c><00:05:50.560><c> basic</c><00:05:51.199><c> azure</c><00:05:51.440><c> security</c>
+
+00:05:51.909 --> 00:05:51.919 align:start position:0%
+so yes i get these basic azure security
+ 
+
+00:05:51.919 --> 00:05:54.469 align:start position:0%
+so yes i get these basic azure security
+benchmark<00:05:52.560><c> yes</c><00:05:52.880><c> i</c><00:05:52.960><c> get</c><00:05:53.120><c> that</c><00:05:53.280><c> secure</c><00:05:53.759><c> score</c>
+
+00:05:54.469 --> 00:05:54.479 align:start position:0%
+benchmark yes i get that secure score
+ 
+
+00:05:54.479 --> 00:05:56.790 align:start position:0%
+benchmark yes i get that secure score
+but<00:05:54.639><c> now</c><00:05:54.800><c> it's</c><00:05:55.039><c> all</c><00:05:55.199><c> of</c><00:05:55.280><c> these</c><00:05:55.520><c> crosses</c>
+
+00:05:56.790 --> 00:05:56.800 align:start position:0%
+but now it's all of these crosses
+ 
+
+00:05:56.800 --> 00:05:59.830 align:start position:0%
+but now it's all of these crosses
+if<00:05:57.039><c> i</c><00:05:57.199><c> switch</c><00:05:57.680><c> to</c><00:05:58.240><c> enable</c><00:05:59.039><c> all</c><00:05:59.280><c> microsoft</c>
+
+00:05:59.830 --> 00:05:59.840 align:start position:0%
+if i switch to enable all microsoft
+ 
+
+00:05:59.840 --> 00:06:01.909 align:start position:0%
+if i switch to enable all microsoft
+defender<00:06:00.160><c> for</c><00:06:00.319><c> cloud</c><00:06:00.720><c> plans</c><00:06:01.120><c> i</c><00:06:01.360><c> am</c><00:06:01.440><c> turning</c><00:06:01.759><c> on</c>
+
+00:06:01.909 --> 00:06:01.919 align:start position:0%
+defender for cloud plans i am turning on
+ 
+
+00:06:01.919 --> 00:06:03.510 align:start position:0%
+defender for cloud plans i am turning on
+enhanced<00:06:02.240><c> security</c>
+
+00:06:03.510 --> 00:06:03.520 align:start position:0%
+enhanced security
+ 
+
+00:06:03.520 --> 00:06:05.830 align:start position:0%
+enhanced security
+then<00:06:03.759><c> we</c><00:06:03.840><c> get</c><00:06:04.000><c> things</c><00:06:04.160><c> like</c><00:06:04.479><c> just</c><00:06:04.800><c> in</c><00:06:05.039><c> time</c><00:06:05.440><c> vm</c>
+
+00:06:05.830 --> 00:06:05.840 align:start position:0%
+then we get things like just in time vm
+ 
+
+00:06:05.840 --> 00:06:07.189 align:start position:0%
+then we get things like just in time vm
+access
+
+00:06:07.189 --> 00:06:07.199 align:start position:0%
+access
+ 
+
+00:06:07.199 --> 00:06:08.469 align:start position:0%
+access
+we're<00:06:07.360><c> going</c><00:06:07.520><c> to</c><00:06:07.600><c> talk</c><00:06:07.919><c> about</c><00:06:08.160><c> network</c>
+
+00:06:08.469 --> 00:06:08.479 align:start position:0%
+we're going to talk about network
+ 
+
+00:06:08.479 --> 00:06:09.909 align:start position:0%
+we're going to talk about network
+security<00:06:09.039><c> groups</c>
+
+00:06:09.909 --> 00:06:09.919 align:start position:0%
+security groups
+ 
+
+00:06:09.919 --> 00:06:12.070 align:start position:0%
+security groups
+and<00:06:10.000><c> what</c><00:06:10.160><c> just</c><00:06:10.400><c> in</c><00:06:10.479><c> time</c><00:06:10.720><c> vm</c><00:06:11.120><c> access</c><00:06:11.520><c> is</c><00:06:11.759><c> doing</c>
+
+00:06:12.070 --> 00:06:12.080 align:start position:0%
+and what just in time vm access is doing
+ 
+
+00:06:12.080 --> 00:06:14.469 align:start position:0%
+and what just in time vm access is doing
+is<00:06:12.319><c> if</c><00:06:12.479><c> i</c><00:06:12.560><c> think</c><00:06:12.800><c> about</c><00:06:13.280><c> hey</c><00:06:13.600><c> i</c><00:06:13.919><c> have</c><00:06:14.319><c> for</c>
+
+00:06:14.469 --> 00:06:14.479 align:start position:0%
+is if i think about hey i have for
+ 
+
+00:06:14.479 --> 00:06:15.909 align:start position:0%
+is if i think about hey i have for
+example<00:06:15.039><c> my</c>
+
+00:06:15.909 --> 00:06:15.919 align:start position:0%
+example my
+ 
+
+00:06:15.919 --> 00:06:17.590 align:start position:0%
+example my
+virtual<00:06:16.400><c> machine</c>
+
+00:06:17.590 --> 00:06:17.600 align:start position:0%
+virtual machine
+ 
+
+00:06:17.600 --> 00:06:20.870 align:start position:0%
+virtual machine
+well<00:06:17.759><c> that</c><00:06:18.000><c> exists</c><00:06:18.720><c> in</c><00:06:19.440><c> a</c><00:06:19.600><c> network</c>
+
+00:06:20.870 --> 00:06:20.880 align:start position:0%
+well that exists in a network
+ 
+
+00:06:20.880 --> 00:06:23.350 align:start position:0%
+well that exists in a network
+and<00:06:21.039><c> what</c><00:06:21.199><c> that</c><00:06:21.440><c> just</c><00:06:21.759><c> in</c><00:06:22.000><c> time</c><00:06:22.400><c> does</c><00:06:22.800><c> is</c><00:06:23.120><c> when</c>
+
+00:06:23.350 --> 00:06:23.360 align:start position:0%
+and what that just in time does is when
+ 
+
+00:06:23.360 --> 00:06:27.749 align:start position:0%
+and what that just in time does is when
+i<00:06:23.520><c> want</c><00:06:23.759><c> to</c><00:06:24.000><c> connect</c><00:06:24.319><c> to</c><00:06:24.479><c> it</c><00:06:24.639><c> using</c><00:06:25.199><c> rdp</c><00:06:26.000><c> or</c><00:06:26.319><c> ssh</c>
+
+00:06:27.749 --> 00:06:27.759 align:start position:0%
+i want to connect to it using rdp or ssh
+ 
+
+00:06:27.759 --> 00:06:30.550 align:start position:0%
+i want to connect to it using rdp or ssh
+only<00:06:28.080><c> at</c><00:06:28.160><c> that</c><00:06:28.479><c> point</c><00:06:28.800><c> i</c><00:06:28.960><c> want</c><00:06:29.120><c> to</c><00:06:29.360><c> connect</c>
+
+00:06:30.550 --> 00:06:30.560 align:start position:0%
+only at that point i want to connect
+ 
+
+00:06:30.560 --> 00:06:32.950 align:start position:0%
+only at that point i want to connect
+it<00:06:30.720><c> will</c><00:06:30.880><c> actually</c><00:06:31.600><c> modify</c>
+
+00:06:32.950 --> 00:06:32.960 align:start position:0%
+it will actually modify
+ 
+
+00:06:32.960 --> 00:06:35.110 align:start position:0%
+it will actually modify
+the<00:06:33.120><c> network</c><00:06:33.600><c> security</c><00:06:34.400><c> group</c><00:06:34.720><c> that's</c><00:06:34.960><c> kind</c>
+
+00:06:35.110 --> 00:06:35.120 align:start position:0%
+the network security group that's kind
+ 
+
+00:06:35.120 --> 00:06:36.870 align:start position:0%
+the network security group that's kind
+of<00:06:35.280><c> offering</c><00:06:35.680><c> protection</c><00:06:36.319><c> around</c><00:06:36.639><c> that</c>
+
+00:06:36.870 --> 00:06:36.880 align:start position:0%
+of offering protection around that
+ 
+
+00:06:36.880 --> 00:06:37.990 align:start position:0%
+of offering protection around that
+device
+
+00:06:37.990 --> 00:06:38.000 align:start position:0%
+device
+ 
+
+00:06:38.000 --> 00:06:40.550 align:start position:0%
+device
+to<00:06:38.400><c> only</c><00:06:38.880><c> allow</c>
+
+00:06:40.550 --> 00:06:40.560 align:start position:0%
+to only allow
+ 
+
+00:06:40.560 --> 00:06:42.150 align:start position:0%
+to only allow
+and<00:06:40.720><c> i</c><00:06:40.800><c> have</c><00:06:40.960><c> some</c><00:06:41.120><c> configuration</c><00:06:41.840><c> around</c>
+
+00:06:42.150 --> 00:06:42.160 align:start position:0%
+and i have some configuration around
+ 
+
+00:06:42.160 --> 00:06:46.550 align:start position:0%
+and i have some configuration around
+this<00:06:42.880><c> my</c><00:06:43.360><c> public</c><00:06:44.000><c> facing</c><00:06:44.639><c> ip</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+this my public facing ip
+ 
+
+00:06:46.560 --> 00:06:50.230 align:start position:0%
+this my public facing ip
+to<00:06:46.720><c> be</c><00:06:46.880><c> allowed</c><00:06:47.520><c> in</c><00:06:48.319><c> to</c><00:06:48.479><c> that</c><00:06:48.880><c> resource</c><00:06:49.919><c> but</c><00:06:50.080><c> no</c>
+
+00:06:50.230 --> 00:06:50.240 align:start position:0%
+to be allowed in to that resource but no
+ 
+
+00:06:50.240 --> 00:06:51.510 align:start position:0%
+to be allowed in to that resource but no
+one<00:06:50.479><c> else</c><00:06:50.720><c> can</c>
+
+00:06:51.510 --> 00:06:51.520 align:start position:0%
+one else can
+ 
+
+00:06:51.520 --> 00:06:53.830 align:start position:0%
+one else can
+and<00:06:51.840><c> it's</c><00:06:52.080><c> only</c><00:06:52.479><c> for</c><00:06:52.639><c> a</c><00:06:52.800><c> certain</c><00:06:53.120><c> duration</c><00:06:53.680><c> for</c>
+
+00:06:53.830 --> 00:06:53.840 align:start position:0%
+and it's only for a certain duration for
+ 
+
+00:06:53.840 --> 00:06:56.550 align:start position:0%
+and it's only for a certain duration for
+example<00:06:54.240><c> i</c><00:06:54.319><c> could</c><00:06:54.479><c> say</c><00:06:54.800><c> here</c><00:06:55.520><c> do</c><00:06:55.680><c> this</c><00:06:55.919><c> for</c><00:06:56.160><c> two</c>
+
+00:06:56.550 --> 00:06:56.560 align:start position:0%
+example i could say here do this for two
+ 
+
+00:06:56.560 --> 00:06:57.670 align:start position:0%
+example i could say here do this for two
+hours
+
+00:06:57.670 --> 00:06:57.680 align:start position:0%
+hours
+ 
+
+00:06:57.680 --> 00:06:59.830 align:start position:0%
+hours
+then<00:06:57.919><c> after</c><00:06:58.160><c> that</c><00:06:58.319><c> two</c><00:06:58.479><c> hour</c><00:06:58.639><c> window</c><00:06:59.520><c> it</c><00:06:59.599><c> will</c>
+
+00:06:59.830 --> 00:06:59.840 align:start position:0%
+then after that two hour window it will
+ 
+
+00:06:59.840 --> 00:07:02.390 align:start position:0%
+then after that two hour window it will
+remove<00:07:00.479><c> that</c><00:07:00.800><c> access</c><00:07:01.199><c> again</c>
+
+00:07:02.390 --> 00:07:02.400 align:start position:0%
+remove that access again
+ 
+
+00:07:02.400 --> 00:07:05.670 align:start position:0%
+remove that access again
+so<00:07:02.560><c> that's</c><00:07:02.880><c> given</c><00:07:03.360><c> me</c><00:07:03.919><c> that</c><00:07:04.160><c> capability</c>
+
+00:07:05.670 --> 00:07:05.680 align:start position:0%
+so that's given me that capability
+ 
+
+00:07:05.680 --> 00:07:07.670 align:start position:0%
+so that's given me that capability
+we<00:07:05.919><c> also</c><00:07:06.160><c> see</c><00:07:06.319><c> there's</c><00:07:06.560><c> things</c><00:07:06.720><c> like</c><00:07:06.960><c> adaptive</c>
+
+00:07:07.670 --> 00:07:07.680 align:start position:0%
+we also see there's things like adaptive
+ 
+
+00:07:07.680 --> 00:07:09.749 align:start position:0%
+we also see there's things like adaptive
+application<00:07:08.400><c> controls</c><00:07:09.039><c> and</c><00:07:09.199><c> network</c>
+
+00:07:09.749 --> 00:07:09.759 align:start position:0%
+application controls and network
+ 
+
+00:07:09.759 --> 00:07:10.870 align:start position:0%
+application controls and network
+hardening
+
+00:07:10.870 --> 00:07:10.880 align:start position:0%
+hardening
+ 
+
+00:07:10.880 --> 00:07:12.309 align:start position:0%
+hardening
+so<00:07:11.120><c> this</c><00:07:11.360><c> is</c><00:07:11.440><c> looking</c><00:07:11.680><c> at</c><00:07:11.840><c> what</c><00:07:12.160><c> are</c><00:07:12.240><c> the</c>
+
+00:07:12.309 --> 00:07:12.319 align:start position:0%
+so this is looking at what are the
+ 
+
+00:07:12.319 --> 00:07:13.909 align:start position:0%
+so this is looking at what are the
+commonly<00:07:12.720><c> used</c><00:07:13.039><c> applications</c><00:07:13.599><c> in</c><00:07:13.759><c> an</c>
+
+00:07:13.909 --> 00:07:13.919 align:start position:0%
+commonly used applications in an
+ 
+
+00:07:13.919 --> 00:07:15.909 align:start position:0%
+commonly used applications in an
+environment<00:07:14.720><c> enhancing</c><00:07:15.199><c> that</c><00:07:15.520><c> machine</c>
+
+00:07:15.909 --> 00:07:15.919 align:start position:0%
+environment enhancing that machine
+ 
+
+00:07:15.919 --> 00:07:18.230 align:start position:0%
+environment enhancing that machine
+learning<00:07:16.639><c> and</c><00:07:16.800><c> stopping</c><00:07:17.199><c> me</c><00:07:17.360><c> running</c><00:07:17.840><c> other</c>
+
+00:07:18.230 --> 00:07:18.240 align:start position:0%
+learning and stopping me running other
+ 
+
+00:07:18.240 --> 00:07:20.790 align:start position:0%
+learning and stopping me running other
+software<00:07:18.639><c> which</c><00:07:18.880><c> could</c><00:07:19.120><c> be</c><00:07:19.440><c> malicious</c>
+
+00:07:20.790 --> 00:07:20.800 align:start position:0%
+software which could be malicious
+ 
+
+00:07:20.800 --> 00:07:22.710 align:start position:0%
+software which could be malicious
+you<00:07:20.960><c> get</c><00:07:21.120><c> that</c><00:07:21.520><c> hey</c><00:07:21.840><c> additional</c><00:07:22.240><c> regulatory</c>
+
+00:07:22.710 --> 00:07:22.720 align:start position:0%
+you get that hey additional regulatory
+ 
+
+00:07:22.720 --> 00:07:25.189 align:start position:0%
+you get that hey additional regulatory
+compliance<00:07:23.199><c> dashboards</c><00:07:24.319><c> there's</c><00:07:24.800><c> threat</c>
+
+00:07:25.189 --> 00:07:25.199 align:start position:0%
+compliance dashboards there's threat
+ 
+
+00:07:25.199 --> 00:07:26.629 align:start position:0%
+compliance dashboards there's threat
+protection
+
+00:07:26.629 --> 00:07:26.639 align:start position:0%
+protection
+ 
+
+00:07:26.639 --> 00:07:28.830 align:start position:0%
+protection
+including<00:07:27.120><c> server</c><00:07:27.599><c> edr</c><00:07:28.319><c> so</c><00:07:28.479><c> that's</c><00:07:28.639><c> an</c>
+
+00:07:28.830 --> 00:07:28.840 align:start position:0%
+including server edr so that's an
+ 
+
+00:07:28.840 --> 00:07:31.830 align:start position:0%
+including server edr so that's an
+enhanced<00:07:30.240><c> detection</c><00:07:30.880><c> remediation</c><00:07:31.599><c> set</c><00:07:31.759><c> of</c>
+
+00:07:31.830 --> 00:07:31.840 align:start position:0%
+enhanced detection remediation set of
+ 
+
+00:07:31.840 --> 00:07:33.510 align:start position:0%
+enhanced detection remediation set of
+capabilities
+
+00:07:33.510 --> 00:07:33.520 align:start position:0%
+capabilities
+ 
+
+00:07:33.520 --> 00:07:37.189 align:start position:0%
+capabilities
+for<00:07:34.000><c> attacks</c><00:07:34.639><c> against</c><00:07:35.199><c> my</c><00:07:35.520><c> operating</c><00:07:36.080><c> systems</c>
+
+00:07:37.189 --> 00:07:37.199 align:start position:0%
+for attacks against my operating systems
+ 
+
+00:07:37.199 --> 00:07:39.350 align:start position:0%
+for attacks against my operating systems
+and<00:07:37.360><c> also</c><00:07:37.759><c> threat</c><00:07:38.080><c> protection</c><00:07:38.560><c> for</c><00:07:38.720><c> supported</c>
+
+00:07:39.350 --> 00:07:39.360 align:start position:0%
+and also threat protection for supported
+ 
+
+00:07:39.360 --> 00:07:41.589 align:start position:0%
+and also threat protection for supported
+pass<00:07:39.680><c> services</c><00:07:40.720><c> and</c><00:07:40.880><c> we</c><00:07:41.039><c> can</c><00:07:41.120><c> see</c><00:07:41.280><c> there's</c><00:07:41.520><c> a</c>
+
+00:07:41.589 --> 00:07:41.599 align:start position:0%
+pass services and we can see there's a
+ 
+
+00:07:41.599 --> 00:07:43.749 align:start position:0%
+pass services and we can see there's a
+whole<00:07:41.919><c> bunch</c><00:07:42.400><c> of</c><00:07:42.560><c> specific</c><00:07:43.199><c> defender</c>
+
+00:07:43.749 --> 00:07:43.759 align:start position:0%
+whole bunch of specific defender
+ 
+
+00:07:43.759 --> 00:07:45.029 align:start position:0%
+whole bunch of specific defender
+technologies
+
+00:07:45.029 --> 00:07:45.039 align:start position:0%
+technologies
+ 
+
+00:07:45.039 --> 00:07:47.510 align:start position:0%
+technologies
+four<00:07:45.360><c> different</c><00:07:45.759><c> types</c><00:07:46.080><c> of</c><00:07:46.240><c> azure</c><00:07:46.639><c> service</c>
+
+00:07:47.510 --> 00:07:47.520 align:start position:0%
+four different types of azure service
+ 
+
+00:07:47.520 --> 00:07:49.189 align:start position:0%
+four different types of azure service
+and<00:07:47.759><c> each</c><00:07:48.080><c> of</c><00:07:48.160><c> those</c><00:07:48.560><c> offers</c><00:07:48.879><c> different</c>
+
+00:07:49.189 --> 00:07:49.199 align:start position:0%
+and each of those offers different
+ 
+
+00:07:49.199 --> 00:07:50.869 align:start position:0%
+and each of those offers different
+functionality
+
+00:07:50.869 --> 00:07:50.879 align:start position:0%
+functionality
+ 
+
+00:07:50.879 --> 00:07:53.189 align:start position:0%
+functionality
+but<00:07:51.039><c> they're</c><00:07:51.440><c> tailored</c><00:07:52.400><c> to</c><00:07:52.720><c> give</c><00:07:52.960><c> me</c>
+
+00:07:53.189 --> 00:07:53.199 align:start position:0%
+but they're tailored to give me
+ 
+
+00:07:53.199 --> 00:07:56.150 align:start position:0%
+but they're tailored to give me
+protection<00:07:53.840><c> it</c><00:07:54.080><c> uses</c><00:07:54.479><c> machine</c><00:07:54.960><c> learning</c>
+
+00:07:56.150 --> 00:07:56.160 align:start position:0%
+protection it uses machine learning
+ 
+
+00:07:56.160 --> 00:07:57.589 align:start position:0%
+protection it uses machine learning
+to<00:07:56.400><c> give</c><00:07:56.560><c> them</c><00:07:56.720><c> the</c><00:07:56.879><c> best</c><00:07:57.120><c> of</c><00:07:57.280><c> breed</c>
+
+00:07:57.589 --> 00:07:57.599 align:start position:0%
+to give them the best of breed
+ 
+
+00:07:57.599 --> 00:07:59.270 align:start position:0%
+to give them the best of breed
+protection<00:07:58.160><c> it</c><00:07:58.319><c> understands</c><00:07:58.800><c> the</c><00:07:58.879><c> types</c><00:07:59.199><c> of</c>
+
+00:07:59.270 --> 00:07:59.280 align:start position:0%
+protection it understands the types of
+ 
+
+00:07:59.280 --> 00:08:01.510 align:start position:0%
+protection it understands the types of
+attacks<00:07:59.759><c> that</c><00:07:59.919><c> may</c><00:08:00.160><c> occur</c><00:08:00.879><c> it</c><00:08:01.120><c> understands</c>
+
+00:08:01.510 --> 00:08:01.520 align:start position:0%
+attacks that may occur it understands
+ 
+
+00:08:01.520 --> 00:08:03.990 align:start position:0%
+attacks that may occur it understands
+how<00:08:01.759><c> to</c><00:08:01.840><c> identify</c><00:08:02.639><c> them</c><00:08:03.120><c> how</c><00:08:03.280><c> to</c><00:08:03.440><c> alert</c><00:08:03.759><c> that</c>
+
+00:08:03.990 --> 00:08:04.000 align:start position:0%
+how to identify them how to alert that
+ 
+
+00:08:04.000 --> 00:08:06.469 align:start position:0%
+how to identify them how to alert that
+up<00:08:04.160><c> to</c><00:08:04.240><c> me</c><00:08:04.720><c> and</c><00:08:04.879><c> help</c><00:08:05.120><c> me</c><00:08:05.280><c> protect</c><00:08:05.840><c> so</c><00:08:06.000><c> i</c><00:08:06.160><c> can</c>
+
+00:08:06.469 --> 00:08:06.479 align:start position:0%
+up to me and help me protect so i can
+ 
+
+00:08:06.479 --> 00:08:08.710 align:start position:0%
+up to me and help me protect so i can
+turn<00:08:06.800><c> these</c><00:08:07.039><c> on</c><00:08:07.680><c> if</c><00:08:07.840><c> i</c><00:08:07.919><c> want</c><00:08:08.080><c> that</c><00:08:08.319><c> enhanced</c>
+
+00:08:08.710 --> 00:08:08.720 align:start position:0%
+turn these on if i want that enhanced
+ 
+
+00:08:08.720 --> 00:08:10.629 align:start position:0%
+turn these on if i want that enhanced
+protection<00:08:09.199><c> but</c><00:08:09.360><c> by</c><00:08:09.520><c> default</c>
+
+00:08:10.629 --> 00:08:10.639 align:start position:0%
+protection but by default
+ 
+
+00:08:10.639 --> 00:08:13.110 align:start position:0%
+protection but by default
+i<00:08:10.800><c> just</c><00:08:10.960><c> have</c><00:08:11.120><c> this</c><00:08:11.440><c> free</c><00:08:11.759><c> offering</c><00:08:12.639><c> that</c><00:08:12.879><c> does</c>
+
+00:08:13.110 --> 00:08:13.120 align:start position:0%
+i just have this free offering that does
+ 
+
+00:08:13.120 --> 00:08:15.350 align:start position:0%
+i just have this free offering that does
+give<00:08:13.280><c> me</c><00:08:13.440><c> that</c><00:08:13.599><c> secure</c><00:08:14.000><c> score</c><00:08:14.639><c> it</c><00:08:14.879><c> does</c><00:08:15.120><c> give</c>
+
+00:08:15.350 --> 00:08:15.360 align:start position:0%
+give me that secure score it does give
+ 
+
+00:08:15.360 --> 00:08:17.510 align:start position:0%
+give me that secure score it does give
+me<00:08:15.520><c> recommendations</c><00:08:16.400><c> against</c><00:08:16.800><c> that</c><00:08:17.120><c> azure</c>
+
+00:08:17.510 --> 00:08:17.520 align:start position:0%
+me recommendations against that azure
+ 
+
+00:08:17.520 --> 00:08:20.469 align:start position:0%
+me recommendations against that azure
+security<00:08:18.160><c> bench</c><00:08:18.560><c> line</c>
+
+00:08:20.469 --> 00:08:20.479 align:start position:0%
+security bench line
+ 
+
+00:08:20.479 --> 00:08:22.629 align:start position:0%
+security bench line
+it<00:08:20.720><c> also</c><00:08:21.039><c> does</c><00:08:21.280><c> have</c><00:08:21.520><c> security</c><00:08:22.000><c> alerts</c><00:08:22.400><c> so</c><00:08:22.560><c> if</c>
+
+00:08:22.629 --> 00:08:22.639 align:start position:0%
+it also does have security alerts so if
+ 
+
+00:08:22.639 --> 00:08:24.469 align:start position:0%
+it also does have security alerts so if
+there<00:08:22.879><c> are</c><00:08:23.039><c> things</c><00:08:23.360><c> happening</c>
+
+00:08:24.469 --> 00:08:24.479 align:start position:0%
+there are things happening
+ 
+
+00:08:24.479 --> 00:08:27.350 align:start position:0%
+there are things happening
+from<00:08:24.720><c> some</c><00:08:24.960><c> of</c><00:08:25.039><c> those</c><00:08:25.520><c> various</c><00:08:26.080><c> plans</c><00:08:27.039><c> things</c>
+
+00:08:27.350 --> 00:08:27.360 align:start position:0%
+from some of those various plans things
+ 
+
+00:08:27.360 --> 00:08:29.749 align:start position:0%
+from some of those various plans things
+i<00:08:27.440><c> have</c><00:08:27.599><c> configured</c><00:08:28.160><c> it</c><00:08:28.240><c> will</c><00:08:28.400><c> give</c><00:08:28.560><c> me</c><00:08:28.800><c> alerts</c>
+
+00:08:29.749 --> 00:08:29.759 align:start position:0%
+i have configured it will give me alerts
+ 
+
+00:08:29.759 --> 00:08:32.149 align:start position:0%
+i have configured it will give me alerts
+and<00:08:30.000><c> just</c><00:08:30.240><c> like</c><00:08:30.560><c> anything</c><00:08:31.039><c> else</c><00:08:31.599><c> i</c><00:08:31.840><c> can</c>
+
+00:08:32.149 --> 00:08:32.159 align:start position:0%
+and just like anything else i can
+ 
+
+00:08:32.159 --> 00:08:33.350 align:start position:0%
+and just like anything else i can
+actually
+
+00:08:33.350 --> 00:08:33.360 align:start position:0%
+actually
+ 
+
+00:08:33.360 --> 00:08:34.550 align:start position:0%
+actually
+generate
+
+00:08:34.550 --> 00:08:34.560 align:start position:0%
+generate
+ 
+
+00:08:34.560 --> 00:08:36.949 align:start position:0%
+generate
+um<00:08:34.880><c> automated</c><00:08:35.519><c> responses</c><00:08:36.320><c> to</c><00:08:36.479><c> those</c><00:08:36.719><c> so</c><00:08:36.880><c> i</c>
+
+00:08:36.949 --> 00:08:36.959 align:start position:0%
+um automated responses to those so i
+ 
+
+00:08:36.959 --> 00:08:39.269 align:start position:0%
+um automated responses to those so i
+could<00:08:37.200><c> call</c><00:08:37.680><c> just</c><00:08:37.839><c> like</c><00:08:38.000><c> azure</c><00:08:38.320><c> monitor</c><00:08:39.039><c> i</c><00:08:39.120><c> can</c>
+
+00:08:39.269 --> 00:08:39.279 align:start position:0%
+could call just like azure monitor i can
+ 
+
+00:08:39.279 --> 00:08:42.149 align:start position:0%
+could call just like azure monitor i can
+go<00:08:39.440><c> and</c><00:08:39.599><c> trigger</c><00:08:40.159><c> some</c><00:08:40.880><c> action</c><00:08:41.519><c> group</c><00:08:41.839><c> to</c><00:08:41.919><c> be</c>
+
+00:08:42.149 --> 00:08:42.159 align:start position:0%
+go and trigger some action group to be
+ 
+
+00:08:42.159 --> 00:08:44.630 align:start position:0%
+go and trigger some action group to be
+called<00:08:42.880><c> as</c><00:08:43.120><c> part</c><00:08:43.519><c> of</c><00:08:43.760><c> that</c>
+
+00:08:44.630 --> 00:08:44.640 align:start position:0%
+called as part of that
+ 
+
+00:08:44.640 --> 00:08:47.030 align:start position:0%
+called as part of that
+so<00:08:44.880><c> i</c><00:08:45.040><c> can</c><00:08:45.279><c> integrate</c><00:08:45.760><c> with</c><00:08:46.080><c> other</c><00:08:46.320><c> solutions</c>
+
+00:08:47.030 --> 00:08:47.040 align:start position:0%
+so i can integrate with other solutions
+ 
+
+00:08:47.040 --> 00:08:48.550 align:start position:0%
+so i can integrate with other solutions
+as<00:08:47.200><c> well</c><00:08:47.440><c> so</c><00:08:47.600><c> we</c><00:08:47.680><c> see</c><00:08:47.839><c> there's</c><00:08:48.000><c> security</c>
+
+00:08:48.550 --> 00:08:48.560 align:start position:0%
+as well so we see there's security
+ 
+
+00:08:48.560 --> 00:08:51.670 align:start position:0%
+as well so we see there's security
+solutions<00:08:49.600><c> to</c><00:08:49.760><c> really</c><00:08:50.240><c> bolster</c><00:08:50.959><c> up</c><00:08:51.279><c> the</c><00:08:51.440><c> set</c>
+
+00:08:51.670 --> 00:08:51.680 align:start position:0%
+solutions to really bolster up the set
+ 
+
+00:08:51.680 --> 00:08:53.990 align:start position:0%
+solutions to really bolster up the set
+of<00:08:51.760><c> capabilities</c><00:08:53.040><c> and</c><00:08:53.200><c> this</c><00:08:53.360><c> does</c><00:08:53.600><c> include</c>
+
+00:08:53.990 --> 00:08:54.000 align:start position:0%
+of capabilities and this does include
+ 
+
+00:08:54.000 --> 00:08:57.350 align:start position:0%
+of capabilities and this does include
+some<00:08:54.160><c> of</c><00:08:54.240><c> the</c><00:08:54.480><c> azure</c><00:08:55.040><c> native</c><00:08:55.519><c> ones</c><00:08:55.920><c> as</c><00:08:56.080><c> well</c>
+
+00:08:57.350 --> 00:08:57.360 align:start position:0%
+some of the azure native ones as well
+ 
+
+00:08:57.360 --> 00:09:00.470 align:start position:0%
+some of the azure native ones as well
+so<00:08:57.519><c> there</c><00:08:57.920><c> are</c><00:08:58.240><c> many</c><00:08:58.720><c> sets</c><00:08:59.120><c> of</c><00:08:59.279><c> capabilities</c>
+
+00:09:00.470 --> 00:09:00.480 align:start position:0%
+so there are many sets of capabilities
+ 
+
+00:09:00.480 --> 00:09:03.190 align:start position:0%
+so there are many sets of capabilities
+around<00:09:00.959><c> security</c><00:09:01.680><c> center</c>
+
+00:09:03.190 --> 00:09:03.200 align:start position:0%
+around security center
+ 
+
+00:09:03.200 --> 00:09:05.030 align:start position:0%
+around security center
+but<00:09:03.440><c> really</c><00:09:03.760><c> first</c><00:09:04.080><c> and</c><00:09:04.240><c> foremost</c><00:09:04.640><c> what</c><00:09:04.800><c> its</c>
+
+00:09:05.030 --> 00:09:05.040 align:start position:0%
+but really first and foremost what its
+ 
+
+00:09:05.040 --> 00:09:06.710 align:start position:0%
+but really first and foremost what its
+focus<00:09:05.440><c> is</c><00:09:05.680><c> about</c>
+
+00:09:06.710 --> 00:09:06.720 align:start position:0%
+focus is about
+ 
+
+00:09:06.720 --> 00:09:07.750 align:start position:0%
+focus is about
+is
+
+00:09:07.750 --> 00:09:07.760 align:start position:0%
+is
+ 
+
+00:09:07.760 --> 00:09:09.990 align:start position:0%
+is
+giving<00:09:08.160><c> me</c><00:09:08.560><c> a</c><00:09:08.640><c> good</c><00:09:08.880><c> idea</c><00:09:09.120><c> of</c><00:09:09.200><c> the</c><00:09:09.360><c> security</c>
+
+00:09:09.990 --> 00:09:10.000 align:start position:0%
+giving me a good idea of the security
+ 
+
+00:09:10.000 --> 00:09:12.550 align:start position:0%
+giving me a good idea of the security
+posture<00:09:10.480><c> of</c><00:09:10.640><c> my</c><00:09:10.880><c> azure</c><00:09:11.200><c> resources</c>
+
+00:09:12.550 --> 00:09:12.560 align:start position:0%
+posture of my azure resources
+ 
+
+00:09:12.560 --> 00:09:14.230 align:start position:0%
+posture of my azure resources
+and<00:09:12.640><c> then</c><00:09:12.880><c> if</c><00:09:12.959><c> i</c><00:09:13.120><c> turn</c><00:09:13.279><c> on</c><00:09:13.440><c> those</c><00:09:13.760><c> enhanced</c>
+
+00:09:14.230 --> 00:09:14.240 align:start position:0%
+and then if i turn on those enhanced
+ 
+
+00:09:14.240 --> 00:09:16.230 align:start position:0%
+and then if i turn on those enhanced
+security<00:09:14.800><c> offerings</c><00:09:15.200><c> giving</c><00:09:15.360><c> me</c><00:09:15.519><c> even</c><00:09:15.839><c> better</c>
+
+00:09:16.230 --> 00:09:16.240 align:start position:0%
+security offerings giving me even better
+ 
+
+00:09:16.240 --> 00:09:19.590 align:start position:0%
+security offerings giving me even better
+security<00:09:16.800><c> protection</c><00:09:18.000><c> for</c><00:09:18.640><c> different</c><00:09:19.200><c> types</c>
+
+00:09:19.590 --> 00:09:19.600 align:start position:0%
+security protection for different types
+ 
+
+00:09:19.600 --> 00:09:21.990 align:start position:0%
+security protection for different types
+of<00:09:19.760><c> resource</c><00:09:20.800><c> giving</c><00:09:21.040><c> me</c><00:09:21.200><c> the</c><00:09:21.360><c> ability</c><00:09:21.680><c> to</c><00:09:21.839><c> use</c>
+
+00:09:21.990 --> 00:09:22.000 align:start position:0%
+of resource giving me the ability to use
+ 
+
+00:09:22.000 --> 00:09:24.470 align:start position:0%
+of resource giving me the ability to use
+different<00:09:22.240><c> types</c><00:09:22.480><c> of</c><00:09:22.640><c> regulatory</c><00:09:23.200><c> compliance</c>
+
+00:09:24.470 --> 00:09:24.480 align:start position:0%
+different types of regulatory compliance
+ 
+
+00:09:24.480 --> 00:09:26.310 align:start position:0%
+different types of regulatory compliance
+and<00:09:24.720><c> adding</c><00:09:25.040><c> those</c><00:09:25.279><c> enhanced</c><00:09:25.680><c> features</c><00:09:26.080><c> like</c>
+
+00:09:26.310 --> 00:09:26.320 align:start position:0%
+and adding those enhanced features like
+ 
+
+00:09:26.320 --> 00:09:29.190 align:start position:0%
+and adding those enhanced features like
+just<00:09:26.560><c> in</c><00:09:26.640><c> time</c><00:09:26.959><c> access</c><00:09:27.600><c> adaptive</c><00:09:28.160><c> controls</c>
+
+00:09:29.190 --> 00:09:29.200 align:start position:0%
+just in time access adaptive controls
+ 
+
+00:09:29.200 --> 00:09:31.030 align:start position:0%
+just in time access adaptive controls
+things<00:09:29.440><c> that</c><00:09:29.680><c> i</c><00:09:29.839><c> might</c><00:09:30.160><c> want</c><00:09:30.399><c> for</c><00:09:30.560><c> the</c><00:09:30.720><c> real</c>
+
+00:09:31.030 --> 00:09:31.040 align:start position:0%
+things that i might want for the real
+ 
+
+00:09:31.040 --> 00:09:32.949 align:start position:0%
+things that i might want for the real
+best<00:09:31.360><c> of</c><00:09:31.440><c> breed</c><00:09:31.760><c> protection</c><00:09:32.640><c> for</c><00:09:32.800><c> my</c>
+
+00:09:32.949 --> 00:09:32.959 align:start position:0%
+best of breed protection for my
+ 
+
+00:09:32.959 --> 00:09:34.470 align:start position:0%
+best of breed protection for my
+resources<00:09:33.680><c> and</c><00:09:33.839><c> of</c><00:09:33.920><c> course</c><00:09:34.160><c> i'm</c><00:09:34.320><c> talking</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+resources and of course i'm talking
+ 
+
+00:09:34.480 --> 00:09:37.030 align:start position:0%
+resources and of course i'm talking
+about<00:09:34.880><c> azure</c><00:09:36.000><c> once</c><00:09:36.240><c> i</c><00:09:36.320><c> start</c><00:09:36.560><c> using</c><00:09:36.800><c> those</c>
+
+00:09:37.030 --> 00:09:37.040 align:start position:0%
+about azure once i start using those
+ 
+
+00:09:37.040 --> 00:09:39.509 align:start position:0%
+about azure once i start using those
+enhanced<00:09:37.519><c> services</c><00:09:38.320><c> i</c><00:09:38.480><c> can</c><00:09:38.720><c> extend</c><00:09:39.200><c> it</c><00:09:39.360><c> to</c>
+
+00:09:39.509 --> 00:09:39.519 align:start position:0%
+enhanced services i can extend it to
+ 
+
+00:09:39.519 --> 00:09:41.670 align:start position:0%
+enhanced services i can extend it to
+things<00:09:39.760><c> in</c><00:09:40.080><c> other</c><00:09:40.399><c> clouds</c><00:09:40.800><c> like</c><00:09:41.040><c> aws</c><00:09:41.600><c> for</c>
+
+00:09:41.670 --> 00:09:41.680 align:start position:0%
+things in other clouds like aws for
+ 
+
+00:09:41.680 --> 00:09:42.790 align:start position:0%
+things in other clouds like aws for
+example
+
+00:09:42.790 --> 00:09:42.800 align:start position:0%
+example
+ 
+
+00:09:42.800 --> 00:09:47.800 align:start position:0%
+example
+and<00:09:43.040><c> also</c><00:09:43.440><c> resources</c><00:09:44.080><c> running</c><00:09:44.560><c> on</c><00:09:44.800><c> premises</c>
+

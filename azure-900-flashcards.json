@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "question": "What is Microsoft Azure?",
+    "options": [
+      "A) A cloud computing platform and service created by Microsoft",
+      "B) A desktop operating system",
+      "C) A database management system",
+      "D) A web browser"
+    ],
+    "answer": "A",
+    "explanation": "Microsoft Azure is Microsoft's cloud computing platform that provides a wide range of cloud services including computing, storage, networking, and more.",
+    "category": "Cloud Concepts"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a cloud computing model?",
+    "options": [
+      "A) Infrastructure as a Service (IaaS)",
+      "B) Platform as a Service (PaaS)",
+      "C) Software as a Service (SaaS)",
+      "D) Hardware as a Service (HaaS)"
+    ],
+    "answer": "D",
+    "explanation": "The three main cloud computing models are IaaS, PaaS, and SaaS. HaaS is not a recognized cloud computing model.",
+    "category": "Cloud Concepts"
+  },
+  {
+    "id": 3,
+    "question": "What does IaaS stand for?",
+    "options": [
+      "A) Infrastructure as a Service",
+      "B) Internet as a Service",
+      "C) Integration as a Service",
+      "D) Intelligence as a Service"
+    ],
+    "answer": "A",
+    "explanation": "IaaS stands for Infrastructure as a Service, which provides virtualized computing resources over the internet.",
+    "category": "Cloud Concepts"
+  },
+  {
+    "id": 4,
+    "question": "Which Azure service provides virtual machines?",
+    "options": [
+      "A) Azure App Service",
+      "B) Azure Virtual Machines",
+      "C) Azure Functions",
+      "D) Azure Logic Apps"
+    ],
+    "answer": "B",
+    "explanation": "Azure Virtual Machines provides scalable computing resources in the cloud, allowing you to run Windows or Linux VMs.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 5,
+    "question": "What is Azure App Service used for?",
+    "options": [
+      "A) Running virtual machines",
+      "B) Hosting web applications and APIs",
+      "C) Storing files",
+      "D) Managing databases"
+    ],
+    "answer": "B",
+    "explanation": "Azure App Service is a platform-as-a-service (PaaS) offering for hosting web applications, REST APIs, and mobile back ends.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 6,
+    "question": "Which Azure service provides serverless computing?",
+    "options": [
+      "A) Azure Virtual Machines",
+      "B) Azure App Service",
+      "C) Azure Functions",
+      "D) Azure Container Instances"
+    ],
+    "answer": "C",
+    "explanation": "Azure Functions is a serverless compute service that lets you run event-triggered code without having to explicitly provision or manage infrastructure.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 7,
+    "question": "What is Azure Blob Storage primarily used for?",
+    "options": [
+      "A) Relational database storage",
+      "B) Unstructured data like images, videos, and documents",
+      "C) Virtual machine disks",
+      "D) Application configuration"
+    ],
+    "answer": "B",
+    "explanation": "Azure Blob Storage is optimized for storing massive amounts of unstructured data, such as text or binary data.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 8,
+    "question": "Which Azure service provides a managed SQL database?",
+    "options": [
+      "A) Azure Cosmos DB",
+      "B) Azure SQL Database",
+      "C) Azure Table Storage",
+      "D) Azure Redis Cache"
+    ],
+    "answer": "B",
+    "explanation": "Azure SQL Database is a fully managed platform-as-a-service (PaaS) database engine that handles most database management functions.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 9,
+    "question": "What is Azure Virtual Network used for?",
+    "options": [
+      "A) Storing data",
+      "B) Running applications",
+      "C) Creating isolated network environments",
+      "D) Managing user identities"
+    ],
+    "answer": "C",
+    "explanation": "Azure Virtual Network enables Azure resources to securely communicate with each other, the internet, and on-premises networks.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 10,
+    "question": "Which Azure service provides content delivery network capabilities?",
+    "options": [
+      "A) Azure Load Balancer",
+      "B) Azure Application Gateway",
+      "C) Azure CDN",
+      "D) Azure Traffic Manager"
+    ],
+    "answer": "C",
+    "explanation": "Azure Content Delivery Network (CDN) delivers high-bandwidth content to users by caching content at strategically placed physical nodes across the world.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 11,
+    "question": "What is Azure Active Directory primarily used for?",
+    "options": [
+      "A) Storing files",
+      "B) Identity and access management",
+      "C) Running virtual machines",
+      "D) Managing databases"
+    ],
+    "answer": "B",
+    "explanation": "Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service.",
+    "category": "Security, Privacy, and Compliance"
+  },
+  {
+    "id": 12,
+    "question": "Which Azure service provides threat protection?",
+    "options": [
+      "A) Azure Security Center",
+      "B) Azure Monitor",
+      "C) Azure Advisor",
+      "D) Azure Policy"
+    ],
+    "answer": "A",
+    "explanation": "Azure Security Center provides unified security management and advanced threat protection across hybrid cloud workloads.",
+    "category": "Security, Privacy, and Compliance"
+  },
+  {
+    "id": 13,
+    "question": "What does RBAC stand for in Azure?",
+    "options": [
+      "A) Role-Based Access Control",
+      "B) Resource-Based Access Control",
+      "C) Rule-Based Access Control",
+      "D) Request-Based Access Control"
+    ],
+    "answer": "A",
+    "explanation": "RBAC stands for Role-Based Access Control, which provides fine-grained access management for Azure resources.",
+    "category": "Security, Privacy, and Compliance"
+  },
+  {
+    "id": 14,
+    "question": "Which Azure service helps with compliance and governance?",
+    "options": [
+      "A) Azure Policy",
+      "B) Azure Functions",
+      "C) Azure App Service",
+      "D) Azure Virtual Machines"
+    ],
+    "answer": "A",
+    "explanation": "Azure Policy helps enforce organizational standards and assess compliance at-scale for Azure resources.",
+    "category": "Security, Privacy, and Compliance"
+  },
+  {
+    "id": 15,
+    "question": "What is Azure Key Vault used for?",
+    "options": [
+      "A) Storing application secrets and certificates",
+      "B) Running virtual machines",
+      "C) Managing databases",
+      "D) Hosting web applications"
+    ],
+    "answer": "A",
+    "explanation": "Azure Key Vault is a cloud service for securely storing and accessing secrets like API keys, passwords, certificates, and cryptographic keys.",
+    "category": "Security, Privacy, and Compliance"
+  },
+  {
+    "id": 16,
+    "question": "Which Azure service provides monitoring and diagnostics?",
+    "options": [
+      "A) Azure Monitor",
+      "B) Azure Security Center",
+      "C) Azure Advisor",
+      "D) Azure Policy"
+    ],
+    "answer": "A",
+    "explanation": "Azure Monitor provides comprehensive monitoring for applications, infrastructure, and network, collecting and analyzing telemetry data.",
+    "category": "Azure Pricing and Support"
+  },
+  {
+    "id": 17,
+    "question": "What is Azure Advisor used for?",
+    "options": [
+      "A) Monitoring performance",
+      "B) Providing recommendations to optimize Azure resources",
+      "C) Managing security policies",
+      "D) Storing secrets"
+    ],
+    "answer": "B",
+    "explanation": "Azure Advisor analyzes your Azure usage and configurations to provide personalized recommendations for cost optimization, security, performance, and reliability.",
+    "category": "Azure Pricing and Support"
+  },
+  {
+    "id": 18,
+    "question": "Which Azure pricing model charges based on actual usage?",
+    "options": [
+      "A) Reserved Instances",
+      "B) Pay-as-you-go",
+      "C) Enterprise Agreement",
+      "D) Spot Instances"
+    ],
+    "answer": "B",
+    "explanation": "Pay-as-you-go pricing charges you only for the Azure services you use, with no upfront costs or termination fees.",
+    "category": "Azure Pricing and Support"
+  },
+  {
+    "id": 19,
+    "question": "What is Azure Resource Manager (ARM)?",
+    "options": [
+      "A) A monitoring service",
+      "B) A deployment and management service for Azure resources",
+      "C) A security service",
+      "D) A storage service"
+    ],
+    "answer": "B",
+    "explanation": "Azure Resource Manager is the deployment and management service for Azure, providing a consistent management layer for resources.",
+    "category": "Azure Pricing and Support"
+  },
+  {
+    "id": 20,
+    "question": "Which Azure service provides global load balancing?",
+    "options": [
+      "A) Azure Load Balancer",
+      "B) Azure Application Gateway",
+      "C) Azure Traffic Manager",
+      "D) Azure CDN"
+    ],
+    "answer": "C",
+    "explanation": "Azure Traffic Manager provides global load balancing across Azure regions, directing traffic to the best endpoint based on routing method.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 21,
+    "question": "What is Azure Container Registry used for?",
+    "options": [
+      "A) Running containers",
+      "B) Storing and managing container images",
+      "C) Managing virtual machines",
+      "D) Storing files"
+    ],
+    "answer": "B",
+    "explanation": "Azure Container Registry is a managed Docker registry service for storing and managing private Docker container images.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 22,
+    "question": "Which Azure service provides managed Kubernetes?",
+    "options": [
+      "A) Azure Container Instances",
+      "B) Azure Kubernetes Service (AKS)",
+      "C) Azure App Service",
+      "D) Azure Functions"
+    ],
+    "answer": "B",
+    "explanation": "Azure Kubernetes Service (AKS) is a managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 23,
+    "question": "What is Azure Cosmos DB?",
+    "options": [
+      "A) A relational database",
+      "B) A globally distributed, multi-model database service",
+      "C) A file storage service",
+      "D) A virtual machine service"
+    ],
+    "answer": "B",
+    "explanation": "Azure Cosmos DB is a globally distributed, multi-model database service designed to enable rapid development and scaling of applications.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 24,
+    "question": "Which Azure service provides automated scaling?",
+    "options": [
+      "A) Azure Monitor",
+      "B) Azure Advisor",
+      "C) Azure Autoscale",
+      "D) Azure Policy"
+    ],
+    "answer": "C",
+    "explanation": "Azure Autoscale automatically scales resources based on demand, helping maintain performance and optimize costs.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 25,
+    "question": "What is Azure DevOps used for?",
+    "options": [
+      "A) Running applications",
+      "B) DevOps practices including CI/CD pipelines",
+      "C) Storing data",
+      "D) Managing virtual machines"
+    ],
+    "answer": "B",
+    "explanation": "Azure DevOps provides developer services for support teams to plan work, collaborate on code development, and build and deploy applications.",
+    "category": "Core Azure Services"
+  }
+]

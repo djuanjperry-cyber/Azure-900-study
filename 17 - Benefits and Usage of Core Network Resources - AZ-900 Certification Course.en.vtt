@@ -1,0 +1,4528 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.280 --> 00:00:02.790 align:start position:0%
+ 
+in<00:00:01.520><c> this</c><00:00:01.760><c> lesson</c><00:00:02.080><c> we're</c><00:00:02.159><c> going</c><00:00:02.240><c> to</c><00:00:02.320><c> look</c><00:00:02.560><c> at</c>
+
+00:00:02.790 --> 00:00:02.800 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.800 --> 00:00:05.110 align:start position:0%
+in this lesson we're going to look at
+the<00:00:03.040><c> benefits</c><00:00:03.600><c> and</c><00:00:03.760><c> usage</c><00:00:04.240><c> of</c><00:00:04.560><c> core</c>
+
+00:00:05.110 --> 00:00:05.120 align:start position:0%
+the benefits and usage of core
+ 
+
+00:00:05.120 --> 00:00:07.829 align:start position:0%
+the benefits and usage of core
+networking<00:00:06.000><c> resources</c><00:00:07.200><c> this</c><00:00:07.440><c> is</c><00:00:07.520><c> looking</c><00:00:07.759><c> at</c>
+
+00:00:07.829 --> 00:00:07.839 align:start position:0%
+networking resources this is looking at
+ 
+
+00:00:07.839 --> 00:00:09.990 align:start position:0%
+networking resources this is looking at
+that<00:00:08.080><c> assessed</c><00:00:08.559><c> skill</c><00:00:08.960><c> about</c><00:00:09.280><c> the</c><00:00:09.440><c> benefits</c>
+
+00:00:09.990 --> 00:00:10.000 align:start position:0%
+that assessed skill about the benefits
+ 
+
+00:00:10.000 --> 00:00:12.230 align:start position:0%
+that assessed skill about the benefits
+and<00:00:10.080><c> usage</c><00:00:10.400><c> of</c><00:00:10.480><c> virtual</c><00:00:10.960><c> networks</c><00:00:11.599><c> vpn</c>
+
+00:00:12.230 --> 00:00:12.240 align:start position:0%
+and usage of virtual networks vpn
+ 
+
+00:00:12.240 --> 00:00:14.230 align:start position:0%
+and usage of virtual networks vpn
+gateway<00:00:12.880><c> virtual</c><00:00:13.200><c> network</c><00:00:13.599><c> peering</c><00:00:14.000><c> and</c>
+
+00:00:14.230 --> 00:00:14.240 align:start position:0%
+gateway virtual network peering and
+ 
+
+00:00:14.240 --> 00:00:15.829 align:start position:0%
+gateway virtual network peering and
+express
+
+00:00:15.829 --> 00:00:15.839 align:start position:0%
+express
+ 
+
+00:00:15.839 --> 00:00:18.470 align:start position:0%
+express
+when<00:00:16.080><c> i</c><00:00:16.160><c> think</c><00:00:16.320><c> about</c><00:00:16.800><c> networking</c><00:00:17.600><c> in</c><00:00:18.000><c> azure</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+when i think about networking in azure
+ 
+
+00:00:18.480 --> 00:00:19.830 align:start position:0%
+when i think about networking in azure
+remember<00:00:18.800><c> we</c><00:00:18.880><c> have</c><00:00:19.039><c> those</c><00:00:19.279><c> idea</c><00:00:19.680><c> of</c>
+
+00:00:19.830 --> 00:00:19.840 align:start position:0%
+remember we have those idea of
+ 
+
+00:00:19.840 --> 00:00:21.109 align:start position:0%
+remember we have those idea of
+boundaries
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+boundaries
+ 
+
+00:00:21.119 --> 00:00:24.070 align:start position:0%
+boundaries
+i<00:00:21.279><c> can</c><00:00:21.520><c> think</c><00:00:21.760><c> about</c><00:00:22.160><c> that</c><00:00:22.480><c> i</c><00:00:22.720><c> have</c><00:00:23.199><c> a</c><00:00:23.519><c> certain</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+i can think about that i have a certain
+ 
+
+00:00:24.080 --> 00:00:28.790 align:start position:0%
+i can think about that i have a certain
+subscription
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+ 
+ 
+
+00:00:28.800 --> 00:00:30.950 align:start position:0%
+ 
+and<00:00:28.960><c> remember</c><00:00:29.279><c> that</c><00:00:29.519><c> subscription</c><00:00:30.400><c> can</c><00:00:30.560><c> use</c><00:00:30.800><c> a</c>
+
+00:00:30.950 --> 00:00:30.960 align:start position:0%
+and remember that subscription can use a
+ 
+
+00:00:30.960 --> 00:00:33.750 align:start position:0%
+and remember that subscription can use a
+huge<00:00:31.359><c> amount</c><00:00:31.760><c> of</c><00:00:31.920><c> different</c><00:00:32.399><c> regions</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+huge amount of different regions
+ 
+
+00:00:33.760 --> 00:00:35.910 align:start position:0%
+huge amount of different regions
+but<00:00:34.079><c> certainly</c><00:00:34.800><c> within</c><00:00:35.200><c> that</c><00:00:35.360><c> particular</c>
+
+00:00:35.910 --> 00:00:35.920 align:start position:0%
+but certainly within that particular
+ 
+
+00:00:35.920 --> 00:00:37.350 align:start position:0%
+but certainly within that particular
+subscription
+
+00:00:37.350 --> 00:00:37.360 align:start position:0%
+subscription
+ 
+
+00:00:37.360 --> 00:00:39.990 align:start position:0%
+subscription
+when<00:00:37.600><c> i</c><00:00:37.760><c> deploy</c><00:00:38.480><c> many</c><00:00:38.800><c> types</c><00:00:39.040><c> of</c><00:00:39.200><c> resources</c>
+
+00:00:39.990 --> 00:00:40.000 align:start position:0%
+when i deploy many types of resources
+ 
+
+00:00:40.000 --> 00:00:42.709 align:start position:0%
+when i deploy many types of resources
+they<00:00:40.160><c> have</c><00:00:40.239><c> to</c><00:00:40.399><c> go</c><00:00:40.640><c> to</c><00:00:40.879><c> a</c><00:00:41.040><c> specific</c><00:00:41.600><c> region</c>
+
+00:00:42.709 --> 00:00:42.719 align:start position:0%
+they have to go to a specific region
+ 
+
+00:00:42.719 --> 00:00:44.470 align:start position:0%
+they have to go to a specific region
+and<00:00:42.879><c> that's</c><00:00:43.440><c> exactly</c><00:00:43.840><c> the</c><00:00:44.000><c> case</c><00:00:44.239><c> for</c><00:00:44.399><c> a</c>
+
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+and that's exactly the case for a
+ 
+
+00:00:44.480 --> 00:00:46.389 align:start position:0%
+and that's exactly the case for a
+virtual<00:00:44.879><c> network</c><00:00:45.760><c> so</c><00:00:45.920><c> within</c><00:00:46.239><c> that</c>
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+virtual network so within that
+ 
+
+00:00:46.399 --> 00:00:48.869 align:start position:0%
+virtual network so within that
+subscription<00:00:47.039><c> i'm</c><00:00:47.200><c> going</c><00:00:47.280><c> to</c><00:00:47.520><c> pick</c><00:00:47.920><c> a</c><00:00:48.239><c> certain</c>
+
+00:00:48.869 --> 00:00:48.879 align:start position:0%
+subscription i'm going to pick a certain
+ 
+
+00:00:48.879 --> 00:00:51.910 align:start position:0%
+subscription i'm going to pick a certain
+region
+
+00:00:51.910 --> 00:00:51.920 align:start position:0%
+ 
+ 
+
+00:00:51.920 --> 00:00:53.750 align:start position:0%
+ 
+and<00:00:52.160><c> those</c><00:00:52.399><c> are</c><00:00:52.559><c> the</c><00:00:52.719><c> boundaries</c><00:00:53.360><c> when</c><00:00:53.600><c> i</c>
+
+00:00:53.750 --> 00:00:53.760 align:start position:0%
+and those are the boundaries when i
+ 
+
+00:00:53.760 --> 00:00:57.189 align:start position:0%
+and those are the boundaries when i
+create<00:00:54.079><c> this</c><00:00:54.320><c> idea</c><00:00:54.800><c> of</c><00:00:55.120><c> a</c><00:00:55.520><c> virtual</c><00:00:56.160><c> network</c><00:00:57.039><c> so</c>
+
+00:00:57.189 --> 00:00:57.199 align:start position:0%
+create this idea of a virtual network so
+ 
+
+00:00:57.199 --> 00:01:00.869 align:start position:0%
+create this idea of a virtual network so
+i<00:00:57.360><c> create</c><00:00:57.760><c> a</c><00:00:58.079><c> virtual</c><00:00:58.719><c> network</c><00:00:59.359><c> resource</c>
+
+00:01:00.869 --> 00:01:00.879 align:start position:0%
+i create a virtual network resource
+ 
+
+00:01:00.879 --> 00:01:03.670 align:start position:0%
+i create a virtual network resource
+so<00:01:01.039><c> that</c><00:01:01.199><c> virtual</c><00:01:01.680><c> network</c><00:01:02.239><c> resource</c><00:01:03.039><c> exists</c>
+
+00:01:03.670 --> 00:01:03.680 align:start position:0%
+so that virtual network resource exists
+ 
+
+00:01:03.680 --> 00:01:05.910 align:start position:0%
+so that virtual network resource exists
+in<00:01:03.920><c> a</c><00:01:04.080><c> specific</c><00:01:04.559><c> subscription</c><00:01:05.280><c> so</c><00:01:05.439><c> i</c><00:01:05.519><c> cannot</c>
+
+00:01:05.910 --> 00:01:05.920 align:start position:0%
+in a specific subscription so i cannot
+ 
+
+00:01:05.920 --> 00:01:08.310 align:start position:0%
+in a specific subscription so i cannot
+span<00:01:06.320><c> subscriptions</c><00:01:07.439><c> and</c><00:01:07.680><c> exist</c><00:01:08.000><c> in</c><00:01:08.159><c> a</c>
+
+00:01:08.310 --> 00:01:08.320 align:start position:0%
+span subscriptions and exist in a
+ 
+
+00:01:08.320 --> 00:01:11.750 align:start position:0%
+span subscriptions and exist in a
+specific<00:01:08.960><c> region</c><00:01:09.280><c> it</c><00:01:09.439><c> cannot</c><00:01:09.840><c> span</c><00:01:10.400><c> regions</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+specific region it cannot span regions
+ 
+
+00:01:11.760 --> 00:01:13.429 align:start position:0%
+specific region it cannot span regions
+so<00:01:12.000><c> this</c><00:01:12.240><c> idea</c><00:01:12.560><c> of</c><00:01:12.720><c> this</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+so this idea of this
+ 
+
+00:01:13.439 --> 00:01:15.990 align:start position:0%
+so this idea of this
+virtual<00:01:14.159><c> network</c>
+
+00:01:15.990 --> 00:01:16.000 align:start position:0%
+virtual network
+ 
+
+00:01:16.000 --> 00:01:20.230 align:start position:0%
+virtual network
+is<00:01:16.240><c> really</c><00:01:16.720><c> a</c><00:01:17.119><c> core</c><00:01:17.680><c> building</c><00:01:18.159><c> block</c>
+
+00:01:20.230 --> 00:01:20.240 align:start position:0%
+is really a core building block
+ 
+
+00:01:20.240 --> 00:01:23.830 align:start position:0%
+is really a core building block
+now<00:01:20.479><c> it's</c><00:01:20.640><c> defined</c><00:01:21.680><c> as</c><00:01:22.400><c> a</c><00:01:22.720><c> minimum</c>
+
+00:01:23.830 --> 00:01:23.840 align:start position:0%
+now it's defined as a minimum
+ 
+
+00:01:23.840 --> 00:01:26.630 align:start position:0%
+now it's defined as a minimum
+one<00:01:24.320><c> set</c><00:01:24.560><c> of</c><00:01:24.880><c> ipv4</c>
+
+00:01:26.630 --> 00:01:26.640 align:start position:0%
+one set of ipv4
+ 
+
+00:01:26.640 --> 00:01:27.910 align:start position:0%
+one set of ipv4
+addresses
+
+00:01:27.910 --> 00:01:27.920 align:start position:0%
+addresses
+ 
+
+00:01:27.920 --> 00:01:29.190 align:start position:0%
+addresses
+and<00:01:28.000><c> we</c><00:01:28.159><c> talked</c><00:01:28.400><c> about</c><00:01:28.560><c> the</c><00:01:28.720><c> idea</c><00:01:28.880><c> of</c><00:01:29.040><c> a</c>
+
+00:01:29.190 --> 00:01:29.200 align:start position:0%
+and we talked about the idea of a
+ 
+
+00:01:29.200 --> 00:01:31.270 align:start position:0%
+and we talked about the idea of a
+sidearm<00:01:29.759><c> range</c><00:01:30.079><c> now</c><00:01:30.240><c> that's</c><00:01:30.720><c> outside</c><00:01:31.200><c> the</c>
+
+00:01:31.270 --> 00:01:31.280 align:start position:0%
+sidearm range now that's outside the
+ 
+
+00:01:31.280 --> 00:01:32.950 align:start position:0%
+sidearm range now that's outside the
+scope<00:01:31.600><c> of</c><00:01:31.759><c> this</c><00:01:31.920><c> video</c>
+
+00:01:32.950 --> 00:01:32.960 align:start position:0%
+scope of this video
+ 
+
+00:01:32.960 --> 00:01:37.270 align:start position:0%
+scope of this video
+but<00:01:33.119><c> it's</c><00:01:33.360><c> at</c><00:01:33.520><c> least</c><00:01:34.000><c> one</c><00:01:34.720><c> ipv4</c><00:01:36.000><c> sideart</c><00:01:36.560><c> range</c>
+
+00:01:37.270 --> 00:01:37.280 align:start position:0%
+but it's at least one ipv4 sideart range
+ 
+
+00:01:37.280 --> 00:01:39.630 align:start position:0%
+but it's at least one ipv4 sideart range
+now<00:01:37.520><c> typically</c><00:01:37.920><c> you're</c><00:01:38.079><c> going</c><00:01:38.240><c> to</c><00:01:38.400><c> use</c>
+
+00:01:39.630 --> 00:01:39.640 align:start position:0%
+now typically you're going to use
+ 
+
+00:01:39.640 --> 00:01:41.190 align:start position:0%
+now typically you're going to use
+1918
+
+00:01:41.190 --> 00:01:41.200 align:start position:0%
+1918
+ 
+
+00:01:41.200 --> 00:01:44.950 align:start position:0%
+1918
+so<00:01:41.360><c> the</c><00:01:41.439><c> whole</c><00:01:41.759><c> point</c><00:01:42.079><c> of</c><00:01:42.399><c> rfc</c><00:01:43.399><c> 1918</c>
+
+00:01:44.950 --> 00:01:44.960 align:start position:0%
+so the whole point of rfc 1918
+ 
+
+00:01:44.960 --> 00:01:47.830 align:start position:0%
+so the whole point of rfc 1918
+is<00:01:45.119><c> it's</c><00:01:45.439><c> a</c><00:01:45.600><c> set</c><00:01:45.840><c> of</c><00:01:46.000><c> ip</c><00:01:46.479><c> addresses</c><00:01:47.439><c> that</c><00:01:47.680><c> are</c>
+
+00:01:47.830 --> 00:01:47.840 align:start position:0%
+is it's a set of ip addresses that are
+ 
+
+00:01:47.840 --> 00:01:49.830 align:start position:0%
+is it's a set of ip addresses that are
+designed<00:01:48.159><c> to</c><00:01:48.240><c> be</c><00:01:48.399><c> used</c><00:01:48.799><c> on</c><00:01:48.960><c> internal</c><00:01:49.439><c> networks</c>
+
+00:01:49.830 --> 00:01:49.840 align:start position:0%
+designed to be used on internal networks
+ 
+
+00:01:49.840 --> 00:01:51.910 align:start position:0%
+designed to be used on internal networks
+it<00:01:49.920><c> will</c><00:01:50.000><c> not</c><00:01:50.240><c> route</c><00:01:50.640><c> over</c><00:01:50.799><c> the</c><00:01:50.960><c> internet</c><00:01:51.759><c> we</c>
+
+00:01:51.910 --> 00:01:51.920 align:start position:0%
+it will not route over the internet we
+ 
+
+00:01:51.920 --> 00:01:54.550 align:start position:0%
+it will not route over the internet we
+run<00:01:52.079><c> out</c><00:01:52.159><c> of</c><00:01:52.320><c> ipv4</c><00:01:52.880><c> addresses</c><00:01:53.759><c> so</c><00:01:54.000><c> this</c><00:01:54.240><c> was</c>
+
+00:01:54.550 --> 00:01:54.560 align:start position:0%
+run out of ipv4 addresses so this was
+ 
+
+00:01:54.560 --> 00:01:56.789 align:start position:0%
+run out of ipv4 addresses so this was
+created<00:01:55.280><c> so</c><00:01:55.439><c> that</c><00:01:55.680><c> every</c><00:01:56.000><c> company</c><00:01:56.399><c> could</c><00:01:56.560><c> use</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+created so that every company could use
+ 
+
+00:01:56.799 --> 00:01:59.190 align:start position:0%
+created so that every company could use
+this<00:01:57.040><c> same</c><00:01:57.360><c> range</c><00:01:57.840><c> internally</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+this same range internally
+ 
+
+00:01:59.200 --> 00:02:02.389 align:start position:0%
+this same range internally
+and<00:01:59.360><c> then</c><00:01:59.680><c> translate</c><00:02:00.479><c> that</c><00:02:00.799><c> ip</c><00:02:01.520><c> to</c>
+
+00:02:02.389 --> 00:02:02.399 align:start position:0%
+and then translate that ip to
+ 
+
+00:02:02.399 --> 00:02:05.910 align:start position:0%
+and then translate that ip to
+one<00:02:02.719><c> or</c><00:02:02.960><c> two</c><00:02:03.360><c> public</c><00:02:03.840><c> ipv4</c><00:02:04.799><c> addresses</c><00:02:05.520><c> using</c>
+
+00:02:05.910 --> 00:02:05.920 align:start position:0%
+one or two public ipv4 addresses using
+ 
+
+00:02:05.920 --> 00:02:08.630 align:start position:0%
+one or two public ipv4 addresses using
+network<00:02:06.479><c> address</c><00:02:06.880><c> translation</c><00:02:08.080><c> so</c><00:02:08.239><c> this</c><00:02:08.479><c> is</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+network address translation so this is
+ 
+
+00:02:08.640 --> 00:02:12.150 align:start position:0%
+network address translation so this is
+kind<00:02:08.879><c> of</c><00:02:08.959><c> this</c><00:02:09.280><c> idea</c><00:02:09.679><c> of</c><00:02:09.920><c> ten</c><00:02:10.720><c> slash</c><00:02:11.200><c> eight</c>
+
+00:02:12.150 --> 00:02:12.160 align:start position:0%
+kind of this idea of ten slash eight
+ 
+
+00:02:12.160 --> 00:02:14.390 align:start position:0%
+kind of this idea of ten slash eight
+one<00:02:12.480><c> seven</c><00:02:12.879><c> two</c><00:02:13.520><c> dot</c>
+
+00:02:14.390 --> 00:02:14.400 align:start position:0%
+one seven two dot
+ 
+
+00:02:14.400 --> 00:02:16.710 align:start position:0%
+one seven two dot
+sixteen<00:02:15.040><c> slash</c><00:02:15.760><c> twelve</c>
+
+00:02:16.710 --> 00:02:16.720 align:start position:0%
+sixteen slash twelve
+ 
+
+00:02:16.720 --> 00:02:18.710 align:start position:0%
+sixteen slash twelve
+or<00:02:17.040><c> one</c><00:02:17.280><c> nine</c><00:02:17.840><c> two</c>
+
+00:02:18.710 --> 00:02:18.720 align:start position:0%
+or one nine two
+ 
+
+00:02:18.720 --> 00:02:20.830 align:start position:0%
+or one nine two
+dot<00:02:18.959><c> one</c><00:02:19.280><c> six</c><00:02:19.680><c> eight</c>
+
+00:02:20.830 --> 00:02:20.840 align:start position:0%
+dot one six eight
+ 
+
+00:02:20.840 --> 00:02:23.350 align:start position:0%
+dot one six eight
+sixteen<00:02:22.319><c> and</c>
+
+00:02:23.350 --> 00:02:23.360 align:start position:0%
+sixteen and
+ 
+
+00:02:23.360 --> 00:02:25.430 align:start position:0%
+sixteen and
+if<00:02:23.520><c> you've</c><00:02:23.840><c> used</c><00:02:24.319><c> ipv4</c><00:02:24.879><c> these</c><00:02:25.040><c> will</c><00:02:25.200><c> make</c>
+
+00:02:25.430 --> 00:02:25.440 align:start position:0%
+if you've used ipv4 these will make
+ 
+
+00:02:25.440 --> 00:02:26.710 align:start position:0%
+if you've used ipv4 these will make
+sense
+
+00:02:26.710 --> 00:02:26.720 align:start position:0%
+sense
+ 
+
+00:02:26.720 --> 00:02:28.710 align:start position:0%
+sense
+if<00:02:26.879><c> not</c><00:02:27.120><c> it's</c><00:02:27.280><c> really</c><00:02:27.440><c> just</c><00:02:27.680><c> defining</c><00:02:28.480><c> what</c>
+
+00:02:28.710 --> 00:02:28.720 align:start position:0%
+if not it's really just defining what
+ 
+
+00:02:28.720 --> 00:02:30.869 align:start position:0%
+if not it's really just defining what
+the<00:02:28.800><c> ip</c><00:02:29.200><c> address</c><00:02:29.680><c> starts</c><00:02:30.080><c> with</c><00:02:30.400><c> what's</c><00:02:30.640><c> part</c>
+
+00:02:30.869 --> 00:02:30.879 align:start position:0%
+the ip address starts with what's part
+ 
+
+00:02:30.879 --> 00:02:32.390 align:start position:0%
+the ip address starts with what's part
+of<00:02:30.959><c> the</c><00:02:31.040><c> host</c>
+
+00:02:32.390 --> 00:02:32.400 align:start position:0%
+of the host
+ 
+
+00:02:32.400 --> 00:02:34.550 align:start position:0%
+of the host
+network<00:02:32.879><c> address</c><00:02:33.599><c> and</c><00:02:33.760><c> then</c><00:02:33.920><c> which</c><00:02:34.160><c> part</c><00:02:34.400><c> is</c>
+
+00:02:34.550 --> 00:02:34.560 align:start position:0%
+network address and then which part is
+ 
+
+00:02:34.560 --> 00:02:37.110 align:start position:0%
+network address and then which part is
+the<00:02:34.640><c> host</c><00:02:35.360><c> so</c><00:02:35.920><c> you're</c><00:02:36.160><c> commonly</c><00:02:36.560><c> going</c><00:02:36.640><c> to</c><00:02:36.800><c> see</c>
+
+00:02:37.110 --> 00:02:37.120 align:start position:0%
+the host so you're commonly going to see
+ 
+
+00:02:37.120 --> 00:02:38.790 align:start position:0%
+the host so you're commonly going to see
+in<00:02:37.280><c> your</c><00:02:37.440><c> house</c><00:02:37.760><c> buddy</c><00:02:38.000><c> right</c><00:02:38.239><c> now</c><00:02:38.640><c> you're</c>
+
+00:02:38.790 --> 00:02:38.800 align:start position:0%
+in your house buddy right now you're
+ 
+
+00:02:38.800 --> 00:02:41.509 align:start position:0%
+in your house buddy right now you're
+probably<00:02:39.120><c> one</c><00:02:39.360><c> of</c><00:02:39.599><c> these</c><00:02:40.319><c> address</c><00:02:40.959><c> ranges</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+probably one of these address ranges
+ 
+
+00:02:41.519 --> 00:02:43.110 align:start position:0%
+probably one of these address ranges
+because<00:02:41.840><c> they're</c><00:02:42.000><c> reserved</c><00:02:42.480><c> for</c><00:02:42.640><c> internal</c>
+
+00:02:43.110 --> 00:02:43.120 align:start position:0%
+because they're reserved for internal
+ 
+
+00:02:43.120 --> 00:02:43.990 align:start position:0%
+because they're reserved for internal
+use
+
+00:02:43.990 --> 00:02:44.000 align:start position:0%
+use
+ 
+
+00:02:44.000 --> 00:02:45.589 align:start position:0%
+use
+so<00:02:44.160><c> i'm</c><00:02:44.319><c> going</c><00:02:44.400><c> to</c><00:02:44.480><c> have</c><00:02:44.720><c> one</c><00:02:44.959><c> or</c><00:02:45.200><c> more</c><00:02:45.519><c> of</c>
+
+00:02:45.589 --> 00:02:45.599 align:start position:0%
+so i'm going to have one or more of
+ 
+
+00:02:45.599 --> 00:02:47.990 align:start position:0%
+so i'm going to have one or more of
+these<00:02:45.920><c> defined</c><00:02:46.239><c> for</c><00:02:46.400><c> my</c><00:02:46.480><c> virtual</c><00:02:46.879><c> network</c>
+
+00:02:47.990 --> 00:02:48.000 align:start position:0%
+these defined for my virtual network
+ 
+
+00:02:48.000 --> 00:02:49.750 align:start position:0%
+these defined for my virtual network
+optionally
+
+00:02:49.750 --> 00:02:49.760 align:start position:0%
+optionally
+ 
+
+00:02:49.760 --> 00:02:52.790 align:start position:0%
+optionally
+i<00:02:49.920><c> can</c><00:02:50.080><c> also</c><00:02:50.480><c> add</c><00:02:51.040><c> ipv6</c>
+
+00:02:52.790 --> 00:02:52.800 align:start position:0%
+i can also add ipv6
+ 
+
+00:02:52.800 --> 00:02:54.790 align:start position:0%
+i can also add ipv6
+sider<00:02:53.280><c> ranges</c><00:02:53.599><c> but</c><00:02:53.760><c> you</c><00:02:53.920><c> don't</c><00:02:54.239><c> have</c><00:02:54.480><c> to</c><00:02:54.640><c> do</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+sider ranges but you don't have to do
+ 
+
+00:02:54.800 --> 00:02:55.830 align:start position:0%
+sider ranges but you don't have to do
+that
+
+00:02:55.830 --> 00:02:55.840 align:start position:0%
+that
+ 
+
+00:02:55.840 --> 00:02:58.070 align:start position:0%
+that
+so<00:02:56.000><c> that</c><00:02:56.239><c> defines</c><00:02:56.879><c> what</c><00:02:57.200><c> is</c><00:02:57.440><c> the</c><00:02:57.599><c> virtual</c>
+
+00:02:58.070 --> 00:02:58.080 align:start position:0%
+so that defines what is the virtual
+ 
+
+00:02:58.080 --> 00:03:00.149 align:start position:0%
+so that defines what is the virtual
+network<00:02:58.879><c> and</c><00:02:59.120><c> then</c>
+
+00:03:00.149 --> 00:03:00.159 align:start position:0%
+network and then
+ 
+
+00:03:00.159 --> 00:03:03.430 align:start position:0%
+network and then
+i<00:03:00.400><c> create</c><00:03:01.200><c> virtual</c><00:03:01.680><c> subnets</c><00:03:02.640><c> so</c><00:03:02.800><c> just</c><00:03:02.959><c> like</c><00:03:03.200><c> we</c>
+
+00:03:03.430 --> 00:03:03.440 align:start position:0%
+i create virtual subnets so just like we
+ 
+
+00:03:03.440 --> 00:03:06.550 align:start position:0%
+i create virtual subnets so just like we
+would<00:03:03.920><c> in</c><00:03:04.560><c> a</c><00:03:04.800><c> real</c><00:03:05.040><c> physical</c><00:03:05.440><c> network</c><00:03:06.400><c> i</c>
+
+00:03:06.550 --> 00:03:06.560 align:start position:0%
+would in a real physical network i
+ 
+
+00:03:06.560 --> 00:03:08.790 align:start position:0%
+would in a real physical network i
+divide<00:03:07.120><c> it</c><00:03:07.360><c> up</c>
+
+00:03:08.790 --> 00:03:08.800 align:start position:0%
+divide it up
+ 
+
+00:03:08.800 --> 00:03:11.190 align:start position:0%
+divide it up
+into<00:03:09.200><c> one</c><00:03:09.440><c> or</c><00:03:09.599><c> more</c><00:03:10.000><c> subnets</c>
+
+00:03:11.190 --> 00:03:11.200 align:start position:0%
+into one or more subnets
+ 
+
+00:03:11.200 --> 00:03:14.470 align:start position:0%
+into one or more subnets
+so<00:03:11.360><c> this</c><00:03:11.599><c> could</c><00:03:11.760><c> be</c><00:03:11.920><c> kind</c><00:03:12.159><c> of</c>
+
+00:03:14.470 --> 00:03:14.480 align:start position:0%
+ 
+ 
+
+00:03:14.480 --> 00:03:16.309 align:start position:0%
+ 
+subnet<00:03:15.120><c> one</c>
+
+00:03:16.309 --> 00:03:16.319 align:start position:0%
+subnet one
+ 
+
+00:03:16.319 --> 00:03:19.110 align:start position:0%
+subnet one
+i<00:03:16.560><c> have</c><00:03:16.800><c> a</c><00:03:16.879><c> subnet</c><00:03:17.599><c> 2</c>
+
+00:03:19.110 --> 00:03:19.120 align:start position:0%
+i have a subnet 2
+ 
+
+00:03:19.120 --> 00:03:21.830 align:start position:0%
+i have a subnet 2
+subnet<00:03:19.680><c> 3</c><00:03:20.319><c> etc</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+subnet 3 etc
+ 
+
+00:03:21.840 --> 00:03:24.070 align:start position:0%
+subnet 3 etc
+and<00:03:22.000><c> each</c><00:03:22.400><c> one</c><00:03:22.640><c> of</c><00:03:22.879><c> these</c><00:03:23.360><c> is</c><00:03:23.519><c> going</c><00:03:23.680><c> to</c><00:03:23.760><c> be</c><00:03:23.920><c> a</c>
+
+00:03:24.070 --> 00:03:24.080 align:start position:0%
+and each one of these is going to be a
+ 
+
+00:03:24.080 --> 00:03:28.070 align:start position:0%
+and each one of these is going to be a
+portion<00:03:25.120><c> of</c><00:03:25.280><c> that</c><00:03:25.599><c> ip</c><00:03:26.239><c> space</c><00:03:27.120><c> that</c><00:03:27.280><c> i</c><00:03:27.440><c> defined</c>
+
+00:03:28.070 --> 00:03:28.080 align:start position:0%
+portion of that ip space that i defined
+ 
+
+00:03:28.080 --> 00:03:29.910 align:start position:0%
+portion of that ip space that i defined
+as<00:03:28.319><c> the</c><00:03:28.480><c> virtual</c><00:03:28.879><c> network</c>
+
+00:03:29.910 --> 00:03:29.920 align:start position:0%
+as the virtual network
+ 
+
+00:03:29.920 --> 00:03:35.830 align:start position:0%
+as the virtual network
+so<00:03:30.319><c> this</c><00:03:30.879><c> for</c><00:03:31.120><c> example</c><00:03:31.840><c> could</c><00:03:32.000><c> be</c><00:03:32.560><c> 10.0.1</c>
+
+00:03:35.830 --> 00:03:35.840 align:start position:0%
+ 
+ 
+
+00:03:35.840 --> 00:03:41.589 align:start position:0%
+ 
+slash<00:03:36.400><c> 24</c><00:03:37.360><c> that</c><00:03:37.519><c> might</c><00:03:37.680><c> be</c><00:03:37.920><c> 10.10.0.2</c>
+
+00:03:41.589 --> 00:03:41.599 align:start position:0%
+ 
+ 
+
+00:03:41.599 --> 00:03:43.190 align:start position:0%
+ 
+such<00:03:41.920><c> 24</c>
+
+00:03:43.190 --> 00:03:43.200 align:start position:0%
+such 24
+ 
+
+00:03:43.200 --> 00:03:45.990 align:start position:0%
+such 24
+10.0.3.24
+
+00:03:45.990 --> 00:03:46.000 align:start position:0%
+10.0.3.24
+ 
+
+00:03:46.000 --> 00:03:49.270 align:start position:0%
+10.0.3.24
+it's<00:03:46.239><c> some</c><00:03:46.560><c> portion</c><00:03:47.440><c> if</c><00:03:47.599><c> i'd</c><00:03:47.920><c> picked</c><00:03:48.400><c> this</c><00:03:49.120><c> or</c>
+
+00:03:49.270 --> 00:03:49.280 align:start position:0%
+it's some portion if i'd picked this or
+ 
+
+00:03:49.280 --> 00:03:50.949 align:start position:0%
+it's some portion if i'd picked this or
+a<00:03:49.440><c> portion</c><00:03:49.840><c> of</c><00:03:49.920><c> that</c>
+
+00:03:50.949 --> 00:03:50.959 align:start position:0%
+a portion of that
+ 
+
+00:03:50.959 --> 00:03:53.110 align:start position:0%
+a portion of that
+for<00:03:51.200><c> my</c><00:03:51.440><c> virtual</c><00:03:51.840><c> network</c>
+
+00:03:53.110 --> 00:03:53.120 align:start position:0%
+for my virtual network
+ 
+
+00:03:53.120 --> 00:03:54.470 align:start position:0%
+for my virtual network
+now<00:03:53.280><c> remember</c>
+
+00:03:54.470 --> 00:03:54.480 align:start position:0%
+now remember
+ 
+
+00:03:54.480 --> 00:03:56.470 align:start position:0%
+now remember
+that<00:03:54.720><c> idea</c><00:03:54.879><c> of</c><00:03:54.959><c> availability</c><00:03:55.760><c> zones</c>
+
+00:03:56.470 --> 00:03:56.480 align:start position:0%
+that idea of availability zones
+ 
+
+00:03:56.480 --> 00:03:58.149 align:start position:0%
+that idea of availability zones
+different<00:03:56.959><c> physical</c>
+
+00:03:58.149 --> 00:03:58.159 align:start position:0%
+different physical
+ 
+
+00:03:58.159 --> 00:04:01.509 align:start position:0%
+different physical
+buildings<00:03:58.640><c> within</c><00:03:59.040><c> a</c><00:03:59.120><c> certain</c><00:03:59.519><c> region</c>
+
+00:04:01.509 --> 00:04:01.519 align:start position:0%
+buildings within a certain region
+ 
+
+00:04:01.519 --> 00:04:04.710 align:start position:0%
+buildings within a certain region
+both<00:04:01.840><c> the</c><00:04:02.000><c> virtual</c><00:04:02.400><c> network</c><00:04:03.360><c> and</c><00:04:03.760><c> subnets</c>
+
+00:04:04.710 --> 00:04:04.720 align:start position:0%
+both the virtual network and subnets
+ 
+
+00:04:04.720 --> 00:04:06.869 align:start position:0%
+both the virtual network and subnets
+span<00:04:05.200><c> those</c><00:04:05.439><c> availability</c><00:04:06.080><c> zones</c><00:04:06.400><c> if</c><00:04:06.560><c> i</c><00:04:06.640><c> think</c>
+
+00:04:06.869 --> 00:04:06.879 align:start position:0%
+span those availability zones if i think
+ 
+
+00:04:06.879 --> 00:04:09.990 align:start position:0%
+span those availability zones if i think
+of<00:04:07.439><c> that</c><00:04:07.680><c> idea</c><00:04:08.000><c> of</c><00:04:08.159><c> zone</c><00:04:08.480><c> redundancy</c><00:04:09.760><c> these</c>
+
+00:04:09.990 --> 00:04:10.000 align:start position:0%
+of that idea of zone redundancy these
+ 
+
+00:04:10.000 --> 00:04:11.830 align:start position:0%
+of that idea of zone redundancy these
+are<00:04:10.159><c> not</c><00:04:10.480><c> pinned</c><00:04:10.879><c> to</c><00:04:11.120><c> any</c><00:04:11.360><c> particular</c>
+
+00:04:11.830 --> 00:04:11.840 align:start position:0%
+are not pinned to any particular
+ 
+
+00:04:11.840 --> 00:04:14.550 align:start position:0%
+are not pinned to any particular
+availability<00:04:12.560><c> zone</c><00:04:13.200><c> so</c><00:04:13.360><c> if</c><00:04:13.519><c> my</c><00:04:13.760><c> region</c><00:04:14.239><c> does</c>
+
+00:04:14.550 --> 00:04:14.560 align:start position:0%
+availability zone so if my region does
+ 
+
+00:04:14.560 --> 00:04:16.550 align:start position:0%
+availability zone so if my region does
+have<00:04:14.799><c> availability</c><00:04:15.599><c> zones</c>
+
+00:04:16.550 --> 00:04:16.560 align:start position:0%
+have availability zones
+ 
+
+00:04:16.560 --> 00:04:19.030 align:start position:0%
+have availability zones
+let's<00:04:16.799><c> say</c><00:04:16.959><c> kind</c><00:04:17.120><c> of</c><00:04:17.199><c> there's</c><00:04:17.359><c> an</c><00:04:17.519><c> az1</c>
+
+00:04:19.030 --> 00:04:19.040 align:start position:0%
+let's say kind of there's an az1
+ 
+
+00:04:19.040 --> 00:04:23.670 align:start position:0%
+let's say kind of there's an az1
+an<00:04:19.280><c> az2</c><00:04:20.160><c> and</c><00:04:20.320><c> an</c><00:04:20.479><c> az3</c>
+
+00:04:23.670 --> 00:04:23.680 align:start position:0%
+ 
+ 
+
+00:04:23.680 --> 00:04:26.390 align:start position:0%
+ 
+both<00:04:23.919><c> the</c><00:04:24.080><c> subnet</c><00:04:24.560><c> and</c><00:04:24.720><c> the</c><00:04:24.880><c> v-net</c><00:04:25.440><c> span</c><00:04:25.919><c> those</c>
+
+00:04:26.390 --> 00:04:26.400 align:start position:0%
+both the subnet and the v-net span those
+ 
+
+00:04:26.400 --> 00:04:28.870 align:start position:0%
+both the subnet and the v-net span those
+i.e<00:04:27.199><c> i</c><00:04:27.360><c> can</c><00:04:27.520><c> put</c><00:04:27.840><c> resources</c><00:04:28.479><c> in</c><00:04:28.560><c> the</c><00:04:28.639><c> same</c>
+
+00:04:28.870 --> 00:04:28.880 align:start position:0%
+i.e i can put resources in the same
+ 
+
+00:04:28.880 --> 00:04:31.510 align:start position:0%
+i.e i can put resources in the same
+subnet<00:04:29.600><c> some</c><00:04:29.759><c> of</c><00:04:29.919><c> them</c><00:04:30.000><c> in</c><00:04:30.160><c> az1</c><00:04:30.720><c> some</c><00:04:30.960><c> in</c><00:04:31.120><c> az2</c>
+
+00:04:31.510 --> 00:04:31.520 align:start position:0%
+subnet some of them in az1 some in az2
+ 
+
+00:04:31.520 --> 00:04:34.390 align:start position:0%
+subnet some of them in az1 some in az2
+some<00:04:31.759><c> az3</c><00:04:32.639><c> it</c><00:04:32.800><c> does</c><00:04:33.120><c> not</c><00:04:33.360><c> matter</c><00:04:34.000><c> all</c><00:04:34.240><c> of</c><00:04:34.320><c> the</c>
+
+00:04:34.390 --> 00:04:34.400 align:start position:0%
+some az3 it does not matter all of the
+ 
+
+00:04:34.400 --> 00:04:36.550 align:start position:0%
+some az3 it does not matter all of the
+subnets<00:04:35.199><c> all</c><00:04:35.360><c> the</c><00:04:35.440><c> v-nets</c><00:04:35.840><c> are</c><00:04:35.919><c> available</c><00:04:36.320><c> in</c>
+
+00:04:36.550 --> 00:04:36.560 align:start position:0%
+subnets all the v-nets are available in
+ 
+
+00:04:36.560 --> 00:04:40.150 align:start position:0%
+subnets all the v-nets are available in
+any<00:04:36.880><c> az</c><00:04:37.759><c> within</c><00:04:38.160><c> that</c><00:04:38.320><c> particular</c><00:04:38.880><c> region</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+any az within that particular region
+ 
+
+00:04:40.160 --> 00:04:43.189 align:start position:0%
+any az within that particular region
+and<00:04:40.240><c> then</c><00:04:40.479><c> what</c><00:04:40.639><c> i</c><00:04:40.720><c> do</c><00:04:41.040><c> next</c><00:04:41.759><c> is</c><00:04:42.080><c> i</c><00:04:42.320><c> just</c>
+
+00:04:43.189 --> 00:04:43.199 align:start position:0%
+and then what i do next is i just
+ 
+
+00:04:43.199 --> 00:04:47.510 align:start position:0%
+and then what i do next is i just
+attach<00:04:44.000><c> resources</c><00:04:45.280><c> to</c><00:04:45.440><c> a</c><00:04:45.600><c> particular</c><00:04:46.000><c> subnet</c>
+
+00:04:47.510 --> 00:04:47.520 align:start position:0%
+attach resources to a particular subnet
+ 
+
+00:04:47.520 --> 00:04:50.070 align:start position:0%
+attach resources to a particular subnet
+now<00:04:47.759><c> we</c><00:04:47.919><c> commonly</c><00:04:48.800><c> draw</c><00:04:49.199><c> it</c><00:04:49.360><c> as</c><00:04:49.600><c> the</c><00:04:49.759><c> idea</c><00:04:50.000><c> that</c>
+
+00:04:50.070 --> 00:04:50.080 align:start position:0%
+now we commonly draw it as the idea that
+ 
+
+00:04:50.080 --> 00:04:52.310 align:start position:0%
+now we commonly draw it as the idea that
+hey<00:04:50.240><c> i'm</c><00:04:50.400><c> in</c><00:04:50.720><c> putting</c><00:04:51.040><c> a</c><00:04:51.120><c> vm</c>
+
+00:04:52.310 --> 00:04:52.320 align:start position:0%
+hey i'm in putting a vm
+ 
+
+00:04:52.320 --> 00:04:54.790 align:start position:0%
+hey i'm in putting a vm
+in<00:04:52.639><c> this</c><00:04:53.040><c> subnet</c><00:04:54.080><c> that's</c><00:04:54.320><c> not</c><00:04:54.560><c> really</c>
+
+00:04:54.790 --> 00:04:54.800 align:start position:0%
+in this subnet that's not really
+ 
+
+00:04:54.800 --> 00:04:56.870 align:start position:0%
+in this subnet that's not really
+accurate<00:04:55.520><c> what</c><00:04:55.759><c> actually</c><00:04:56.160><c> happens</c><00:04:56.560><c> is</c><00:04:56.639><c> that</c>
+
+00:04:56.870 --> 00:04:56.880 align:start position:0%
+accurate what actually happens is that
+ 
+
+00:04:56.880 --> 00:04:58.230 align:start position:0%
+accurate what actually happens is that
+vm
+
+00:04:58.230 --> 00:04:58.240 align:start position:0%
+vm
+ 
+
+00:04:58.240 --> 00:05:00.550 align:start position:0%
+vm
+has<00:04:58.720><c> a</c><00:04:58.800><c> network</c><00:04:59.280><c> interface</c><00:04:59.680><c> card</c><00:05:00.000><c> attached</c><00:05:00.400><c> to</c>
+
+00:05:00.550 --> 00:05:00.560 align:start position:0%
+has a network interface card attached to
+ 
+
+00:05:00.560 --> 00:05:01.909 align:start position:0%
+has a network interface card attached to
+it<00:05:01.120><c> which</c>
+
+00:05:01.909 --> 00:05:01.919 align:start position:0%
+it which
+ 
+
+00:05:01.919 --> 00:05:04.550 align:start position:0%
+it which
+attaches<00:05:02.800><c> to</c><00:05:03.039><c> a</c><00:05:03.199><c> particular</c><00:05:03.680><c> subnet</c><00:05:04.320><c> that's</c>
+
+00:05:04.550 --> 00:05:04.560 align:start position:0%
+attaches to a particular subnet that's
+ 
+
+00:05:04.560 --> 00:05:06.469 align:start position:0%
+attaches to a particular subnet that's
+really<00:05:04.800><c> what</c><00:05:04.960><c> happens</c><00:05:05.280><c> behind</c><00:05:05.600><c> the</c><00:05:05.759><c> scenes</c>
+
+00:05:06.469 --> 00:05:06.479 align:start position:0%
+really what happens behind the scenes
+ 
+
+00:05:06.479 --> 00:05:07.909 align:start position:0%
+really what happens behind the scenes
+but<00:05:06.639><c> to</c><00:05:06.720><c> all</c><00:05:06.880><c> intents</c><00:05:07.199><c> and</c><00:05:07.280><c> purposes</c><00:05:07.680><c> we're</c>
+
+00:05:07.909 --> 00:05:07.919 align:start position:0%
+but to all intents and purposes we're
+ 
+
+00:05:07.919 --> 00:05:10.550 align:start position:0%
+but to all intents and purposes we're
+putting<00:05:08.240><c> a</c><00:05:08.400><c> vm</c><00:05:08.960><c> in</c><00:05:09.280><c> a</c><00:05:09.360><c> particular</c><00:05:09.919><c> subnet</c><00:05:10.479><c> the</c>
+
+00:05:10.550 --> 00:05:10.560 align:start position:0%
+putting a vm in a particular subnet the
+ 
+
+00:05:10.560 --> 00:05:12.070 align:start position:0%
+putting a vm in a particular subnet the
+idea<00:05:10.800><c> of</c><00:05:10.880><c> subnet</c><00:05:11.280><c> 2</c>
+
+00:05:12.070 --> 00:05:12.080 align:start position:0%
+idea of subnet 2
+ 
+
+00:05:12.080 --> 00:05:14.950 align:start position:0%
+idea of subnet 2
+subnet<00:05:12.639><c> 3.</c>
+
+00:05:14.950 --> 00:05:14.960 align:start position:0%
+subnet 3.
+ 
+
+00:05:14.960 --> 00:05:17.749 align:start position:0%
+subnet 3.
+when<00:05:15.199><c> i</c><00:05:15.360><c> think</c><00:05:15.600><c> about</c><00:05:16.000><c> what</c><00:05:16.400><c> size</c><00:05:16.880><c> subnet</c><00:05:17.360><c> do</c><00:05:17.600><c> i</c>
+
+00:05:17.749 --> 00:05:17.759 align:start position:0%
+when i think about what size subnet do i
+ 
+
+00:05:17.759 --> 00:05:18.870 align:start position:0%
+when i think about what size subnet do i
+need
+
+00:05:18.870 --> 00:05:18.880 align:start position:0%
+need
+ 
+
+00:05:18.880 --> 00:05:21.909 align:start position:0%
+need
+any<00:05:19.280><c> subnet</c><00:05:19.840><c> i</c><00:05:20.080><c> create</c><00:05:21.039><c> i</c><00:05:21.199><c> pick</c><00:05:21.440><c> a</c><00:05:21.520><c> certain</c>
+
+00:05:21.909 --> 00:05:21.919 align:start position:0%
+any subnet i create i pick a certain
+ 
+
+00:05:21.919 --> 00:05:26.469 align:start position:0%
+any subnet i create i pick a certain
+range<00:05:22.639><c> so</c><00:05:22.880><c> if</c><00:05:23.039><c> i</c><00:05:23.280><c> pick</c><00:05:23.440><c> this</c><00:05:23.759><c> idea</c><00:05:24.000><c> of</c><00:05:24.160><c> a</c><00:05:25.039><c> 24</c>
+
+00:05:26.469 --> 00:05:26.479 align:start position:0%
+range so if i pick this idea of a 24
+ 
+
+00:05:26.479 --> 00:05:28.950 align:start position:0%
+range so if i pick this idea of a 24
+well<00:05:26.639><c> then</c><00:05:26.880><c> there's</c><00:05:27.199><c> eight</c><00:05:27.520><c> bits</c><00:05:28.240><c> available</c>
+
+00:05:28.950 --> 00:05:28.960 align:start position:0%
+well then there's eight bits available
+ 
+
+00:05:28.960 --> 00:05:30.310 align:start position:0%
+well then there's eight bits available
+for<00:05:29.199><c> the</c><00:05:29.360><c> host</c>
+
+00:05:30.310 --> 00:05:30.320 align:start position:0%
+for the host
+ 
+
+00:05:30.320 --> 00:05:31.990 align:start position:0%
+for the host
+so<00:05:30.479><c> i</c><00:05:30.639><c> think</c><00:05:30.800><c> oh</c><00:05:31.120><c> there's</c>
+
+00:05:31.990 --> 00:05:32.000 align:start position:0%
+so i think oh there's
+ 
+
+00:05:32.000 --> 00:05:35.430 align:start position:0%
+so i think oh there's
+256<00:05:33.360><c> usable</c><00:05:33.840><c> ip</c><00:05:34.080><c> addresses</c>
+
+00:05:35.430 --> 00:05:35.440 align:start position:0%
+256 usable ip addresses
+ 
+
+00:05:35.440 --> 00:05:39.670 align:start position:0%
+256 usable ip addresses
+azure<00:05:36.080><c> you</c><00:05:36.320><c> always</c><00:05:36.720><c> lose</c><00:05:37.280><c> five</c><00:05:37.919><c> ips</c><00:05:38.960><c> for</c><00:05:39.199><c> every</c>
+
+00:05:39.670 --> 00:05:39.680 align:start position:0%
+azure you always lose five ips for every
+ 
+
+00:05:39.680 --> 00:05:41.749 align:start position:0%
+azure you always lose five ips for every
+subnet
+
+00:05:41.749 --> 00:05:41.759 align:start position:0%
+subnet
+ 
+
+00:05:41.759 --> 00:05:44.629 align:start position:0%
+subnet
+you<00:05:41.919><c> always</c><00:05:42.240><c> lose</c><00:05:42.479><c> the</c><00:05:42.720><c> all</c><00:05:42.960><c> zeroes</c><00:05:43.600><c> or</c><00:05:43.759><c> ones</c>
+
+00:05:44.629 --> 00:05:44.639 align:start position:0%
+you always lose the all zeroes or ones
+ 
+
+00:05:44.639 --> 00:05:46.150 align:start position:0%
+you always lose the all zeroes or ones
+for<00:05:44.960><c> kind</c><00:05:45.120><c> of</c><00:05:45.199><c> the</c><00:05:45.280><c> network</c><00:05:45.680><c> address</c><00:05:46.080><c> and</c>
+
+00:05:46.150 --> 00:05:46.160 align:start position:0%
+for kind of the network address and
+ 
+
+00:05:46.160 --> 00:05:49.189 align:start position:0%
+for kind of the network address and
+broadcast<00:05:47.280><c> and</c><00:05:47.360><c> then</c><00:05:47.680><c> azure</c><00:05:48.160><c> uses</c><00:05:48.800><c> one</c><00:05:49.039><c> for</c>
+
+00:05:49.189 --> 00:05:49.199 align:start position:0%
+broadcast and then azure uses one for
+ 
+
+00:05:49.199 --> 00:05:51.430 align:start position:0%
+broadcast and then azure uses one for
+the<00:05:49.280><c> gateway</c><00:05:49.919><c> and</c><00:05:50.080><c> two</c><00:05:50.240><c> for</c><00:05:50.400><c> dns</c><00:05:50.960><c> so</c><00:05:51.120><c> if</c><00:05:51.280><c> i'm</c>
+
+00:05:51.430 --> 00:05:51.440 align:start position:0%
+the gateway and two for dns so if i'm
+ 
+
+00:05:51.440 --> 00:05:54.310 align:start position:0%
+the gateway and two for dns so if i'm
+ever<00:05:51.680><c> sizing</c><00:05:52.160><c> a</c><00:05:52.240><c> subnet</c><00:05:53.280><c> remember</c><00:05:53.600><c> you</c><00:05:53.919><c> always</c>
+
+00:05:54.310 --> 00:05:54.320 align:start position:0%
+ever sizing a subnet remember you always
+ 
+
+00:05:54.320 --> 00:05:55.990 align:start position:0%
+ever sizing a subnet remember you always
+lose<00:05:54.800><c> five</c>
+
+00:05:55.990 --> 00:05:56.000 align:start position:0%
+lose five
+ 
+
+00:05:56.000 --> 00:05:58.469 align:start position:0%
+lose five
+for<00:05:56.240><c> any</c><00:05:56.400><c> virtual</c><00:05:56.800><c> network</c><00:05:57.199><c> you</c><00:05:57.360><c> create</c>
+
+00:05:58.469 --> 00:05:58.479 align:start position:0%
+for any virtual network you create
+ 
+
+00:05:58.479 --> 00:06:01.189 align:start position:0%
+for any virtual network you create
+if<00:05:58.720><c> i</c><00:05:58.800><c> was</c><00:05:58.960><c> to</c><00:05:59.120><c> jump</c><00:05:59.360><c> over</c><00:05:59.680><c> for</c><00:05:59.840><c> a</c><00:05:59.919><c> second</c>
+
+00:06:01.189 --> 00:06:01.199 align:start position:0%
+if i was to jump over for a second
+ 
+
+00:06:01.199 --> 00:06:03.990 align:start position:0%
+if i was to jump over for a second
+and<00:06:01.680><c> if</c><00:06:01.840><c> we</c><00:06:02.000><c> just</c><00:06:02.240><c> go</c><00:06:02.479><c> and</c><00:06:02.720><c> look</c><00:06:03.360><c> at</c><00:06:03.680><c> our</c>
+
+00:06:03.990 --> 00:06:04.000 align:start position:0%
+and if we just go and look at our
+ 
+
+00:06:04.000 --> 00:06:06.629 align:start position:0%
+and if we just go and look at our
+virtual<00:06:04.560><c> networks</c>
+
+00:06:06.629 --> 00:06:06.639 align:start position:0%
+virtual networks
+ 
+
+00:06:06.639 --> 00:06:10.070 align:start position:0%
+virtual networks
+if<00:06:06.800><c> i</c><00:06:07.039><c> look</c><00:06:07.280><c> at</c><00:06:07.520><c> my</c><00:06:08.000><c> test</c><00:06:08.560><c> vena</c><00:06:08.960><c> over</c><00:06:09.199><c> here</c>
+
+00:06:10.070 --> 00:06:10.080 align:start position:0%
+if i look at my test vena over here
+ 
+
+00:06:10.080 --> 00:06:12.070 align:start position:0%
+if i look at my test vena over here
+and<00:06:10.240><c> look</c><00:06:10.400><c> at</c><00:06:10.639><c> subnets</c><00:06:11.600><c> you</c><00:06:11.680><c> can</c><00:06:11.759><c> see</c><00:06:11.919><c> i've</c>
+
+00:06:12.070 --> 00:06:12.080 align:start position:0%
+and look at subnets you can see i've
+ 
+
+00:06:12.080 --> 00:06:13.350 align:start position:0%
+and look at subnets you can see i've
+created<00:06:12.319><c> a</c><00:06:12.400><c> whole</c><00:06:12.639><c> bunch</c><00:06:12.960><c> of</c><00:06:13.039><c> different</c>
+
+00:06:13.350 --> 00:06:13.360 align:start position:0%
+created a whole bunch of different
+ 
+
+00:06:13.360 --> 00:06:14.550 align:start position:0%
+created a whole bunch of different
+subnets
+
+00:06:14.550 --> 00:06:14.560 align:start position:0%
+subnets
+ 
+
+00:06:14.560 --> 00:06:17.189 align:start position:0%
+subnets
+but<00:06:14.800><c> all</c><00:06:15.039><c> of</c><00:06:15.199><c> them</c><00:06:15.440><c> if</c><00:06:15.520><c> you</c><00:06:15.759><c> look</c>
+
+00:06:17.189 --> 00:06:17.199 align:start position:0%
+but all of them if you look
+ 
+
+00:06:17.199 --> 00:06:22.550 align:start position:0%
+but all of them if you look
+so<00:06:17.680><c> i</c><00:06:17.759><c> got</c><00:06:17.919><c> 192.168.1.</c>
+
+00:06:22.550 --> 00:06:22.560 align:start position:0%
+ 
+ 
+
+00:06:22.560 --> 00:06:26.070 align:start position:0%
+ 
+notice<00:06:22.960><c> i'm</c><00:06:23.039><c> not</c><00:06:23.199><c> using</c><00:06:23.840><c> 24</c><00:06:24.319><c> for</c><00:06:24.479><c> this</c><00:06:24.800><c> one</c>
+
+00:06:26.070 --> 00:06:26.080 align:start position:0%
+notice i'm not using 24 for this one
+ 
+
+00:06:26.080 --> 00:06:27.590 align:start position:0%
+notice i'm not using 24 for this one
+but
+
+00:06:27.590 --> 00:06:27.600 align:start position:0%
+but
+ 
+
+00:06:27.600 --> 00:06:31.110 align:start position:0%
+but
+these<00:06:27.840><c> are</c><00:06:27.919><c> all</c><00:06:28.080><c> empty</c><00:06:28.639><c> there's</c><00:06:28.960><c> no</c><00:06:29.360><c> resources</c>
+
+00:06:31.110 --> 00:06:31.120 align:start position:0%
+these are all empty there's no resources
+ 
+
+00:06:31.120 --> 00:06:33.189 align:start position:0%
+these are all empty there's no resources
+actually<00:06:31.520><c> connected</c><00:06:32.080><c> to</c><00:06:32.240><c> this</c>
+
+00:06:33.189 --> 00:06:33.199 align:start position:0%
+actually connected to this
+ 
+
+00:06:33.199 --> 00:06:34.710 align:start position:0%
+actually connected to this
+virtual<00:06:33.520><c> network</c><00:06:33.840><c> at</c><00:06:34.000><c> all</c><00:06:34.160><c> it's</c><00:06:34.319><c> completely</c>
+
+00:06:34.710 --> 00:06:34.720 align:start position:0%
+virtual network at all it's completely
+ 
+
+00:06:34.720 --> 00:06:35.990 align:start position:0%
+virtual network at all it's completely
+empty
+
+00:06:35.990 --> 00:06:36.000 align:start position:0%
+empty
+ 
+
+00:06:36.000 --> 00:06:37.029 align:start position:0%
+empty
+but
+
+00:06:37.029 --> 00:06:37.039 align:start position:0%
+but
+ 
+
+00:06:37.039 --> 00:06:41.029 align:start position:0%
+but
+i'm<00:06:37.280><c> using</c><00:06:38.240><c> hey</c><00:06:38.479><c> that</c><00:06:39.000><c> 192168</c><00:06:40.080><c> address</c><00:06:40.560><c> space</c>
+
+00:06:41.029 --> 00:06:41.039 align:start position:0%
+i'm using hey that 192168 address space
+ 
+
+00:06:41.039 --> 00:06:43.189 align:start position:0%
+i'm using hey that 192168 address space
+for<00:06:41.280><c> the</c><00:06:41.440><c> virtual</c><00:06:42.000><c> network</c><00:06:42.639><c> notice</c><00:06:42.960><c> i</c><00:06:43.039><c> could</c>
+
+00:06:43.189 --> 00:06:43.199 align:start position:0%
+for the virtual network notice i could
+ 
+
+00:06:43.199 --> 00:06:45.749 align:start position:0%
+for the virtual network notice i could
+add<00:06:43.440><c> additional</c><00:06:43.919><c> ones</c>
+
+00:06:45.749 --> 00:06:45.759 align:start position:0%
+add additional ones
+ 
+
+00:06:45.759 --> 00:06:47.430 align:start position:0%
+add additional ones
+but<00:06:45.919><c> for</c><00:06:46.080><c> the</c><00:06:46.240><c> subnets</c><00:06:47.039><c> look</c><00:06:47.199><c> at</c><00:06:47.280><c> the</c>
+
+00:06:47.430 --> 00:06:47.440 align:start position:0%
+but for the subnets look at the
+ 
+
+00:06:47.440 --> 00:06:49.350 align:start position:0%
+but for the subnets look at the
+available<00:06:48.000><c> ips</c>
+
+00:06:49.350 --> 00:06:49.360 align:start position:0%
+available ips
+ 
+
+00:06:49.360 --> 00:06:52.550 align:start position:0%
+available ips
+it<00:06:49.520><c> should</c><00:06:49.759><c> be</c><00:06:50.039><c> 256</c><00:06:51.199><c> in</c><00:06:51.360><c> total</c>
+
+00:06:52.550 --> 00:06:52.560 align:start position:0%
+it should be 256 in total
+ 
+
+00:06:52.560 --> 00:06:54.629 align:start position:0%
+it should be 256 in total
+but<00:06:53.039><c> what</c><00:06:53.199><c> i</c><00:06:53.360><c> actually</c><00:06:53.759><c> have</c><00:06:53.919><c> available</c><00:06:54.479><c> is</c>
+
+00:06:54.629 --> 00:06:54.639 align:start position:0%
+but what i actually have available is
+ 
+
+00:06:54.639 --> 00:06:56.550 align:start position:0%
+but what i actually have available is
+251.
+
+00:06:56.550 --> 00:06:56.560 align:start position:0%
+251.
+ 
+
+00:06:56.560 --> 00:06:59.589 align:start position:0%
+251.
+you're<00:06:56.880><c> always</c><00:06:57.280><c> losing</c><00:06:57.919><c> five</c><00:06:58.800><c> two</c><00:06:59.039><c> you</c><00:06:59.280><c> always</c>
+
+00:06:59.589 --> 00:06:59.599 align:start position:0%
+you're always losing five two you always
+ 
+
+00:06:59.599 --> 00:07:01.510 align:start position:0%
+you're always losing five two you always
+lose<00:06:59.919><c> just</c><00:07:00.080><c> for</c><00:07:00.240><c> the</c><00:07:00.319><c> regular</c><00:07:00.720><c> protocol</c><00:07:01.280><c> all</c>
+
+00:07:01.510 --> 00:07:01.520 align:start position:0%
+lose just for the regular protocol all
+ 
+
+00:07:01.520 --> 00:07:03.430 align:start position:0%
+lose just for the regular protocol all
+zeroes<00:07:02.000><c> or</c><00:07:02.240><c> ones</c><00:07:02.800><c> but</c><00:07:02.960><c> you</c><00:07:03.120><c> lose</c><00:07:03.360><c> an</c>
+
+00:07:03.430 --> 00:07:03.440 align:start position:0%
+zeroes or ones but you lose an
+ 
+
+00:07:03.440 --> 00:07:04.950 align:start position:0%
+zeroes or ones but you lose an
+additional<00:07:04.000><c> three</c>
+
+00:07:04.950 --> 00:07:04.960 align:start position:0%
+additional three
+ 
+
+00:07:04.960 --> 00:07:07.110 align:start position:0%
+additional three
+for<00:07:05.120><c> the</c><00:07:05.280><c> gateway</c><00:07:05.840><c> and</c><00:07:06.000><c> then</c><00:07:06.240><c> two</c><00:07:06.400><c> for</c><00:07:06.560><c> dns</c><00:07:07.039><c> so</c>
+
+00:07:07.110 --> 00:07:07.120 align:start position:0%
+for the gateway and then two for dns so
+ 
+
+00:07:07.120 --> 00:07:08.710 align:start position:0%
+for the gateway and then two for dns so
+just<00:07:07.280><c> remember</c><00:07:07.840><c> if</c><00:07:07.919><c> you're</c><00:07:08.080><c> ever</c><00:07:08.319><c> trying</c><00:07:08.560><c> to</c>
+
+00:07:08.710 --> 00:07:08.720 align:start position:0%
+just remember if you're ever trying to
+ 
+
+00:07:08.720 --> 00:07:10.710 align:start position:0%
+just remember if you're ever trying to
+size<00:07:09.199><c> up</c><00:07:09.599><c> you're</c><00:07:09.759><c> trying</c><00:07:09.919><c> to</c><00:07:10.000><c> work</c><00:07:10.240><c> out</c><00:07:10.479><c> what</c>
+
+00:07:10.710 --> 00:07:10.720 align:start position:0%
+size up you're trying to work out what
+ 
+
+00:07:10.720 --> 00:07:12.710 align:start position:0%
+size up you're trying to work out what
+size<00:07:11.039><c> should</c><00:07:11.280><c> it</c><00:07:11.440><c> be</c>
+
+00:07:12.710 --> 00:07:12.720 align:start position:0%
+size should it be
+ 
+
+00:07:12.720 --> 00:07:15.670 align:start position:0%
+size should it be
+we<00:07:12.960><c> always</c><00:07:13.280><c> lose</c><00:07:13.680><c> five</c>
+
+00:07:15.670 --> 00:07:15.680 align:start position:0%
+we always lose five
+ 
+
+00:07:15.680 --> 00:07:18.309 align:start position:0%
+we always lose five
+on<00:07:16.000><c> every</c><00:07:16.240><c> subnet</c>
+
+00:07:18.309 --> 00:07:18.319 align:start position:0%
+on every subnet
+ 
+
+00:07:18.319 --> 00:07:20.629 align:start position:0%
+on every subnet
+now<00:07:18.479><c> these</c><00:07:18.720><c> are</c><00:07:18.880><c> all</c><00:07:19.199><c> private</c><00:07:19.680><c> ip</c><00:07:20.080><c> addresses</c>
+
+00:07:20.629 --> 00:07:20.639 align:start position:0%
+now these are all private ip addresses
+ 
+
+00:07:20.639 --> 00:07:22.629 align:start position:0%
+now these are all private ip addresses
+technically<00:07:21.039><c> you</c><00:07:21.120><c> don't</c><00:07:21.440><c> have</c><00:07:21.680><c> to</c><00:07:21.840><c> use</c><00:07:22.080><c> rfc</c>
+
+00:07:22.629 --> 00:07:22.639 align:start position:0%
+technically you don't have to use rfc
+ 
+
+00:07:22.639 --> 00:07:26.070 align:start position:0%
+technically you don't have to use rfc
+1918<00:07:23.520><c> i</c><00:07:23.599><c> could</c><00:07:23.759><c> bring</c><00:07:24.000><c> any</c><00:07:24.319><c> ip</c><00:07:24.720><c> range</c><00:07:25.039><c> i</c><00:07:25.120><c> wanted</c>
+
+00:07:26.070 --> 00:07:26.080 align:start position:0%
+1918 i could bring any ip range i wanted
+ 
+
+00:07:26.080 --> 00:07:28.230 align:start position:0%
+1918 i could bring any ip range i wanted
+even<00:07:26.400><c> if</c><00:07:26.560><c> i</c><00:07:26.720><c> brought</c><00:07:26.960><c> an</c><00:07:27.199><c> ip</c><00:07:27.599><c> range</c><00:07:27.919><c> that</c><00:07:28.080><c> was</c>
+
+00:07:28.230 --> 00:07:28.240 align:start position:0%
+even if i brought an ip range that was
+ 
+
+00:07:28.240 --> 00:07:30.309 align:start position:0%
+even if i brought an ip range that was
+publicly<00:07:28.720><c> routable</c><00:07:29.680><c> it</c><00:07:29.759><c> would</c><00:07:30.000><c> not</c><00:07:30.160><c> be</c>
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+publicly routable it would not be
+ 
+
+00:07:30.319 --> 00:07:31.830 align:start position:0%
+publicly routable it would not be
+publicly<00:07:30.800><c> routable</c>
+
+00:07:31.830 --> 00:07:31.840 align:start position:0%
+publicly routable
+ 
+
+00:07:31.840 --> 00:07:36.629 align:start position:0%
+publicly routable
+naip<00:07:32.639><c> space</c><00:07:33.039><c> is</c><00:07:33.199><c> a</c><00:07:33.360><c> private</c><00:07:34.000><c> ip</c><00:07:34.639><c> within</c><00:07:35.280><c> azure</c>
+
+00:07:36.629 --> 00:07:36.639 align:start position:0%
+naip space is a private ip within azure
+ 
+
+00:07:36.639 --> 00:07:39.909 align:start position:0%
+naip space is a private ip within azure
+if<00:07:36.800><c> i</c><00:07:36.960><c> want</c><00:07:37.199><c> to</c><00:07:37.360><c> make</c><00:07:37.599><c> a</c><00:07:37.759><c> service</c><00:07:38.319><c> available</c>
+
+00:07:39.909 --> 00:07:39.919 align:start position:0%
+if i want to make a service available
+ 
+
+00:07:39.919 --> 00:07:42.950 align:start position:0%
+if i want to make a service available
+to<00:07:40.160><c> the</c><00:07:40.479><c> internet</c><00:07:41.360><c> so</c><00:07:41.520><c> if</c><00:07:41.680><c> i</c><00:07:41.840><c> think</c><00:07:42.080><c> about</c><00:07:42.560><c> out</c>
+
+00:07:42.950 --> 00:07:42.960 align:start position:0%
+to the internet so if i think about out
+ 
+
+00:07:42.960 --> 00:07:47.990 align:start position:0%
+to the internet so if i think about out
+here<00:07:44.240><c> we</c><00:07:44.479><c> have</c><00:07:44.720><c> the</c><00:07:45.120><c> internet</c>
+
+00:07:47.990 --> 00:07:48.000 align:start position:0%
+ 
+ 
+
+00:07:48.000 --> 00:07:52.070 align:start position:0%
+ 
+well<00:07:48.160><c> what</c><00:07:48.319><c> we</c><00:07:48.560><c> have</c><00:07:48.800><c> to</c><00:07:49.120><c> add</c><00:07:49.759><c> is</c><00:07:50.000><c> a</c><00:07:50.240><c> public</c><00:07:50.879><c> ip</c>
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+well what we have to add is a public ip
+ 
+
+00:07:52.080 --> 00:07:55.270 align:start position:0%
+well what we have to add is a public ip
+resource<00:07:53.039><c> this</c><00:07:53.199><c> is</c><00:07:53.360><c> its</c><00:07:53.599><c> own</c><00:07:54.160><c> resource</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+resource this is its own resource
+ 
+
+00:07:55.280 --> 00:07:58.950 align:start position:0%
+resource this is its own resource
+so<00:07:55.520><c> i'd</c><00:07:55.680><c> create</c><00:07:56.000><c> a</c><00:07:56.080><c> public</c><00:07:56.840><c> ip</c><00:07:57.919><c> and</c><00:07:58.080><c> then</c>
+
+00:07:58.950 --> 00:07:58.960 align:start position:0%
+so i'd create a public ip and then
+ 
+
+00:07:58.960 --> 00:08:01.510 align:start position:0%
+so i'd create a public ip and then
+either<00:07:59.360><c> attach</c><00:07:59.840><c> it</c><00:07:59.919><c> to</c><00:08:00.080><c> a</c><00:08:00.240><c> virtual</c><00:08:00.720><c> machine</c><00:08:01.360><c> or</c>
+
+00:08:01.510 --> 00:08:01.520 align:start position:0%
+either attach it to a virtual machine or
+ 
+
+00:08:01.520 --> 00:08:03.350 align:start position:0%
+either attach it to a virtual machine or
+more<00:08:01.680><c> specifically</c><00:08:02.240><c> the</c><00:08:02.319><c> ip</c><00:08:02.720><c> configuration</c>
+
+00:08:03.350 --> 00:08:03.360 align:start position:0%
+more specifically the ip configuration
+ 
+
+00:08:03.360 --> 00:08:04.790 align:start position:0%
+more specifically the ip configuration
+of<00:08:03.440><c> a</c><00:08:03.520><c> virtual</c><00:08:03.840><c> machine</c>
+
+00:08:04.790 --> 00:08:04.800 align:start position:0%
+of a virtual machine
+ 
+
+00:08:04.800 --> 00:08:07.110 align:start position:0%
+of a virtual machine
+or<00:08:05.039><c> more</c><00:08:05.360><c> commonly</c><00:08:06.240><c> we'd</c><00:08:06.560><c> create</c><00:08:06.800><c> something</c>
+
+00:08:07.110 --> 00:08:07.120 align:start position:0%
+or more commonly we'd create something
+ 
+
+00:08:07.120 --> 00:08:12.070 align:start position:0%
+or more commonly we'd create something
+like<00:08:07.280><c> a</c><00:08:07.440><c> load</c><00:08:07.759><c> balancer</c>
+
+00:08:12.070 --> 00:08:12.080 align:start position:0%
+ 
+ 
+
+00:08:12.080 --> 00:08:14.070 align:start position:0%
+ 
+and<00:08:12.160><c> then</c><00:08:12.400><c> that</c><00:08:12.639><c> load</c><00:08:12.960><c> balancer</c><00:08:13.520><c> would</c><00:08:13.759><c> attach</c>
+
+00:08:14.070 --> 00:08:14.080 align:start position:0%
+and then that load balancer would attach
+ 
+
+00:08:14.080 --> 00:08:16.629 align:start position:0%
+and then that load balancer would attach
+to<00:08:14.240><c> the</c><00:08:14.319><c> public</c><00:08:14.720><c> ip</c><00:08:15.120><c> for</c><00:08:15.280><c> its</c><00:08:15.520><c> front</c><00:08:15.840><c> end</c>
+
+00:08:16.629 --> 00:08:16.639 align:start position:0%
+to the public ip for its front end
+ 
+
+00:08:16.639 --> 00:08:18.309 align:start position:0%
+to the public ip for its front end
+and<00:08:16.800><c> on</c><00:08:16.960><c> the</c><00:08:17.039><c> back</c><00:08:17.280><c> end</c><00:08:17.520><c> it</c><00:08:17.599><c> would</c><00:08:17.840><c> connect</c><00:08:18.160><c> to</c>
+
+00:08:18.309 --> 00:08:18.319 align:start position:0%
+and on the back end it would connect to
+ 
+
+00:08:18.319 --> 00:08:20.629 align:start position:0%
+and on the back end it would connect to
+virtual<00:08:18.720><c> machines</c><00:08:19.120><c> to</c><00:08:19.280><c> offer</c><00:08:19.599><c> the</c><00:08:19.680><c> service</c><00:08:20.479><c> so</c>
+
+00:08:20.629 --> 00:08:20.639 align:start position:0%
+virtual machines to offer the service so
+ 
+
+00:08:20.639 --> 00:08:22.150 align:start position:0%
+virtual machines to offer the service so
+if<00:08:20.720><c> i</c><00:08:20.800><c> want</c><00:08:20.960><c> to</c><00:08:21.120><c> offer</c><00:08:21.440><c> a</c><00:08:21.520><c> service</c><00:08:21.840><c> to</c><00:08:22.000><c> the</c>
+
+00:08:22.150 --> 00:08:22.160 align:start position:0%
+if i want to offer a service to the
+ 
+
+00:08:22.160 --> 00:08:25.029 align:start position:0%
+if i want to offer a service to the
+internet<00:08:22.720><c> i</c><00:08:22.879><c> have</c><00:08:23.039><c> to</c><00:08:23.280><c> create</c><00:08:23.919><c> something</c><00:08:24.879><c> to</c>
+
+00:08:25.029 --> 00:08:25.039 align:start position:0%
+internet i have to create something to
+ 
+
+00:08:25.039 --> 00:08:26.710 align:start position:0%
+internet i have to create something to
+make<00:08:25.280><c> it</c><00:08:25.440><c> available</c>
+
+00:08:26.710 --> 00:08:26.720 align:start position:0%
+make it available
+ 
+
+00:08:26.720 --> 00:08:28.550 align:start position:0%
+make it available
+there
+
+00:08:28.550 --> 00:08:28.560 align:start position:0%
+there
+ 
+
+00:08:28.560 --> 00:08:31.270 align:start position:0%
+there
+but<00:08:28.800><c> regular</c><00:08:29.199><c> resources</c><00:08:29.919><c> can</c><00:08:30.160><c> go</c><00:08:30.479><c> out</c><00:08:30.879><c> to</c><00:08:31.039><c> the</c>
+
+00:08:31.270 --> 00:08:31.280 align:start position:0%
+but regular resources can go out to the
+ 
+
+00:08:31.280 --> 00:08:32.709 align:start position:0%
+but regular resources can go out to the
+internet
+
+00:08:32.709 --> 00:08:32.719 align:start position:0%
+internet
+ 
+
+00:08:32.719 --> 00:08:35.269 align:start position:0%
+internet
+azure<00:08:33.120><c> just</c><00:08:33.279><c> does</c><00:08:33.519><c> that</c><00:08:33.760><c> for</c><00:08:34.000><c> us</c><00:08:34.640><c> if</c><00:08:34.880><c> it</c><00:08:35.039><c> had</c>
+
+00:08:35.269 --> 00:08:35.279 align:start position:0%
+azure just does that for us if it had
+ 
+
+00:08:35.279 --> 00:08:36.949 align:start position:0%
+azure just does that for us if it had
+its<00:08:35.440><c> own</c><00:08:35.599><c> public</c><00:08:35.919><c> ips</c><00:08:36.399><c> behind</c><00:08:36.719><c> a</c><00:08:36.800><c> load</c>
+
+00:08:36.949 --> 00:08:36.959 align:start position:0%
+its own public ips behind a load
+ 
+
+00:08:36.959 --> 00:08:40.630 align:start position:0%
+its own public ips behind a load
+balancer<00:08:37.680><c> it</c><00:08:37.919><c> will</c><00:08:38.080><c> use</c><00:08:38.399><c> that</c><00:08:39.120><c> if</c><00:08:39.360><c> not</c><00:08:40.320><c> it</c><00:08:40.479><c> will</c>
+
+00:08:40.630 --> 00:08:40.640 align:start position:0%
+balancer it will use that if not it will
+ 
+
+00:08:40.640 --> 00:08:42.709 align:start position:0%
+balancer it will use that if not it will
+just<00:08:40.880><c> create</c><00:08:41.200><c> a</c><00:08:41.360><c> pseudo</c><00:08:41.760><c> ip</c><00:08:42.159><c> to</c><00:08:42.320><c> use</c><00:08:42.479><c> for</c>
+
+00:08:42.709 --> 00:08:42.719 align:start position:0%
+just create a pseudo ip to use for
+ 
+
+00:08:42.719 --> 00:08:45.670 align:start position:0%
+just create a pseudo ip to use for
+outbound<00:08:43.279><c> ipv4</c><00:08:44.480><c> so</c><00:08:44.640><c> just</c><00:08:44.880><c> understand</c><00:08:45.519><c> by</c>
+
+00:08:45.670 --> 00:08:45.680 align:start position:0%
+outbound ipv4 so just understand by
+ 
+
+00:08:45.680 --> 00:08:48.150 align:start position:0%
+outbound ipv4 so just understand by
+default<00:08:46.080><c> there</c><00:08:46.320><c> is</c><00:08:46.640><c> ipv4</c><00:08:47.760><c> internet</c>
+
+00:08:48.150 --> 00:08:48.160 align:start position:0%
+default there is ipv4 internet
+ 
+
+00:08:48.160 --> 00:08:50.870 align:start position:0%
+default there is ipv4 internet
+connectivity
+
+00:08:50.870 --> 00:08:50.880 align:start position:0%
+connectivity
+ 
+
+00:08:50.880 --> 00:08:54.310 align:start position:0%
+connectivity
+now<00:08:51.040><c> what</c><00:08:51.279><c> about</c><00:08:51.920><c> that's</c><00:08:52.240><c> av</c><00:08:52.839><c> net</c><00:08:53.920><c> what</c><00:08:54.080><c> about</c>
+
+00:08:54.310 --> 00:08:54.320 align:start position:0%
+now what about that's av net what about
+ 
+
+00:08:54.320 --> 00:08:56.070 align:start position:0%
+now what about that's av net what about
+if<00:08:54.399><c> i</c><00:08:54.480><c> had</c><00:08:54.560><c> another</c><00:08:54.880><c> v-net</c>
+
+00:08:56.070 --> 00:08:56.080 align:start position:0%
+if i had another v-net
+ 
+
+00:08:56.080 --> 00:08:58.470 align:start position:0%
+if i had another v-net
+what<00:08:56.320><c> about</c><00:08:56.959><c> if</c><00:08:57.200><c> maybe</c><00:08:57.519><c> i</c><00:08:57.680><c> had</c>
+
+00:08:58.470 --> 00:08:58.480 align:start position:0%
+what about if maybe i had
+ 
+
+00:08:58.480 --> 00:09:00.630 align:start position:0%
+what about if maybe i had
+another<00:08:58.800><c> region</c><00:08:59.200><c> i</c><00:08:59.279><c> was</c><00:08:59.440><c> using</c><00:09:00.080><c> well</c><00:09:00.320><c> remember</c>
+
+00:09:00.630 --> 00:09:00.640 align:start position:0%
+another region i was using well remember
+ 
+
+00:09:00.640 --> 00:09:03.110 align:start position:0%
+another region i was using well remember
+a<00:09:00.720><c> region</c><00:09:01.040><c> is</c><00:09:01.200><c> a</c><00:09:01.279><c> boundary</c><00:09:01.760><c> for</c><00:09:01.920><c> a</c><00:09:02.000><c> v-net</c><00:09:02.800><c> so</c><00:09:03.040><c> if</c>
+
+00:09:03.110 --> 00:09:03.120 align:start position:0%
+a region is a boundary for a v-net so if
+ 
+
+00:09:03.120 --> 00:09:06.070 align:start position:0%
+a region is a boundary for a v-net so if
+i<00:09:03.279><c> wanted</c><00:09:03.519><c> to</c><00:09:03.600><c> use</c><00:09:03.839><c> another</c><00:09:04.399><c> region</c>
+
+00:09:06.070 --> 00:09:06.080 align:start position:0%
+i wanted to use another region
+ 
+
+00:09:06.080 --> 00:09:07.590 align:start position:0%
+i wanted to use another region
+let's<00:09:06.240><c> say</c><00:09:06.399><c> there's</c><00:09:06.560><c> an</c><00:09:06.720><c> idea</c><00:09:07.040><c> of</c><00:09:07.200><c> kind</c><00:09:07.360><c> of</c><00:09:07.519><c> a</c>
+
+00:09:07.590 --> 00:09:07.600 align:start position:0%
+let's say there's an idea of kind of a
+ 
+
+00:09:07.600 --> 00:09:10.710 align:start position:0%
+let's say there's an idea of kind of a
+region<00:09:08.240><c> two</c>
+
+00:09:10.710 --> 00:09:10.720 align:start position:0%
+ 
+ 
+
+00:09:10.720 --> 00:09:12.470 align:start position:0%
+ 
+or<00:09:10.880><c> maybe</c><00:09:11.120><c> it</c><00:09:11.200><c> was</c><00:09:11.279><c> a</c><00:09:11.360><c> different</c><00:09:11.680><c> subscription</c>
+
+00:09:12.470 --> 00:09:12.480 align:start position:0%
+or maybe it was a different subscription
+ 
+
+00:09:12.480 --> 00:09:14.550 align:start position:0%
+or maybe it was a different subscription
+whatever<00:09:12.880><c> the</c><00:09:13.360><c> reason</c>
+
+00:09:14.550 --> 00:09:14.560 align:start position:0%
+whatever the reason
+ 
+
+00:09:14.560 --> 00:09:16.949 align:start position:0%
+whatever the reason
+i<00:09:14.720><c> have</c><00:09:15.040><c> another</c><00:09:15.440><c> virtual</c><00:09:15.839><c> network</c><00:09:16.560><c> i</c><00:09:16.720><c> have</c><00:09:16.880><c> a</c>
+
+00:09:16.949 --> 00:09:16.959 align:start position:0%
+i have another virtual network i have a
+ 
+
+00:09:16.959 --> 00:09:18.550 align:start position:0%
+i have another virtual network i have a
+second<00:09:17.279><c> one</c>
+
+00:09:18.550 --> 00:09:18.560 align:start position:0%
+second one
+ 
+
+00:09:18.560 --> 00:09:21.990 align:start position:0%
+second one
+now<00:09:18.880><c> super</c><00:09:19.360><c> important</c><00:09:20.080><c> point</c>
+
+00:09:21.990 --> 00:09:22.000 align:start position:0%
+now super important point
+ 
+
+00:09:22.000 --> 00:09:24.710 align:start position:0%
+now super important point
+when<00:09:22.160><c> i</c><00:09:22.399><c> pick</c><00:09:22.640><c> this</c><00:09:22.959><c> ip</c><00:09:23.519><c> space</c><00:09:24.000><c> for</c><00:09:24.160><c> my</c><00:09:24.320><c> virtual</c>
+
+00:09:24.710 --> 00:09:24.720 align:start position:0%
+when i pick this ip space for my virtual
+ 
+
+00:09:24.720 --> 00:09:25.829 align:start position:0%
+when i pick this ip space for my virtual
+network
+
+00:09:25.829 --> 00:09:25.839 align:start position:0%
+network
+ 
+
+00:09:25.839 --> 00:09:27.990 align:start position:0%
+network
+make<00:09:26.000><c> sure</c><00:09:26.240><c> it</c><00:09:26.320><c> does</c><00:09:26.560><c> not</c><00:09:26.800><c> overlap</c><00:09:27.839><c> with</c>
+
+00:09:27.990 --> 00:09:28.000 align:start position:0%
+make sure it does not overlap with
+ 
+
+00:09:28.000 --> 00:09:30.630 align:start position:0%
+make sure it does not overlap with
+another<00:09:28.399><c> virtual</c><00:09:28.800><c> network</c><00:09:29.600><c> it</c><00:09:29.760><c> could</c><00:09:29.920><c> be</c>
+
+00:09:30.630 --> 00:09:30.640 align:start position:0%
+another virtual network it could be
+ 
+
+00:09:30.640 --> 00:09:33.269 align:start position:0%
+another virtual network it could be
+overlapping<00:09:31.120><c> with</c><00:09:31.200><c> an</c><00:09:31.640><c> ipv4</c><00:09:32.720><c> address</c><00:09:33.040><c> space</c>
+
+00:09:33.269 --> 00:09:33.279 align:start position:0%
+overlapping with an ipv4 address space
+ 
+
+00:09:33.279 --> 00:09:36.230 align:start position:0%
+overlapping with an ipv4 address space
+or<00:09:33.360><c> v6</c><00:09:33.839><c> on</c><00:09:34.080><c> premises</c><00:09:35.040><c> or</c><00:09:35.279><c> another</c><00:09:35.680><c> v-net</c><00:09:36.080><c> that</c>
+
+00:09:36.230 --> 00:09:36.240 align:start position:0%
+or v6 on premises or another v-net that
+ 
+
+00:09:36.240 --> 00:09:38.070 align:start position:0%
+or v6 on premises or another v-net that
+would<00:09:36.399><c> be</c><00:09:36.480><c> a</c><00:09:36.560><c> very</c><00:09:36.800><c> bad</c><00:09:37.200><c> thing</c><00:09:37.600><c> because</c><00:09:37.920><c> then</c>
+
+00:09:38.070 --> 00:09:38.080 align:start position:0%
+would be a very bad thing because then
+ 
+
+00:09:38.080 --> 00:09:39.670 align:start position:0%
+would be a very bad thing because then
+they<00:09:38.160><c> won't</c><00:09:38.320><c> be</c><00:09:38.399><c> able</c><00:09:38.560><c> to</c><00:09:38.640><c> connect</c>
+
+00:09:39.670 --> 00:09:39.680 align:start position:0%
+they won't be able to connect
+ 
+
+00:09:39.680 --> 00:09:42.470 align:start position:0%
+they won't be able to connect
+so<00:09:39.920><c> make</c><00:09:40.160><c> sure</c><00:09:40.880><c> when</c><00:09:41.040><c> i'm</c><00:09:41.279><c> picking</c><00:09:41.680><c> my</c><00:09:41.920><c> address</c>
+
+00:09:42.470 --> 00:09:42.480 align:start position:0%
+so make sure when i'm picking my address
+ 
+
+00:09:42.480 --> 00:09:45.269 align:start position:0%
+so make sure when i'm picking my address
+space<00:09:43.200><c> i</c><00:09:43.440><c> pick</c><00:09:43.680><c> a</c><00:09:43.839><c> unique</c><00:09:44.240><c> address</c><00:09:44.640><c> space</c><00:09:45.120><c> so</c>
+
+00:09:45.269 --> 00:09:45.279 align:start position:0%
+space i pick a unique address space so
+ 
+
+00:09:45.279 --> 00:09:47.430 align:start position:0%
+space i pick a unique address space so
+it's<00:09:45.519><c> not</c><00:09:45.760><c> currently</c><00:09:46.080><c> being</c><00:09:46.320><c> used</c><00:09:46.640><c> anywhere</c>
+
+00:09:47.430 --> 00:09:47.440 align:start position:0%
+it's not currently being used anywhere
+ 
+
+00:09:47.440 --> 00:09:48.470 align:start position:0%
+it's not currently being used anywhere
+because<00:09:47.600><c> i</c><00:09:47.680><c> may</c><00:09:47.839><c> want</c><00:09:47.920><c> to</c><00:09:48.000><c> connect</c><00:09:48.240><c> them</c><00:09:48.399><c> in</c>
+
+00:09:48.470 --> 00:09:48.480 align:start position:0%
+because i may want to connect them in
+ 
+
+00:09:48.480 --> 00:09:51.670 align:start position:0%
+because i may want to connect them in
+the<00:09:48.839><c> future</c><00:09:49.839><c> so</c><00:09:50.000><c> let's</c><00:09:50.320><c> say</c><00:09:50.560><c> for</c><00:09:50.800><c> example</c><00:09:51.519><c> in</c>
+
+00:09:51.670 --> 00:09:51.680 align:start position:0%
+the future so let's say for example in
+ 
+
+00:09:51.680 --> 00:09:54.310 align:start position:0%
+the future so let's say for example in
+this<00:09:51.920><c> example</c><00:09:52.640><c> here</c><00:09:53.440><c> for</c><00:09:53.600><c> this</c><00:09:53.839><c> virtual</c>
+
+00:09:54.310 --> 00:09:54.320 align:start position:0%
+this example here for this virtual
+ 
+
+00:09:54.320 --> 00:09:57.350 align:start position:0%
+this example here for this virtual
+network<00:09:54.800><c> let's</c><00:09:55.120><c> say</c><00:09:55.360><c> i</c><00:09:55.600><c> actually</c><00:09:56.000><c> used</c>
+
+00:09:57.350 --> 00:09:57.360 align:start position:0%
+network let's say i actually used
+ 
+
+00:09:57.360 --> 00:10:00.470 align:start position:0%
+network let's say i actually used
+10.0
+
+00:10:00.470 --> 00:10:00.480 align:start position:0%
+ 
+ 
+
+00:10:00.480 --> 00:10:01.509 align:start position:0%
+ 
+16
+
+00:10:01.509 --> 00:10:01.519 align:start position:0%
+16
+ 
+
+00:10:01.519 --> 00:10:03.910 align:start position:0%
+16
+which<00:10:01.760><c> is</c><00:10:01.839><c> why</c><00:10:02.000><c> these</c><00:10:02.240><c> are</c><00:10:02.320><c> 10.0.</c><00:10:03.360><c> something</c>
+
+00:10:03.910 --> 00:10:03.920 align:start position:0%
+which is why these are 10.0. something
+ 
+
+00:10:03.920 --> 00:10:06.550 align:start position:0%
+which is why these are 10.0. something
+for<00:10:04.079><c> the</c><00:10:04.240><c> subnet</c><00:10:05.200><c> so</c><00:10:05.360><c> this</c><00:10:05.519><c> v-net</c><00:10:05.920><c> maybe</c><00:10:06.160><c> i</c><00:10:06.240><c> use</c>
+
+00:10:06.550 --> 00:10:06.560 align:start position:0%
+for the subnet so this v-net maybe i use
+ 
+
+00:10:06.560 --> 00:10:08.710 align:start position:0%
+for the subnet so this v-net maybe i use
+10.1
+
+00:10:08.710 --> 00:10:08.720 align:start position:0%
+10.1
+ 
+
+00:10:08.720 --> 00:10:09.829 align:start position:0%
+10.1
+16.
+
+00:10:09.829 --> 00:10:09.839 align:start position:0%
+16.
+ 
+
+00:10:09.839 --> 00:10:12.870 align:start position:0%
+16.
+so<00:10:10.000><c> they're</c><00:10:10.240><c> not</c><00:10:10.480><c> overlapping</c>
+
+00:10:12.870 --> 00:10:12.880 align:start position:0%
+so they're not overlapping
+ 
+
+00:10:12.880 --> 00:10:14.790 align:start position:0%
+so they're not overlapping
+this<00:10:13.040><c> could</c><00:10:13.200><c> be</c><00:10:13.360><c> in</c><00:10:13.440><c> a</c><00:10:13.519><c> different</c><00:10:13.839><c> region</c><00:10:14.640><c> it</c>
+
+00:10:14.790 --> 00:10:14.800 align:start position:0%
+this could be in a different region it
+ 
+
+00:10:14.800 --> 00:10:16.470 align:start position:0%
+this could be in a different region it
+could<00:10:14.959><c> be</c><00:10:15.040><c> in</c><00:10:15.200><c> the</c><00:10:15.360><c> same</c><00:10:15.680><c> region</c><00:10:16.160><c> it</c><00:10:16.240><c> could</c><00:10:16.399><c> be</c>
+
+00:10:16.470 --> 00:10:16.480 align:start position:0%
+could be in the same region it could be
+ 
+
+00:10:16.480 --> 00:10:18.069 align:start position:0%
+could be in the same region it could be
+in<00:10:16.640><c> a</c><00:10:16.720><c> different</c><00:10:16.959><c> subscription</c><00:10:17.839><c> same</c>
+
+00:10:18.069 --> 00:10:18.079 align:start position:0%
+in a different subscription same
+ 
+
+00:10:18.079 --> 00:10:20.310 align:start position:0%
+in a different subscription same
+subscription<00:10:18.640><c> it</c><00:10:18.720><c> doesn't</c><00:10:19.040><c> matter</c>
+
+00:10:20.310 --> 00:10:20.320 align:start position:0%
+subscription it doesn't matter
+ 
+
+00:10:20.320 --> 00:10:23.670 align:start position:0%
+subscription it doesn't matter
+i<00:10:20.480><c> can</c><00:10:20.640><c> do</c><00:10:20.880><c> something</c><00:10:21.279><c> called</c><00:10:21.680><c> peering</c>
+
+00:10:23.670 --> 00:10:23.680 align:start position:0%
+i can do something called peering
+ 
+
+00:10:23.680 --> 00:10:25.910 align:start position:0%
+i can do something called peering
+so<00:10:23.839><c> when</c><00:10:24.000><c> i</c><00:10:24.320><c> peer</c><00:10:24.640><c> them</c>
+
+00:10:25.910 --> 00:10:25.920 align:start position:0%
+so when i peer them
+ 
+
+00:10:25.920 --> 00:10:29.110 align:start position:0%
+so when i peer them
+i'm<00:10:26.160><c> now</c><00:10:26.480><c> enabling</c><00:10:27.240><c> connectivity</c><00:10:28.320><c> between</c>
+
+00:10:29.110 --> 00:10:29.120 align:start position:0%
+i'm now enabling connectivity between
+ 
+
+00:10:29.120 --> 00:10:30.630 align:start position:0%
+i'm now enabling connectivity between
+those<00:10:29.440><c> virtual</c><00:10:29.839><c> networks</c><00:10:30.240><c> it's</c><00:10:30.320><c> using</c><00:10:30.560><c> the</c>
+
+00:10:30.630 --> 00:10:30.640 align:start position:0%
+those virtual networks it's using the
+ 
+
+00:10:30.640 --> 00:10:32.389 align:start position:0%
+those virtual networks it's using the
+azure<00:10:30.880><c> backbone</c><00:10:31.440><c> it's</c><00:10:31.600><c> not</c><00:10:31.680><c> going</c><00:10:32.000><c> out</c><00:10:32.079><c> to</c><00:10:32.240><c> the</c>
+
+00:10:32.389 --> 00:10:32.399 align:start position:0%
+azure backbone it's not going out to the
+ 
+
+00:10:32.399 --> 00:10:34.310 align:start position:0%
+azure backbone it's not going out to the
+internet<00:10:32.800><c> or</c><00:10:32.880><c> anything</c><00:10:33.200><c> like</c><00:10:33.360><c> that</c><00:10:34.000><c> so</c><00:10:34.160><c> i</c><00:10:34.240><c> can</c>
+
+00:10:34.310 --> 00:10:34.320 align:start position:0%
+internet or anything like that so i can
+ 
+
+00:10:34.320 --> 00:10:36.389 align:start position:0%
+internet or anything like that so i can
+do<00:10:34.480><c> global</c><00:10:34.959><c> v-net</c><00:10:35.360><c> peering</c><00:10:35.920><c> either</c><00:10:36.320><c> in</c>
+
+00:10:36.389 --> 00:10:36.399 align:start position:0%
+do global v-net peering either in
+ 
+
+00:10:36.399 --> 00:10:38.550 align:start position:0%
+do global v-net peering either in
+different<00:10:36.640><c> regions</c><00:10:37.200><c> or</c><00:10:37.440><c> just</c><00:10:37.839><c> re-net</c><00:10:38.240><c> peering</c>
+
+00:10:38.550 --> 00:10:38.560 align:start position:0%
+different regions or just re-net peering
+ 
+
+00:10:38.560 --> 00:10:40.470 align:start position:0%
+different regions or just re-net peering
+if<00:10:38.640><c> they're</c><00:10:38.800><c> in</c><00:10:38.959><c> the</c><00:10:39.040><c> same</c><00:10:39.279><c> region</c><00:10:40.079><c> but</c><00:10:40.320><c> they</c>
+
+00:10:40.470 --> 00:10:40.480 align:start position:0%
+if they're in the same region but they
+ 
+
+00:10:40.480 --> 00:10:42.870 align:start position:0%
+if they're in the same region but they
+can<00:10:40.800><c> span</c><00:10:41.440><c> different</c><00:10:41.920><c> regions</c><00:10:42.320><c> they</c><00:10:42.480><c> can</c><00:10:42.560><c> span</c>
+
+00:10:42.870 --> 00:10:42.880 align:start position:0%
+can span different regions they can span
+ 
+
+00:10:42.880 --> 00:10:44.230 align:start position:0%
+can span different regions they can span
+different<00:10:43.120><c> subscriptions</c><00:10:43.680><c> they</c><00:10:43.760><c> can</c><00:10:43.839><c> span</c>
+
+00:10:44.230 --> 00:10:44.240 align:start position:0%
+different subscriptions they can span
+ 
+
+00:10:44.240 --> 00:10:46.310 align:start position:0%
+different subscriptions they can span
+even<00:10:44.399><c> different</c><00:10:44.720><c> azure</c><00:10:45.040><c> ad</c><00:10:45.440><c> tenants</c><00:10:46.160><c> that</c>
+
+00:10:46.310 --> 00:10:46.320 align:start position:0%
+even different azure ad tenants that
+ 
+
+00:10:46.320 --> 00:10:48.790 align:start position:0%
+even different azure ad tenants that
+those<00:10:46.480><c> subscriptions</c><00:10:47.279><c> actually</c><00:10:47.760><c> trust</c><00:10:48.560><c> so</c><00:10:48.720><c> if</c>
+
+00:10:48.790 --> 00:10:48.800 align:start position:0%
+those subscriptions actually trust so if
+ 
+
+00:10:48.800 --> 00:10:51.269 align:start position:0%
+those subscriptions actually trust so if
+i<00:10:48.880><c> need</c><00:10:49.040><c> to</c><00:10:49.279><c> connect</c><00:10:50.000><c> v-nets</c><00:10:50.399><c> together</c><00:10:51.040><c> the</c>
+
+00:10:51.269 --> 00:10:51.279 align:start position:0%
+i need to connect v-nets together the
+ 
+
+00:10:51.279 --> 00:10:53.590 align:start position:0%
+i need to connect v-nets together the
+best<00:10:51.680><c> option</c><00:10:52.560><c> is</c><00:10:52.640><c> to</c><00:10:52.800><c> use</c><00:10:53.040><c> peering</c><00:10:53.360><c> it's</c><00:10:53.519><c> going</c>
+
+00:10:53.590 --> 00:10:53.600 align:start position:0%
+best option is to use peering it's going
+ 
+
+00:10:53.600 --> 00:10:56.230 align:start position:0%
+best option is to use peering it's going
+to<00:10:53.680><c> use</c><00:10:53.920><c> that</c><00:10:54.240><c> backbone</c><00:10:54.800><c> network</c>
+
+00:10:56.230 --> 00:10:56.240 align:start position:0%
+to use that backbone network
+ 
+
+00:10:56.240 --> 00:10:58.470 align:start position:0%
+to use that backbone network
+now<00:10:56.480><c> i</c><00:10:56.640><c> may</c><00:10:56.800><c> have</c><00:10:56.959><c> other</c><00:10:57.200><c> networks</c>
+
+00:10:58.470 --> 00:10:58.480 align:start position:0%
+now i may have other networks
+ 
+
+00:10:58.480 --> 00:11:00.389 align:start position:0%
+now i may have other networks
+i<00:10:58.720><c> might</c><00:10:58.959><c> have</c><00:10:59.200><c> the</c><00:10:59.440><c> idea</c>
+
+00:11:00.389 --> 00:11:00.399 align:start position:0%
+i might have the idea
+ 
+
+00:11:00.399 --> 00:11:03.190 align:start position:0%
+i might have the idea
+that<00:11:00.800><c> hey</c><00:11:01.040><c> i</c><00:11:01.279><c> have</c><00:11:01.440><c> on</c><00:11:01.519><c> premises</c>
+
+00:11:03.190 --> 00:11:03.200 align:start position:0%
+that hey i have on premises
+ 
+
+00:11:03.200 --> 00:11:05.829 align:start position:0%
+that hey i have on premises
+i<00:11:03.360><c> have</c><00:11:03.600><c> my</c><00:11:03.839><c> on-premises</c><00:11:04.800><c> network</c>
+
+00:11:05.829 --> 00:11:05.839 align:start position:0%
+i have my on-premises network
+ 
+
+00:11:05.839 --> 00:11:07.190 align:start position:0%
+i have my on-premises network
+and<00:11:05.920><c> once</c><00:11:06.160><c> again</c><00:11:06.399><c> we</c><00:11:06.560><c> have</c><00:11:06.640><c> this</c><00:11:06.880><c> idea</c><00:11:07.120><c> that</c>
+
+00:11:07.190 --> 00:11:07.200 align:start position:0%
+and once again we have this idea that
+ 
+
+00:11:07.200 --> 00:11:08.550 align:start position:0%
+and once again we have this idea that
+hopefully<00:11:07.440><c> they're</c><00:11:07.680><c> not</c><00:11:07.920><c> overlapping</c><00:11:08.480><c> or</c>
+
+00:11:08.550 --> 00:11:08.560 align:start position:0%
+hopefully they're not overlapping or
+ 
+
+00:11:08.560 --> 00:11:10.870 align:start position:0%
+hopefully they're not overlapping or
+they<00:11:08.800><c> can't</c><00:11:09.120><c> be</c><00:11:09.279><c> overlapping</c>
+
+00:11:10.870 --> 00:11:10.880 align:start position:0%
+they can't be overlapping
+ 
+
+00:11:10.880 --> 00:11:15.750 align:start position:0%
+they can't be overlapping
+so<00:11:11.519><c> maybe</c><00:11:11.839><c> on</c><00:11:12.000><c> premises</c><00:11:12.560><c> i'm</c><00:11:12.720><c> using</c><00:11:13.519><c> 10.10</c>
+
+00:11:15.750 --> 00:11:15.760 align:start position:0%
+so maybe on premises i'm using 10.10
+ 
+
+00:11:15.760 --> 00:11:17.350 align:start position:0%
+so maybe on premises i'm using 10.10
+16.
+
+00:11:17.350 --> 00:11:17.360 align:start position:0%
+16.
+ 
+
+00:11:17.360 --> 00:11:19.990 align:start position:0%
+16.
+if<00:11:17.519><c> i</c><00:11:17.600><c> want</c><00:11:17.680><c> to</c><00:11:17.760><c> connect</c><00:11:18.399><c> this</c><00:11:18.640><c> ip</c><00:11:19.120><c> space</c><00:11:19.839><c> to</c>
+
+00:11:19.990 --> 00:11:20.000 align:start position:0%
+if i want to connect this ip space to
+ 
+
+00:11:20.000 --> 00:11:21.910 align:start position:0%
+if i want to connect this ip space to
+that<00:11:20.240><c> of</c><00:11:20.320><c> my</c><00:11:20.480><c> virtual</c><00:11:20.959><c> network</c><00:11:21.680><c> there's</c>
+
+00:11:21.910 --> 00:11:21.920 align:start position:0%
+that of my virtual network there's
+ 
+
+00:11:21.920 --> 00:11:24.470 align:start position:0%
+that of my virtual network there's
+really<00:11:22.240><c> two</c><00:11:22.480><c> connectivity</c><00:11:23.200><c> options</c>
+
+00:11:24.470 --> 00:11:24.480 align:start position:0%
+really two connectivity options
+ 
+
+00:11:24.480 --> 00:11:26.389 align:start position:0%
+really two connectivity options
+the<00:11:24.720><c> first</c><00:11:25.120><c> option</c><00:11:25.360><c> is</c><00:11:25.440><c> we</c><00:11:25.600><c> actually</c><00:11:25.839><c> go</c><00:11:26.160><c> via</c>
+
+00:11:26.389 --> 00:11:26.399 align:start position:0%
+the first option is we actually go via
+ 
+
+00:11:26.399 --> 00:11:28.150 align:start position:0%
+the first option is we actually go via
+the<00:11:26.560><c> internet</c><00:11:26.880><c> we</c><00:11:27.040><c> don't</c><00:11:27.120><c> need</c><00:11:27.279><c> any</c><00:11:27.440><c> dedicated</c>
+
+00:11:28.150 --> 00:11:28.160 align:start position:0%
+the internet we don't need any dedicated
+ 
+
+00:11:28.160 --> 00:11:30.790 align:start position:0%
+the internet we don't need any dedicated
+cabling<00:11:28.640><c> i</c><00:11:28.720><c> just</c><00:11:28.880><c> have</c><00:11:29.040><c> a</c><00:11:29.200><c> service</c><00:11:29.519><c> provider</c>
+
+00:11:30.790 --> 00:11:30.800 align:start position:0%
+cabling i just have a service provider
+ 
+
+00:11:30.800 --> 00:11:34.470 align:start position:0%
+cabling i just have a service provider
+and<00:11:30.880><c> what</c><00:11:31.040><c> we</c><00:11:31.200><c> can</c><00:11:31.279><c> do</c><00:11:31.440><c> is</c><00:11:31.760><c> over</c><00:11:32.000><c> the</c><00:11:32.399><c> internet</c>
+
+00:11:34.470 --> 00:11:34.480 align:start position:0%
+and what we can do is over the internet
+ 
+
+00:11:34.480 --> 00:11:36.069 align:start position:0%
+and what we can do is over the internet
+we<00:11:34.640><c> can</c><00:11:34.800><c> do</c><00:11:34.959><c> a</c><00:11:35.120><c> site</c>
+
+00:11:36.069 --> 00:11:36.079 align:start position:0%
+we can do a site
+ 
+
+00:11:36.079 --> 00:11:37.590 align:start position:0%
+we can do a site
+to<00:11:36.399><c> site</c>
+
+00:11:37.590 --> 00:11:37.600 align:start position:0%
+to site
+ 
+
+00:11:37.600 --> 00:11:39.269 align:start position:0%
+to site
+vpn
+
+00:11:39.269 --> 00:11:39.279 align:start position:0%
+vpn
+ 
+
+00:11:39.279 --> 00:11:42.310 align:start position:0%
+vpn
+so<00:11:39.519><c> this</c><00:11:39.760><c> is</c><00:11:39.920><c> going</c><00:11:40.480><c> over</c>
+
+00:11:42.310 --> 00:11:42.320 align:start position:0%
+so this is going over
+ 
+
+00:11:42.320 --> 00:11:43.910 align:start position:0%
+so this is going over
+the<00:11:42.640><c> internet</c>
+
+00:11:43.910 --> 00:11:43.920 align:start position:0%
+the internet
+ 
+
+00:11:43.920 --> 00:11:45.350 align:start position:0%
+the internet
+that's<00:11:44.160><c> encrypted</c>
+
+00:11:45.350 --> 00:11:45.360 align:start position:0%
+that's encrypted
+ 
+
+00:11:45.360 --> 00:11:47.670 align:start position:0%
+that's encrypted
+but<00:11:45.519><c> it</c><00:11:45.600><c> is</c><00:11:45.760><c> going</c><00:11:46.000><c> over</c><00:11:46.240><c> the</c><00:11:46.399><c> internet</c>
+
+00:11:47.670 --> 00:11:47.680 align:start position:0%
+but it is going over the internet
+ 
+
+00:11:47.680 --> 00:11:50.069 align:start position:0%
+but it is going over the internet
+what<00:11:47.920><c> i</c><00:11:48.000><c> need</c><00:11:48.320><c> up</c><00:11:48.560><c> here</c>
+
+00:11:50.069 --> 00:11:50.079 align:start position:0%
+what i need up here
+ 
+
+00:11:50.079 --> 00:11:52.790 align:start position:0%
+what i need up here
+is
+
+00:11:52.790 --> 00:11:52.800 align:start position:0%
+ 
+ 
+
+00:11:52.800 --> 00:11:54.710 align:start position:0%
+ 
+a<00:11:53.279><c> vpn</c>
+
+00:11:54.710 --> 00:11:54.720 align:start position:0%
+a vpn
+ 
+
+00:11:54.720 --> 00:11:56.710 align:start position:0%
+a vpn
+gateway
+
+00:11:56.710 --> 00:11:56.720 align:start position:0%
+gateway
+ 
+
+00:11:56.720 --> 00:11:58.230 align:start position:0%
+gateway
+that's<00:11:57.040><c> what</c><00:11:57.200><c> enables</c><00:11:57.600><c> me</c><00:11:57.760><c> to</c><00:11:57.839><c> establish</c>
+
+00:11:58.230 --> 00:11:58.240 align:start position:0%
+that's what enables me to establish
+ 
+
+00:11:58.240 --> 00:12:01.829 align:start position:0%
+that's what enables me to establish
+because<00:11:58.480><c> on</c><00:11:58.639><c> premises</c><00:11:59.760><c> i</c><00:11:59.920><c> would</c><00:12:00.240><c> also</c><00:12:00.800><c> have</c>
+
+00:12:01.829 --> 00:12:01.839 align:start position:0%
+because on premises i would also have
+ 
+
+00:12:01.839 --> 00:12:04.389 align:start position:0%
+because on premises i would also have
+a<00:12:02.000><c> vpn</c><00:12:02.639><c> server</c><00:12:03.440><c> that's</c><00:12:03.680><c> going</c><00:12:03.760><c> to</c><00:12:03.839><c> establish</c>
+
+00:12:04.389 --> 00:12:04.399 align:start position:0%
+a vpn server that's going to establish
+ 
+
+00:12:04.399 --> 00:12:05.750 align:start position:0%
+a vpn server that's going to establish
+that<00:12:04.639><c> connection</c><00:12:05.200><c> it's</c><00:12:05.360><c> going</c><00:12:05.440><c> to</c><00:12:05.519><c> create</c>
+
+00:12:05.750 --> 00:12:05.760 align:start position:0%
+that connection it's going to create
+ 
+
+00:12:05.760 --> 00:12:08.230 align:start position:0%
+that connection it's going to create
+that<00:12:06.000><c> tunnel</c><00:12:06.560><c> over</c><00:12:06.800><c> the</c><00:12:06.959><c> internet</c><00:12:07.839><c> so</c><00:12:08.000><c> now</c>
+
+00:12:08.230 --> 00:12:08.240 align:start position:0%
+that tunnel over the internet so now
+ 
+
+00:12:08.240 --> 00:12:12.389 align:start position:0%
+that tunnel over the internet so now
+connect<00:12:08.720><c> these</c><00:12:09.040><c> ip</c><00:12:09.440><c> spaces</c><00:12:10.000><c> together</c>
+
+00:12:12.389 --> 00:12:12.399 align:start position:0%
+connect these ip spaces together
+ 
+
+00:12:12.399 --> 00:12:14.230 align:start position:0%
+connect these ip spaces together
+now<00:12:12.560><c> the</c><00:12:12.720><c> latency</c><00:12:13.360><c> could</c><00:12:13.600><c> vary</c><00:12:13.920><c> remember</c><00:12:14.160><c> the</c>
+
+00:12:14.230 --> 00:12:14.240 align:start position:0%
+now the latency could vary remember the
+ 
+
+00:12:14.240 --> 00:12:16.069 align:start position:0%
+now the latency could vary remember the
+latency<00:12:14.720><c> is</c><00:12:14.800><c> the</c><00:12:14.959><c> time</c><00:12:15.360><c> things</c><00:12:15.680><c> take</c><00:12:15.920><c> because</c>
+
+00:12:16.069 --> 00:12:16.079 align:start position:0%
+latency is the time things take because
+ 
+
+00:12:16.079 --> 00:12:17.910 align:start position:0%
+latency is the time things take because
+there's<00:12:16.240><c> a</c><00:12:16.320><c> certain</c><00:12:16.639><c> distance</c><00:12:17.519><c> and</c><00:12:17.760><c> on</c><00:12:17.839><c> the</c>
+
+00:12:17.910 --> 00:12:17.920 align:start position:0%
+there's a certain distance and on the
+ 
+
+00:12:17.920 --> 00:12:20.310 align:start position:0%
+there's a certain distance and on the
+internet<00:12:18.480><c> well</c><00:12:18.800><c> there's</c><00:12:19.120><c> different</c><00:12:19.760><c> routers</c>
+
+00:12:20.310 --> 00:12:20.320 align:start position:0%
+internet well there's different routers
+ 
+
+00:12:20.320 --> 00:12:22.389 align:start position:0%
+internet well there's different routers
+and<00:12:20.399><c> there's</c><00:12:20.639><c> different</c><00:12:20.959><c> routes</c><00:12:21.360><c> it</c><00:12:21.440><c> could</c><00:12:21.680><c> go</c>
+
+00:12:22.389 --> 00:12:22.399 align:start position:0%
+and there's different routes it could go
+ 
+
+00:12:22.399 --> 00:12:24.150 align:start position:0%
+and there's different routes it could go
+so<00:12:22.560><c> the</c><00:12:22.639><c> amount</c><00:12:22.959><c> of</c><00:12:23.040><c> time</c><00:12:23.279><c> it</c><00:12:23.440><c> takes</c><00:12:23.839><c> could</c>
+
+00:12:24.150 --> 00:12:24.160 align:start position:0%
+so the amount of time it takes could
+ 
+
+00:12:24.160 --> 00:12:26.230 align:start position:0%
+so the amount of time it takes could
+actually<00:12:24.560><c> vary</c>
+
+00:12:26.230 --> 00:12:26.240 align:start position:0%
+actually vary
+ 
+
+00:12:26.240 --> 00:12:29.030 align:start position:0%
+actually vary
+there's<00:12:26.560><c> two</c><00:12:26.959><c> types</c><00:12:27.279><c> of</c><00:12:27.440><c> vpn</c><00:12:28.079><c> gateways</c><00:12:28.720><c> we</c><00:12:28.880><c> can</c>
+
+00:12:29.030 --> 00:12:29.040 align:start position:0%
+there's two types of vpn gateways we can
+ 
+
+00:12:29.040 --> 00:12:30.389 align:start position:0%
+there's two types of vpn gateways we can
+actually<00:12:29.519><c> have</c>
+
+00:12:30.389 --> 00:12:30.399 align:start position:0%
+actually have
+ 
+
+00:12:30.399 --> 00:12:32.230 align:start position:0%
+actually have
+the<00:12:30.639><c> first</c><00:12:30.959><c> one</c><00:12:31.279><c> the</c><00:12:31.360><c> one</c><00:12:31.519><c> we</c><00:12:31.600><c> don't</c><00:12:31.920><c> really</c>
+
+00:12:32.230 --> 00:12:32.240 align:start position:0%
+the first one the one we don't really
+ 
+
+00:12:32.240 --> 00:12:33.750 align:start position:0%
+the first one the one we don't really
+want<00:12:32.399><c> to</c><00:12:32.560><c> use</c>
+
+00:12:33.750 --> 00:12:33.760 align:start position:0%
+want to use
+ 
+
+00:12:33.760 --> 00:12:36.150 align:start position:0%
+want to use
+is<00:12:34.000><c> it</c><00:12:34.160><c> could</c><00:12:34.320><c> be</c><00:12:34.480><c> policy</c><00:12:34.959><c> based</c>
+
+00:12:36.150 --> 00:12:36.160 align:start position:0%
+is it could be policy based
+ 
+
+00:12:36.160 --> 00:12:37.990 align:start position:0%
+is it could be policy based
+now<00:12:36.320><c> the</c><00:12:36.480><c> problem</c><00:12:36.720><c> with</c><00:12:36.880><c> policy</c><00:12:37.440><c> based</c><00:12:37.760><c> is</c><00:12:37.920><c> i</c>
+
+00:12:37.990 --> 00:12:38.000 align:start position:0%
+now the problem with policy based is i
+ 
+
+00:12:38.000 --> 00:12:41.590 align:start position:0%
+now the problem with policy based is i
+can<00:12:38.160><c> only</c><00:12:38.399><c> have</c><00:12:38.880><c> really</c><00:12:39.279><c> one</c><00:12:39.519><c> connection</c>
+
+00:12:41.590 --> 00:12:41.600 align:start position:0%
+can only have really one connection
+ 
+
+00:12:41.600 --> 00:12:44.389 align:start position:0%
+can only have really one connection
+it's<00:12:41.920><c> static</c><00:12:42.720><c> and</c><00:12:42.880><c> it's</c><00:12:43.120><c> really</c><00:12:43.519><c> very</c><00:12:43.839><c> limited</c>
+
+00:12:44.389 --> 00:12:44.399 align:start position:0%
+it's static and it's really very limited
+ 
+
+00:12:44.399 --> 00:12:45.990 align:start position:0%
+it's static and it's really very limited
+in<00:12:44.560><c> use</c><00:12:44.880><c> it</c><00:12:44.959><c> doesn't</c><00:12:45.120><c> support</c><00:12:45.440><c> point-to-site</c>
+
+00:12:45.990 --> 00:12:46.000 align:start position:0%
+in use it doesn't support point-to-site
+ 
+
+00:12:46.000 --> 00:12:47.509 align:start position:0%
+in use it doesn't support point-to-site
+vpn
+
+00:12:47.509 --> 00:12:47.519 align:start position:0%
+vpn
+ 
+
+00:12:47.519 --> 00:12:49.590 align:start position:0%
+vpn
+this<00:12:47.760><c> would</c><00:12:48.000><c> only</c><00:12:48.320><c> be</c><00:12:48.560><c> used</c>
+
+00:12:49.590 --> 00:12:49.600 align:start position:0%
+this would only be used
+ 
+
+00:12:49.600 --> 00:12:51.990 align:start position:0%
+this would only be used
+if<00:12:50.000><c> my</c><00:12:50.320><c> on-premise</c><00:12:50.880><c> was</c><00:12:51.120><c> legacy</c><00:12:51.600><c> and</c><00:12:51.760><c> only</c>
+
+00:12:51.990 --> 00:12:52.000 align:start position:0%
+if my on-premise was legacy and only
+ 
+
+00:12:52.000 --> 00:12:55.190 align:start position:0%
+if my on-premise was legacy and only
+supported<00:12:52.480><c> policy</c><00:12:53.440><c> but</c><00:12:53.680><c> really</c>
+
+00:12:55.190 --> 00:12:55.200 align:start position:0%
+supported policy but really
+ 
+
+00:12:55.200 --> 00:12:57.350 align:start position:0%
+supported policy but really
+we<00:12:55.360><c> don't</c><00:12:55.519><c> want</c><00:12:55.680><c> to</c><00:12:55.760><c> use</c><00:12:56.000><c> policy</c><00:12:56.959><c> we</c><00:12:57.120><c> think</c><00:12:57.279><c> of</c>
+
+00:12:57.350 --> 00:12:57.360 align:start position:0%
+we don't want to use policy we think of
+ 
+
+00:12:57.360 --> 00:13:00.230 align:start position:0%
+we don't want to use policy we think of
+that<00:12:57.519><c> as</c><00:12:57.600><c> this</c><00:12:57.839><c> kind</c><00:12:58.000><c> of</c><00:12:58.320><c> this</c><00:12:58.639><c> static</c><00:12:59.279><c> type</c>
+
+00:13:00.230 --> 00:13:00.240 align:start position:0%
+that as this kind of this static type
+ 
+
+00:13:00.240 --> 00:13:01.829 align:start position:0%
+that as this kind of this static type
+what<00:13:00.399><c> we</c><00:13:00.639><c> want</c>
+
+00:13:01.829 --> 00:13:01.839 align:start position:0%
+what we want
+ 
+
+00:13:01.839 --> 00:13:04.629 align:start position:0%
+what we want
+is<00:13:02.399><c> route</c><00:13:03.040><c> based</c>
+
+00:13:04.629 --> 00:13:04.639 align:start position:0%
+is route based
+ 
+
+00:13:04.639 --> 00:13:06.550 align:start position:0%
+is route based
+we'll<00:13:04.880><c> have</c><00:13:05.040><c> a</c><00:13:05.120><c> happy</c><00:13:05.519><c> face</c>
+
+00:13:06.550 --> 00:13:06.560 align:start position:0%
+we'll have a happy face
+ 
+
+00:13:06.560 --> 00:13:08.230 align:start position:0%
+we'll have a happy face
+so<00:13:06.720><c> the</c><00:13:06.800><c> idea</c><00:13:07.040><c> of</c><00:13:07.200><c> route</c><00:13:07.519><c> based</c><00:13:07.839><c> is</c><00:13:08.000><c> just</c><00:13:08.160><c> as</c>
+
+00:13:08.230 --> 00:13:08.240 align:start position:0%
+so the idea of route based is just as
+ 
+
+00:13:08.240 --> 00:13:10.150 align:start position:0%
+so the idea of route based is just as
+the<00:13:08.399><c> name</c><00:13:08.639><c> suggests</c><00:13:09.279><c> it</c><00:13:09.360><c> supports</c><00:13:09.839><c> different</c>
+
+00:13:10.150 --> 00:13:10.160 align:start position:0%
+the name suggests it supports different
+ 
+
+00:13:10.160 --> 00:13:11.829 align:start position:0%
+the name suggests it supports different
+routes<00:13:10.560><c> based</c><00:13:10.800><c> on</c><00:13:10.880><c> the</c><00:13:11.040><c> ip</c><00:13:11.360><c> space</c><00:13:11.680><c> i'm</c>
+
+00:13:11.829 --> 00:13:11.839 align:start position:0%
+routes based on the ip space i'm
+ 
+
+00:13:11.839 --> 00:13:13.590 align:start position:0%
+routes based on the ip space i'm
+connecting<00:13:12.399><c> to</c>
+
+00:13:13.590 --> 00:13:13.600 align:start position:0%
+connecting to
+ 
+
+00:13:13.600 --> 00:13:16.230 align:start position:0%
+connecting to
+it<00:13:13.760><c> does</c><00:13:14.000><c> the</c><00:13:14.160><c> encryption</c><00:13:15.120><c> based</c><00:13:15.519><c> on</c><00:13:15.600><c> that</c><00:13:15.920><c> ip</c>
+
+00:13:16.230 --> 00:13:16.240 align:start position:0%
+it does the encryption based on that ip
+ 
+
+00:13:16.240 --> 00:13:18.389 align:start position:0%
+it does the encryption based on that ip
+route<00:13:16.480><c> so</c><00:13:16.560><c> i</c><00:13:16.639><c> can</c><00:13:16.720><c> have</c><00:13:16.880><c> multiple</c><00:13:17.360><c> connections</c>
+
+00:13:18.389 --> 00:13:18.399 align:start position:0%
+route so i can have multiple connections
+ 
+
+00:13:18.399 --> 00:13:21.030 align:start position:0%
+route so i can have multiple connections
+from<00:13:18.639><c> the</c><00:13:18.839><c> gateway</c><00:13:20.000><c> and</c><00:13:20.160><c> it</c><00:13:20.320><c> supports</c><00:13:20.800><c> point</c>
+
+00:13:21.030 --> 00:13:21.040 align:start position:0%
+from the gateway and it supports point
+ 
+
+00:13:21.040 --> 00:13:23.030 align:start position:0%
+from the gateway and it supports point
+to<00:13:21.279><c> site</c><00:13:21.519><c> so</c><00:13:21.680><c> point</c><00:13:21.920><c> to</c><00:13:22.079><c> site</c><00:13:22.639><c> rather</c><00:13:22.959><c> than</c>
+
+00:13:23.030 --> 00:13:23.040 align:start position:0%
+to site so point to site rather than
+ 
+
+00:13:23.040 --> 00:13:25.509 align:start position:0%
+to site so point to site rather than
+collecting<00:13:23.360><c> an</c><00:13:23.600><c> entire</c><00:13:24.079><c> site</c><00:13:24.880><c> it</c><00:13:25.040><c> might</c><00:13:25.279><c> be</c>
+
+00:13:25.509 --> 00:13:25.519 align:start position:0%
+collecting an entire site it might be
+ 
+
+00:13:25.519 --> 00:13:29.110 align:start position:0%
+collecting an entire site it might be
+hey<00:13:25.760><c> i</c><00:13:25.920><c> have</c><00:13:26.160><c> just</c><00:13:26.320><c> a</c><00:13:26.399><c> particular</c><00:13:26.959><c> machine</c>
+
+00:13:29.110 --> 00:13:29.120 align:start position:0%
+hey i have just a particular machine
+ 
+
+00:13:29.120 --> 00:13:31.110 align:start position:0%
+hey i have just a particular machine
+that<00:13:29.360><c> over</c><00:13:29.680><c> the</c><00:13:29.920><c> internet</c><00:13:30.560><c> i</c><00:13:30.720><c> want</c><00:13:30.880><c> to</c>
+
+00:13:31.110 --> 00:13:31.120 align:start position:0%
+that over the internet i want to
+ 
+
+00:13:31.120 --> 00:13:33.829 align:start position:0%
+that over the internet i want to
+establish<00:13:31.839><c> a</c><00:13:32.079><c> connection</c><00:13:33.040><c> some</c><00:13:33.279><c> developers</c>
+
+00:13:33.829 --> 00:13:33.839 align:start position:0%
+establish a connection some developers
+ 
+
+00:13:33.839 --> 00:13:35.750 align:start position:0%
+establish a connection some developers
+sitting<00:13:34.160><c> at</c><00:13:34.320><c> home</c><00:13:34.959><c> i</c><00:13:35.040><c> want</c><00:13:35.200><c> to</c><00:13:35.279><c> be</c><00:13:35.440><c> part</c><00:13:35.600><c> of</c>
+
+00:13:35.750 --> 00:13:35.760 align:start position:0%
+sitting at home i want to be part of
+ 
+
+00:13:35.760 --> 00:13:38.470 align:start position:0%
+sitting at home i want to be part of
+this<00:13:35.920><c> virtual</c><00:13:36.399><c> network</c><00:13:36.720><c> so</c><00:13:36.880><c> i</c><00:13:37.040><c> can</c><00:13:37.279><c> do</c><00:13:37.519><c> that</c>
+
+00:13:38.470 --> 00:13:38.480 align:start position:0%
+this virtual network so i can do that
+ 
+
+00:13:38.480 --> 00:13:40.550 align:start position:0%
+this virtual network so i can do that
+with<00:13:38.880><c> the</c><00:13:39.040><c> route</c><00:13:39.360><c> based</c><00:13:39.760><c> i</c><00:13:39.839><c> could</c><00:13:40.079><c> not</c><00:13:40.240><c> do</c><00:13:40.480><c> it</c>
+
+00:13:40.550 --> 00:13:40.560 align:start position:0%
+with the route based i could not do it
+ 
+
+00:13:40.560 --> 00:13:41.990 align:start position:0%
+with the route based i could not do it
+with<00:13:40.800><c> policies</c><00:13:41.279><c> we</c><00:13:41.440><c> really</c><00:13:41.600><c> don't</c><00:13:41.760><c> want</c><00:13:41.920><c> to</c>
+
+00:13:41.990 --> 00:13:42.000 align:start position:0%
+with policies we really don't want to
+ 
+
+00:13:42.000 --> 00:13:44.470 align:start position:0%
+with policies we really don't want to
+use<00:13:42.240><c> the</c><00:13:42.399><c> policy</c>
+
+00:13:44.470 --> 00:13:44.480 align:start position:0%
+use the policy
+ 
+
+00:13:44.480 --> 00:13:46.629 align:start position:0%
+use the policy
+the<00:13:44.639><c> route</c><00:13:44.959><c> based</c><00:13:45.279><c> also</c><00:13:45.680><c> supports</c>
+
+00:13:46.629 --> 00:13:46.639 align:start position:0%
+the route based also supports
+ 
+
+00:13:46.639 --> 00:13:49.350 align:start position:0%
+the route based also supports
+coexistence<00:13:47.279><c> with</c><00:13:47.600><c> express</c><00:13:48.160><c> route</c>
+
+00:13:49.350 --> 00:13:49.360 align:start position:0%
+coexistence with express route
+ 
+
+00:13:49.360 --> 00:13:51.509 align:start position:0%
+coexistence with express route
+now<00:13:49.519><c> these</c><00:13:49.760><c> can</c><00:13:49.920><c> run</c><00:13:50.160><c> active</c><00:13:50.560><c> active</c><00:13:51.199><c> so</c><00:13:51.360><c> i</c><00:13:51.440><c> can</c>
+
+00:13:51.509 --> 00:13:51.519 align:start position:0%
+now these can run active active so i can
+ 
+
+00:13:51.519 --> 00:13:55.910 align:start position:0%
+now these can run active active so i can
+actually<00:13:51.839><c> have</c><00:13:52.079><c> multiple</c><00:13:52.560><c> vpn</c><00:13:53.120><c> gateways</c>
+
+00:13:55.910 --> 00:13:55.920 align:start position:0%
+ 
+ 
+
+00:13:55.920 --> 00:13:59.189 align:start position:0%
+ 
+and<00:13:56.079><c> it</c><00:13:56.160><c> can</c><00:13:56.320><c> be</c><00:13:56.639><c> active</c><00:13:57.199><c> passive</c><00:13:58.160><c> or</c><00:13:58.560><c> active</c>
+
+00:13:59.189 --> 00:13:59.199 align:start position:0%
+and it can be active passive or active
+ 
+
+00:13:59.199 --> 00:14:00.710 align:start position:0%
+and it can be active passive or active
+active
+
+00:14:00.710 --> 00:14:00.720 align:start position:0%
+active
+ 
+
+00:14:00.720 --> 00:14:01.910 align:start position:0%
+active
+active<00:14:01.040><c> active</c><00:14:01.360><c> would</c><00:14:01.440><c> be</c><00:14:01.600><c> there's</c><00:14:01.760><c> going</c><00:14:01.839><c> to</c>
+
+00:14:01.910 --> 00:14:01.920 align:start position:0%
+active active would be there's going to
+ 
+
+00:14:01.920 --> 00:14:03.590 align:start position:0%
+active active would be there's going to
+be<00:14:02.000><c> two</c><00:14:02.240><c> public</c><00:14:02.639><c> ip</c><00:14:02.880><c> addresses</c><00:14:03.279><c> so</c><00:14:03.440><c> i</c><00:14:03.519><c> can</c>
+
+00:14:03.590 --> 00:14:03.600 align:start position:0%
+be two public ip addresses so i can
+ 
+
+00:14:03.600 --> 00:14:05.110 align:start position:0%
+be two public ip addresses so i can
+actually<00:14:03.760><c> run</c><00:14:04.000><c> active</c><00:14:04.240><c> active</c><00:14:04.560><c> on</c><00:14:04.639><c> prem</c><00:14:05.040><c> as</c>
+
+00:14:05.110 --> 00:14:05.120 align:start position:0%
+actually run active active on prem as
+ 
+
+00:14:05.120 --> 00:14:07.189 align:start position:0%
+actually run active active on prem as
+well<00:14:05.839><c> and</c><00:14:05.920><c> have</c><00:14:06.160><c> multiple</c><00:14:06.800><c> tunnels</c>
+
+00:14:07.189 --> 00:14:07.199 align:start position:0%
+well and have multiple tunnels
+ 
+
+00:14:07.199 --> 00:14:09.110 align:start position:0%
+well and have multiple tunnels
+established<00:14:07.760><c> so</c><00:14:07.920><c> i</c><00:14:08.000><c> have</c><00:14:08.240><c> good</c><00:14:08.399><c> resiliency</c>
+
+00:14:09.110 --> 00:14:09.120 align:start position:0%
+established so i have good resiliency
+ 
+
+00:14:09.120 --> 00:14:11.189 align:start position:0%
+established so i have good resiliency
+and<00:14:09.279><c> faster</c><00:14:09.680><c> failover</c><00:14:10.560><c> if</c><00:14:10.720><c> something</c>
+
+00:14:11.189 --> 00:14:11.199 align:start position:0%
+and faster failover if something
+ 
+
+00:14:11.199 --> 00:14:13.430 align:start position:0%
+and faster failover if something
+happened
+
+00:14:13.430 --> 00:14:13.440 align:start position:0%
+happened
+ 
+
+00:14:13.440 --> 00:14:15.509 align:start position:0%
+happened
+the<00:14:13.680><c> other</c><00:14:14.079><c> option</c><00:14:14.399><c> is</c>
+
+00:14:15.509 --> 00:14:15.519 align:start position:0%
+the other option is
+ 
+
+00:14:15.519 --> 00:14:17.750 align:start position:0%
+the other option is
+i<00:14:15.680><c> don't</c><00:14:15.839><c> want</c><00:14:16.000><c> to</c><00:14:16.079><c> go</c><00:14:16.240><c> over</c><00:14:16.399><c> the</c><00:14:16.480><c> internet</c>
+
+00:14:17.750 --> 00:14:17.760 align:start position:0%
+i don't want to go over the internet
+ 
+
+00:14:17.760 --> 00:14:20.949 align:start position:0%
+i don't want to go over the internet
+if<00:14:17.920><c> i</c><00:14:18.000><c> think</c><00:14:18.240><c> about</c><00:14:19.040><c> azure</c><00:14:20.000><c> azure</c><00:14:20.560><c> actually</c>
+
+00:14:20.949 --> 00:14:20.959 align:start position:0%
+if i think about azure azure actually
+ 
+
+00:14:20.959 --> 00:14:24.310 align:start position:0%
+if i think about azure azure actually
+runs<00:14:21.279><c> this</c><00:14:21.760><c> huge</c><00:14:22.800><c> backbone</c><00:14:23.440><c> network</c><00:14:24.000><c> this</c>
+
+00:14:24.310 --> 00:14:24.320 align:start position:0%
+runs this huge backbone network this
+ 
+
+00:14:24.320 --> 00:14:26.710 align:start position:0%
+runs this huge backbone network this
+microsoft
+
+00:14:26.710 --> 00:14:26.720 align:start position:0%
+microsoft
+ 
+
+00:14:26.720 --> 00:14:28.389 align:start position:0%
+microsoft
+network
+
+00:14:28.389 --> 00:14:28.399 align:start position:0%
+network
+ 
+
+00:14:28.399 --> 00:14:30.470 align:start position:0%
+network
+and<00:14:28.480><c> this</c><00:14:28.639><c> obviously</c><00:14:29.040><c> extends</c><00:14:29.920><c> into</c><00:14:30.240><c> all</c><00:14:30.399><c> of</c>
+
+00:14:30.470 --> 00:14:30.480 align:start position:0%
+and this obviously extends into all of
+ 
+
+00:14:30.480 --> 00:14:32.150 align:start position:0%
+and this obviously extends into all of
+the<00:14:30.639><c> different</c><00:14:31.040><c> regions</c>
+
+00:14:32.150 --> 00:14:32.160 align:start position:0%
+the different regions
+ 
+
+00:14:32.160 --> 00:14:34.790 align:start position:0%
+the different regions
+that<00:14:32.320><c> microsoft</c><00:14:32.880><c> has</c><00:14:33.519><c> but</c><00:14:33.680><c> it</c><00:14:33.839><c> also</c><00:14:34.320><c> extends</c>
+
+00:14:34.790 --> 00:14:34.800 align:start position:0%
+that microsoft has but it also extends
+ 
+
+00:14:34.800 --> 00:14:36.870 align:start position:0%
+that microsoft has but it also extends
+at<00:14:34.959><c> certain</c><00:14:35.440><c> points</c><00:14:35.920><c> these</c><00:14:36.480><c> into</c><00:14:36.720><c> these</c>
+
+00:14:36.870 --> 00:14:36.880 align:start position:0%
+at certain points these into these
+ 
+
+00:14:36.880 --> 00:14:38.710 align:start position:0%
+at certain points these into these
+things<00:14:37.199><c> called</c><00:14:37.600><c> meet</c><00:14:37.839><c> me's</c>
+
+00:14:38.710 --> 00:14:38.720 align:start position:0%
+things called meet me's
+ 
+
+00:14:38.720 --> 00:14:40.629 align:start position:0%
+things called meet me's
+or<00:14:39.040><c> peering</c><00:14:39.519><c> points</c>
+
+00:14:40.629 --> 00:14:40.639 align:start position:0%
+or peering points
+ 
+
+00:14:40.639 --> 00:14:42.629 align:start position:0%
+or peering points
+these<00:14:40.959><c> are</c><00:14:41.040><c> carrier</c><00:14:41.440><c> neutral</c><00:14:41.839><c> facilities</c><00:14:42.480><c> so</c>
+
+00:14:42.629 --> 00:14:42.639 align:start position:0%
+these are carrier neutral facilities so
+ 
+
+00:14:42.639 --> 00:14:44.470 align:start position:0%
+these are carrier neutral facilities so
+what<00:14:42.880><c> i</c><00:14:43.040><c> can</c><00:14:43.279><c> actually</c><00:14:43.680><c> do</c>
+
+00:14:44.470 --> 00:14:44.480 align:start position:0%
+what i can actually do
+ 
+
+00:14:44.480 --> 00:14:47.910 align:start position:0%
+what i can actually do
+is<00:14:44.800><c> i</c><00:14:45.120><c> can</c><00:14:45.440><c> have</c><00:14:45.920><c> a</c><00:14:46.240><c> dedicated</c><00:14:47.279><c> private</c>
+
+00:14:47.910 --> 00:14:47.920 align:start position:0%
+is i can have a dedicated private
+ 
+
+00:14:47.920 --> 00:14:49.990 align:start position:0%
+is i can have a dedicated private
+connection<00:14:48.320><c> this</c><00:14:48.480><c> is</c><00:14:48.560><c> not</c><00:14:48.720><c> over</c><00:14:48.880><c> the</c><00:14:49.040><c> internet</c>
+
+00:14:49.990 --> 00:14:50.000 align:start position:0%
+connection this is not over the internet
+ 
+
+00:14:50.000 --> 00:14:52.069 align:start position:0%
+connection this is not over the internet
+it's<00:14:50.240><c> a</c><00:14:50.399><c> private</c><00:14:50.880><c> connection</c>
+
+00:14:52.069 --> 00:14:52.079 align:start position:0%
+it's a private connection
+ 
+
+00:14:52.079 --> 00:14:54.949 align:start position:0%
+it's a private connection
+and<00:14:52.240><c> what</c><00:14:52.399><c> that</c><00:14:52.560><c> enables</c><00:14:53.040><c> me</c><00:14:53.199><c> to</c><00:14:53.440><c> then</c><00:14:53.760><c> have</c>
+
+00:14:54.949 --> 00:14:54.959 align:start position:0%
+and what that enables me to then have
+ 
+
+00:14:54.959 --> 00:14:55.910 align:start position:0%
+and what that enables me to then have
+is
+
+00:14:55.910 --> 00:14:55.920 align:start position:0%
+is
+ 
+
+00:14:55.920 --> 00:15:01.509 align:start position:0%
+is
+express<00:14:56.399><c> route</c>
+
+00:15:01.509 --> 00:15:01.519 align:start position:0%
+ 
+ 
+
+00:15:01.519 --> 00:15:02.790 align:start position:0%
+ 
+now<00:15:01.680><c> there</c><00:15:01.920><c> are</c><00:15:02.000><c> different</c><00:15:02.320><c> models</c><00:15:02.639><c> of</c>
+
+00:15:02.790 --> 00:15:02.800 align:start position:0%
+now there are different models of
+ 
+
+00:15:02.800 --> 00:15:04.230 align:start position:0%
+now there are different models of
+express<00:15:03.199><c> route</c>
+
+00:15:04.230 --> 00:15:04.240 align:start position:0%
+express route
+ 
+
+00:15:04.240 --> 00:15:05.990 align:start position:0%
+express route
+imagine<00:15:04.800><c> i</c><00:15:05.040><c> was</c><00:15:05.199><c> actually</c><00:15:05.440><c> not</c><00:15:05.600><c> running</c><00:15:05.839><c> my</c>
+
+00:15:05.990 --> 00:15:06.000 align:start position:0%
+imagine i was actually not running my
+ 
+
+00:15:06.000 --> 00:15:07.189 align:start position:0%
+imagine i was actually not running my
+own<00:15:06.160><c> location</c>
+
+00:15:07.189 --> 00:15:07.199 align:start position:0%
+own location
+ 
+
+00:15:07.199 --> 00:15:10.550 align:start position:0%
+own location
+i<00:15:07.440><c> was</c><00:15:07.680><c> a</c><00:15:08.160><c> co-location</c><00:15:09.040><c> facility</c>
+
+00:15:10.550 --> 00:15:10.560 align:start position:0%
+i was a co-location facility
+ 
+
+00:15:10.560 --> 00:15:12.150 align:start position:0%
+i was a co-location facility
+they<00:15:10.800><c> would</c><00:15:10.959><c> just</c><00:15:11.120><c> connect</c><00:15:11.360><c> me</c><00:15:11.519><c> from</c><00:15:11.680><c> their</c>
+
+00:15:12.150 --> 00:15:12.160 align:start position:0%
+they would just connect me from their
+ 
+
+00:15:12.160 --> 00:15:13.670 align:start position:0%
+they would just connect me from their
+network
+
+00:15:13.670 --> 00:15:13.680 align:start position:0%
+network
+ 
+
+00:15:13.680 --> 00:15:16.550 align:start position:0%
+network
+imagine<00:15:14.240><c> i</c><00:15:14.720><c> am</c><00:15:14.880><c> my</c><00:15:15.040><c> own</c><00:15:15.199><c> facility</c><00:15:16.079><c> and</c><00:15:16.240><c> i</c><00:15:16.399><c> need</c>
+
+00:15:16.550 --> 00:15:16.560 align:start position:0%
+imagine i am my own facility and i need
+ 
+
+00:15:16.560 --> 00:15:18.389 align:start position:0%
+imagine i am my own facility and i need
+a<00:15:16.639><c> direct</c><00:15:17.040><c> physical</c><00:15:17.440><c> cable</c><00:15:17.839><c> put</c><00:15:18.079><c> in</c><00:15:18.240><c> that</c>
+
+00:15:18.389 --> 00:15:18.399 align:start position:0%
+a direct physical cable put in that
+ 
+
+00:15:18.399 --> 00:15:20.550 align:start position:0%
+a direct physical cable put in that
+would<00:15:18.560><c> be</c><00:15:18.720><c> a</c><00:15:18.959><c> layer</c><00:15:19.279><c> 2</c><00:15:19.600><c> connection</c><00:15:20.399><c> a</c>
+
+00:15:20.550 --> 00:15:20.560 align:start position:0%
+would be a layer 2 connection a
+ 
+
+00:15:20.560 --> 00:15:23.269 align:start position:0%
+would be a layer 2 connection a
+point-to-point<00:15:21.360><c> ethernet</c><00:15:21.920><c> connection</c>
+
+00:15:23.269 --> 00:15:23.279 align:start position:0%
+point-to-point ethernet connection
+ 
+
+00:15:23.279 --> 00:15:26.710 align:start position:0%
+point-to-point ethernet connection
+or<00:15:24.000><c> maybe</c><00:15:24.720><c> i</c><00:15:24.880><c> currently</c><00:15:25.279><c> have</c><00:15:25.360><c> an</c><00:15:25.519><c> mpls</c><00:15:26.480><c> an</c>
+
+00:15:26.710 --> 00:15:26.720 align:start position:0%
+or maybe i currently have an mpls an
+ 
+
+00:15:26.720 --> 00:15:28.389 align:start position:0%
+or maybe i currently have an mpls an
+ipvpn
+
+00:15:28.389 --> 00:15:28.399 align:start position:0%
+ipvpn
+ 
+
+00:15:28.399 --> 00:15:30.470 align:start position:0%
+ipvpn
+and<00:15:28.560><c> any</c><00:15:28.880><c> to</c><00:15:29.040><c> any</c><00:15:29.279><c> connection</c><00:15:30.079><c> i</c><00:15:30.240><c> could</c>
+
+00:15:30.470 --> 00:15:30.480 align:start position:0%
+and any to any connection i could
+ 
+
+00:15:30.480 --> 00:15:32.550 align:start position:0%
+and any to any connection i could
+connect<00:15:30.880><c> to</c><00:15:30.959><c> that</c><00:15:31.279><c> to</c><00:15:31.440><c> that</c><00:15:31.680><c> meet</c><00:15:31.920><c> me</c><00:15:32.079><c> a</c><00:15:32.240><c> layer</c>
+
+00:15:32.550 --> 00:15:32.560 align:start position:0%
+connect to that to that meet me a layer
+ 
+
+00:15:32.560 --> 00:15:35.030 align:start position:0%
+connect to that to that meet me a layer
+3<00:15:32.880><c> connection</c><00:15:33.680><c> there</c><00:15:33.920><c> are</c><00:15:34.079><c> different</c><00:15:34.560><c> models</c>
+
+00:15:35.030 --> 00:15:35.040 align:start position:0%
+3 connection there are different models
+ 
+
+00:15:35.040 --> 00:15:37.670 align:start position:0%
+3 connection there are different models
+that<00:15:35.279><c> i</c><00:15:35.440><c> can</c><00:15:35.600><c> leverage</c><00:15:36.079><c> but</c><00:15:36.240><c> the</c><00:15:36.399><c> key</c><00:15:36.800><c> point</c>
+
+00:15:37.670 --> 00:15:37.680 align:start position:0%
+that i can leverage but the key point
+ 
+
+00:15:37.680 --> 00:15:41.269 align:start position:0%
+that i can leverage but the key point
+express<00:15:38.240><c> route</c><00:15:39.120><c> is</c><00:15:39.680><c> private</c><00:15:40.480><c> it</c><00:15:40.720><c> is</c><00:15:40.800><c> not</c><00:15:41.040><c> going</c>
+
+00:15:41.269 --> 00:15:41.279 align:start position:0%
+express route is private it is not going
+ 
+
+00:15:41.279 --> 00:15:42.870 align:start position:0%
+express route is private it is not going
+over<00:15:41.519><c> the</c><00:15:41.680><c> internet</c>
+
+00:15:42.870 --> 00:15:42.880 align:start position:0%
+over the internet
+ 
+
+00:15:42.880 --> 00:15:45.509 align:start position:0%
+over the internet
+once<00:15:43.120><c> i</c><00:15:43.440><c> have</c><00:15:43.680><c> express</c><00:15:44.240><c> route</c><00:15:45.040><c> there's</c>
+
+00:15:45.509 --> 00:15:45.519 align:start position:0%
+once i have express route there's
+ 
+
+00:15:45.519 --> 00:15:48.150 align:start position:0%
+once i have express route there's
+actually<00:15:46.079><c> two</c><00:15:46.720><c> modes</c><00:15:47.440><c> of</c><00:15:47.759><c> getting</c>
+
+00:15:48.150 --> 00:15:48.160 align:start position:0%
+actually two modes of getting
+ 
+
+00:15:48.160 --> 00:15:50.230 align:start position:0%
+actually two modes of getting
+communications
+
+00:15:50.230 --> 00:15:50.240 align:start position:0%
+communications
+ 
+
+00:15:50.240 --> 00:15:52.230 align:start position:0%
+communications
+the<00:15:50.399><c> first</c><00:15:50.720><c> one</c><00:15:51.199><c> and</c><00:15:51.360><c> in</c><00:15:51.519><c> this</c><00:15:51.759><c> picture</c><00:15:52.160><c> we</c>
+
+00:15:52.230 --> 00:15:52.240 align:start position:0%
+the first one and in this picture we
+ 
+
+00:15:52.240 --> 00:15:54.949 align:start position:0%
+the first one and in this picture we
+would<00:15:52.399><c> care</c><00:15:52.639><c> about</c><00:15:52.959><c> the</c><00:15:53.120><c> most</c><00:15:54.160><c> is</c><00:15:54.480><c> i</c><00:15:54.639><c> should</c><00:15:54.800><c> do</c>
+
+00:15:54.949 --> 00:15:54.959 align:start position:0%
+would care about the most is i should do
+ 
+
+00:15:54.959 --> 00:15:57.670 align:start position:0%
+would care about the most is i should do
+a<00:15:55.040><c> new</c><00:15:55.279><c> color</c><00:15:55.759><c> we'll</c><00:15:56.000><c> pick</c><00:15:56.240><c> orange</c>
+
+00:15:57.670 --> 00:15:57.680 align:start position:0%
+a new color we'll pick orange
+ 
+
+00:15:57.680 --> 00:16:02.629 align:start position:0%
+a new color we'll pick orange
+we<00:15:57.920><c> have</c><00:15:58.160><c> something</c><00:15:58.800><c> called</c><00:15:59.440><c> private</c>
+
+00:16:02.629 --> 00:16:02.639 align:start position:0%
+ 
+ 
+
+00:16:02.639 --> 00:16:04.629 align:start position:0%
+ 
+peering
+
+00:16:04.629 --> 00:16:04.639 align:start position:0%
+peering
+ 
+
+00:16:04.639 --> 00:16:07.350 align:start position:0%
+peering
+what<00:16:04.880><c> private</c><00:16:05.519><c> peering</c><00:16:06.320><c> does</c><00:16:07.040><c> is</c><00:16:07.199><c> it</c>
+
+00:16:07.350 --> 00:16:07.360 align:start position:0%
+what private peering does is it
+ 
+
+00:16:07.360 --> 00:16:10.470 align:start position:0%
+what private peering does is it
+establishes<00:16:08.160><c> through</c><00:16:08.480><c> this</c><00:16:08.720><c> connection</c>
+
+00:16:10.470 --> 00:16:10.480 align:start position:0%
+establishes through this connection
+ 
+
+00:16:10.480 --> 00:16:12.550 align:start position:0%
+establishes through this connection
+this<00:16:11.040><c> sharing</c><00:16:11.440><c> of</c><00:16:11.600><c> routes</c><00:16:12.079><c> now</c><00:16:12.240><c> what</c><00:16:12.399><c> it's</c>
+
+00:16:12.550 --> 00:16:12.560 align:start position:0%
+this sharing of routes now what it's
+ 
+
+00:16:12.560 --> 00:16:14.629 align:start position:0%
+this sharing of routes now what it's
+actually<00:16:12.880><c> going</c><00:16:12.959><c> to</c><00:16:13.120><c> do</c>
+
+00:16:14.629 --> 00:16:14.639 align:start position:0%
+actually going to do
+ 
+
+00:16:14.639 --> 00:16:18.870 align:start position:0%
+actually going to do
+is<00:16:15.040><c> i</c><00:16:15.199><c> would</c><00:16:15.519><c> have</c><00:16:15.839><c> an</c><00:16:16.079><c> express</c><00:16:16.639><c> route</c><00:16:16.959><c> gateway</c>
+
+00:16:18.870 --> 00:16:18.880 align:start position:0%
+is i would have an express route gateway
+ 
+
+00:16:18.880 --> 00:16:20.629 align:start position:0%
+is i would have an express route gateway
+so<00:16:19.040><c> it</c><00:16:19.120><c> would</c><00:16:19.360><c> connect</c><00:16:19.680><c> to</c><00:16:19.920><c> there</c><00:16:20.320><c> they</c><00:16:20.480><c> would</c>
+
+00:16:20.629 --> 00:16:20.639 align:start position:0%
+so it would connect to there they would
+ 
+
+00:16:20.639 --> 00:16:23.829 align:start position:0%
+so it would connect to there they would
+exchange<00:16:21.199><c> ip</c><00:16:21.680><c> information</c><00:16:22.240><c> using</c><00:16:22.480><c> single</c><00:16:22.800><c> bgp</c>
+
+00:16:23.829 --> 00:16:23.839 align:start position:0%
+exchange ip information using single bgp
+ 
+
+00:16:23.839 --> 00:16:25.670 align:start position:0%
+exchange ip information using single bgp
+and<00:16:23.920><c> now</c><00:16:24.160><c> this</c><00:16:24.399><c> address</c><00:16:24.800><c> space</c><00:16:25.040><c> is</c><00:16:25.199><c> connected</c>
+
+00:16:25.670 --> 00:16:25.680 align:start position:0%
+and now this address space is connected
+ 
+
+00:16:25.680 --> 00:16:27.990 align:start position:0%
+and now this address space is connected
+to<00:16:25.839><c> this</c><00:16:26.079><c> address</c><00:16:26.480><c> space</c><00:16:26.880><c> and</c><00:16:27.120><c> even</c><00:16:27.519><c> peered</c>
+
+00:16:27.990 --> 00:16:28.000 align:start position:0%
+to this address space and even peered
+ 
+
+00:16:28.000 --> 00:16:30.150 align:start position:0%
+to this address space and even peered
+networks<00:16:28.560><c> if</c><00:16:28.720><c> i</c><00:16:28.959><c> want</c><00:16:29.199><c> that</c><00:16:29.759><c> there's</c><00:16:30.000><c> an</c>
+
+00:16:30.150 --> 00:16:30.160 align:start position:0%
+networks if i want that there's an
+ 
+
+00:16:30.160 --> 00:16:32.310 align:start position:0%
+networks if i want that there's an
+option<00:16:30.480><c> to</c><00:16:30.639><c> use</c><00:16:30.880><c> remote</c><00:16:31.279><c> gateway</c><00:16:31.680><c> and</c><00:16:31.839><c> use</c>
+
+00:16:32.310 --> 00:16:32.320 align:start position:0%
+option to use remote gateway and use
+ 
+
+00:16:32.320 --> 00:16:34.230 align:start position:0%
+option to use remote gateway and use
+transit<00:16:32.800><c> routing</c>
+
+00:16:34.230 --> 00:16:34.240 align:start position:0%
+transit routing
+ 
+
+00:16:34.240 --> 00:16:37.030 align:start position:0%
+transit routing
+i'm<00:16:34.399><c> now</c><00:16:34.639><c> connecting</c><00:16:35.279><c> these</c><00:16:36.079><c> using</c><00:16:36.560><c> private</c>
+
+00:16:37.030 --> 00:16:37.040 align:start position:0%
+i'm now connecting these using private
+ 
+
+00:16:37.040 --> 00:16:38.629 align:start position:0%
+i'm now connecting these using private
+peering
+
+00:16:38.629 --> 00:16:38.639 align:start position:0%
+peering
+ 
+
+00:16:38.639 --> 00:16:40.629 align:start position:0%
+peering
+there<00:16:38.880><c> is</c><00:16:39.040><c> another</c><00:16:39.440><c> type</c><00:16:39.680><c> called</c><00:16:39.920><c> microsoft</c>
+
+00:16:40.629 --> 00:16:40.639 align:start position:0%
+there is another type called microsoft
+ 
+
+00:16:40.639 --> 00:16:42.389 align:start position:0%
+there is another type called microsoft
+peering<00:16:41.279><c> imagine</c><00:16:41.600><c> there's</c><00:16:41.680><c> a</c><00:16:41.759><c> whole</c><00:16:41.920><c> bunch</c><00:16:42.160><c> of</c>
+
+00:16:42.389 --> 00:16:42.399 align:start position:0%
+peering imagine there's a whole bunch of
+ 
+
+00:16:42.399 --> 00:16:44.550 align:start position:0%
+peering imagine there's a whole bunch of
+other<00:16:42.720><c> services</c><00:16:43.199><c> that</c><00:16:43.360><c> don't</c><00:16:43.680><c> live</c><00:16:44.160><c> inside</c><00:16:44.480><c> a</c>
+
+00:16:44.550 --> 00:16:44.560 align:start position:0%
+other services that don't live inside a
+ 
+
+00:16:44.560 --> 00:16:47.430 align:start position:0%
+other services that don't live inside a
+virtual<00:16:44.959><c> network</c><00:16:45.920><c> well</c><00:16:46.320><c> i</c><00:16:46.480><c> can</c><00:16:46.639><c> make</c><00:16:47.040><c> those</c>
+
+00:16:47.430 --> 00:16:47.440 align:start position:0%
+virtual network well i can make those
+ 
+
+00:16:47.440 --> 00:16:50.310 align:start position:0%
+virtual network well i can make those
+available<00:16:48.160><c> over</c><00:16:48.480><c> express</c><00:16:48.959><c> route</c><00:16:49.839><c> with</c><00:16:50.160><c> the</c>
+
+00:16:50.310 --> 00:16:50.320 align:start position:0%
+available over express route with the
+ 
+
+00:16:50.320 --> 00:16:56.550 align:start position:0%
+available over express route with the
+idea<00:16:50.800><c> of</c><00:16:51.519><c> microsoft</c><00:16:52.160><c> appearing</c>
+
+00:16:56.550 --> 00:16:56.560 align:start position:0%
+ 
+ 
+
+00:16:56.560 --> 00:16:58.629 align:start position:0%
+ 
+there's<00:16:56.800><c> a</c><00:16:56.880><c> huge</c><00:16:57.279><c> number</c><00:16:57.600><c> of</c><00:16:57.759><c> these</c><00:16:58.560><c> and</c>
+
+00:16:58.629 --> 00:16:58.639 align:start position:0%
+there's a huge number of these and
+ 
+
+00:16:58.639 --> 00:17:00.230 align:start position:0%
+there's a huge number of these and
+that's<00:16:59.040><c> other</c><00:16:59.360><c> things</c><00:16:59.519><c> that</c><00:16:59.680><c> don't</c><00:16:59.920><c> live</c><00:17:00.160><c> in</c>
+
+00:17:00.230 --> 00:17:00.240 align:start position:0%
+that's other things that don't live in
+ 
+
+00:17:00.240 --> 00:17:02.710 align:start position:0%
+that's other things that don't live in
+the<00:17:00.320><c> v-net</c><00:17:01.199><c> if</c><00:17:01.360><c> we</c><00:17:01.519><c> actually</c><00:17:01.839><c> looked</c><00:17:02.240><c> super</c>
+
+00:17:02.710 --> 00:17:02.720 align:start position:0%
+the v-net if we actually looked super
+ 
+
+00:17:02.720 --> 00:17:04.710 align:start position:0%
+the v-net if we actually looked super
+quickly
+
+00:17:04.710 --> 00:17:04.720 align:start position:0%
+quickly
+ 
+
+00:17:04.720 --> 00:17:06.309 align:start position:0%
+quickly
+what<00:17:04.880><c> we</c><00:17:05.039><c> actually</c><00:17:05.360><c> have</c><00:17:05.679><c> is</c><00:17:05.760><c> the</c><00:17:05.919><c> idea</c><00:17:06.079><c> of</c><00:17:06.240><c> a</c>
+
+00:17:06.309 --> 00:17:06.319 align:start position:0%
+what we actually have is the idea of a
+ 
+
+00:17:06.319 --> 00:17:08.549 align:start position:0%
+what we actually have is the idea of a
+route<00:17:06.720><c> filter</c><00:17:07.600><c> so</c><00:17:07.760><c> we</c><00:17:07.839><c> would</c><00:17:08.000><c> create</c><00:17:08.319><c> this</c>
+
+00:17:08.549 --> 00:17:08.559 align:start position:0%
+route filter so we would create this
+ 
+
+00:17:08.559 --> 00:17:10.549 align:start position:0%
+route filter so we would create this
+route<00:17:08.959><c> filter</c>
+
+00:17:10.549 --> 00:17:10.559 align:start position:0%
+route filter
+ 
+
+00:17:10.559 --> 00:17:12.069 align:start position:0%
+route filter
+and<00:17:10.720><c> in</c><00:17:10.799><c> that</c><00:17:10.959><c> route</c><00:17:11.280><c> filter</c><00:17:11.760><c> we</c><00:17:11.839><c> would</c>
+
+00:17:12.069 --> 00:17:12.079 align:start position:0%
+and in that route filter we would
+ 
+
+00:17:12.079 --> 00:17:15.270 align:start position:0%
+and in that route filter we would
+establish<00:17:13.039><c> it</c><00:17:13.199><c> with</c><00:17:13.439><c> our</c><00:17:13.600><c> express</c><00:17:14.079><c> route</c>
+
+00:17:15.270 --> 00:17:15.280 align:start position:0%
+establish it with our express route
+ 
+
+00:17:15.280 --> 00:17:18.309 align:start position:0%
+establish it with our express route
+and<00:17:15.439><c> we</c><00:17:15.600><c> basically</c><00:17:16.240><c> say</c>
+
+00:17:18.309 --> 00:17:18.319 align:start position:0%
+and we basically say
+ 
+
+00:17:18.319 --> 00:17:19.350 align:start position:0%
+and we basically say
+hey
+
+00:17:19.350 --> 00:17:19.360 align:start position:0%
+hey
+ 
+
+00:17:19.360 --> 00:17:22.710 align:start position:0%
+hey
+what<00:17:19.600><c> do</c><00:17:19.839><c> i</c><00:17:19.919><c> want</c><00:17:20.160><c> to</c><00:17:20.319><c> make</c><00:17:21.039><c> available</c>
+
+00:17:22.710 --> 00:17:22.720 align:start position:0%
+what do i want to make available
+ 
+
+00:17:22.720 --> 00:17:24.549 align:start position:0%
+what do i want to make available
+over<00:17:22.959><c> this</c><00:17:23.120><c> connection</c><00:17:23.919><c> so</c><00:17:24.079><c> all</c><00:17:24.240><c> of</c><00:17:24.400><c> these</c>
+
+00:17:24.549 --> 00:17:24.559 align:start position:0%
+over this connection so all of these
+ 
+
+00:17:24.559 --> 00:17:26.789 align:start position:0%
+over this connection so all of these
+different<00:17:24.959><c> services</c><00:17:25.839><c> and</c><00:17:25.919><c> they're</c><00:17:26.240><c> region</c>
+
+00:17:26.789 --> 00:17:26.799 align:start position:0%
+different services and they're region
+ 
+
+00:17:26.799 --> 00:17:29.830 align:start position:0%
+different services and they're region
+based<00:17:27.679><c> or</c><00:17:28.000><c> they</c><00:17:28.240><c> are</c><00:17:28.480><c> just</c><00:17:28.720><c> generic</c><00:17:29.600><c> hey</c>
+
+00:17:29.830 --> 00:17:29.840 align:start position:0%
+based or they are just generic hey
+ 
+
+00:17:29.840 --> 00:17:32.789 align:start position:0%
+based or they are just generic hey
+everything
+
+00:17:32.789 --> 00:17:32.799 align:start position:0%
+everything
+ 
+
+00:17:32.799 --> 00:17:36.310 align:start position:0%
+everything
+i<00:17:33.039><c> say</c><00:17:33.440><c> what</c><00:17:33.679><c> i</c><00:17:33.760><c> want</c><00:17:34.000><c> to</c><00:17:34.320><c> advertise</c>
+
+00:17:36.310 --> 00:17:36.320 align:start position:0%
+i say what i want to advertise
+ 
+
+00:17:36.320 --> 00:17:37.270 align:start position:0%
+i say what i want to advertise
+over
+
+00:17:37.270 --> 00:17:37.280 align:start position:0%
+over
+ 
+
+00:17:37.280 --> 00:17:39.270 align:start position:0%
+over
+this<00:17:37.520><c> microsoft</c><00:17:38.160><c> peering</c>
+
+00:17:39.270 --> 00:17:39.280 align:start position:0%
+this microsoft peering
+ 
+
+00:17:39.280 --> 00:17:41.110 align:start position:0%
+this microsoft peering
+and<00:17:39.360><c> then</c><00:17:39.600><c> they</c><00:17:39.760><c> would</c><00:17:39.919><c> be</c><00:17:40.240><c> accessed</c><00:17:40.880><c> over</c>
+
+00:17:41.110 --> 00:17:41.120 align:start position:0%
+and then they would be accessed over
+ 
+
+00:17:41.120 --> 00:17:43.029 align:start position:0%
+and then they would be accessed over
+that<00:17:41.360><c> express</c><00:17:41.760><c> route</c><00:17:42.080><c> connection</c><00:17:42.559><c> so</c><00:17:42.799><c> i</c><00:17:42.880><c> can</c>
+
+00:17:43.029 --> 00:17:43.039 align:start position:0%
+that express route connection so i can
+ 
+
+00:17:43.039 --> 00:17:44.789 align:start position:0%
+that express route connection so i can
+be<00:17:43.120><c> very</c><00:17:43.360><c> specific</c>
+
+00:17:44.789 --> 00:17:44.799 align:start position:0%
+be very specific
+ 
+
+00:17:44.799 --> 00:17:48.070 align:start position:0%
+be very specific
+about<00:17:45.120><c> hey</c><00:17:45.440><c> what</c><00:17:45.600><c> i</c><00:17:45.760><c> want</c><00:17:46.000><c> to</c><00:17:46.080><c> make</c><00:17:46.320><c> available</c>
+
+00:17:48.070 --> 00:17:48.080 align:start position:0%
+about hey what i want to make available
+ 
+
+00:17:48.080 --> 00:17:50.470 align:start position:0%
+about hey what i want to make available
+um<00:17:48.320><c> with</c><00:17:48.559><c> microsoft</c><00:17:49.039><c> peering</c><00:17:49.760><c> so</c><00:17:49.919><c> that's</c><00:17:50.160><c> now</c>
+
+00:17:50.470 --> 00:17:50.480 align:start position:0%
+um with microsoft peering so that's now
+ 
+
+00:17:50.480 --> 00:17:53.110 align:start position:0%
+um with microsoft peering so that's now
+offering<00:17:51.200><c> other</c><00:17:51.600><c> services</c>
+
+00:17:53.110 --> 00:17:53.120 align:start position:0%
+offering other services
+ 
+
+00:17:53.120 --> 00:17:55.110 align:start position:0%
+offering other services
+over<00:17:53.360><c> that</c><00:17:53.520><c> connection</c>
+
+00:17:55.110 --> 00:17:55.120 align:start position:0%
+over that connection
+ 
+
+00:17:55.120 --> 00:17:57.270 align:start position:0%
+over that connection
+so<00:17:55.360><c> that's</c><00:17:55.600><c> the</c><00:17:55.760><c> other</c><00:17:56.080><c> thing</c><00:17:56.240><c> i</c><00:17:56.320><c> can</c><00:17:56.480><c> do</c><00:17:56.960><c> i</c><00:17:57.039><c> can</c>
+
+00:17:57.270 --> 00:17:57.280 align:start position:0%
+so that's the other thing i can do i can
+ 
+
+00:17:57.280 --> 00:17:59.510 align:start position:0%
+so that's the other thing i can do i can
+connect<00:17:57.520><c> to</c><00:17:57.760><c> multiple</c><00:17:58.640><c> virtual</c><00:17:59.039><c> networks</c><00:17:59.440><c> for</c>
+
+00:17:59.510 --> 00:17:59.520 align:start position:0%
+connect to multiple virtual networks for
+ 
+
+00:17:59.520 --> 00:18:01.430 align:start position:0%
+connect to multiple virtual networks for
+the<00:17:59.600><c> same</c><00:17:59.840><c> express</c><00:18:00.160><c> route</c><00:18:00.480><c> circuit</c><00:18:00.880><c> i</c><00:18:00.960><c> create</c>
+
+00:18:01.430 --> 00:18:01.440 align:start position:0%
+the same express route circuit i create
+ 
+
+00:18:01.440 --> 00:18:03.270 align:start position:0%
+the same express route circuit i create
+the<00:18:01.600><c> exact</c><00:18:01.840><c> number</c><00:18:02.160><c> depends</c><00:18:02.640><c> on</c><00:18:02.720><c> the</c><00:18:02.960><c> type</c><00:18:03.200><c> of</c>
+
+00:18:03.270 --> 00:18:03.280 align:start position:0%
+the exact number depends on the type of
+ 
+
+00:18:03.280 --> 00:18:05.110 align:start position:0%
+the exact number depends on the type of
+express<00:18:03.679><c> route</c><00:18:04.000><c> and</c><00:18:04.080><c> the</c><00:18:04.320><c> size</c><00:18:04.799><c> of</c><00:18:04.880><c> that</c>
+
+00:18:05.110 --> 00:18:05.120 align:start position:0%
+express route and the size of that
+ 
+
+00:18:05.120 --> 00:18:06.230 align:start position:0%
+express route and the size of that
+circuit
+
+00:18:06.230 --> 00:18:06.240 align:start position:0%
+circuit
+ 
+
+00:18:06.240 --> 00:18:07.750 align:start position:0%
+circuit
+but<00:18:06.480><c> it's</c><00:18:06.640><c> basically</c><00:18:07.039><c> giving</c><00:18:07.280><c> me</c><00:18:07.520><c> those</c>
+
+00:18:07.750 --> 00:18:07.760 align:start position:0%
+but it's basically giving me those
+ 
+
+00:18:07.760 --> 00:18:09.430 align:start position:0%
+but it's basically giving me those
+capabilities
+
+00:18:09.430 --> 00:18:09.440 align:start position:0%
+capabilities
+ 
+
+00:18:09.440 --> 00:18:11.590 align:start position:0%
+capabilities
+now<00:18:09.679><c> there</c><00:18:09.840><c> are</c><00:18:09.919><c> other</c><00:18:10.320><c> concepts</c><00:18:11.280><c> around</c>
+
+00:18:11.590 --> 00:18:11.600 align:start position:0%
+now there are other concepts around
+ 
+
+00:18:11.600 --> 00:18:13.430 align:start position:0%
+now there are other concepts around
+securing<00:18:12.240><c> this</c><00:18:12.400><c> there's</c><00:18:12.559><c> network</c><00:18:12.880><c> security</c>
+
+00:18:13.430 --> 00:18:13.440 align:start position:0%
+securing this there's network security
+ 
+
+00:18:13.440 --> 00:18:15.029 align:start position:0%
+securing this there's network security
+groups<00:18:13.760><c> and</c><00:18:13.840><c> user</c><00:18:14.080><c> defined</c><00:18:14.480><c> routes</c><00:18:14.799><c> but</c><00:18:14.960><c> we're</c>
+
+00:18:15.029 --> 00:18:15.039 align:start position:0%
+groups and user defined routes but we're
+ 
+
+00:18:15.039 --> 00:18:16.549 align:start position:0%
+groups and user defined routes but we're
+going<00:18:15.120><c> to</c><00:18:15.200><c> talk</c><00:18:15.440><c> about</c><00:18:15.679><c> that</c><00:18:15.919><c> in</c><00:18:16.160><c> later</c>
+
+00:18:16.549 --> 00:18:16.559 align:start position:0%
+going to talk about that in later
+ 
+
+00:18:16.559 --> 00:18:18.070 align:start position:0%
+going to talk about that in later
+lessons<00:18:16.799><c> so</c><00:18:16.960><c> i'm</c><00:18:17.039><c> not</c><00:18:17.200><c> going</c><00:18:17.360><c> to</c><00:18:17.440><c> talk</c><00:18:17.679><c> about</c>
+
+00:18:18.070 --> 00:18:18.080 align:start position:0%
+lessons so i'm not going to talk about
+ 
+
+00:18:18.080 --> 00:18:20.470 align:start position:0%
+lessons so i'm not going to talk about
+that<00:18:18.559><c> right</c><00:18:18.799><c> now</c>
+
+00:18:20.470 --> 00:18:20.480 align:start position:0%
+that right now
+ 
+
+00:18:20.480 --> 00:18:21.510 align:start position:0%
+that right now
+um
+
+00:18:21.510 --> 00:18:21.520 align:start position:0%
+um
+ 
+
+00:18:21.520 --> 00:18:23.750 align:start position:0%
+um
+there<00:18:21.840><c> are</c><00:18:22.080><c> two</c><00:18:22.320><c> other</c><00:18:22.640><c> quick</c><00:18:22.960><c> concepts</c><00:18:23.520><c> i</c><00:18:23.600><c> do</c>
+
+00:18:23.750 --> 00:18:23.760 align:start position:0%
+there are two other quick concepts i do
+ 
+
+00:18:23.760 --> 00:18:25.909 align:start position:0%
+there are two other quick concepts i do
+want<00:18:23.919><c> to</c><00:18:24.080><c> cover</c><00:18:24.400><c> though</c>
+
+00:18:25.909 --> 00:18:25.919 align:start position:0%
+want to cover though
+ 
+
+00:18:25.919 --> 00:18:28.630 align:start position:0%
+want to cover though
+i'm<00:18:26.080><c> going</c><00:18:26.160><c> to</c><00:18:26.240><c> go</c><00:18:26.400><c> over</c><00:18:26.840><c> here</c><00:18:27.919><c> there</c><00:18:28.160><c> are</c><00:18:28.400><c> lots</c>
+
+00:18:28.630 --> 00:18:28.640 align:start position:0%
+i'm going to go over here there are lots
+ 
+
+00:18:28.640 --> 00:18:30.710 align:start position:0%
+i'm going to go over here there are lots
+of<00:18:28.799><c> resources</c><00:18:29.520><c> that</c><00:18:29.679><c> do</c><00:18:29.840><c> not</c><00:18:30.080><c> live</c><00:18:30.320><c> inside</c><00:18:30.640><c> a</c>
+
+00:18:30.710 --> 00:18:30.720 align:start position:0%
+of resources that do not live inside a
+ 
+
+00:18:30.720 --> 00:18:32.230 align:start position:0%
+of resources that do not live inside a
+virtual<00:18:31.120><c> network</c>
+
+00:18:32.230 --> 00:18:32.240 align:start position:0%
+virtual network
+ 
+
+00:18:32.240 --> 00:18:33.990 align:start position:0%
+virtual network
+i<00:18:32.480><c> could</c><00:18:32.640><c> imagine</c><00:18:33.039><c> the</c><00:18:33.200><c> idea</c><00:18:33.440><c> that</c><00:18:33.679><c> maybe</c><00:18:33.919><c> i</c>
+
+00:18:33.990 --> 00:18:34.000 align:start position:0%
+i could imagine the idea that maybe i
+ 
+
+00:18:34.000 --> 00:18:36.630 align:start position:0%
+i could imagine the idea that maybe i
+have<00:18:34.080><c> a</c><00:18:34.240><c> storage</c><00:18:34.559><c> account</c>
+
+00:18:36.630 --> 00:18:36.640 align:start position:0%
+have a storage account
+ 
+
+00:18:36.640 --> 00:18:38.950 align:start position:0%
+have a storage account
+this<00:18:36.880><c> is</c><00:18:36.960><c> storage</c><00:18:37.360><c> account</c><00:18:37.840><c> one</c>
+
+00:18:38.950 --> 00:18:38.960 align:start position:0%
+this is storage account one
+ 
+
+00:18:38.960 --> 00:18:41.510 align:start position:0%
+this is storage account one
+and<00:18:39.120><c> once</c><00:18:39.360><c> again</c><00:18:39.679><c> i</c><00:18:39.840><c> have</c><00:18:40.080><c> this</c><00:18:40.320><c> idea</c><00:18:40.880><c> that</c><00:18:41.280><c> hey</c>
+
+00:18:41.510 --> 00:18:41.520 align:start position:0%
+and once again i have this idea that hey
+ 
+
+00:18:41.520 --> 00:18:45.190 align:start position:0%
+and once again i have this idea that hey
+i've<00:18:41.679><c> got</c><00:18:42.000><c> a</c><00:18:42.080><c> certain</c><00:18:42.960><c> subnet</c>
+
+00:18:45.190 --> 00:18:45.200 align:start position:0%
+i've got a certain subnet
+ 
+
+00:18:45.200 --> 00:18:48.230 align:start position:0%
+i've got a certain subnet
+well<00:18:45.440><c> this</c><00:18:45.760><c> subnet</c><00:18:46.400><c> one</c>
+
+00:18:48.230 --> 00:18:48.240 align:start position:0%
+well this subnet one
+ 
+
+00:18:48.240 --> 00:18:49.590 align:start position:0%
+well this subnet one
+what<00:18:48.480><c> i</c><00:18:48.559><c> can</c><00:18:48.720><c> do</c><00:18:48.799><c> is</c><00:18:48.960><c> i</c><00:18:49.039><c> can</c><00:18:49.200><c> add</c><00:18:49.440><c> something</c>
+
+00:18:49.590 --> 00:18:49.600 align:start position:0%
+what i can do is i can add something
+ 
+
+00:18:49.600 --> 00:18:51.590 align:start position:0%
+what i can do is i can add something
+called<00:18:49.919><c> a</c><00:18:50.000><c> service</c><00:18:50.559><c> endpoint</c><00:18:51.039><c> so</c><00:18:51.200><c> i</c><00:18:51.360><c> can</c>
+
+00:18:51.590 --> 00:18:51.600 align:start position:0%
+called a service endpoint so i can
+ 
+
+00:18:51.600 --> 00:18:54.390 align:start position:0%
+called a service endpoint so i can
+enable<00:18:52.320><c> service</c><00:18:52.960><c> endpoint</c>
+
+00:18:54.390 --> 00:18:54.400 align:start position:0%
+enable service endpoint
+ 
+
+00:18:54.400 --> 00:18:57.350 align:start position:0%
+enable service endpoint
+for<00:18:55.039><c> storage</c>
+
+00:18:57.350 --> 00:18:57.360 align:start position:0%
+for storage
+ 
+
+00:18:57.360 --> 00:19:00.150 align:start position:0%
+for storage
+what<00:18:57.600><c> that</c><00:18:57.840><c> now</c><00:18:58.160><c> does</c><00:18:58.640><c> is</c><00:18:58.799><c> it</c><00:18:59.039><c> adds</c><00:18:59.440><c> a</c><00:18:59.760><c> better</c>
+
+00:19:00.150 --> 00:19:00.160 align:start position:0%
+what that now does is it adds a better
+ 
+
+00:19:00.160 --> 00:19:01.990 align:start position:0%
+what that now does is it adds a better
+route
+
+00:19:01.990 --> 00:19:02.000 align:start position:0%
+route
+ 
+
+00:19:02.000 --> 00:19:04.789 align:start position:0%
+route
+to<00:19:02.240><c> storage</c><00:19:02.799><c> in</c><00:19:02.880><c> that</c><00:19:03.039><c> particular</c><00:19:03.600><c> region</c>
+
+00:19:04.789 --> 00:19:04.799 align:start position:0%
+to storage in that particular region
+ 
+
+00:19:04.799 --> 00:19:07.190 align:start position:0%
+to storage in that particular region
+and<00:19:04.960><c> it</c><00:19:05.039><c> now</c><00:19:05.280><c> makes</c><00:19:05.520><c> this</c><00:19:05.840><c> subnet</c><00:19:06.480><c> a</c><00:19:06.640><c> known</c>
+
+00:19:07.190 --> 00:19:07.200 align:start position:0%
+and it now makes this subnet a known
+ 
+
+00:19:07.200 --> 00:19:08.390 align:start position:0%
+and it now makes this subnet a known
+entity
+
+00:19:08.390 --> 00:19:08.400 align:start position:0%
+entity
+ 
+
+00:19:08.400 --> 00:19:11.190 align:start position:0%
+entity
+to<00:19:08.799><c> storage</c><00:19:09.280><c> accounts</c><00:19:10.320><c> so</c><00:19:10.480><c> that</c><00:19:10.720><c> storage</c>
+
+00:19:11.190 --> 00:19:11.200 align:start position:0%
+to storage accounts so that storage
+ 
+
+00:19:11.200 --> 00:19:13.990 align:start position:0%
+to storage accounts so that storage
+account<00:19:11.840><c> has</c><00:19:12.160><c> a</c><00:19:12.320><c> firewall</c><00:19:13.280><c> i</c><00:19:13.440><c> can</c><00:19:13.600><c> think</c><00:19:13.760><c> about</c>
+
+00:19:13.990 --> 00:19:14.000 align:start position:0%
+account has a firewall i can think about
+ 
+
+00:19:14.000 --> 00:19:17.750 align:start position:0%
+account has a firewall i can think about
+there's<00:19:14.240><c> protection</c><00:19:15.280><c> on</c>
+
+00:19:17.750 --> 00:19:17.760 align:start position:0%
+ 
+ 
+
+00:19:17.760 --> 00:19:19.830 align:start position:0%
+ 
+this<00:19:18.000><c> storage</c><00:19:18.400><c> accounts</c><00:19:19.039><c> public</c><00:19:19.440><c> facing</c>
+
+00:19:19.830 --> 00:19:19.840 align:start position:0%
+this storage accounts public facing
+ 
+
+00:19:19.840 --> 00:19:20.870 align:start position:0%
+this storage accounts public facing
+endpoint
+
+00:19:20.870 --> 00:19:20.880 align:start position:0%
+endpoint
+ 
+
+00:19:20.880 --> 00:19:22.630 align:start position:0%
+endpoint
+so<00:19:21.120><c> now</c><00:19:21.440><c> because</c><00:19:21.760><c> this</c><00:19:21.919><c> becomes</c><00:19:22.240><c> a</c><00:19:22.320><c> known</c>
+
+00:19:22.630 --> 00:19:22.640 align:start position:0%
+so now because this becomes a known
+ 
+
+00:19:22.640 --> 00:19:25.190 align:start position:0%
+so now because this becomes a known
+entity<00:19:23.039><c> i</c><00:19:23.200><c> can</c><00:19:23.360><c> say</c><00:19:23.600><c> hey</c><00:19:23.840><c> subnet</c><00:19:24.320><c> one</c>
+
+00:19:25.190 --> 00:19:25.200 align:start position:0%
+entity i can say hey subnet one
+ 
+
+00:19:25.200 --> 00:19:27.029 align:start position:0%
+entity i can say hey subnet one
+if<00:19:25.360><c> you're</c><00:19:25.600><c> in</c><00:19:25.679><c> subnet</c><00:19:26.160><c> one</c>
+
+00:19:27.029 --> 00:19:27.039 align:start position:0%
+if you're in subnet one
+ 
+
+00:19:27.039 --> 00:19:29.990 align:start position:0%
+if you're in subnet one
+you're<00:19:27.200><c> allowed</c><00:19:27.440><c> to</c><00:19:27.600><c> come</c><00:19:27.840><c> through</c>
+
+00:19:29.990 --> 00:19:30.000 align:start position:0%
+you're allowed to come through
+ 
+
+00:19:30.000 --> 00:19:32.950 align:start position:0%
+you're allowed to come through
+and<00:19:30.559><c> you</c><00:19:30.720><c> can</c><00:19:30.960><c> access</c><00:19:31.360><c> the</c><00:19:31.520><c> storage</c><00:19:31.919><c> account</c>
+
+00:19:32.950 --> 00:19:32.960 align:start position:0%
+and you can access the storage account
+ 
+
+00:19:32.960 --> 00:19:35.990 align:start position:0%
+and you can access the storage account
+so<00:19:33.520><c> this</c><00:19:34.160><c> idea</c><00:19:34.720><c> right</c><00:19:35.039><c> here</c>
+
+00:19:35.990 --> 00:19:36.000 align:start position:0%
+so this idea right here
+ 
+
+00:19:36.000 --> 00:19:38.390 align:start position:0%
+so this idea right here
+these<00:19:36.320><c> are</c><00:19:36.840><c> service</c>
+
+00:19:38.390 --> 00:19:38.400 align:start position:0%
+these are service
+ 
+
+00:19:38.400 --> 00:19:42.150 align:start position:0%
+these are service
+endpoints
+
+00:19:42.150 --> 00:19:42.160 align:start position:0%
+ 
+ 
+
+00:19:42.160 --> 00:19:44.150 align:start position:0%
+ 
+it<00:19:42.240><c> gives</c><00:19:42.480><c> me</c><00:19:42.640><c> a</c><00:19:42.799><c> better</c><00:19:43.120><c> route</c>
+
+00:19:44.150 --> 00:19:44.160 align:start position:0%
+it gives me a better route
+ 
+
+00:19:44.160 --> 00:19:46.390 align:start position:0%
+it gives me a better route
+and<00:19:44.320><c> it</c><00:19:44.480><c> lets</c><00:19:44.880><c> me</c><00:19:45.200><c> on</c><00:19:45.360><c> the</c><00:19:45.600><c> firewall</c><00:19:46.080><c> of</c><00:19:46.160><c> the</c>
+
+00:19:46.390 --> 00:19:46.400 align:start position:0%
+and it lets me on the firewall of the
+ 
+
+00:19:46.400 --> 00:19:47.990 align:start position:0%
+and it lets me on the firewall of the
+service<00:19:46.960><c> control</c>
+
+00:19:47.990 --> 00:19:48.000 align:start position:0%
+service control
+ 
+
+00:19:48.000 --> 00:19:50.789 align:start position:0%
+service control
+which<00:19:48.240><c> subnets</c><00:19:48.720><c> allowed</c><00:19:49.039><c> to</c><00:19:49.120><c> talk</c><00:19:49.360><c> to</c><00:19:49.520><c> it</c>
+
+00:19:50.789 --> 00:19:50.799 align:start position:0%
+which subnets allowed to talk to it
+ 
+
+00:19:50.799 --> 00:19:52.789 align:start position:0%
+which subnets allowed to talk to it
+another<00:19:51.440><c> option</c>
+
+00:19:52.789 --> 00:19:52.799 align:start position:0%
+another option
+ 
+
+00:19:52.799 --> 00:19:55.510 align:start position:0%
+another option
+is<00:19:53.039><c> maybe</c><00:19:53.280><c> i</c><00:19:53.360><c> don't</c><00:19:53.679><c> want</c><00:19:54.320><c> that</c><00:19:54.559><c> public-facing</c>
+
+00:19:55.510 --> 00:19:55.520 align:start position:0%
+is maybe i don't want that public-facing
+ 
+
+00:19:55.520 --> 00:19:57.750 align:start position:0%
+is maybe i don't want that public-facing
+ip<00:19:55.919><c> address</c><00:19:56.240><c> at</c><00:19:56.400><c> all</c><00:19:56.960><c> now</c><00:19:57.120><c> this</c><00:19:57.280><c> could</c><00:19:57.440><c> be</c><00:19:57.600><c> the</c>
+
+00:19:57.750 --> 00:19:57.760 align:start position:0%
+ip address at all now this could be the
+ 
+
+00:19:57.760 --> 00:19:59.110 align:start position:0%
+ip address at all now this could be the
+same<00:19:58.000><c> subnet</c><00:19:58.320><c> i'm</c><00:19:58.480><c> just</c><00:19:58.640><c> drawing</c><00:19:58.960><c> it</c>
+
+00:19:59.110 --> 00:19:59.120 align:start position:0%
+same subnet i'm just drawing it
+ 
+
+00:19:59.120 --> 00:20:01.430 align:start position:0%
+same subnet i'm just drawing it
+differently<00:19:59.600><c> for</c><00:19:59.760><c> the</c><00:19:59.840><c> sake</c><00:20:00.000><c> of</c><00:20:00.160><c> the</c><00:20:00.240><c> drawing</c>
+
+00:20:01.430 --> 00:20:01.440 align:start position:0%
+differently for the sake of the drawing
+ 
+
+00:20:01.440 --> 00:20:02.950 align:start position:0%
+differently for the sake of the drawing
+imagine<00:20:01.840><c> i</c><00:20:02.080><c> have</c><00:20:02.320><c> it</c><00:20:02.400><c> could</c><00:20:02.559><c> be</c><00:20:02.720><c> the</c><00:20:02.799><c> same</c>
+
+00:20:02.950 --> 00:20:02.960 align:start position:0%
+imagine i have it could be the same
+ 
+
+00:20:02.960 --> 00:20:04.390 align:start position:0%
+imagine i have it could be the same
+storage<00:20:03.360><c> account</c><00:20:03.679><c> i'm</c><00:20:03.760><c> going</c><00:20:03.840><c> to</c><00:20:03.919><c> draw</c><00:20:04.320><c> a</c>
+
+00:20:04.390 --> 00:20:04.400 align:start position:0%
+storage account i'm going to draw a
+ 
+
+00:20:04.400 --> 00:20:06.470 align:start position:0%
+storage account i'm going to draw a
+second<00:20:04.799><c> one</c><00:20:05.440><c> and</c><00:20:05.520><c> i'm</c><00:20:05.760><c> joined</c><00:20:06.080><c> storage</c>
+
+00:20:06.470 --> 00:20:06.480 align:start position:0%
+second one and i'm joined storage
+ 
+
+00:20:06.480 --> 00:20:08.710 align:start position:0%
+second one and i'm joined storage
+accounts<00:20:06.799><c> this</c><00:20:06.960><c> could</c><00:20:07.120><c> be</c><00:20:07.360><c> a</c><00:20:07.520><c> database</c><00:20:08.480><c> huge</c>
+
+00:20:08.710 --> 00:20:08.720 align:start position:0%
+accounts this could be a database huge
+ 
+
+00:20:08.720 --> 00:20:10.470 align:start position:0%
+accounts this could be a database huge
+thing<00:20:08.960><c> support</c><00:20:09.360><c> this</c>
+
+00:20:10.470 --> 00:20:10.480 align:start position:0%
+thing support this
+ 
+
+00:20:10.480 --> 00:20:12.630 align:start position:0%
+thing support this
+so<00:20:10.799><c> normally</c><00:20:11.280><c> these</c><00:20:11.520><c> are</c><00:20:11.679><c> all</c><00:20:12.000><c> having</c><00:20:12.400><c> a</c>
+
+00:20:12.630 --> 00:20:12.640 align:start position:0%
+so normally these are all having a
+ 
+
+00:20:12.640 --> 00:20:13.669 align:start position:0%
+so normally these are all having a
+public
+
+00:20:13.669 --> 00:20:13.679 align:start position:0%
+public
+ 
+
+00:20:13.679 --> 00:20:15.590 align:start position:0%
+public
+facing<00:20:14.080><c> ip</c>
+
+00:20:15.590 --> 00:20:15.600 align:start position:0%
+facing ip
+ 
+
+00:20:15.600 --> 00:20:17.350 align:start position:0%
+facing ip
+maybe<00:20:15.840><c> i</c><00:20:15.919><c> don't</c><00:20:16.080><c> want</c><00:20:16.320><c> that</c>
+
+00:20:17.350 --> 00:20:17.360 align:start position:0%
+maybe i don't want that
+ 
+
+00:20:17.360 --> 00:20:19.430 align:start position:0%
+maybe i don't want that
+so<00:20:17.520><c> the</c><00:20:17.760><c> other</c><00:20:18.159><c> technology</c><00:20:18.720><c> we</c><00:20:18.880><c> can</c><00:20:19.039><c> actually</c>
+
+00:20:19.430 --> 00:20:19.440 align:start position:0%
+so the other technology we can actually
+ 
+
+00:20:19.440 --> 00:20:23.590 align:start position:0%
+so the other technology we can actually
+leverage<00:20:19.840><c> is</c><00:20:19.919><c> something</c><00:20:20.080><c> called</c><00:20:20.400><c> a</c><00:20:20.799><c> private</c>
+
+00:20:23.590 --> 00:20:23.600 align:start position:0%
+ 
+ 
+
+00:20:23.600 --> 00:20:25.590 align:start position:0%
+ 
+endpoint
+
+00:20:25.590 --> 00:20:25.600 align:start position:0%
+endpoint
+ 
+
+00:20:25.600 --> 00:20:27.590 align:start position:0%
+endpoint
+and<00:20:25.679><c> what</c><00:20:25.840><c> a</c><00:20:26.000><c> private</c><00:20:26.480><c> endpoint</c><00:20:27.039><c> as</c><00:20:27.200><c> the</c><00:20:27.280><c> name</c>
+
+00:20:27.590 --> 00:20:27.600 align:start position:0%
+and what a private endpoint as the name
+ 
+
+00:20:27.600 --> 00:20:30.149 align:start position:0%
+and what a private endpoint as the name
+suggests<00:20:28.480><c> it</c><00:20:28.640><c> actually</c><00:20:29.039><c> creates</c><00:20:29.600><c> it</c><00:20:29.760><c> uses</c><00:20:30.080><c> an</c>
+
+00:20:30.149 --> 00:20:30.159 align:start position:0%
+suggests it actually creates it uses an
+ 
+
+00:20:30.159 --> 00:20:32.710 align:start position:0%
+suggests it actually creates it uses an
+ip<00:20:30.480><c> address</c><00:20:30.880><c> from</c><00:20:31.120><c> the</c><00:20:31.360><c> subnet</c><00:20:32.159><c> so</c><00:20:32.320><c> let's</c><00:20:32.480><c> say</c>
+
+00:20:32.710 --> 00:20:32.720 align:start position:0%
+ip address from the subnet so let's say
+ 
+
+00:20:32.720 --> 00:20:36.710 align:start position:0%
+ip address from the subnet so let's say
+this<00:20:32.880><c> is</c><00:20:33.440><c> private</c><00:20:34.159><c> endpoint</c><00:20:34.799><c> ip1</c>
+
+00:20:36.710 --> 00:20:36.720 align:start position:0%
+this is private endpoint ip1
+ 
+
+00:20:36.720 --> 00:20:37.590 align:start position:0%
+this is private endpoint ip1
+that
+
+00:20:37.590 --> 00:20:37.600 align:start position:0%
+that
+ 
+
+00:20:37.600 --> 00:20:39.669 align:start position:0%
+that
+goes<00:20:37.919><c> to</c><00:20:38.000><c> a</c><00:20:38.080><c> particular</c><00:20:38.720><c> instance</c><00:20:39.280><c> of</c><00:20:39.520><c> a</c>
+
+00:20:39.669 --> 00:20:39.679 align:start position:0%
+goes to a particular instance of a
+ 
+
+00:20:39.679 --> 00:20:40.789 align:start position:0%
+goes to a particular instance of a
+service
+
+00:20:40.789 --> 00:20:40.799 align:start position:0%
+service
+ 
+
+00:20:40.799 --> 00:20:43.430 align:start position:0%
+service
+so<00:20:40.960><c> when</c><00:20:41.120><c> i</c><00:20:41.200><c> talk</c><00:20:41.440><c> to</c><00:20:41.600><c> this</c><00:20:41.840><c> ip</c><00:20:42.799><c> i'm</c><00:20:42.960><c> talking</c><00:20:43.280><c> to</c>
+
+00:20:43.430 --> 00:20:43.440 align:start position:0%
+so when i talk to this ip i'm talking to
+ 
+
+00:20:43.440 --> 00:20:45.590 align:start position:0%
+so when i talk to this ip i'm talking to
+this<00:20:43.760><c> particular</c><00:20:44.480><c> instance</c><00:20:44.960><c> of</c><00:20:45.120><c> a</c><00:20:45.280><c> service</c>
+
+00:20:45.590 --> 00:20:45.600 align:start position:0%
+this particular instance of a service
+ 
+
+00:20:45.600 --> 00:20:47.590 align:start position:0%
+this particular instance of a service
+and<00:20:45.760><c> if</c><00:20:45.840><c> i</c><00:20:46.000><c> do</c><00:20:46.320><c> that</c><00:20:46.880><c> i</c><00:20:47.039><c> can</c><00:20:47.200><c> actually</c><00:20:47.360><c> now</c>
+
+00:20:47.590 --> 00:20:47.600 align:start position:0%
+and if i do that i can actually now
+ 
+
+00:20:47.600 --> 00:20:50.070 align:start position:0%
+and if i do that i can actually now
+completely<00:20:48.000><c> disable</c><00:20:48.400><c> the</c><00:20:48.480><c> public</c><00:20:48.880><c> ip</c><00:20:49.600><c> i</c><00:20:49.760><c> can</c>
+
+00:20:50.070 --> 00:20:50.080 align:start position:0%
+completely disable the public ip i can
+ 
+
+00:20:50.080 --> 00:20:51.990 align:start position:0%
+completely disable the public ip i can
+only<00:20:50.480><c> talk</c><00:20:50.720><c> to</c><00:20:50.960><c> it</c>
+
+00:20:51.990 --> 00:20:52.000 align:start position:0%
+only talk to it
+ 
+
+00:20:52.000 --> 00:20:52.870 align:start position:0%
+only talk to it
+from
+
+00:20:52.870 --> 00:20:52.880 align:start position:0%
+from
+ 
+
+00:20:52.880 --> 00:20:54.950 align:start position:0%
+from
+that<00:20:53.360><c> public</c><00:20:53.840><c> eye</c><00:20:54.080><c> from</c><00:20:54.480><c> that</c><00:20:54.640><c> private</c>
+
+00:20:54.950 --> 00:20:54.960 align:start position:0%
+that public eye from that private
+ 
+
+00:20:54.960 --> 00:20:57.350 align:start position:0%
+that public eye from that private
+endpoint<00:20:55.440><c> ip</c><00:20:55.840><c> address</c>
+
+00:20:57.350 --> 00:20:57.360 align:start position:0%
+endpoint ip address
+ 
+
+00:20:57.360 --> 00:20:59.270 align:start position:0%
+endpoint ip address
+so<00:20:57.520><c> we</c><00:20:57.679><c> covered</c><00:20:57.919><c> a</c><00:20:58.000><c> lot</c><00:20:58.320><c> networking</c><00:20:58.880><c> there's</c><00:20:59.120><c> a</c>
+
+00:20:59.270 --> 00:20:59.280 align:start position:0%
+so we covered a lot networking there's a
+ 
+
+00:20:59.280 --> 00:21:01.510 align:start position:0%
+so we covered a lot networking there's a
+huge<00:20:59.679><c> amount</c><00:21:00.080><c> of</c><00:21:00.320><c> different</c><00:21:00.720><c> functionality</c>
+
+00:21:01.510 --> 00:21:01.520 align:start position:0%
+huge amount of different functionality
+ 
+
+00:21:01.520 --> 00:21:02.789 align:start position:0%
+huge amount of different functionality
+around<00:21:01.919><c> it</c>
+
+00:21:02.789 --> 00:21:02.799 align:start position:0%
+around it
+ 
+
+00:21:02.799 --> 00:21:04.230 align:start position:0%
+around it
+but<00:21:02.960><c> the</c><00:21:03.039><c> key</c><00:21:03.280><c> point</c><00:21:03.440><c> is</c><00:21:03.600><c> a</c><00:21:03.679><c> v-net</c><00:21:04.000><c> lives</c>
+
+00:21:04.230 --> 00:21:04.240 align:start position:0%
+but the key point is a v-net lives
+ 
+
+00:21:04.240 --> 00:21:05.750 align:start position:0%
+but the key point is a v-net lives
+within<00:21:04.480><c> a</c><00:21:04.559><c> certain</c><00:21:04.880><c> region</c><00:21:05.200><c> within</c><00:21:05.440><c> a</c><00:21:05.520><c> certain</c>
+
+00:21:05.750 --> 00:21:05.760 align:start position:0%
+within a certain region within a certain
+ 
+
+00:21:05.760 --> 00:21:06.870 align:start position:0%
+within a certain region within a certain
+subscription
+
+00:21:06.870 --> 00:21:06.880 align:start position:0%
+subscription
+ 
+
+00:21:06.880 --> 00:21:09.510 align:start position:0%
+subscription
+made<00:21:07.120><c> up</c><00:21:07.360><c> of</c><00:21:07.520><c> one</c><00:21:07.679><c> or</c><00:21:07.840><c> more</c><00:21:08.000><c> ipv4</c><00:21:08.880><c> spaces</c>
+
+00:21:09.510 --> 00:21:09.520 align:start position:0%
+made up of one or more ipv4 spaces
+ 
+
+00:21:09.520 --> 00:21:13.190 align:start position:0%
+made up of one or more ipv4 spaces
+optionally<00:21:10.159><c> ipv6</c><00:21:11.360><c> i</c><00:21:11.600><c> break</c><00:21:11.840><c> it</c><00:21:11.919><c> into</c><00:21:12.159><c> subnets</c>
+
+00:21:13.190 --> 00:21:13.200 align:start position:0%
+optionally ipv6 i break it into subnets
+ 
+
+00:21:13.200 --> 00:21:15.029 align:start position:0%
+optionally ipv6 i break it into subnets
+both<00:21:13.440><c> the</c><00:21:13.600><c> region</c><00:21:13.919><c> and</c><00:21:14.159><c> subnet</c><00:21:14.640><c> span</c>
+
+00:21:15.029 --> 00:21:15.039 align:start position:0%
+both the region and subnet span
+ 
+
+00:21:15.039 --> 00:21:16.870 align:start position:0%
+both the region and subnet span
+availability<00:21:15.840><c> zones</c>
+
+00:21:16.870 --> 00:21:16.880 align:start position:0%
+availability zones
+ 
+
+00:21:16.880 --> 00:21:19.350 align:start position:0%
+availability zones
+i<00:21:16.960><c> can</c><00:21:17.200><c> connect</c><00:21:17.520><c> v-nets</c><00:21:17.919><c> to</c><00:21:18.240><c> other</c><00:21:18.640><c> v-nets</c>
+
+00:21:19.350 --> 00:21:19.360 align:start position:0%
+i can connect v-nets to other v-nets
+ 
+
+00:21:19.360 --> 00:21:22.549 align:start position:0%
+i can connect v-nets to other v-nets
+using<00:21:19.760><c> peering</c><00:21:20.559><c> i</c><00:21:20.880><c> must</c><00:21:21.280><c> make</c><00:21:21.600><c> sure</c><00:21:21.840><c> the</c><00:21:22.080><c> ip</c>
+
+00:21:22.549 --> 00:21:22.559 align:start position:0%
+using peering i must make sure the ip
+ 
+
+00:21:22.559 --> 00:21:24.230 align:start position:0%
+using peering i must make sure the ip
+spaces<00:21:23.039><c> are</c><00:21:23.200><c> always</c><00:21:23.440><c> unique</c><00:21:23.919><c> be</c><00:21:24.080><c> it</c><00:21:24.159><c> to</c>
+
+00:21:24.230 --> 00:21:24.240 align:start position:0%
+spaces are always unique be it to
+ 
+
+00:21:24.240 --> 00:21:27.110 align:start position:0%
+spaces are always unique be it to
+another<00:21:24.559><c> v-net</c><00:21:25.039><c> or</c><00:21:25.280><c> to</c><00:21:25.440><c> on-premises</c>
+
+00:21:27.110 --> 00:21:27.120 align:start position:0%
+another v-net or to on-premises
+ 
+
+00:21:27.120 --> 00:21:28.950 align:start position:0%
+another v-net or to on-premises
+to<00:21:27.440><c> external</c><00:21:28.000><c> networks</c><00:21:28.480><c> i</c><00:21:28.640><c> could</c><00:21:28.720><c> use</c><00:21:28.880><c> a</c>
+
+00:21:28.950 --> 00:21:28.960 align:start position:0%
+to external networks i could use a
+ 
+
+00:21:28.960 --> 00:21:31.110 align:start position:0%
+to external networks i could use a
+site-to-site<00:21:29.600><c> vpn</c><00:21:30.159><c> that</c><00:21:30.320><c> goes</c><00:21:30.640><c> over</c><00:21:30.880><c> the</c>
+
+00:21:31.110 --> 00:21:31.120 align:start position:0%
+site-to-site vpn that goes over the
+ 
+
+00:21:31.120 --> 00:21:32.789 align:start position:0%
+site-to-site vpn that goes over the
+internet<00:21:31.760><c> and</c><00:21:31.919><c> ideally</c><00:21:32.320><c> want</c><00:21:32.400><c> to</c><00:21:32.480><c> use</c><00:21:32.640><c> a</c>
+
+00:21:32.789 --> 00:21:32.799 align:start position:0%
+internet and ideally want to use a
+ 
+
+00:21:32.799 --> 00:21:34.310 align:start position:0%
+internet and ideally want to use a
+route-based
+
+00:21:34.310 --> 00:21:34.320 align:start position:0%
+route-based
+ 
+
+00:21:34.320 --> 00:21:36.149 align:start position:0%
+route-based
+vpn<00:21:35.200><c> because</c><00:21:35.440><c> then</c><00:21:35.600><c> i</c><00:21:35.679><c> can</c><00:21:35.760><c> connect</c><00:21:36.000><c> to</c>
+
+00:21:36.149 --> 00:21:36.159 align:start position:0%
+vpn because then i can connect to
+ 
+
+00:21:36.159 --> 00:21:37.590 align:start position:0%
+vpn because then i can connect to
+multiple<00:21:36.720><c> and</c><00:21:36.799><c> with</c><00:21:37.039><c> support</c><00:21:37.280><c> things</c><00:21:37.520><c> that</c>
+
+00:21:37.590 --> 00:21:37.600 align:start position:0%
+multiple and with support things that
+ 
+
+00:21:37.600 --> 00:21:39.029 align:start position:0%
+multiple and with support things that
+point<00:21:37.840><c> to</c><00:21:38.000><c> site</c>
+
+00:21:39.029 --> 00:21:39.039 align:start position:0%
+point to site
+ 
+
+00:21:39.039 --> 00:21:41.270 align:start position:0%
+point to site
+for<00:21:39.280><c> private</c><00:21:39.760><c> connectivity</c><00:21:40.559><c> i</c><00:21:40.720><c> can</c><00:21:40.880><c> establish</c>
+
+00:21:41.270 --> 00:21:41.280 align:start position:0%
+for private connectivity i can establish
+ 
+
+00:21:41.280 --> 00:21:43.190 align:start position:0%
+for private connectivity i can establish
+an<00:21:41.440><c> express</c><00:21:41.919><c> route</c><00:21:42.240><c> which</c><00:21:42.400><c> is</c><00:21:42.559><c> its</c><00:21:42.799><c> own</c><00:21:42.960><c> type</c>
+
+00:21:43.190 --> 00:21:43.200 align:start position:0%
+an express route which is its own type
+ 
+
+00:21:43.200 --> 00:21:44.630 align:start position:0%
+an express route which is its own type
+of<00:21:43.440><c> gateway</c>
+
+00:21:44.630 --> 00:21:44.640 align:start position:0%
+of gateway
+ 
+
+00:21:44.640 --> 00:21:46.310 align:start position:0%
+of gateway
+with<00:21:44.880><c> express</c><00:21:45.280><c> route</c><00:21:45.600><c> if</c><00:21:45.679><c> i</c><00:21:45.760><c> want</c><00:21:45.840><c> to</c><00:21:45.919><c> connect</c>
+
+00:21:46.310 --> 00:21:46.320 align:start position:0%
+with express route if i want to connect
+ 
+
+00:21:46.320 --> 00:21:48.789 align:start position:0%
+with express route if i want to connect
+to<00:21:46.480><c> virtual</c><00:21:46.880><c> networks</c><00:21:47.679><c> i</c><00:21:47.840><c> use</c><00:21:48.240><c> private</c>
+
+00:21:48.789 --> 00:21:48.799 align:start position:0%
+to virtual networks i use private
+ 
+
+00:21:48.799 --> 00:21:49.909 align:start position:0%
+to virtual networks i use private
+peering
+
+00:21:49.909 --> 00:21:49.919 align:start position:0%
+peering
+ 
+
+00:21:49.919 --> 00:21:51.830 align:start position:0%
+peering
+if<00:21:50.080><c> i</c><00:21:50.159><c> want</c><00:21:50.320><c> to</c><00:21:50.480><c> have</c><00:21:50.720><c> services</c><00:21:51.280><c> like</c><00:21:51.520><c> these</c>
+
+00:21:51.830 --> 00:21:51.840 align:start position:0%
+if i want to have services like these
+ 
+
+00:21:51.840 --> 00:21:54.710 align:start position:0%
+if i want to have services like these
+actually<00:21:52.240><c> advertised</c><00:21:52.799><c> and</c><00:21:52.960><c> accessed</c><00:21:54.080><c> then</c><00:21:54.400><c> i</c>
+
+00:21:54.710 --> 00:21:54.720 align:start position:0%
+actually advertised and accessed then i
+ 
+
+00:21:54.720 --> 00:21:56.830 align:start position:0%
+actually advertised and accessed then i
+can<00:21:54.960><c> have</c><00:21:55.120><c> a</c><00:21:55.200><c> route</c><00:21:55.520><c> filter</c><00:21:56.000><c> define</c><00:21:56.400><c> which</c>
+
+00:21:56.830 --> 00:21:56.840 align:start position:0%
+can have a route filter define which
+ 
+
+00:21:56.840 --> 00:22:00.549 align:start position:0%
+can have a route filter define which
+services<00:21:57.919><c> and</c><00:21:58.240><c> i</c><00:21:58.480><c> use</c><00:21:58.880><c> microsoft</c><00:21:59.440><c> peering</c>
+
+00:22:00.549 --> 00:22:00.559 align:start position:0%
+services and i use microsoft peering
+ 
+
+00:22:00.559 --> 00:22:02.390 align:start position:0%
+services and i use microsoft peering
+so<00:22:00.799><c> those</c><00:22:01.120><c> are</c><00:22:01.200><c> the</c><00:22:01.440><c> core</c><00:22:01.840><c> networking</c>
+
+00:22:02.390 --> 00:22:02.400 align:start position:0%
+so those are the core networking
+ 
+
+00:22:02.400 --> 00:22:05.400 align:start position:0%
+so those are the core networking
+concepts
+

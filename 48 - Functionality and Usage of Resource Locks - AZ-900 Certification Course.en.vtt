@@ -1,0 +1,1264 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.360 --> 00:00:02.869 align:start position:0%
+ 
+in<00:00:01.520><c> this</c><00:00:01.760><c> lesson</c><00:00:02.080><c> we're</c><00:00:02.240><c> going</c><00:00:02.320><c> to</c><00:00:02.399><c> look</c><00:00:02.720><c> at</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.879 --> 00:00:05.430 align:start position:0%
+in this lesson we're going to look at
+the<00:00:03.120><c> functionality</c><00:00:03.760><c> and</c><00:00:03.919><c> usage</c><00:00:04.480><c> of</c><00:00:04.799><c> resource</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+the functionality and usage of resource
+ 
+
+00:00:05.440 --> 00:00:07.430 align:start position:0%
+the functionality and usage of resource
+locks<00:00:06.080><c> now</c><00:00:06.240><c> we</c><00:00:06.399><c> have</c><00:00:06.480><c> the</c><00:00:06.640><c> idea</c><00:00:06.799><c> of</c><00:00:06.879><c> role-based</c>
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+locks now we have the idea of role-based
+ 
+
+00:00:07.440 --> 00:00:09.509 align:start position:0%
+locks now we have the idea of role-based
+access<00:00:07.839><c> control</c><00:00:08.320><c> where</c><00:00:08.559><c> i</c><00:00:08.720><c> give</c><00:00:09.120><c> certain</c>
+
+00:00:09.509 --> 00:00:09.519 align:start position:0%
+access control where i give certain
+ 
+
+00:00:09.519 --> 00:00:12.310 align:start position:0%
+access control where i give certain
+permissions<00:00:10.080><c> to</c><00:00:10.240><c> resources</c><00:00:11.519><c> but</c><00:00:11.679><c> sometimes</c><00:00:12.160><c> i</c>
+
+00:00:12.310 --> 00:00:12.320 align:start position:0%
+permissions to resources but sometimes i
+ 
+
+00:00:12.320 --> 00:00:15.430 align:start position:0%
+permissions to resources but sometimes i
+want<00:00:12.480><c> to</c><00:00:12.559><c> add</c><00:00:12.799><c> in</c><00:00:12.960><c> just</c><00:00:13.360><c> an</c><00:00:13.599><c> additional</c><00:00:14.400><c> step</c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+want to add in just an additional step
+ 
+
+00:00:15.440 --> 00:00:17.349 align:start position:0%
+want to add in just an additional step
+to<00:00:15.599><c> make</c><00:00:15.759><c> sure</c><00:00:15.920><c> something</c><00:00:16.160><c> doesn't</c><00:00:16.560><c> happen</c>
+
+00:00:17.349 --> 00:00:17.359 align:start position:0%
+to make sure something doesn't happen
+ 
+
+00:00:17.359 --> 00:00:18.710 align:start position:0%
+to make sure something doesn't happen
+accidentally
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+accidentally
+ 
+
+00:00:18.720 --> 00:00:20.790 align:start position:0%
+accidentally
+so<00:00:19.039><c> resource</c><00:00:19.520><c> lock</c><00:00:19.760><c> is</c><00:00:19.920><c> something</c><00:00:20.320><c> i</c><00:00:20.560><c> can</c>
+
+00:00:20.790 --> 00:00:20.800 align:start position:0%
+so resource lock is something i can
+ 
+
+00:00:20.800 --> 00:00:23.509 align:start position:0%
+so resource lock is something i can
+apply<00:00:21.279><c> at</c><00:00:21.520><c> various</c><00:00:22.000><c> levels</c><00:00:22.880><c> we</c><00:00:23.039><c> have</c><00:00:23.279><c> that</c>
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+apply at various levels we have that
+ 
+
+00:00:23.519 --> 00:00:29.349 align:start position:0%
+apply at various levels we have that
+idea<00:00:24.000><c> of</c><00:00:24.400><c> remember</c><00:00:24.720><c> the</c><00:00:24.880><c> subscription</c>
+
+00:00:29.349 --> 00:00:29.359 align:start position:0%
+ 
+ 
+
+00:00:29.359 --> 00:00:33.030 align:start position:0%
+ 
+of<00:00:29.519><c> the</c><00:00:29.760><c> resource</c><00:00:30.400><c> group</c>
+
+00:00:33.030 --> 00:00:33.040 align:start position:0%
+ 
+ 
+
+00:00:33.040 --> 00:00:36.310 align:start position:0%
+ 
+and<00:00:33.120><c> then</c><00:00:33.360><c> the</c><00:00:33.520><c> resource</c><00:00:34.399><c> itself</c>
+
+00:00:36.310 --> 00:00:36.320 align:start position:0%
+and then the resource itself
+ 
+
+00:00:36.320 --> 00:00:39.990 align:start position:0%
+and then the resource itself
+so<00:00:36.480><c> i</c><00:00:36.640><c> can</c><00:00:36.880><c> apply</c><00:00:37.280><c> this</c><00:00:37.520><c> idea</c><00:00:37.840><c> of</c><00:00:38.000><c> a</c><00:00:38.239><c> resource</c>
+
+00:00:39.990 --> 00:00:40.000 align:start position:0%
+so i can apply this idea of a resource
+ 
+
+00:00:40.000 --> 00:00:44.389 align:start position:0%
+so i can apply this idea of a resource
+lock
+
+00:00:44.389 --> 00:00:44.399 align:start position:0%
+ 
+ 
+
+00:00:44.399 --> 00:00:46.549 align:start position:0%
+ 
+at<00:00:44.879><c> any</c>
+
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+at any
+ 
+
+00:00:46.559 --> 00:00:48.069 align:start position:0%
+at any
+of<00:00:46.800><c> those</c>
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+of those
+ 
+
+00:00:48.079 --> 00:00:49.350 align:start position:0%
+of those
+levels
+
+00:00:49.350 --> 00:00:49.360 align:start position:0%
+levels
+ 
+
+00:00:49.360 --> 00:00:51.750 align:start position:0%
+levels
+and<00:00:49.520><c> once</c><00:00:49.760><c> again</c><00:00:50.000><c> it's</c><00:00:50.160><c> inherited</c><00:00:50.800><c> down</c><00:00:51.440><c> so</c><00:00:51.600><c> if</c>
+
+00:00:51.750 --> 00:00:51.760 align:start position:0%
+and once again it's inherited down so if
+ 
+
+00:00:51.760 --> 00:00:54.229 align:start position:0%
+and once again it's inherited down so if
+i<00:00:51.920><c> lock</c><00:00:52.399><c> the</c><00:00:52.719><c> subscription</c><00:00:53.840><c> well</c><00:00:54.000><c> it's</c><00:00:54.160><c> going</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+i lock the subscription well it's going
+ 
+
+00:00:54.239 --> 00:00:55.990 align:start position:0%
+i lock the subscription well it's going
+to<00:00:54.320><c> lock</c><00:00:54.640><c> the</c><00:00:54.800><c> resource</c><00:00:55.440><c> groups</c><00:00:55.840><c> and</c><00:00:55.920><c> the</c>
+
+00:00:55.990 --> 00:00:56.000 align:start position:0%
+to lock the resource groups and the
+ 
+
+00:00:56.000 --> 00:00:58.790 align:start position:0%
+to lock the resource groups and the
+resources<00:00:56.719><c> within</c><00:00:57.120><c> it</c><00:00:57.280><c> as</c><00:00:57.440><c> well</c><00:00:58.320><c> now</c><00:00:58.480><c> this</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+resources within it as well now this
+ 
+
+00:00:58.800 --> 00:01:02.069 align:start position:0%
+resources within it as well now this
+resource<00:00:59.520><c> log</c><00:00:59.840><c> is</c><00:01:00.000><c> of</c><00:01:00.239><c> one</c><00:01:00.480><c> of</c><00:01:00.719><c> two</c><00:01:01.120><c> types</c><00:01:01.920><c> i</c>
+
+00:01:02.069 --> 00:01:02.079 align:start position:0%
+resource log is of one of two types i
+ 
+
+00:01:02.079 --> 00:01:03.990 align:start position:0%
+resource log is of one of two types i
+have<00:01:02.239><c> the</c><00:01:02.480><c> idea</c><00:01:02.879><c> of</c>
+
+00:01:03.990 --> 00:01:04.000 align:start position:0%
+have the idea of
+ 
+
+00:01:04.000 --> 00:01:05.189 align:start position:0%
+have the idea of
+can
+
+00:01:05.189 --> 00:01:05.199 align:start position:0%
+can
+ 
+
+00:01:05.199 --> 00:01:09.109 align:start position:0%
+can
+not<00:01:05.840><c> delete</c>
+
+00:01:09.109 --> 00:01:09.119 align:start position:0%
+ 
+ 
+
+00:01:09.119 --> 00:01:12.390 align:start position:0%
+ 
+i.e<00:01:09.840><c> i</c><00:01:10.000><c> can</c><00:01:10.320><c> modify</c><00:01:11.040><c> it</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+i.e i can modify it
+ 
+
+00:01:12.400 --> 00:01:15.270 align:start position:0%
+i.e i can modify it
+but<00:01:12.640><c> i</c><00:01:12.880><c> can't</c><00:01:13.760><c> delete</c><00:01:14.240><c> it</c>
+
+00:01:15.270 --> 00:01:15.280 align:start position:0%
+but i can't delete it
+ 
+
+00:01:15.280 --> 00:01:18.630 align:start position:0%
+but i can't delete it
+or<00:01:16.000><c> i</c><00:01:16.080><c> can</c><00:01:16.320><c> assign</c><00:01:16.799><c> it</c><00:01:17.040><c> as</c><00:01:17.520><c> read</c>
+
+00:01:18.630 --> 00:01:18.640 align:start position:0%
+or i can assign it as read
+ 
+
+00:01:18.640 --> 00:01:20.630 align:start position:0%
+or i can assign it as read
+only
+
+00:01:20.630 --> 00:01:20.640 align:start position:0%
+only
+ 
+
+00:01:20.640 --> 00:01:23.270 align:start position:0%
+only
+so<00:01:20.799><c> once</c><00:01:21.040><c> again</c><00:01:21.280><c> i</c><00:01:21.439><c> can't</c><00:01:21.680><c> delete</c><00:01:22.159><c> it</c><00:01:22.799><c> nor</c><00:01:23.040><c> can</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+so once again i can't delete it nor can
+ 
+
+00:01:23.280 --> 00:01:25.109 align:start position:0%
+so once again i can't delete it nor can
+i<00:01:23.360><c> modify</c><00:01:23.920><c> it</c>
+
+00:01:25.109 --> 00:01:25.119 align:start position:0%
+i modify it
+ 
+
+00:01:25.119 --> 00:01:29.429 align:start position:0%
+i modify it
+remember<00:01:25.600><c> though</c><00:01:25.920><c> the</c><00:01:26.159><c> idea</c><00:01:26.560><c> of</c><00:01:26.960><c> azure</c>
+
+00:01:29.429 --> 00:01:29.439 align:start position:0%
+remember though the idea of azure
+ 
+
+00:01:29.439 --> 00:01:32.069 align:start position:0%
+remember though the idea of azure
+is<00:01:29.920><c> we</c><00:01:30.159><c> think</c><00:01:30.400><c> about</c><00:01:30.560><c> the</c><00:01:30.880><c> azure</c><00:01:31.360><c> resource</c>
+
+00:01:32.069 --> 00:01:32.079 align:start position:0%
+is we think about the azure resource
+ 
+
+00:01:32.079 --> 00:01:33.270 align:start position:0%
+is we think about the azure resource
+manager
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+manager
+ 
+
+00:01:33.280 --> 00:01:36.710 align:start position:0%
+manager
+and<00:01:33.439><c> the</c><00:01:33.759><c> azure</c><00:01:34.320><c> resource</c><00:01:35.040><c> manager</c><00:01:36.159><c> is</c><00:01:36.400><c> really</c>
+
+00:01:36.710 --> 00:01:36.720 align:start position:0%
+and the azure resource manager is really
+ 
+
+00:01:36.720 --> 00:01:39.590 align:start position:0%
+and the azure resource manager is really
+the<00:01:36.960><c> control</c><00:01:38.159><c> plane</c>
+
+00:01:39.590 --> 00:01:39.600 align:start position:0%
+the control plane
+ 
+
+00:01:39.600 --> 00:01:42.789 align:start position:0%
+the control plane
+i<00:01:39.840><c> am</c><00:01:40.159><c> interacting</c><00:01:40.960><c> with</c><00:01:41.280><c> the</c><00:01:41.600><c> objects</c>
+
+00:01:42.789 --> 00:01:42.799 align:start position:0%
+i am interacting with the objects
+ 
+
+00:01:42.799 --> 00:01:44.710 align:start position:0%
+i am interacting with the objects
+resource<00:01:43.439><c> locks</c>
+
+00:01:44.710 --> 00:01:44.720 align:start position:0%
+resource locks
+ 
+
+00:01:44.720 --> 00:01:46.149 align:start position:0%
+resource locks
+either<00:01:44.960><c> one</c><00:01:45.200><c> of</c><00:01:45.280><c> these</c>
+
+00:01:46.149 --> 00:01:46.159 align:start position:0%
+either one of these
+ 
+
+00:01:46.159 --> 00:01:49.990 align:start position:0%
+either one of these
+apply<00:01:47.119><c> at</c><00:01:47.439><c> that</c><00:01:47.920><c> level</c><00:01:48.479><c> it's</c><00:01:48.799><c> applying</c><00:01:49.439><c> at</c><00:01:49.680><c> the</c>
+
+00:01:49.990 --> 00:01:50.000 align:start position:0%
+apply at that level it's applying at the
+ 
+
+00:01:50.000 --> 00:01:52.870 align:start position:0%
+apply at that level it's applying at the
+arm<00:01:50.320><c> level</c><00:01:51.119><c> which</c><00:01:51.280><c> means</c><00:01:51.680><c> it's</c><00:01:52.000><c> the</c><00:01:52.240><c> control</c>
+
+00:01:52.870 --> 00:01:52.880 align:start position:0%
+arm level which means it's the control
+ 
+
+00:01:52.880 --> 00:01:54.469 align:start position:0%
+arm level which means it's the control
+plane
+
+00:01:54.469 --> 00:01:54.479 align:start position:0%
+plane
+ 
+
+00:01:54.479 --> 00:01:57.590 align:start position:0%
+plane
+the<00:01:54.880><c> data</c><00:01:55.360><c> plane</c><00:01:56.079><c> that</c><00:01:56.320><c> sits</c><00:01:56.719><c> underneath</c><00:01:57.360><c> this</c>
+
+00:01:57.590 --> 00:01:57.600 align:start position:0%
+the data plane that sits underneath this
+ 
+
+00:01:57.600 --> 00:02:01.190 align:start position:0%
+the data plane that sits underneath this
+that<00:01:57.840><c> varies</c><00:01:58.320><c> by</c><00:01:58.640><c> the</c><00:01:58.880><c> type</c><00:01:59.200><c> of</c><00:01:59.439><c> resource</c>
+
+00:02:01.190 --> 00:02:01.200 align:start position:0%
+that varies by the type of resource
+ 
+
+00:02:01.200 --> 00:02:05.350 align:start position:0%
+that varies by the type of resource
+is<00:02:01.920><c> not</c><00:02:02.560><c> affected</c><00:02:03.680><c> by</c><00:02:03.840><c> a</c><00:02:04.000><c> resource</c><00:02:04.479><c> lock</c>
+
+00:02:05.350 --> 00:02:05.360 align:start position:0%
+is not affected by a resource lock
+ 
+
+00:02:05.360 --> 00:02:09.510 align:start position:0%
+is not affected by a resource lock
+for<00:02:05.600><c> example</c><00:02:06.399><c> if</c><00:02:06.560><c> this</c><00:02:06.880><c> was</c><00:02:07.119><c> a</c><00:02:07.680><c> database</c>
+
+00:02:09.510 --> 00:02:09.520 align:start position:0%
+for example if this was a database
+ 
+
+00:02:09.520 --> 00:02:12.070 align:start position:0%
+for example if this was a database
+i<00:02:09.679><c> could</c><00:02:09.920><c> still</c><00:02:10.239><c> perform</c><00:02:10.959><c> crud</c><00:02:11.360><c> operations</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+i could still perform crud operations
+ 
+
+00:02:12.080 --> 00:02:13.270 align:start position:0%
+i could still perform crud operations
+create
+
+00:02:13.270 --> 00:02:13.280 align:start position:0%
+create
+ 
+
+00:02:13.280 --> 00:02:15.830 align:start position:0%
+create
+replace<00:02:13.760><c> update</c><00:02:14.160><c> delete</c><00:02:14.720><c> operations</c><00:02:15.440><c> against</c>
+
+00:02:15.830 --> 00:02:15.840 align:start position:0%
+replace update delete operations against
+ 
+
+00:02:15.840 --> 00:02:16.550 align:start position:0%
+replace update delete operations against
+it
+
+00:02:16.550 --> 00:02:16.560 align:start position:0%
+it
+ 
+
+00:02:16.560 --> 00:02:18.309 align:start position:0%
+it
+if<00:02:16.800><c> it</c><00:02:16.959><c> was</c><00:02:17.200><c> blob</c>
+
+00:02:18.309 --> 00:02:18.319 align:start position:0%
+if it was blob
+ 
+
+00:02:18.319 --> 00:02:21.270 align:start position:0%
+if it was blob
+i<00:02:18.640><c> could</c><00:02:18.879><c> still</c><00:02:19.599><c> delete</c><00:02:20.160><c> blobs</c><00:02:20.640><c> for</c><00:02:20.720><c> example</c><00:02:21.200><c> i</c>
+
+00:02:21.270 --> 00:02:21.280 align:start position:0%
+i could still delete blobs for example i
+ 
+
+00:02:21.280 --> 00:02:23.030 align:start position:0%
+i could still delete blobs for example i
+could<00:02:21.520><c> modify</c><00:02:22.080><c> them</c>
+
+00:02:23.030 --> 00:02:23.040 align:start position:0%
+could modify them
+ 
+
+00:02:23.040 --> 00:02:26.390 align:start position:0%
+could modify them
+i'm<00:02:23.280><c> locking</c><00:02:23.680><c> the</c><00:02:24.000><c> azure</c><00:02:24.640><c> resource</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+i'm locking the azure resource
+ 
+
+00:02:26.400 --> 00:02:28.630 align:start position:0%
+i'm locking the azure resource
+at<00:02:26.560><c> the</c><00:02:26.640><c> control</c><00:02:27.200><c> plane</c><00:02:27.920><c> but</c><00:02:28.239><c> i'm</c><00:02:28.319><c> not</c><00:02:28.480><c> doing</c>
+
+00:02:28.630 --> 00:02:28.640 align:start position:0%
+at the control plane but i'm not doing
+ 
+
+00:02:28.640 --> 00:02:30.390 align:start position:0%
+at the control plane but i'm not doing
+anything<00:02:28.959><c> at</c><00:02:29.040><c> the</c><00:02:29.200><c> data</c><00:02:29.599><c> plane</c><00:02:30.080><c> so</c><00:02:30.239><c> i</c><00:02:30.239><c> can</c>
+
+00:02:30.390 --> 00:02:30.400 align:start position:0%
+anything at the data plane so i can
+ 
+
+00:02:30.400 --> 00:02:32.790 align:start position:0%
+anything at the data plane so i can
+still<00:02:30.800><c> interact</c><00:02:31.200><c> with</c><00:02:31.360><c> the</c><00:02:31.519><c> data</c><00:02:32.080><c> completely</c>
+
+00:02:32.790 --> 00:02:32.800 align:start position:0%
+still interact with the data completely
+ 
+
+00:02:32.800 --> 00:02:34.309 align:start position:0%
+still interact with the data completely
+unaffected
+
+00:02:34.309 --> 00:02:34.319 align:start position:0%
+unaffected
+ 
+
+00:02:34.319 --> 00:02:36.470 align:start position:0%
+unaffected
+so<00:02:34.480><c> the</c><00:02:34.640><c> point</c><00:02:34.959><c> of</c><00:02:35.120><c> this</c><00:02:35.760><c> is</c>
+
+00:02:36.470 --> 00:02:36.480 align:start position:0%
+so the point of this is
+ 
+
+00:02:36.480 --> 00:02:38.710 align:start position:0%
+so the point of this is
+it's<00:02:36.879><c> an</c><00:02:37.120><c> additional</c><00:02:37.599><c> step</c><00:02:38.000><c> i</c><00:02:38.080><c> would</c><00:02:38.319><c> have</c><00:02:38.560><c> to</c>
+
+00:02:38.710 --> 00:02:38.720 align:start position:0%
+it's an additional step i would have to
+ 
+
+00:02:38.720 --> 00:02:40.710 align:start position:0%
+it's an additional step i would have to
+perform
+
+00:02:40.710 --> 00:02:40.720 align:start position:0%
+perform
+ 
+
+00:02:40.720 --> 00:02:44.309 align:start position:0%
+perform
+if<00:02:40.879><c> i</c><00:02:41.040><c> wanted</c><00:02:41.360><c> to</c><00:02:41.680><c> modify</c><00:02:42.319><c> it</c><00:02:42.720><c> i'd</c><00:02:42.959><c> have</c><00:02:43.200><c> to</c>
+
+00:02:44.309 --> 00:02:44.319 align:start position:0%
+if i wanted to modify it i'd have to
+ 
+
+00:02:44.319 --> 00:02:46.150 align:start position:0%
+if i wanted to modify it i'd have to
+take<00:02:44.640><c> off</c><00:02:44.800><c> for</c><00:02:44.879><c> example</c><00:02:45.200><c> the</c><00:02:45.280><c> read-only</c><00:02:46.000><c> or</c>
+
+00:02:46.150 --> 00:02:46.160 align:start position:0%
+take off for example the read-only or
+ 
+
+00:02:46.160 --> 00:02:48.470 align:start position:0%
+take off for example the read-only or
+delete<00:02:46.640><c> it</c><00:02:46.800><c> i'd</c><00:02:47.040><c> have</c><00:02:47.120><c> to</c><00:02:47.200><c> take</c><00:02:47.519><c> off</c>
+
+00:02:48.470 --> 00:02:48.480 align:start position:0%
+delete it i'd have to take off
+ 
+
+00:02:48.480 --> 00:02:50.790 align:start position:0%
+delete it i'd have to take off
+if<00:02:48.640><c> either</c><00:02:48.879><c> one</c><00:02:49.040><c> of</c><00:02:49.120><c> those</c><00:02:49.360><c> applied</c>
+
+00:02:50.790 --> 00:02:50.800 align:start position:0%
+if either one of those applied
+ 
+
+00:02:50.800 --> 00:02:53.509 align:start position:0%
+if either one of those applied
+to<00:02:50.959><c> be</c><00:02:51.200><c> able</c><00:02:51.519><c> to</c><00:02:52.000><c> modify</c><00:02:52.640><c> that</c>
+
+00:02:53.509 --> 00:02:53.519 align:start position:0%
+to be able to modify that
+ 
+
+00:02:53.519 --> 00:02:55.830 align:start position:0%
+to be able to modify that
+well<00:02:53.840><c> i</c><00:02:54.000><c> have</c><00:02:54.160><c> to</c><00:02:54.400><c> have</c><00:02:54.800><c> that</c>
+
+00:02:55.830 --> 00:02:55.840 align:start position:0%
+well i have to have that
+ 
+
+00:02:55.840 --> 00:02:57.830 align:start position:0%
+well i have to have that
+administrator<00:02:56.720><c> capability</c><00:02:57.280><c> so</c><00:02:57.440><c> i</c><00:02:57.519><c> have</c><00:02:57.680><c> to</c><00:02:57.760><c> be</c>
+
+00:02:57.830 --> 00:02:57.840 align:start position:0%
+administrator capability so i have to be
+ 
+
+00:02:57.840 --> 00:02:59.589 align:start position:0%
+administrator capability so i have to be
+the<00:02:58.159><c> owner</c>
+
+00:02:59.589 --> 00:02:59.599 align:start position:0%
+the owner
+ 
+
+00:02:59.599 --> 00:03:01.830 align:start position:0%
+the owner
+so<00:02:59.760><c> to</c><00:02:59.920><c> apply</c><00:03:00.239><c> a</c><00:03:00.319><c> resource</c><00:03:00.959><c> lock</c>
+
+00:03:01.830 --> 00:03:01.840 align:start position:0%
+so to apply a resource lock
+ 
+
+00:03:01.840 --> 00:03:07.430 align:start position:0%
+so to apply a resource lock
+i<00:03:02.000><c> have</c><00:03:02.159><c> to</c><00:03:02.239><c> be</c><00:03:02.400><c> the</c><00:03:02.720><c> owner</c><00:03:04.080><c> of</c><00:03:04.319><c> whatever</c><00:03:05.200><c> scope</c>
+
+00:03:07.430 --> 00:03:07.440 align:start position:0%
+i have to be the owner of whatever scope
+ 
+
+00:03:07.440 --> 00:03:09.830 align:start position:0%
+i have to be the owner of whatever scope
+i<00:03:07.599><c> am</c><00:03:07.920><c> applying</c><00:03:08.400><c> or</c><00:03:08.560><c> deleting</c><00:03:09.200><c> the</c><00:03:09.360><c> resource</c>
+
+00:03:09.830 --> 00:03:09.840 align:start position:0%
+i am applying or deleting the resource
+ 
+
+00:03:09.840 --> 00:03:11.190 align:start position:0%
+i am applying or deleting the resource
+lock<00:03:10.159><c> from</c>
+
+00:03:11.190 --> 00:03:11.200 align:start position:0%
+lock from
+ 
+
+00:03:11.200 --> 00:03:13.030 align:start position:0%
+lock from
+the<00:03:11.360><c> other</c><00:03:11.599><c> thing</c><00:03:11.760><c> you</c><00:03:12.000><c> can</c><00:03:12.239><c> do</c>
+
+00:03:13.030 --> 00:03:13.040 align:start position:0%
+the other thing you can do
+ 
+
+00:03:13.040 --> 00:03:15.830 align:start position:0%
+the other thing you can do
+is<00:03:13.280><c> if</c><00:03:13.440><c> you</c><00:03:13.680><c> are</c><00:03:13.760><c> the</c><00:03:14.159><c> user</c>
+
+00:03:15.830 --> 00:03:15.840 align:start position:0%
+is if you are the user
+ 
+
+00:03:15.840 --> 00:03:17.430 align:start position:0%
+is if you are the user
+access
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+access
+ 
+
+00:03:17.440 --> 00:03:18.710 align:start position:0%
+access
+administrator
+
+00:03:18.710 --> 00:03:18.720 align:start position:0%
+administrator
+ 
+
+00:03:18.720 --> 00:03:21.990 align:start position:0%
+administrator
+you<00:03:18.959><c> are</c><00:03:19.040><c> not</c><00:03:19.200><c> going</c><00:03:19.280><c> to</c><00:03:19.440><c> see</c><00:03:19.760><c> that</c><00:03:20.080><c> very</c><00:03:20.480><c> often</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+you are not going to see that very often
+ 
+
+00:03:22.000 --> 00:03:24.550 align:start position:0%
+you are not going to see that very often
+that's<00:03:22.480><c> a</c><00:03:22.720><c> special</c><00:03:23.680><c> role</c>
+
+00:03:24.550 --> 00:03:24.560 align:start position:0%
+that's a special role
+ 
+
+00:03:24.560 --> 00:03:26.869 align:start position:0%
+that's a special role
+that<00:03:24.799><c> global</c><00:03:25.360><c> admins</c><00:03:25.840><c> can</c><00:03:26.159><c> of</c><00:03:26.239><c> the</c><00:03:26.319><c> azure</c><00:03:26.640><c> id</c>
+
+00:03:26.869 --> 00:03:26.879 align:start position:0%
+that global admins can of the azure id
+ 
+
+00:03:26.879 --> 00:03:28.710 align:start position:0%
+that global admins can of the azure id
+can<00:03:27.040><c> elevate</c><00:03:27.360><c> themselves</c><00:03:27.840><c> up</c><00:03:28.000><c> to</c>
+
+00:03:28.710 --> 00:03:28.720 align:start position:0%
+can elevate themselves up to
+ 
+
+00:03:28.720 --> 00:03:31.350 align:start position:0%
+can elevate themselves up to
+if<00:03:28.879><c> for</c><00:03:29.120><c> some</c><00:03:29.360><c> reason</c><00:03:29.920><c> some</c><00:03:30.159><c> subscription</c><00:03:31.040><c> has</c>
+
+00:03:31.350 --> 00:03:31.360 align:start position:0%
+if for some reason some subscription has
+ 
+
+00:03:31.360 --> 00:03:32.949 align:start position:0%
+if for some reason some subscription has
+been<00:03:31.519><c> lost</c><00:03:32.000><c> access</c>
+
+00:03:32.949 --> 00:03:32.959 align:start position:0%
+been lost access
+ 
+
+00:03:32.959 --> 00:03:35.990 align:start position:0%
+been lost access
+i<00:03:33.120><c> can</c><00:03:33.280><c> elevate</c><00:03:33.840><c> up</c><00:03:34.159><c> to</c><00:03:34.400><c> get</c><00:03:34.879><c> total</c><00:03:35.360><c> control</c><00:03:35.840><c> of</c>
+
+00:03:35.990 --> 00:03:36.000 align:start position:0%
+i can elevate up to get total control of
+ 
+
+00:03:36.000 --> 00:03:38.630 align:start position:0%
+i can elevate up to get total control of
+anything<00:03:36.400><c> under</c><00:03:36.640><c> that</c><00:03:36.879><c> azure</c><00:03:37.280><c> id</c><00:03:37.599><c> tenant</c><00:03:38.400><c> so</c>
+
+00:03:38.630 --> 00:03:38.640 align:start position:0%
+anything under that azure id tenant so
+ 
+
+00:03:38.640 --> 00:03:40.149 align:start position:0%
+anything under that azure id tenant so
+really<00:03:38.879><c> it's</c><00:03:39.120><c> based</c><00:03:39.360><c> around</c><00:03:39.519><c> the</c><00:03:39.680><c> idea</c><00:03:39.840><c> of</c><00:03:39.920><c> the</c>
+
+00:03:40.149 --> 00:03:40.159 align:start position:0%
+really it's based around the idea of the
+ 
+
+00:03:40.159 --> 00:03:43.190 align:start position:0%
+really it's based around the idea of the
+owner<00:03:40.799><c> they</c><00:03:41.120><c> can</c><00:03:41.599><c> add</c><00:03:41.920><c> and</c><00:03:42.080><c> remove</c><00:03:42.720><c> resource</c>
+
+00:03:43.190 --> 00:03:43.200 align:start position:0%
+owner they can add and remove resource
+ 
+
+00:03:43.200 --> 00:03:45.910 align:start position:0%
+owner they can add and remove resource
+locks<00:03:44.000><c> and</c><00:03:44.239><c> i</c><00:03:44.400><c> can</c><00:03:44.560><c> remove</c><00:03:44.959><c> it</c><00:03:45.599><c> but</c><00:03:45.760><c> it's</c>
+
+00:03:45.910 --> 00:03:45.920 align:start position:0%
+locks and i can remove it but it's
+ 
+
+00:03:45.920 --> 00:03:47.830 align:start position:0%
+locks and i can remove it but it's
+something<00:03:46.159><c> i</c><00:03:46.239><c> would</c><00:03:46.400><c> have</c><00:03:46.560><c> to</c><00:03:46.720><c> go</c><00:03:46.959><c> and</c><00:03:47.200><c> do</c><00:03:47.680><c> i</c>
+
+00:03:47.830 --> 00:03:47.840 align:start position:0%
+something i would have to go and do i
+ 
+
+00:03:47.840 --> 00:03:49.750 align:start position:0%
+something i would have to go and do i
+couldn't<00:03:48.159><c> accidentally</c><00:03:48.959><c> now</c><00:03:49.280><c> delete</c><00:03:49.680><c> a</c>
+
+00:03:49.750 --> 00:03:49.760 align:start position:0%
+couldn't accidentally now delete a
+ 
+
+00:03:49.760 --> 00:03:51.830 align:start position:0%
+couldn't accidentally now delete a
+storage<00:03:50.159><c> account</c><00:03:50.879><c> i'd</c><00:03:51.120><c> have</c><00:03:51.200><c> to</c><00:03:51.280><c> go</c><00:03:51.440><c> oh</c><00:03:51.680><c> it's</c>
+
+00:03:51.830 --> 00:03:51.840 align:start position:0%
+storage account i'd have to go oh it's
+ 
+
+00:03:51.840 --> 00:03:53.350 align:start position:0%
+storage account i'd have to go oh it's
+locked<00:03:52.239><c> i'd</c><00:03:52.400><c> have</c><00:03:52.480><c> to</c><00:03:52.560><c> go</c><00:03:52.720><c> and</c><00:03:52.799><c> delete</c><00:03:53.120><c> the</c>
+
+00:03:53.350 --> 00:03:53.360 align:start position:0%
+locked i'd have to go and delete the
+ 
+
+00:03:53.360 --> 00:03:55.030 align:start position:0%
+locked i'd have to go and delete the
+lock<00:03:53.920><c> then</c><00:03:54.159><c> i</c><00:03:54.239><c> could</c><00:03:54.400><c> go</c><00:03:54.560><c> and</c><00:03:54.640><c> delete</c><00:03:54.959><c> the</c>
+
+00:03:55.030 --> 00:03:55.040 align:start position:0%
+lock then i could go and delete the
+ 
+
+00:03:55.040 --> 00:03:56.710 align:start position:0%
+lock then i could go and delete the
+storage<00:03:55.360><c> account</c><00:03:55.680><c> or</c><00:03:55.840><c> the</c><00:03:56.000><c> resource</c><00:03:56.400><c> group</c><00:03:56.640><c> or</c>
+
+00:03:56.710 --> 00:03:56.720 align:start position:0%
+storage account or the resource group or
+ 
+
+00:03:56.720 --> 00:03:59.270 align:start position:0%
+storage account or the resource group or
+the<00:03:56.879><c> subscription</c><00:03:57.599><c> or</c><00:03:57.840><c> anything</c><00:03:58.239><c> else</c><00:03:59.040><c> and</c><00:03:59.120><c> we</c>
+
+00:03:59.270 --> 00:03:59.280 align:start position:0%
+the subscription or anything else and we
+ 
+
+00:03:59.280 --> 00:04:03.429 align:start position:0%
+the subscription or anything else and we
+can<00:03:59.439><c> just</c><00:03:59.680><c> see</c><00:03:59.920><c> those</c><00:04:00.720><c> so</c><00:04:00.959><c> if</c><00:04:01.120><c> we</c><00:04:01.439><c> go</c><00:04:01.760><c> over</c>
+
+00:04:03.429 --> 00:04:03.439 align:start position:0%
+can just see those so if we go over
+ 
+
+00:04:03.439 --> 00:04:06.309 align:start position:0%
+can just see those so if we go over
+if<00:04:03.599><c> i</c><00:04:03.680><c> looked</c><00:04:03.920><c> at</c><00:04:04.000><c> my</c><00:04:04.239><c> subscription</c><00:04:04.959><c> actually</c>
+
+00:04:06.309 --> 00:04:06.319 align:start position:0%
+if i looked at my subscription actually
+ 
+
+00:04:06.319 --> 00:04:09.750 align:start position:0%
+if i looked at my subscription actually
+at<00:04:06.480><c> the</c><00:04:06.640><c> subscription</c><00:04:07.439><c> level</c>
+
+00:04:09.750 --> 00:04:09.760 align:start position:0%
+at the subscription level
+ 
+
+00:04:09.760 --> 00:04:13.270 align:start position:0%
+at the subscription level
+i<00:04:09.920><c> can</c><00:04:10.239><c> go</c><00:04:10.560><c> through</c><00:04:10.959><c> and</c><00:04:11.040><c> i</c><00:04:11.200><c> can</c><00:04:11.519><c> see</c>
+
+00:04:13.270 --> 00:04:13.280 align:start position:0%
+i can go through and i can see
+ 
+
+00:04:13.280 --> 00:04:15.030 align:start position:0%
+i can go through and i can see
+down<00:04:13.599><c> here</c>
+
+00:04:15.030 --> 00:04:15.040 align:start position:0%
+down here
+ 
+
+00:04:15.040 --> 00:04:16.629 align:start position:0%
+down here
+all<00:04:15.280><c> of</c><00:04:15.360><c> the</c><00:04:15.519><c> resource</c><00:04:16.000><c> locks</c><00:04:16.320><c> in</c><00:04:16.479><c> the</c>
+
+00:04:16.629 --> 00:04:16.639 align:start position:0%
+all of the resource locks in the
+ 
+
+00:04:16.639 --> 00:04:17.909 align:start position:0%
+all of the resource locks in the
+subscription
+
+00:04:17.909 --> 00:04:17.919 align:start position:0%
+subscription
+ 
+
+00:04:17.919 --> 00:04:20.150 align:start position:0%
+subscription
+so<00:04:18.079><c> right</c><00:04:18.320><c> now</c><00:04:18.479><c> i</c><00:04:18.639><c> can</c><00:04:18.799><c> see</c><00:04:19.040><c> i</c><00:04:19.199><c> do</c><00:04:19.440><c> have</c><00:04:19.840><c> two</c>
+
+00:04:20.150 --> 00:04:20.160 align:start position:0%
+so right now i can see i do have two
+ 
+
+00:04:20.160 --> 00:04:21.590 align:start position:0%
+so right now i can see i do have two
+resource<00:04:20.639><c> locks</c>
+
+00:04:21.590 --> 00:04:21.600 align:start position:0%
+resource locks
+ 
+
+00:04:21.600 --> 00:04:23.909 align:start position:0%
+resource locks
+both<00:04:21.919><c> of</c><00:04:22.000><c> them</c><00:04:22.160><c> are</c><00:04:22.240><c> stopping</c><00:04:22.560><c> me</c><00:04:22.720><c> deleting</c>
+
+00:04:23.909 --> 00:04:23.919 align:start position:0%
+both of them are stopping me deleting
+ 
+
+00:04:23.919 --> 00:04:25.590 align:start position:0%
+both of them are stopping me deleting
+one<00:04:24.080><c> of</c><00:04:24.160><c> them</c><00:04:24.320><c> is</c><00:04:24.479><c> applied</c><00:04:24.880><c> to</c><00:04:25.120><c> a</c><00:04:25.199><c> storage</c>
+
+00:04:25.590 --> 00:04:25.600 align:start position:0%
+one of them is applied to a storage
+ 
+
+00:04:25.600 --> 00:04:27.830 align:start position:0%
+one of them is applied to a storage
+account<00:04:26.320><c> one</c><00:04:26.479><c> of</c><00:04:26.560><c> them</c><00:04:26.720><c> is</c><00:04:26.880><c> applied</c><00:04:27.280><c> to</c><00:04:27.520><c> a</c>
+
+00:04:27.830 --> 00:04:27.840 align:start position:0%
+account one of them is applied to a
+ 
+
+00:04:27.840 --> 00:04:29.990 align:start position:0%
+account one of them is applied to a
+resource<00:04:28.479><c> group</c>
+
+00:04:29.990 --> 00:04:30.000 align:start position:0%
+resource group
+ 
+
+00:04:30.000 --> 00:04:32.070 align:start position:0%
+resource group
+so<00:04:30.240><c> i've</c><00:04:30.560><c> got</c><00:04:30.880><c> those</c><00:04:31.199><c> in</c><00:04:31.360><c> place</c><00:04:31.600><c> but</c><00:04:31.759><c> i</c><00:04:31.840><c> could</c>
+
+00:04:32.070 --> 00:04:32.080 align:start position:0%
+so i've got those in place but i could
+ 
+
+00:04:32.080 --> 00:04:34.550 align:start position:0%
+so i've got those in place but i could
+add<00:04:32.320><c> one</c><00:04:32.639><c> at</c><00:04:32.800><c> the</c><00:04:32.960><c> subscription</c><00:04:33.680><c> level</c>
+
+00:04:34.550 --> 00:04:34.560 align:start position:0%
+add one at the subscription level
+ 
+
+00:04:34.560 --> 00:04:37.030 align:start position:0%
+add one at the subscription level
+and<00:04:34.720><c> i</c><00:04:34.880><c> can</c><00:04:35.120><c> pick</c><00:04:35.360><c> well</c><00:04:35.520><c> which</c><00:04:35.759><c> one</c><00:04:35.919><c> am</c><00:04:36.080><c> i</c><00:04:36.240><c> doing</c>
+
+00:04:37.030 --> 00:04:37.040 align:start position:0%
+and i can pick well which one am i doing
+ 
+
+00:04:37.040 --> 00:04:39.350 align:start position:0%
+and i can pick well which one am i doing
+is<00:04:37.199><c> it</c><00:04:37.600><c> read</c><00:04:38.080><c> only</c>
+
+00:04:39.350 --> 00:04:39.360 align:start position:0%
+is it read only
+ 
+
+00:04:39.360 --> 00:04:40.790 align:start position:0%
+is it read only
+i.e
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+i.e
+ 
+
+00:04:40.800 --> 00:04:43.670 align:start position:0%
+i.e
+i'm<00:04:41.040><c> doing</c><00:04:41.440><c> that</c><00:04:41.680><c> actual</c><00:04:42.080><c> read-only</c><00:04:42.720><c> setting</c>
+
+00:04:43.670 --> 00:04:43.680 align:start position:0%
+i'm doing that actual read-only setting
+ 
+
+00:04:43.680 --> 00:04:46.390 align:start position:0%
+i'm doing that actual read-only setting
+or<00:04:43.919><c> is</c><00:04:44.080><c> it</c><00:04:44.639><c> hey</c><00:04:44.880><c> you</c><00:04:45.040><c> can't</c><00:04:45.280><c> delete</c><00:04:45.759><c> it</c><00:04:46.000><c> so</c><00:04:46.240><c> it's</c>
+
+00:04:46.390 --> 00:04:46.400 align:start position:0%
+or is it hey you can't delete it so it's
+ 
+
+00:04:46.400 --> 00:04:49.189 align:start position:0%
+or is it hey you can't delete it so it's
+the<00:04:46.560><c> cannot</c><00:04:47.040><c> delete</c><00:04:47.840><c> so</c><00:04:48.000><c> i</c><00:04:48.160><c> pick</c><00:04:48.400><c> the</c><00:04:48.560><c> type</c><00:04:48.800><c> of</c>
+
+00:04:49.189 --> 00:04:49.199 align:start position:0%
+the cannot delete so i pick the type of
+ 
+
+00:04:49.199 --> 00:04:50.550 align:start position:0%
+the cannot delete so i pick the type of
+lock<00:04:49.520><c> i</c><00:04:49.680><c> want</c>
+
+00:04:50.550 --> 00:04:50.560 align:start position:0%
+lock i want
+ 
+
+00:04:50.560 --> 00:04:52.230 align:start position:0%
+lock i want
+and<00:04:50.720><c> i</c><00:04:50.880><c> would</c><00:04:51.040><c> put</c><00:04:51.280><c> that</c><00:04:51.520><c> in</c><00:04:51.680><c> place</c><00:04:52.000><c> because</c>
+
+00:04:52.230 --> 00:04:52.240 align:start position:0%
+and i would put that in place because
+ 
+
+00:04:52.240 --> 00:04:53.830 align:start position:0%
+and i would put that in place because
+i'm<00:04:52.320><c> the</c><00:04:52.560><c> owner</c>
+
+00:04:53.830 --> 00:04:53.840 align:start position:0%
+i'm the owner
+ 
+
+00:04:53.840 --> 00:04:56.950 align:start position:0%
+i'm the owner
+i<00:04:54.000><c> can</c><00:04:54.240><c> do</c><00:04:54.840><c> that</c><00:04:56.000><c> and</c><00:04:56.080><c> then</c><00:04:56.240><c> because</c><00:04:56.560><c> i'm</c><00:04:56.720><c> the</c>
+
+00:04:56.950 --> 00:04:56.960 align:start position:0%
+i can do that and then because i'm the
+ 
+
+00:04:56.960 --> 00:04:58.710 align:start position:0%
+i can do that and then because i'm the
+owner
+
+00:04:58.710 --> 00:04:58.720 align:start position:0%
+owner
+ 
+
+00:04:58.720 --> 00:05:01.029 align:start position:0%
+owner
+well<00:04:58.960><c> i</c><00:04:59.120><c> can</c><00:04:59.280><c> delete</c><00:04:59.600><c> it</c><00:04:59.840><c> as</c><00:05:00.000><c> well</c>
+
+00:05:01.029 --> 00:05:01.039 align:start position:0%
+well i can delete it as well
+ 
+
+00:05:01.039 --> 00:05:02.469 align:start position:0%
+well i can delete it as well
+but<00:05:01.199><c> it</c><00:05:01.280><c> would</c><00:05:01.440><c> be</c><00:05:01.600><c> that</c><00:05:01.759><c> step</c><00:05:02.080><c> i</c><00:05:02.160><c> would</c><00:05:02.320><c> have</c>
+
+00:05:02.469 --> 00:05:02.479 align:start position:0%
+but it would be that step i would have
+ 
+
+00:05:02.479 --> 00:05:04.310 align:start position:0%
+but it would be that step i would have
+to<00:05:02.560><c> perform</c><00:05:02.960><c> and</c><00:05:03.120><c> again</c><00:05:03.360><c> it</c><00:05:03.440><c> gets</c><00:05:03.680><c> inherited</c>
+
+00:05:04.310 --> 00:05:04.320 align:start position:0%
+to perform and again it gets inherited
+ 
+
+00:05:04.320 --> 00:05:05.350 align:start position:0%
+to perform and again it gets inherited
+down
+
+00:05:05.350 --> 00:05:05.360 align:start position:0%
+down
+ 
+
+00:05:05.360 --> 00:05:06.870 align:start position:0%
+down
+so<00:05:05.600><c> in</c><00:05:05.680><c> this</c><00:05:05.919><c> case</c><00:05:06.240><c> hey</c><00:05:06.400><c> this</c><00:05:06.560><c> one</c><00:05:06.720><c> at</c><00:05:06.800><c> the</c>
+
+00:05:06.870 --> 00:05:06.880 align:start position:0%
+so in this case hey this one at the
+ 
+
+00:05:06.880 --> 00:05:09.029 align:start position:0%
+so in this case hey this one at the
+resource<00:05:07.520><c> group</c>
+
+00:05:09.029 --> 00:05:09.039 align:start position:0%
+resource group
+ 
+
+00:05:09.039 --> 00:05:11.350 align:start position:0%
+resource group
+i<00:05:09.199><c> would</c><00:05:09.360><c> have</c><00:05:09.600><c> to</c><00:05:09.919><c> actually</c><00:05:10.720><c> anything</c><00:05:11.039><c> within</c>
+
+00:05:11.350 --> 00:05:11.360 align:start position:0%
+i would have to actually anything within
+ 
+
+00:05:11.360 --> 00:05:12.950 align:start position:0%
+i would have to actually anything within
+the<00:05:11.440><c> resource</c><00:05:11.840><c> group</c><00:05:12.000><c> would</c><00:05:12.160><c> have</c><00:05:12.320><c> it</c><00:05:12.479><c> applied</c>
+
+00:05:12.950 --> 00:05:12.960 align:start position:0%
+the resource group would have it applied
+ 
+
+00:05:12.960 --> 00:05:15.189 align:start position:0%
+the resource group would have it applied
+as<00:05:13.120><c> well</c><00:05:13.759><c> so</c><00:05:13.919><c> here</c><00:05:14.160><c> on</c><00:05:14.240><c> the</c><00:05:14.320><c> resource</c><00:05:14.800><c> group</c><00:05:15.039><c> i</c>
+
+00:05:15.189 --> 00:05:15.199 align:start position:0%
+as well so here on the resource group i
+ 
+
+00:05:15.199 --> 00:05:16.310 align:start position:0%
+as well so here on the resource group i
+can<00:05:15.440><c> see</c>
+
+00:05:16.310 --> 00:05:16.320 align:start position:0%
+can see
+ 
+
+00:05:16.320 --> 00:05:18.790 align:start position:0%
+can see
+yes<00:05:16.639><c> it</c><00:05:16.800><c> has</c><00:05:17.039><c> that</c><00:05:17.360><c> lock</c>
+
+00:05:18.790 --> 00:05:18.800 align:start position:0%
+yes it has that lock
+ 
+
+00:05:18.800 --> 00:05:22.310 align:start position:0%
+yes it has that lock
+it<00:05:18.960><c> does</c><00:05:19.280><c> have</c><00:05:19.520><c> a</c><00:05:19.759><c> resource</c><00:05:20.560><c> inside</c><00:05:21.120><c> it</c>
+
+00:05:22.310 --> 00:05:22.320 align:start position:0%
+it does have a resource inside it
+ 
+
+00:05:22.320 --> 00:05:25.029 align:start position:0%
+it does have a resource inside it
+if<00:05:22.400><c> i</c><00:05:22.479><c> look</c><00:05:22.639><c> at</c><00:05:22.720><c> the</c><00:05:22.800><c> storage</c><00:05:23.280><c> account</c>
+
+00:05:25.029 --> 00:05:25.039 align:start position:0%
+if i look at the storage account
+ 
+
+00:05:25.039 --> 00:05:27.830 align:start position:0%
+if i look at the storage account
+if<00:05:25.199><c> we</c><00:05:25.280><c> go</c><00:05:25.440><c> and</c><00:05:25.600><c> look</c><00:05:25.759><c> at</c><00:05:25.919><c> locks</c>
+
+00:05:27.830 --> 00:05:27.840 align:start position:0%
+if we go and look at locks
+ 
+
+00:05:27.840 --> 00:05:29.909 align:start position:0%
+if we go and look at locks
+you<00:05:28.000><c> can</c><00:05:28.160><c> see</c><00:05:28.400><c> it</c><00:05:28.639><c> has</c><00:05:28.960><c> it</c>
+
+00:05:29.909 --> 00:05:29.919 align:start position:0%
+you can see it has it
+ 
+
+00:05:29.919 --> 00:05:32.150 align:start position:0%
+you can see it has it
+but<00:05:30.080><c> it's</c><00:05:30.320><c> telling</c><00:05:30.560><c> me</c><00:05:30.800><c> hey</c><00:05:31.039><c> look</c><00:05:31.600><c> this</c><00:05:31.840><c> is</c><00:05:32.000><c> a</c>
+
+00:05:32.150 --> 00:05:32.160 align:start position:0%
+but it's telling me hey look this is a
+ 
+
+00:05:32.160 --> 00:05:34.310 align:start position:0%
+but it's telling me hey look this is a
+parent<00:05:32.639><c> resource</c><00:05:33.199><c> lock</c><00:05:33.440><c> i</c><00:05:33.520><c> can't</c><00:05:33.840><c> change</c><00:05:34.160><c> it</c>
+
+00:05:34.310 --> 00:05:34.320 align:start position:0%
+parent resource lock i can't change it
+ 
+
+00:05:34.320 --> 00:05:35.110 align:start position:0%
+parent resource lock i can't change it
+here
+
+00:05:35.110 --> 00:05:35.120 align:start position:0%
+here
+ 
+
+00:05:35.120 --> 00:05:36.710 align:start position:0%
+here
+so<00:05:35.280><c> that</c><00:05:35.520><c> kind</c><00:05:35.680><c> of</c><00:05:35.840><c> shows</c><00:05:36.160><c> the</c><00:05:36.320><c> idea</c><00:05:36.560><c> that</c><00:05:36.639><c> it</c>
+
+00:05:36.710 --> 00:05:36.720 align:start position:0%
+so that kind of shows the idea that it
+ 
+
+00:05:36.720 --> 00:05:38.870 align:start position:0%
+so that kind of shows the idea that it
+gets<00:05:36.880><c> inherited</c><00:05:37.520><c> down</c><00:05:38.080><c> so</c><00:05:38.240><c> what</c><00:05:38.400><c> i</c><00:05:38.560><c> couldn't</c>
+
+00:05:38.870 --> 00:05:38.880 align:start position:0%
+gets inherited down so what i couldn't
+ 
+
+00:05:38.880 --> 00:05:41.110 align:start position:0%
+gets inherited down so what i couldn't
+do<00:05:39.120><c> would</c><00:05:39.280><c> be</c><00:05:39.520><c> delete</c><00:05:39.919><c> this</c><00:05:40.080><c> storage</c><00:05:40.560><c> account</c>
+
+00:05:41.110 --> 00:05:41.120 align:start position:0%
+do would be delete this storage account
+ 
+
+00:05:41.120 --> 00:05:43.029 align:start position:0%
+do would be delete this storage account
+but<00:05:41.280><c> i</c><00:05:41.440><c> could</c><00:05:41.520><c> still</c><00:05:41.840><c> go</c><00:05:42.080><c> and</c>
+
+00:05:43.029 --> 00:05:43.039 align:start position:0%
+but i could still go and
+ 
+
+00:05:43.039 --> 00:05:45.590 align:start position:0%
+but i could still go and
+delete<00:05:43.440><c> blobs</c><00:05:43.919><c> within</c><00:05:44.320><c> it</c><00:05:44.479><c> or</c><00:05:44.800><c> tables</c><00:05:45.360><c> or</c>
+
+00:05:45.590 --> 00:05:45.600 align:start position:0%
+delete blobs within it or tables or
+ 
+
+00:05:45.600 --> 00:05:47.590 align:start position:0%
+delete blobs within it or tables or
+anything<00:05:46.000><c> else</c><00:05:46.160><c> i</c><00:05:46.240><c> wanted</c><00:05:46.479><c> to</c><00:05:46.639><c> do</c>
+
+00:05:47.590 --> 00:05:47.600 align:start position:0%
+anything else i wanted to do
+ 
+
+00:05:47.600 --> 00:05:50.390 align:start position:0%
+anything else i wanted to do
+but<00:05:47.759><c> if</c><00:05:47.919><c> i</c><00:05:48.080><c> actually</c><00:05:48.400><c> try</c><00:05:48.639><c> to</c><00:05:48.800><c> delete</c><00:05:49.280><c> this</c>
+
+00:05:50.390 --> 00:05:50.400 align:start position:0%
+but if i actually try to delete this
+ 
+
+00:05:50.400 --> 00:05:53.029 align:start position:0%
+but if i actually try to delete this
+i<00:05:50.560><c> can't</c><00:05:51.280><c> the</c><00:05:51.440><c> resource</c><00:05:51.919><c> is</c><00:05:52.080><c> locked</c><00:05:52.720><c> you</c><00:05:52.880><c> have</c>
+
+00:05:53.029 --> 00:05:53.039 align:start position:0%
+i can't the resource is locked you have
+ 
+
+00:05:53.039 --> 00:05:55.270 align:start position:0%
+i can't the resource is locked you have
+to<00:05:53.120><c> go</c><00:05:53.360><c> and</c><00:05:53.440><c> delete</c><00:05:53.840><c> that</c><00:05:54.080><c> resource</c><00:05:54.720><c> lock</c>
+
+00:05:55.270 --> 00:05:55.280 align:start position:0%
+to go and delete that resource lock
+ 
+
+00:05:55.280 --> 00:05:56.629 align:start position:0%
+to go and delete that resource lock
+first
+
+00:05:56.629 --> 00:05:56.639 align:start position:0%
+first
+ 
+
+00:05:56.639 --> 00:05:58.870 align:start position:0%
+first
+so<00:05:56.880><c> that</c><00:05:57.120><c> is</c><00:05:57.199><c> the</c><00:05:57.360><c> point</c><00:05:58.000><c> of</c><00:05:58.160><c> resource</c><00:05:58.560><c> locks</c>
+
+00:05:58.870 --> 00:05:58.880 align:start position:0%
+so that is the point of resource locks
+ 
+
+00:05:58.880 --> 00:06:00.790 align:start position:0%
+so that is the point of resource locks
+it<00:05:59.039><c> adds</c><00:05:59.280><c> that</c><00:05:59.440><c> additional</c><00:05:59.840><c> step</c>
+
+00:06:00.790 --> 00:06:00.800 align:start position:0%
+it adds that additional step
+ 
+
+00:06:00.800 --> 00:06:03.749 align:start position:0%
+it adds that additional step
+before<00:06:01.280><c> i</c><00:06:01.440><c> can</c><00:06:01.680><c> actually</c><00:06:02.080><c> go</c><00:06:02.400><c> in</c><00:06:02.960><c> and</c><00:06:03.199><c> delete</c>
+
+00:06:03.749 --> 00:06:03.759 align:start position:0%
+before i can actually go in and delete
+ 
+
+00:06:03.759 --> 00:06:07.350 align:start position:0%
+before i can actually go in and delete
+or<00:06:03.919><c> maybe</c><00:06:04.639><c> modify</c><00:06:05.680><c> at</c><00:06:05.919><c> the</c><00:06:06.160><c> control</c><00:06:06.960><c> plane</c>
+
+00:06:07.350 --> 00:06:07.360 align:start position:0%
+or maybe modify at the control plane
+ 
+
+00:06:07.360 --> 00:06:09.350 align:start position:0%
+or maybe modify at the control plane
+level<00:06:07.600><c> again</c><00:06:07.919><c> it's</c><00:06:08.000><c> not</c><00:06:08.240><c> impacting</c><00:06:08.800><c> the</c><00:06:09.039><c> data</c>
+
+00:06:09.350 --> 00:06:09.360 align:start position:0%
+level again it's not impacting the data
+ 
+
+00:06:09.360 --> 00:06:10.309 align:start position:0%
+level again it's not impacting the data
+plane
+
+00:06:10.309 --> 00:06:10.319 align:start position:0%
+plane
+ 
+
+00:06:10.319 --> 00:06:12.390 align:start position:0%
+plane
+the<00:06:10.479><c> actual</c><00:06:11.199><c> data</c>
+
+00:06:12.390 --> 00:06:12.400 align:start position:0%
+the actual data
+ 
+
+00:06:12.400 --> 00:06:16.199 align:start position:0%
+the actual data
+running<00:06:12.720><c> within</c><00:06:13.039><c> the</c><00:06:13.199><c> resource</c>
+

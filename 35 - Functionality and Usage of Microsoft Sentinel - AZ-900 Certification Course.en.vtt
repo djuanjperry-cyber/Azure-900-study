@@ -1,0 +1,1928 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.439 --> 00:00:02.790 align:start position:0%
+ 
+in<00:00:01.599><c> this</c><00:00:01.839><c> lesson</c><00:00:02.159><c> we're</c><00:00:02.320><c> going</c><00:00:02.399><c> to</c><00:00:02.480><c> look</c><00:00:02.639><c> at</c>
+
+00:00:02.790 --> 00:00:02.800 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.800 --> 00:00:05.829 align:start position:0%
+in this lesson we're going to look at
+the<00:00:03.040><c> functionality</c><00:00:03.760><c> and</c><00:00:03.919><c> usage</c><00:00:04.560><c> of</c><00:00:04.880><c> microsoft</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+the functionality and usage of microsoft
+ 
+
+00:00:05.839 --> 00:00:08.950 align:start position:0%
+the functionality and usage of microsoft
+sentinel<00:00:06.879><c> now</c><00:00:07.040><c> this</c><00:00:07.279><c> was</c><00:00:07.600><c> formerly</c><00:00:08.000><c> known</c><00:00:08.480><c> as</c>
+
+00:00:08.950 --> 00:00:08.960 align:start position:0%
+sentinel now this was formerly known as
+ 
+
+00:00:08.960 --> 00:00:10.790 align:start position:0%
+sentinel now this was formerly known as
+azure<00:00:09.360><c> sentinel</c><00:00:09.920><c> but</c><00:00:10.080><c> like</c><00:00:10.320><c> many</c><00:00:10.559><c> other</c>
+
+00:00:10.790 --> 00:00:10.800 align:start position:0%
+azure sentinel but like many other
+ 
+
+00:00:10.800 --> 00:00:12.950 align:start position:0%
+azure sentinel but like many other
+things<00:00:11.120><c> it's</c><00:00:11.360><c> been</c><00:00:11.599><c> rebranded</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+things it's been rebranded
+ 
+
+00:00:12.960 --> 00:00:17.510 align:start position:0%
+things it's been rebranded
+so<00:00:13.120><c> we</c><00:00:13.280><c> have</c><00:00:13.519><c> this</c><00:00:13.920><c> idea</c><00:00:14.880><c> of</c><00:00:15.440><c> microsoft</c>
+
+00:00:17.510 --> 00:00:17.520 align:start position:0%
+so we have this idea of microsoft
+ 
+
+00:00:17.520 --> 00:00:19.750 align:start position:0%
+so we have this idea of microsoft
+sentinel
+
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+sentinel
+ 
+
+00:00:19.760 --> 00:00:21.830 align:start position:0%
+sentinel
+and<00:00:19.920><c> it</c><00:00:20.160><c> actually</c><00:00:20.640><c> has</c><00:00:21.039><c> a</c><00:00:21.279><c> number</c><00:00:21.600><c> of</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+and it actually has a number of
+ 
+
+00:00:21.840 --> 00:00:24.950 align:start position:0%
+and it actually has a number of
+different<00:00:22.240><c> pieces</c><00:00:22.880><c> of</c><00:00:23.039><c> functionality</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+different pieces of functionality
+ 
+
+00:00:24.960 --> 00:00:27.910 align:start position:0%
+different pieces of functionality
+first<00:00:25.279><c> and</c><00:00:25.519><c> foremost</c><00:00:26.080><c> we</c><00:00:26.240><c> think</c><00:00:26.560><c> of</c><00:00:26.720><c> this</c><00:00:27.119><c> as</c><00:00:27.599><c> a</c>
+
+00:00:27.910 --> 00:00:27.920 align:start position:0%
+first and foremost we think of this as a
+ 
+
+00:00:27.920 --> 00:00:30.630 align:start position:0%
+first and foremost we think of this as a
+sim
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+sim
+ 
+
+00:00:30.640 --> 00:00:33.190 align:start position:0%
+sim
+so<00:00:30.880><c> a</c><00:00:31.039><c> sim</c><00:00:31.439><c> system</c><00:00:32.000><c> is</c><00:00:32.160><c> this</c><00:00:32.399><c> security</c>
+
+00:00:33.190 --> 00:00:33.200 align:start position:0%
+so a sim system is this security
+ 
+
+00:00:33.200 --> 00:00:36.069 align:start position:0%
+so a sim system is this security
+information<00:00:34.079><c> and</c><00:00:34.320><c> event</c><00:00:34.800><c> management</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+information and event management
+ 
+
+00:00:36.079 --> 00:00:38.869 align:start position:0%
+information and event management
+its<00:00:36.399><c> goal</c><00:00:36.800><c> is</c><00:00:37.040><c> to</c><00:00:37.280><c> help</c><00:00:37.760><c> investigate</c><00:00:38.640><c> when</c>
+
+00:00:38.869 --> 00:00:38.879 align:start position:0%
+its goal is to help investigate when
+ 
+
+00:00:38.879 --> 00:00:41.270 align:start position:0%
+its goal is to help investigate when
+there<00:00:39.200><c> is</c><00:00:39.760><c> some</c><00:00:39.920><c> kind</c><00:00:40.160><c> of</c><00:00:40.239><c> security</c><00:00:40.879><c> incident</c>
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+there is some kind of security incident
+ 
+
+00:00:41.280 --> 00:00:43.110 align:start position:0%
+there is some kind of security incident
+happening<00:00:41.680><c> on</c><00:00:41.760><c> your</c><00:00:41.920><c> environment</c>
+
+00:00:43.110 --> 00:00:43.120 align:start position:0%
+happening on your environment
+ 
+
+00:00:43.120 --> 00:00:46.229 align:start position:0%
+happening on your environment
+it's<00:00:43.440><c> there</c><00:00:43.680><c> to</c><00:00:43.840><c> help</c><00:00:44.160><c> find</c><00:00:44.879><c> various</c><00:00:45.360><c> threats</c>
+
+00:00:46.229 --> 00:00:46.239 align:start position:0%
+it's there to help find various threats
+ 
+
+00:00:46.239 --> 00:00:49.270 align:start position:0%
+it's there to help find various threats
+or<00:00:46.559><c> exposures</c><00:00:47.440><c> that</c><00:00:47.680><c> might</c><00:00:47.840><c> be</c><00:00:48.079><c> happening</c>
+
+00:00:49.270 --> 00:00:49.280 align:start position:0%
+or exposures that might be happening
+ 
+
+00:00:49.280 --> 00:00:51.350 align:start position:0%
+or exposures that might be happening
+but<00:00:49.520><c> it's</c><00:00:49.840><c> also</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+but it's also
+ 
+
+00:00:51.360 --> 00:00:54.869 align:start position:0%
+but it's also
+a<00:00:51.680><c> saw</c>
+
+00:00:54.869 --> 00:00:54.879 align:start position:0%
+ 
+ 
+
+00:00:54.879 --> 00:00:57.990 align:start position:0%
+ 
+so<00:00:55.120><c> if</c><00:00:55.280><c> a</c><00:00:55.440><c> sim</c><00:00:55.680><c> is</c><00:00:55.840><c> about</c><00:00:56.239><c> detecting</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+so if a sim is about detecting
+ 
+
+00:00:58.000 --> 00:01:00.630 align:start position:0%
+so if a sim is about detecting
+and<00:00:58.320><c> looking</c><00:00:58.960><c> into</c><00:00:59.440><c> the</c><00:00:59.600><c> problem</c>
+
+00:01:00.630 --> 00:01:00.640 align:start position:0%
+and looking into the problem
+ 
+
+00:01:00.640 --> 00:01:03.590 align:start position:0%
+and looking into the problem
+a<00:01:00.879><c> saw</c><00:01:01.280><c> is</c><00:01:01.440><c> a</c><00:01:01.600><c> security</c><00:01:02.399><c> orchestration</c>
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+a saw is a security orchestration
+ 
+
+00:01:03.600 --> 00:01:06.789 align:start position:0%
+a saw is a security orchestration
+automation<00:01:04.479><c> response</c><00:01:05.040><c> tool</c><00:01:05.680><c> i.e</c>
+
+00:01:06.789 --> 00:01:06.799 align:start position:0%
+automation response tool i.e
+ 
+
+00:01:06.799 --> 00:01:08.870 align:start position:0%
+automation response tool i.e
+hey<00:01:06.960><c> look</c><00:01:07.200><c> something's</c><00:01:07.920><c> happening</c><00:01:08.640><c> i've</c>
+
+00:01:08.870 --> 00:01:08.880 align:start position:0%
+hey look something's happening i've
+ 
+
+00:01:08.880 --> 00:01:10.630 align:start position:0%
+hey look something's happening i've
+detected<00:01:09.439><c> something</c>
+
+00:01:10.630 --> 00:01:10.640 align:start position:0%
+detected something
+ 
+
+00:01:10.640 --> 00:01:12.550 align:start position:0%
+detected something
+i<00:01:10.799><c> actually</c><00:01:11.040><c> want</c><00:01:11.200><c> to</c><00:01:11.280><c> be</c><00:01:11.439><c> able</c><00:01:11.520><c> to</c><00:01:11.680><c> then</c><00:01:12.240><c> do</c>
+
+00:01:12.550 --> 00:01:12.560 align:start position:0%
+i actually want to be able to then do
+ 
+
+00:01:12.560 --> 00:01:14.550 align:start position:0%
+i actually want to be able to then do
+something<00:01:13.280><c> so</c><00:01:13.360><c> i</c><00:01:13.439><c> want</c><00:01:13.600><c> to</c><00:01:13.680><c> have</c><00:01:13.840><c> this</c><00:01:14.080><c> ability</c>
+
+00:01:14.550 --> 00:01:14.560 align:start position:0%
+something so i want to have this ability
+ 
+
+00:01:14.560 --> 00:01:17.830 align:start position:0%
+something so i want to have this ability
+to<00:01:14.799><c> automatically</c><00:01:15.759><c> respond</c><00:01:16.560><c> to</c><00:01:16.799><c> it</c>
+
+00:01:17.830 --> 00:01:17.840 align:start position:0%
+to automatically respond to it
+ 
+
+00:01:17.840 --> 00:01:19.749 align:start position:0%
+to automatically respond to it
+and<00:01:18.000><c> so</c><00:01:18.479><c> microsoft</c><00:01:18.799><c> central</c><00:01:19.119><c> does</c><00:01:19.360><c> both</c><00:01:19.600><c> of</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+and so microsoft central does both of
+ 
+
+00:01:19.759 --> 00:01:22.870 align:start position:0%
+and so microsoft central does both of
+these<00:01:20.479><c> it</c><00:01:20.640><c> has</c><00:01:20.880><c> its</c><00:01:21.119><c> own</c><00:01:21.520><c> concept</c><00:01:22.080><c> of</c><00:01:22.320><c> native</c>
+
+00:01:22.870 --> 00:01:22.880 align:start position:0%
+these it has its own concept of native
+ 
+
+00:01:22.880 --> 00:01:24.550 align:start position:0%
+these it has its own concept of native
+playbooks<00:01:23.600><c> it</c><00:01:23.680><c> hooks</c><00:01:23.920><c> into</c><00:01:24.080><c> things</c><00:01:24.240><c> like</c>
+
+00:01:24.550 --> 00:01:24.560 align:start position:0%
+playbooks it hooks into things like
+ 
+
+00:01:24.560 --> 00:01:26.950 align:start position:0%
+playbooks it hooks into things like
+logic<00:01:24.960><c> apps</c><00:01:25.280><c> as</c><00:01:25.360><c> well</c><00:01:25.759><c> so</c><00:01:25.920><c> we</c><00:01:26.000><c> can</c><00:01:26.320><c> automate</c>
+
+00:01:26.950 --> 00:01:26.960 align:start position:0%
+logic apps as well so we can automate
+ 
+
+00:01:26.960 --> 00:01:29.830 align:start position:0%
+logic apps as well so we can automate
+various<00:01:27.439><c> responses</c><00:01:28.560><c> when</c><00:01:28.799><c> i</c><00:01:29.040><c> have</c><00:01:29.360><c> some</c>
+
+00:01:29.830 --> 00:01:29.840 align:start position:0%
+various responses when i have some
+ 
+
+00:01:29.840 --> 00:01:31.990 align:start position:0%
+various responses when i have some
+instant<00:01:30.320><c> happening</c>
+
+00:01:31.990 --> 00:01:32.000 align:start position:0%
+instant happening
+ 
+
+00:01:32.000 --> 00:01:34.069 align:start position:0%
+instant happening
+the<00:01:32.159><c> way</c><00:01:32.400><c> microsoft</c><00:01:32.960><c> sentinel</c><00:01:33.600><c> actually</c>
+
+00:01:34.069 --> 00:01:34.079 align:start position:0%
+the way microsoft sentinel actually
+ 
+
+00:01:34.079 --> 00:01:36.469 align:start position:0%
+the way microsoft sentinel actually
+works<00:01:34.560><c> is</c><00:01:34.720><c> we</c><00:01:34.880><c> talked</c><00:01:35.119><c> before</c><00:01:35.439><c> about</c><00:01:35.759><c> an</c><00:01:36.000><c> azure</c>
+
+00:01:36.469 --> 00:01:36.479 align:start position:0%
+works is we talked before about an azure
+ 
+
+00:01:36.479 --> 00:01:39.030 align:start position:0%
+works is we talked before about an azure
+monitor<00:01:37.040><c> log</c><00:01:37.280><c> analytics</c><00:01:37.759><c> workspace</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+monitor log analytics workspace
+ 
+
+00:01:39.040 --> 00:01:41.030 align:start position:0%
+monitor log analytics workspace
+and<00:01:39.200><c> it's</c><00:01:39.520><c> leveraging</c><00:01:40.079><c> that</c><00:01:40.320><c> so</c><00:01:40.560><c> microsoft</c>
+
+00:01:41.030 --> 00:01:41.040 align:start position:0%
+and it's leveraging that so microsoft
+ 
+
+00:01:41.040 --> 00:01:43.670 align:start position:0%
+and it's leveraging that so microsoft
+sentinel<00:01:41.520><c> is</c><00:01:41.680><c> sitting</c><00:01:42.000><c> on</c><00:01:42.240><c> top</c>
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+sentinel is sitting on top
+ 
+
+00:01:43.680 --> 00:01:45.190 align:start position:0%
+sentinel is sitting on top
+of
+
+00:01:45.190 --> 00:01:45.200 align:start position:0%
+of
+ 
+
+00:01:45.200 --> 00:01:47.590 align:start position:0%
+of
+a<00:01:45.439><c> log</c>
+
+00:01:47.590 --> 00:01:47.600 align:start position:0%
+a log
+ 
+
+00:01:47.600 --> 00:01:49.270 align:start position:0%
+a log
+analytics
+
+00:01:49.270 --> 00:01:49.280 align:start position:0%
+analytics
+ 
+
+00:01:49.280 --> 00:01:51.590 align:start position:0%
+analytics
+workspace
+
+00:01:51.590 --> 00:01:51.600 align:start position:0%
+workspace
+ 
+
+00:01:51.600 --> 00:01:53.910 align:start position:0%
+workspace
+and<00:01:51.759><c> if</c><00:01:51.920><c> you</c><00:01:52.000><c> think</c><00:01:52.240><c> about</c><00:01:52.640><c> what</c><00:01:52.799><c> do</c><00:01:53.119><c> i</c><00:01:53.360><c> need</c><00:01:53.759><c> to</c>
+
+00:01:53.910 --> 00:01:53.920 align:start position:0%
+and if you think about what do i need to
+ 
+
+00:01:53.920 --> 00:01:56.469 align:start position:0%
+and if you think about what do i need to
+be<00:01:54.079><c> able</c><00:01:54.320><c> to</c><00:01:54.560><c> detect</c><00:01:55.200><c> if</c><00:01:55.439><c> there's</c><00:01:56.079><c> something</c>
+
+00:01:56.469 --> 00:01:56.479 align:start position:0%
+be able to detect if there's something
+ 
+
+00:01:56.479 --> 00:01:58.950 align:start position:0%
+be able to detect if there's something
+happening<00:01:57.040><c> if</c><00:01:57.200><c> there's</c><00:01:57.439><c> some</c><00:01:57.680><c> exposure</c><00:01:58.799><c> i</c>
+
+00:01:58.950 --> 00:01:58.960 align:start position:0%
+happening if there's some exposure i
+ 
+
+00:01:58.960 --> 00:02:02.149 align:start position:0%
+happening if there's some exposure i
+need<00:01:59.600><c> lots</c><00:01:59.920><c> and</c><00:02:00.079><c> lots</c><00:02:00.399><c> of</c><00:02:00.640><c> information</c><00:02:01.840><c> and</c><00:02:02.000><c> so</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+need lots and lots of information and so
+ 
+
+00:02:02.159 --> 00:02:03.670 align:start position:0%
+need lots and lots of information and so
+the<00:02:02.320><c> reason</c><00:02:02.560><c> it</c><00:02:02.719><c> sits</c><00:02:02.960><c> on</c><00:02:03.119><c> top</c><00:02:03.280><c> of</c><00:02:03.360><c> a</c><00:02:03.439><c> log</c>
+
+00:02:03.670 --> 00:02:03.680 align:start position:0%
+the reason it sits on top of a log
+ 
+
+00:02:03.680 --> 00:02:06.069 align:start position:0%
+the reason it sits on top of a log
+analytics<00:02:04.240><c> workspace</c><00:02:04.880><c> is</c><00:02:05.040><c> i</c><00:02:05.119><c> have</c><00:02:05.680><c> all</c><00:02:05.920><c> of</c>
+
+00:02:06.069 --> 00:02:06.079 align:start position:0%
+analytics workspace is i have all of
+ 
+
+00:02:06.079 --> 00:02:09.350 align:start position:0%
+analytics workspace is i have all of
+these<00:02:06.399><c> various</c><00:02:07.040><c> signals</c><00:02:07.840><c> coming</c><00:02:08.160><c> in</c>
+
+00:02:09.350 --> 00:02:09.360 align:start position:0%
+these various signals coming in
+ 
+
+00:02:09.360 --> 00:02:11.589 align:start position:0%
+these various signals coming in
+i<00:02:09.520><c> can</c><00:02:09.840><c> think</c><00:02:10.160><c> about</c><00:02:10.720><c> well</c>
+
+00:02:11.589 --> 00:02:11.599 align:start position:0%
+i can think about well
+ 
+
+00:02:11.599 --> 00:02:18.309 align:start position:0%
+i can think about well
+okay<00:02:12.400><c> i</c><00:02:12.560><c> have</c><00:02:12.800><c> security</c><00:02:13.440><c> logs</c>
+
+00:02:18.309 --> 00:02:18.319 align:start position:0%
+ 
+ 
+
+00:02:18.319 --> 00:02:21.030 align:start position:0%
+ 
+i<00:02:18.560><c> also</c><00:02:19.120><c> have</c><00:02:19.440><c> the</c><00:02:19.680><c> idea</c><00:02:20.160><c> that</c><00:02:20.640><c> hey</c><00:02:20.800><c> there's</c>
+
+00:02:21.030 --> 00:02:21.040 align:start position:0%
+i also have the idea that hey there's
+ 
+
+00:02:21.040 --> 00:02:24.630 align:start position:0%
+i also have the idea that hey there's
+various<00:02:21.440><c> signals</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+ 
+ 
+
+00:02:24.640 --> 00:02:27.510 align:start position:0%
+ 
+and<00:02:24.720><c> we're</c><00:02:24.879><c> going</c><00:02:24.959><c> to</c><00:02:25.120><c> get</c><00:02:25.520><c> those</c><00:02:26.080><c> to</c><00:02:26.319><c> come</c><00:02:26.720><c> in</c>
+
+00:02:27.510 --> 00:02:27.520 align:start position:0%
+and we're going to get those to come in
+ 
+
+00:02:27.520 --> 00:02:29.830 align:start position:0%
+and we're going to get those to come in
+and<00:02:27.680><c> be</c><00:02:27.920><c> stored</c><00:02:28.480><c> in</c><00:02:28.800><c> our</c><00:02:29.040><c> log</c><00:02:29.280><c> analytics</c>
+
+00:02:29.830 --> 00:02:29.840 align:start position:0%
+and be stored in our log analytics
+ 
+
+00:02:29.840 --> 00:02:32.390 align:start position:0%
+and be stored in our log analytics
+workspace<00:02:30.800><c> now</c><00:02:30.959><c> one</c><00:02:31.200><c> of</c><00:02:31.280><c> the</c><00:02:31.440><c> key</c><00:02:31.760><c> things</c><00:02:32.160><c> is</c>
+
+00:02:32.390 --> 00:02:32.400 align:start position:0%
+workspace now one of the key things is
+ 
+
+00:02:32.400 --> 00:02:34.229 align:start position:0%
+workspace now one of the key things is
+those<00:02:32.720><c> are</c><00:02:32.800><c> the</c><00:02:33.040><c> types</c><00:02:33.440><c> of</c><00:02:33.519><c> things</c><00:02:33.840><c> we're</c>
+
+00:02:34.229 --> 00:02:34.239 align:start position:0%
+those are the types of things we're
+ 
+
+00:02:34.239 --> 00:02:36.229 align:start position:0%
+those are the types of things we're
+gathering<00:02:35.200><c> but</c><00:02:35.200><c> we</c><00:02:35.440><c> want</c><00:02:35.599><c> to</c><00:02:35.760><c> gather</c><00:02:36.080><c> them</c>
+
+00:02:36.229 --> 00:02:36.239 align:start position:0%
+gathering but we want to gather them
+ 
+
+00:02:36.239 --> 00:02:37.910 align:start position:0%
+gathering but we want to gather them
+from<00:02:36.400><c> as</c><00:02:36.640><c> many</c><00:02:36.959><c> different</c><00:02:37.440><c> things</c><00:02:37.760><c> as</c>
+
+00:02:37.910 --> 00:02:37.920 align:start position:0%
+from as many different things as
+ 
+
+00:02:37.920 --> 00:02:41.350 align:start position:0%
+from as many different things as
+possible<00:02:38.879><c> so</c><00:02:39.040><c> yes</c><00:02:39.519><c> absolutely</c><00:02:40.720><c> i</c><00:02:40.879><c> can</c><00:02:41.040><c> gather</c>
+
+00:02:41.350 --> 00:02:41.360 align:start position:0%
+possible so yes absolutely i can gather
+ 
+
+00:02:41.360 --> 00:02:43.990 align:start position:0%
+possible so yes absolutely i can gather
+these<00:02:41.599><c> from</c><00:02:42.000><c> azure</c><00:02:42.319><c> resources</c>
+
+00:02:43.990 --> 00:02:44.000 align:start position:0%
+these from azure resources
+ 
+
+00:02:44.000 --> 00:02:45.990 align:start position:0%
+these from azure resources
+but<00:02:44.239><c> i</c><00:02:44.319><c> can</c><00:02:44.480><c> gather</c><00:02:44.800><c> it</c><00:02:44.959><c> from</c><00:02:45.200><c> things</c><00:02:45.760><c> on</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+but i can gather it from things on
+ 
+
+00:02:46.000 --> 00:02:48.710 align:start position:0%
+but i can gather it from things on
+premises
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+ 
+ 
+
+00:02:48.720 --> 00:02:53.830 align:start position:0%
+ 
+i<00:02:49.040><c> can</c><00:02:49.280><c> think</c><00:02:49.519><c> about</c><00:02:49.760><c> things</c><00:02:50.239><c> other</c><00:02:50.560><c> clouds</c>
+
+00:02:53.830 --> 00:02:53.840 align:start position:0%
+ 
+ 
+
+00:02:53.840 --> 00:02:56.550 align:start position:0%
+ 
+i<00:02:54.160><c> think</c><00:02:54.480><c> about</c><00:02:54.959><c> network</c><00:02:55.440><c> equipment</c>
+
+00:02:56.550 --> 00:02:56.560 align:start position:0%
+i think about network equipment
+ 
+
+00:02:56.560 --> 00:02:59.350 align:start position:0%
+i think about network equipment
+and<00:02:56.640><c> my</c><00:02:56.879><c> networking</c><00:02:57.760><c> configurations</c>
+
+00:02:59.350 --> 00:02:59.360 align:start position:0%
+and my networking configurations
+ 
+
+00:02:59.360 --> 00:03:01.990 align:start position:0%
+and my networking configurations
+i<00:02:59.599><c> think</c><00:02:59.840><c> about</c><00:03:00.159><c> my</c><00:03:00.560><c> identity</c>
+
+00:03:01.990 --> 00:03:02.000 align:start position:0%
+i think about my identity
+ 
+
+00:03:02.000 --> 00:03:05.670 align:start position:0%
+i think about my identity
+for<00:03:02.159><c> example</c><00:03:02.800><c> azure</c><00:03:03.280><c> ad</c><00:03:04.319><c> i</c><00:03:04.480><c> think</c><00:03:04.720><c> about</c><00:03:05.120><c> other</c>
+
+00:03:05.670 --> 00:03:05.680 align:start position:0%
+for example azure ad i think about other
+ 
+
+00:03:05.680 --> 00:03:09.030 align:start position:0%
+for example azure ad i think about other
+cloud<00:03:06.319><c> sas</c><00:03:06.800><c> applications</c>
+
+00:03:09.030 --> 00:03:09.040 align:start position:0%
+cloud sas applications
+ 
+
+00:03:09.040 --> 00:03:11.750 align:start position:0%
+cloud sas applications
+i<00:03:09.280><c> want</c><00:03:09.760><c> to</c><00:03:10.080><c> get</c><00:03:10.400><c> information</c><00:03:10.959><c> from</c><00:03:11.120><c> as</c><00:03:11.360><c> many</c>
+
+00:03:11.750 --> 00:03:11.760 align:start position:0%
+i want to get information from as many
+ 
+
+00:03:11.760 --> 00:03:13.509 align:start position:0%
+i want to get information from as many
+different<00:03:12.239><c> things</c><00:03:12.480><c> as</c><00:03:12.640><c> possible</c><00:03:13.200><c> the</c><00:03:13.360><c> more</c>
+
+00:03:13.509 --> 00:03:13.519 align:start position:0%
+different things as possible the more
+ 
+
+00:03:13.519 --> 00:03:16.710 align:start position:0%
+different things as possible the more
+security<00:03:14.159><c> locks</c><00:03:14.720><c> the</c><00:03:14.879><c> more</c><00:03:15.120><c> signals</c><00:03:15.519><c> i</c><00:03:15.680><c> get</c>
+
+00:03:16.710 --> 00:03:16.720 align:start position:0%
+security locks the more signals i get
+ 
+
+00:03:16.720 --> 00:03:20.070 align:start position:0%
+security locks the more signals i get
+the<00:03:16.879><c> better</c><00:03:17.840><c> now</c><00:03:18.080><c> some</c><00:03:18.319><c> of</c><00:03:18.640><c> these</c><00:03:19.120><c> connectors</c>
+
+00:03:20.070 --> 00:03:20.080 align:start position:0%
+the better now some of these connectors
+ 
+
+00:03:20.080 --> 00:03:22.390 align:start position:0%
+the better now some of these connectors
+are<00:03:20.159><c> just</c><00:03:20.319><c> part</c><00:03:20.560><c> of</c><00:03:20.640><c> log</c><00:03:20.879><c> analytics</c><00:03:21.360><c> workspace</c>
+
+00:03:22.390 --> 00:03:22.400 align:start position:0%
+are just part of log analytics workspace
+ 
+
+00:03:22.400 --> 00:03:24.550 align:start position:0%
+are just part of log analytics workspace
+but<00:03:22.640><c> some</c><00:03:22.879><c> of</c><00:03:22.959><c> them</c><00:03:23.360><c> actually</c><00:03:23.840><c> are</c><00:03:24.080><c> sentinel</c>
+
+00:03:24.550 --> 00:03:24.560 align:start position:0%
+but some of them actually are sentinel
+ 
+
+00:03:24.560 --> 00:03:26.949 align:start position:0%
+but some of them actually are sentinel
+specific<00:03:25.120><c> so</c><00:03:25.360><c> azure</c><00:03:25.680><c> sentinel</c><00:03:26.159><c> yes</c><00:03:26.480><c> it</c><00:03:26.640><c> sits</c>
+
+00:03:26.949 --> 00:03:26.959 align:start position:0%
+specific so azure sentinel yes it sits
+ 
+
+00:03:26.959 --> 00:03:30.149 align:start position:0%
+specific so azure sentinel yes it sits
+on<00:03:27.200><c> top</c><00:03:27.920><c> of</c><00:03:28.080><c> a</c><00:03:28.159><c> log</c><00:03:28.400><c> analytics</c><00:03:28.959><c> workspace</c>
+
+00:03:30.149 --> 00:03:30.159 align:start position:0%
+on top of a log analytics workspace
+ 
+
+00:03:30.159 --> 00:03:33.030 align:start position:0%
+on top of a log analytics workspace
+but<00:03:30.319><c> it</c><00:03:30.640><c> also</c><00:03:31.360><c> adds</c><00:03:32.000><c> a</c><00:03:32.159><c> number</c><00:03:32.480><c> of</c><00:03:32.640><c> different</c>
+
+00:03:33.030 --> 00:03:33.040 align:start position:0%
+but it also adds a number of different
+ 
+
+00:03:33.040 --> 00:03:35.750 align:start position:0%
+but it also adds a number of different
+connectors<00:03:34.239><c> that</c><00:03:34.560><c> are</c><00:03:34.799><c> unique</c><00:03:35.200><c> to</c><00:03:35.440><c> azure</c>
+
+00:03:35.750 --> 00:03:35.760 align:start position:0%
+connectors that are unique to azure
+ 
+
+00:03:35.760 --> 00:03:38.390 align:start position:0%
+connectors that are unique to azure
+sentinel<00:03:36.480><c> to</c><00:03:36.640><c> help</c><00:03:36.959><c> get</c><00:03:37.200><c> me</c><00:03:37.360><c> that</c><00:03:37.680><c> information</c>
+
+00:03:38.390 --> 00:03:38.400 align:start position:0%
+sentinel to help get me that information
+ 
+
+00:03:38.400 --> 00:03:39.350 align:start position:0%
+sentinel to help get me that information
+in
+
+00:03:39.350 --> 00:03:39.360 align:start position:0%
+in
+ 
+
+00:03:39.360 --> 00:03:41.430 align:start position:0%
+in
+if<00:03:39.519><c> we</c><00:03:39.680><c> jump</c><00:03:40.000><c> over</c><00:03:40.239><c> and</c><00:03:40.400><c> look</c><00:03:40.720><c> at</c><00:03:40.879><c> an</c><00:03:41.120><c> azure</c>
+
+00:03:41.430 --> 00:03:41.440 align:start position:0%
+if we jump over and look at an azure
+ 
+
+00:03:41.440 --> 00:03:43.430 align:start position:0%
+if we jump over and look at an azure
+sentinel<00:03:42.080><c> instance</c>
+
+00:03:43.430 --> 00:03:43.440 align:start position:0%
+sentinel instance
+ 
+
+00:03:43.440 --> 00:03:45.830 align:start position:0%
+sentinel instance
+we<00:03:43.599><c> can</c><00:03:43.840><c> actually</c><00:03:44.400><c> see</c><00:03:44.879><c> i</c><00:03:44.959><c> have</c><00:03:45.120><c> this</c><00:03:45.280><c> idea</c><00:03:45.599><c> of</c>
+
+00:03:45.830 --> 00:03:45.840 align:start position:0%
+we can actually see i have this idea of
+ 
+
+00:03:45.840 --> 00:03:48.149 align:start position:0%
+we can actually see i have this idea of
+data<00:03:46.319><c> connectors</c>
+
+00:03:48.149 --> 00:03:48.159 align:start position:0%
+data connectors
+ 
+
+00:03:48.159 --> 00:03:49.670 align:start position:0%
+data connectors
+that<00:03:48.400><c> i've</c><00:03:48.560><c> got</c><00:03:48.720><c> down</c><00:03:48.879><c> here</c><00:03:49.120><c> as</c><00:03:49.200><c> part</c><00:03:49.360><c> of</c><00:03:49.440><c> my</c>
+
+00:03:49.670 --> 00:03:49.680 align:start position:0%
+that i've got down here as part of my
+ 
+
+00:03:49.680 --> 00:03:52.390 align:start position:0%
+that i've got down here as part of my
+configuration
+
+00:03:52.390 --> 00:03:52.400 align:start position:0%
+configuration
+ 
+
+00:03:52.400 --> 00:03:53.830 align:start position:0%
+configuration
+and<00:03:52.560><c> we</c><00:03:52.640><c> can</c><00:03:52.720><c> see</c><00:03:52.879><c> there's</c><00:03:53.040><c> just</c><00:03:53.280><c> a</c><00:03:53.439><c> huge</c>
+
+00:03:53.830 --> 00:03:53.840 align:start position:0%
+and we can see there's just a huge
+ 
+
+00:03:53.840 --> 00:03:56.309 align:start position:0%
+and we can see there's just a huge
+number<00:03:54.480><c> these</c><00:03:54.720><c> are</c><00:03:54.959><c> no</c><00:03:55.200><c> is</c><00:03:55.680><c> amazon</c><00:03:56.080><c> web</c>
+
+00:03:56.309 --> 00:03:56.319 align:start position:0%
+number these are no is amazon web
+ 
+
+00:03:56.319 --> 00:03:58.070 align:start position:0%
+number these are no is amazon web
+services
+
+00:03:58.070 --> 00:03:58.080 align:start position:0%
+services
+ 
+
+00:03:58.080 --> 00:04:02.229 align:start position:0%
+services
+apache<00:03:58.799><c> servers</c><00:03:59.680><c> azure</c><00:04:00.159><c> active</c><00:04:00.480><c> directory</c>
+
+00:04:02.229 --> 00:04:02.239 align:start position:0%
+apache servers azure active directory
+ 
+
+00:04:02.239 --> 00:04:06.149 align:start position:0%
+apache servers azure active directory
+azure<00:04:02.640><c> ddos</c><00:04:03.680><c> aks</c><00:04:04.720><c> barracuda</c><00:04:05.599><c> networking</c>
+
+00:04:06.149 --> 00:04:06.159 align:start position:0%
+azure ddos aks barracuda networking
+ 
+
+00:04:06.159 --> 00:04:09.910 align:start position:0%
+azure ddos aks barracuda networking
+appliances<00:04:06.799><c> checkpoint</c><00:04:07.599><c> cisco</c><00:04:08.080><c> devices</c>
+
+00:04:09.910 --> 00:04:09.920 align:start position:0%
+appliances checkpoint cisco devices
+ 
+
+00:04:09.920 --> 00:04:12.869 align:start position:0%
+appliances checkpoint cisco devices
+f5<00:04:10.640><c> devices</c><00:04:11.439><c> google</c>
+
+00:04:12.869 --> 00:04:12.879 align:start position:0%
+f5 devices google
+ 
+
+00:04:12.879 --> 00:04:14.630 align:start position:0%
+f5 devices google
+workspaces
+
+00:04:14.630 --> 00:04:14.640 align:start position:0%
+workspaces
+ 
+
+00:04:14.640 --> 00:04:16.949 align:start position:0%
+workspaces
+microsoft<00:04:15.120><c> 365</c><00:04:15.760><c> defender</c>
+
+00:04:16.949 --> 00:04:16.959 align:start position:0%
+microsoft 365 defender
+ 
+
+00:04:16.959 --> 00:04:20.789 align:start position:0%
+microsoft 365 defender
+so<00:04:17.199><c> a</c><00:04:17.440><c> huge</c><00:04:18.000><c> number</c><00:04:18.560><c> of</c><00:04:18.799><c> different</c><00:04:19.440><c> types</c><00:04:20.079><c> of</c>
+
+00:04:20.789 --> 00:04:20.799 align:start position:0%
+so a huge number of different types of
+ 
+
+00:04:20.799 --> 00:04:22.310 align:start position:0%
+so a huge number of different types of
+connector<00:04:21.359><c> to</c><00:04:21.519><c> connect</c><00:04:21.759><c> to</c><00:04:21.919><c> all</c><00:04:22.079><c> these</c>
+
+00:04:22.310 --> 00:04:22.320 align:start position:0%
+connector to connect to all these
+ 
+
+00:04:22.320 --> 00:04:24.469 align:start position:0%
+connector to connect to all these
+different<00:04:22.639><c> types</c><00:04:22.960><c> of</c><00:04:23.040><c> solutions</c>
+
+00:04:24.469 --> 00:04:24.479 align:start position:0%
+different types of solutions
+ 
+
+00:04:24.479 --> 00:04:27.030 align:start position:0%
+different types of solutions
+and<00:04:24.560><c> what</c><00:04:24.800><c> will</c><00:04:25.040><c> happen</c><00:04:25.440><c> is</c><00:04:26.080><c> when</c><00:04:26.320><c> you</c><00:04:26.560><c> start</c>
+
+00:04:27.030 --> 00:04:27.040 align:start position:0%
+and what will happen is when you start
+ 
+
+00:04:27.040 --> 00:04:29.510 align:start position:0%
+and what will happen is when you start
+to<00:04:27.600><c> add</c><00:04:27.919><c> these</c><00:04:28.240><c> things</c>
+
+00:04:29.510 --> 00:04:29.520 align:start position:0%
+to add these things
+ 
+
+00:04:29.520 --> 00:04:31.110 align:start position:0%
+to add these things
+it's<00:04:29.759><c> telling</c><00:04:30.000><c> me</c><00:04:30.160><c> the</c><00:04:30.240><c> various</c><00:04:30.560><c> data</c><00:04:30.880><c> types</c>
+
+00:04:31.110 --> 00:04:31.120 align:start position:0%
+it's telling me the various data types
+ 
+
+00:04:31.120 --> 00:04:33.030 align:start position:0%
+it's telling me the various data types
+that's<00:04:31.280><c> going</c><00:04:31.360><c> to</c><00:04:31.440><c> get</c><00:04:31.680><c> added</c>
+
+00:04:33.030 --> 00:04:33.040 align:start position:0%
+that's going to get added
+ 
+
+00:04:33.040 --> 00:04:34.870 align:start position:0%
+that's going to get added
+and<00:04:33.280><c> it</c><00:04:33.360><c> will</c><00:04:33.600><c> tell</c><00:04:33.759><c> me</c><00:04:34.000><c> hey</c><00:04:34.160><c> the</c><00:04:34.400><c> types</c><00:04:34.720><c> of</c>
+
+00:04:34.870 --> 00:04:34.880 align:start position:0%
+and it will tell me hey the types of
+ 
+
+00:04:34.880 --> 00:04:36.950 align:start position:0%
+and it will tell me hey the types of
+things<00:04:35.360><c> that</c><00:04:35.600><c> then</c><00:04:35.759><c> will</c><00:04:36.000><c> get</c><00:04:36.240><c> enabled</c><00:04:36.720><c> so</c>
+
+00:04:36.950 --> 00:04:36.960 align:start position:0%
+things that then will get enabled so
+ 
+
+00:04:36.960 --> 00:04:38.469 align:start position:0%
+things that then will get enabled so
+there<00:04:37.120><c> are</c><00:04:37.199><c> some</c><00:04:37.360><c> new</c><00:04:37.600><c> workbooks</c><00:04:38.160><c> there</c><00:04:38.320><c> are</c>
+
+00:04:38.469 --> 00:04:38.479 align:start position:0%
+there are some new workbooks there are
+ 
+
+00:04:38.479 --> 00:04:41.189 align:start position:0%
+there are some new workbooks there are
+some<00:04:38.639><c> new</c><00:04:38.960><c> queries</c><00:04:39.840><c> so</c><00:04:40.000><c> it</c><00:04:40.160><c> starts</c><00:04:40.400><c> to</c><00:04:40.720><c> enhance</c>
+
+00:04:41.189 --> 00:04:41.199 align:start position:0%
+some new queries so it starts to enhance
+ 
+
+00:04:41.199 --> 00:04:43.510 align:start position:0%
+some new queries so it starts to enhance
+the<00:04:41.479><c> functionality</c><00:04:42.560><c> that</c><00:04:42.800><c> i</c><00:04:42.960><c> actually</c><00:04:43.280><c> have</c>
+
+00:04:43.510 --> 00:04:43.520 align:start position:0%
+the functionality that i actually have
+ 
+
+00:04:43.520 --> 00:04:45.749 align:start position:0%
+the functionality that i actually have
+in<00:04:43.600><c> my</c><00:04:43.840><c> environment</c><00:04:44.639><c> it's</c><00:04:44.800><c> super</c><00:04:45.120><c> basic</c><00:04:45.680><c> you</c>
+
+00:04:45.749 --> 00:04:45.759 align:start position:0%
+in my environment it's super basic you
+ 
+
+00:04:45.759 --> 00:04:47.510 align:start position:0%
+in my environment it's super basic you
+can<00:04:45.919><c> see</c><00:04:46.080><c> here</c><00:04:46.320><c> hey</c><00:04:46.560><c> i</c><00:04:46.639><c> just</c><00:04:46.800><c> have</c><00:04:47.120><c> three</c>
+
+00:04:47.510 --> 00:04:47.520 align:start position:0%
+can see here hey i just have three
+ 
+
+00:04:47.520 --> 00:04:50.070 align:start position:0%
+can see here hey i just have three
+connected<00:04:48.560><c> out</c><00:04:48.720><c> of</c><00:04:48.960><c> all</c><00:04:49.120><c> of</c><00:04:49.280><c> those</c><00:04:49.600><c> possible</c>
+
+00:04:50.070 --> 00:04:50.080 align:start position:0%
+connected out of all of those possible
+ 
+
+00:04:50.080 --> 00:04:52.150 align:start position:0%
+connected out of all of those possible
+ones<00:04:50.400><c> that</c><00:04:50.639><c> actually</c><00:04:51.120><c> exist</c>
+
+00:04:52.150 --> 00:04:52.160 align:start position:0%
+ones that actually exist
+ 
+
+00:04:52.160 --> 00:04:53.830 align:start position:0%
+ones that actually exist
+but<00:04:52.320><c> you</c><00:04:52.400><c> can</c><00:04:52.560><c> go</c><00:04:52.800><c> through</c><00:04:53.120><c> and</c><00:04:53.360><c> add</c><00:04:53.600><c> the</c>
+
+00:04:53.830 --> 00:04:53.840 align:start position:0%
+but you can go through and add the
+ 
+
+00:04:53.840 --> 00:04:56.469 align:start position:0%
+but you can go through and add the
+connectors<00:04:54.639><c> that</c><00:04:55.120><c> make</c><00:04:55.360><c> the</c><00:04:55.520><c> most</c><00:04:55.840><c> sense</c><00:04:56.320><c> for</c>
+
+00:04:56.469 --> 00:04:56.479 align:start position:0%
+connectors that make the most sense for
+ 
+
+00:04:56.479 --> 00:04:57.590 align:start position:0%
+connectors that make the most sense for
+you
+
+00:04:57.590 --> 00:04:57.600 align:start position:0%
+you
+ 
+
+00:04:57.600 --> 00:04:59.670 align:start position:0%
+you
+and<00:04:57.759><c> the</c><00:04:57.840><c> key</c><00:04:58.160><c> point</c><00:04:58.400><c> here</c><00:04:58.560><c> is</c><00:04:58.800><c> so</c><00:04:59.040><c> connectors</c>
+
+00:04:59.670 --> 00:04:59.680 align:start position:0%
+and the key point here is so connectors
+ 
+
+00:04:59.680 --> 00:05:01.749 align:start position:0%
+and the key point here is so connectors
+get<00:05:00.080><c> us</c><00:05:00.479><c> the</c><00:05:00.720><c> data</c>
+
+00:05:01.749 --> 00:05:01.759 align:start position:0%
+get us the data
+ 
+
+00:05:01.759 --> 00:05:03.350 align:start position:0%
+get us the data
+well<00:05:02.000><c> i</c><00:05:02.080><c> could</c><00:05:02.240><c> probably</c><00:05:02.479><c> get</c><00:05:02.639><c> the</c><00:05:02.800><c> data</c><00:05:03.199><c> for</c>
+
+00:05:03.350 --> 00:05:03.360 align:start position:0%
+well i could probably get the data for
+ 
+
+00:05:03.360 --> 00:05:06.070 align:start position:0%
+well i could probably get the data for
+large<00:05:03.680><c> part</c><00:05:03.919><c> on</c><00:05:04.080><c> my</c><00:05:04.320><c> own</c><00:05:04.960><c> but</c><00:05:05.120><c> a</c><00:05:05.280><c> huge</c><00:05:05.680><c> volume</c>
+
+00:05:06.070 --> 00:05:06.080 align:start position:0%
+large part on my own but a huge volume
+ 
+
+00:05:06.080 --> 00:05:08.710 align:start position:0%
+large part on my own but a huge volume
+of<00:05:06.160><c> data</c><00:05:06.560><c> on</c><00:05:06.720><c> its</c><00:05:06.880><c> own</c><00:05:07.280><c> is</c><00:05:07.520><c> useless</c>
+
+00:05:08.710 --> 00:05:08.720 align:start position:0%
+of data on its own is useless
+ 
+
+00:05:08.720 --> 00:05:11.350 align:start position:0%
+of data on its own is useless
+it's<00:05:08.960><c> that</c><00:05:09.199><c> ability</c><00:05:09.919><c> to</c><00:05:10.160><c> actually</c><00:05:10.720><c> correlate</c>
+
+00:05:11.350 --> 00:05:11.360 align:start position:0%
+it's that ability to actually correlate
+ 
+
+00:05:11.360 --> 00:05:13.189 align:start position:0%
+it's that ability to actually correlate
+all<00:05:11.520><c> those</c><00:05:11.840><c> different</c><00:05:12.240><c> logs</c><00:05:12.560><c> and</c><00:05:12.720><c> signals</c>
+
+00:05:13.189 --> 00:05:13.199 align:start position:0%
+all those different logs and signals
+ 
+
+00:05:13.199 --> 00:05:14.310 align:start position:0%
+all those different logs and signals
+together
+
+00:05:14.310 --> 00:05:14.320 align:start position:0%
+together
+ 
+
+00:05:14.320 --> 00:05:16.870 align:start position:0%
+together
+and<00:05:14.639><c> understand</c><00:05:15.280><c> what</c><00:05:15.520><c> is</c><00:05:15.759><c> meaningful</c><00:05:16.720><c> what</c>
+
+00:05:16.870 --> 00:05:16.880 align:start position:0%
+and understand what is meaningful what
+ 
+
+00:05:16.880 --> 00:05:18.950 align:start position:0%
+and understand what is meaningful what
+do<00:05:17.120><c> i</c><00:05:17.199><c> actually</c><00:05:17.520><c> care</c><00:05:17.680><c> about</c><00:05:18.000><c> what</c><00:05:18.320><c> indicates</c>
+
+00:05:18.950 --> 00:05:18.960 align:start position:0%
+do i actually care about what indicates
+ 
+
+00:05:18.960 --> 00:05:21.990 align:start position:0%
+do i actually care about what indicates
+some<00:05:19.440><c> kind</c><00:05:19.840><c> of</c><00:05:20.080><c> incident</c><00:05:20.560><c> or</c><00:05:20.800><c> attack</c>
+
+00:05:21.990 --> 00:05:22.000 align:start position:0%
+some kind of incident or attack
+ 
+
+00:05:22.000 --> 00:05:24.469 align:start position:0%
+some kind of incident or attack
+and<00:05:22.320><c> that's</c><00:05:22.639><c> what</c><00:05:22.880><c> microsoft</c><00:05:23.360><c> sentinel</c><00:05:23.919><c> does</c>
+
+00:05:24.469 --> 00:05:24.479 align:start position:0%
+and that's what microsoft sentinel does
+ 
+
+00:05:24.479 --> 00:05:26.390 align:start position:0%
+and that's what microsoft sentinel does
+it<00:05:24.800><c> looks</c><00:05:25.120><c> at</c><00:05:25.280><c> all</c><00:05:25.520><c> of</c><00:05:25.600><c> these</c><00:05:25.919><c> signals</c><00:05:26.320><c> and</c>
+
+00:05:26.390 --> 00:05:26.400 align:start position:0%
+it looks at all of these signals and
+ 
+
+00:05:26.400 --> 00:05:29.110 align:start position:0%
+it looks at all of these signals and
+security<00:05:27.039><c> logs</c><00:05:27.759><c> but</c><00:05:27.919><c> it</c><00:05:28.080><c> basically</c><00:05:28.639><c> adds</c>
+
+00:05:29.110 --> 00:05:29.120 align:start position:0%
+security logs but it basically adds
+ 
+
+00:05:29.120 --> 00:05:30.629 align:start position:0%
+security logs but it basically adds
+intelligence
+
+00:05:30.629 --> 00:05:30.639 align:start position:0%
+intelligence
+ 
+
+00:05:30.639 --> 00:05:33.029 align:start position:0%
+intelligence
+so<00:05:30.880><c> it</c><00:05:31.039><c> uses</c><00:05:31.360><c> things</c><00:05:31.520><c> like</c><00:05:31.759><c> machine</c><00:05:32.240><c> learning</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+so it uses things like machine learning
+ 
+
+00:05:33.039 --> 00:05:34.790 align:start position:0%
+so it uses things like machine learning
+it's<00:05:33.280><c> adding</c><00:05:33.600><c> things</c><00:05:33.840><c> like</c><00:05:34.000><c> microsoft</c><00:05:34.479><c> cyber</c>
+
+00:05:34.790 --> 00:05:34.800 align:start position:0%
+it's adding things like microsoft cyber
+ 
+
+00:05:34.800 --> 00:05:37.270 align:start position:0%
+it's adding things like microsoft cyber
+security<00:05:35.360><c> teams</c><00:05:35.680><c> to</c><00:05:35.919><c> understand</c><00:05:36.479><c> that</c><00:05:37.120><c> so</c><00:05:37.280><c> we</c>
+
+00:05:37.270 --> 00:05:37.280 align:start position:0%
+security teams to understand that so we
+ 
+
+00:05:37.280 --> 00:05:39.909 align:start position:0%
+security teams to understand that so we
+can<00:05:37.440><c> actually</c><00:05:37.759><c> give</c><00:05:38.000><c> you</c><00:05:38.320><c> meaningful</c><00:05:39.120><c> insight</c>
+
+00:05:39.909 --> 00:05:39.919 align:start position:0%
+can actually give you meaningful insight
+ 
+
+00:05:39.919 --> 00:05:41.909 align:start position:0%
+can actually give you meaningful insight
+into<00:05:40.240><c> exactly</c><00:05:40.800><c> what's</c><00:05:41.199><c> happening</c><00:05:41.600><c> in</c><00:05:41.680><c> my</c>
+
+00:05:41.909 --> 00:05:41.919 align:start position:0%
+into exactly what's happening in my
+ 
+
+00:05:41.919 --> 00:05:43.029 align:start position:0%
+into exactly what's happening in my
+environment
+
+00:05:43.029 --> 00:05:43.039 align:start position:0%
+environment
+ 
+
+00:05:43.039 --> 00:05:44.950 align:start position:0%
+environment
+and<00:05:43.199><c> what</c><00:05:43.440><c> we'll</c><00:05:43.840><c> see</c>
+
+00:05:44.950 --> 00:05:44.960 align:start position:0%
+and what we'll see
+ 
+
+00:05:44.960 --> 00:05:46.469 align:start position:0%
+and what we'll see
+is<00:05:45.280><c> well</c>
+
+00:05:46.469 --> 00:05:46.479 align:start position:0%
+is well
+ 
+
+00:05:46.479 --> 00:05:48.790 align:start position:0%
+is well
+straight<00:05:46.800><c> away</c><00:05:47.039><c> it</c><00:05:47.199><c> opens</c><00:05:47.680><c> up</c><00:05:47.840><c> things</c><00:05:48.240><c> like</c><00:05:48.560><c> i</c>
+
+00:05:48.790 --> 00:05:48.800 align:start position:0%
+straight away it opens up things like i
+ 
+
+00:05:48.800 --> 00:05:51.110 align:start position:0%
+straight away it opens up things like i
+have<00:05:48.880><c> an</c><00:05:49.039><c> overview</c><00:05:50.080><c> so</c><00:05:50.240><c> i</c><00:05:50.320><c> can</c><00:05:50.479><c> quickly</c><00:05:50.800><c> see</c>
+
+00:05:51.110 --> 00:05:51.120 align:start position:0%
+have an overview so i can quickly see
+ 
+
+00:05:51.120 --> 00:05:53.350 align:start position:0%
+have an overview so i can quickly see
+nice<00:05:51.600><c> visually</c><00:05:52.160><c> events</c><00:05:52.560><c> and</c><00:05:52.720><c> alerts</c><00:05:53.120><c> that</c><00:05:53.199><c> are</c>
+
+00:05:53.350 --> 00:05:53.360 align:start position:0%
+nice visually events and alerts that are
+ 
+
+00:05:53.360 --> 00:05:55.110 align:start position:0%
+nice visually events and alerts that are
+happening<00:05:53.759><c> in</c><00:05:53.840><c> my</c><00:05:54.080><c> environment</c><00:05:54.560><c> heartbeats</c>
+
+00:05:55.110 --> 00:05:55.120 align:start position:0%
+happening in my environment heartbeats
+ 
+
+00:05:55.120 --> 00:05:58.309 align:start position:0%
+happening in my environment heartbeats
+configuration<00:05:56.160><c> updates</c><00:05:57.120><c> i</c><00:05:57.280><c> have</c><00:05:57.440><c> no</c><00:05:57.680><c> alerts</c>
+
+00:05:58.309 --> 00:05:58.319 align:start position:0%
+configuration updates i have no alerts
+ 
+
+00:05:58.319 --> 00:06:00.710 align:start position:0%
+configuration updates i have no alerts
+so<00:05:58.479><c> that's</c><00:05:58.880><c> a</c><00:05:58.960><c> nice</c><00:05:59.360><c> thing</c><00:05:59.919><c> i</c><00:06:00.080><c> could</c><00:06:00.319><c> see</c>
+
+00:06:00.710 --> 00:06:00.720 align:start position:0%
+so that's a nice thing i could see
+ 
+
+00:06:00.720 --> 00:06:02.469 align:start position:0%
+so that's a nice thing i could see
+incidents<00:06:01.520><c> i</c><00:06:01.680><c> could</c><00:06:01.840><c> see</c><00:06:02.000><c> potential</c>
+
+00:06:02.469 --> 00:06:02.479 align:start position:0%
+incidents i could see potential
+ 
+
+00:06:02.479 --> 00:06:04.230 align:start position:0%
+incidents i could see potential
+malicious<00:06:03.120><c> events</c><00:06:03.520><c> and</c><00:06:03.680><c> where</c><00:06:03.919><c> they're</c>
+
+00:06:04.230 --> 00:06:04.240 align:start position:0%
+malicious events and where they're
+ 
+
+00:06:04.240 --> 00:06:07.510 align:start position:0%
+malicious events and where they're
+coming<00:06:04.639><c> from</c><00:06:05.440><c> around</c><00:06:05.759><c> the</c><00:06:05.919><c> world</c>
+
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+coming from around the world
+ 
+
+00:06:07.520 --> 00:06:09.670 align:start position:0%
+coming from around the world
+i<00:06:07.759><c> could</c><00:06:08.160><c> directly</c><00:06:08.800><c> access</c><00:06:09.280><c> the</c><00:06:09.520><c> log</c>
+
+00:06:09.670 --> 00:06:09.680 align:start position:0%
+i could directly access the log
+ 
+
+00:06:09.680 --> 00:06:12.629 align:start position:0%
+i could directly access the log
+analytics<00:06:10.160><c> workspace</c><00:06:10.720><c> and</c><00:06:10.880><c> run</c><00:06:11.120><c> queries</c>
+
+00:06:12.629 --> 00:06:12.639 align:start position:0%
+analytics workspace and run queries
+ 
+
+00:06:12.639 --> 00:06:14.870 align:start position:0%
+analytics workspace and run queries
+but<00:06:12.800><c> i</c><00:06:12.880><c> can</c><00:06:13.120><c> dive</c><00:06:13.440><c> into</c><00:06:13.919><c> incidents</c><00:06:14.639><c> so</c><00:06:14.800><c> if</c>
+
+00:06:14.870 --> 00:06:14.880 align:start position:0%
+but i can dive into incidents so if
+ 
+
+00:06:14.880 --> 00:06:16.950 align:start position:0%
+but i can dive into incidents so if
+there's<00:06:15.199><c> actually</c><00:06:15.520><c> an</c><00:06:15.759><c> incident</c><00:06:16.639><c> it</c><00:06:16.800><c> will</c>
+
+00:06:16.950 --> 00:06:16.960 align:start position:0%
+there's actually an incident it will
+ 
+
+00:06:16.960 --> 00:06:19.749 align:start position:0%
+there's actually an incident it will
+then<00:06:17.280><c> guide</c><00:06:17.680><c> me</c><00:06:17.919><c> okay</c><00:06:18.160><c> what</c><00:06:18.319><c> do</c><00:06:18.479><c> i</c><00:06:18.639><c> need</c><00:06:18.800><c> to</c><00:06:18.960><c> do</c>
+
+00:06:19.749 --> 00:06:19.759 align:start position:0%
+then guide me okay what do i need to do
+ 
+
+00:06:19.759 --> 00:06:22.390 align:start position:0%
+then guide me okay what do i need to do
+how<00:06:19.919><c> do</c><00:06:20.080><c> i</c><00:06:20.240><c> start</c><00:06:20.560><c> working</c><00:06:21.120><c> through</c><00:06:21.440><c> this</c>
+
+00:06:22.390 --> 00:06:22.400 align:start position:0%
+how do i start working through this
+ 
+
+00:06:22.400 --> 00:06:24.629 align:start position:0%
+how do i start working through this
+there<00:06:22.800><c> are</c><00:06:23.039><c> workbooks</c>
+
+00:06:24.629 --> 00:06:24.639 align:start position:0%
+there are workbooks
+ 
+
+00:06:24.639 --> 00:06:27.590 align:start position:0%
+there are workbooks
+that<00:06:24.960><c> help</c><00:06:25.280><c> me</c><00:06:25.680><c> actually</c><00:06:26.160><c> go</c><00:06:26.560><c> through</c>
+
+00:06:27.590 --> 00:06:27.600 align:start position:0%
+that help me actually go through
+ 
+
+00:06:27.600 --> 00:06:30.309 align:start position:0%
+that help me actually go through
+and<00:06:27.840><c> start</c><00:06:28.560><c> focusing</c><00:06:29.199><c> around</c><00:06:29.680><c> well</c><00:06:30.080><c> what</c>
+
+00:06:30.309 --> 00:06:30.319 align:start position:0%
+and start focusing around well what
+ 
+
+00:06:30.319 --> 00:06:31.909 align:start position:0%
+and start focusing around well what
+should<00:06:30.479><c> i</c><00:06:30.639><c> do</c><00:06:30.800><c> around</c><00:06:31.120><c> this</c><00:06:31.360><c> particular</c>
+
+00:06:31.909 --> 00:06:31.919 align:start position:0%
+should i do around this particular
+ 
+
+00:06:31.919 --> 00:06:34.469 align:start position:0%
+should i do around this particular
+instant<00:06:32.400><c> i</c><00:06:32.479><c> want</c><00:06:32.639><c> to</c><00:06:32.720><c> work</c><00:06:33.039><c> through</c><00:06:33.360><c> it</c><00:06:34.160><c> i</c><00:06:34.319><c> can</c>
+
+00:06:34.469 --> 00:06:34.479 align:start position:0%
+instant i want to work through it i can
+ 
+
+00:06:34.479 --> 00:06:37.430 align:start position:0%
+instant i want to work through it i can
+go<00:06:34.639><c> and</c><00:06:34.960><c> look</c><00:06:35.440><c> for</c><00:06:35.680><c> signs</c><00:06:36.080><c> of</c><00:06:36.240><c> some</c><00:06:36.479><c> attack</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+go and look for signs of some attack
+ 
+
+00:06:37.440 --> 00:06:38.870 align:start position:0%
+go and look for signs of some attack
+so<00:06:37.759><c> hunting</c>
+
+00:06:38.870 --> 00:06:38.880 align:start position:0%
+so hunting
+ 
+
+00:06:38.880 --> 00:06:40.790 align:start position:0%
+so hunting
+is<00:06:39.039><c> essentially</c><00:06:39.600><c> a</c><00:06:39.759><c> query</c>
+
+00:06:40.790 --> 00:06:40.800 align:start position:0%
+is essentially a query
+ 
+
+00:06:40.800 --> 00:06:44.070 align:start position:0%
+is essentially a query
+so<00:06:41.120><c> rare</c><00:06:41.600><c> audit</c><00:06:42.080><c> activity</c>
+
+00:06:44.070 --> 00:06:44.080 align:start position:0%
+so rare audit activity
+ 
+
+00:06:44.080 --> 00:06:46.309 align:start position:0%
+so rare audit activity
+and<00:06:44.240><c> it's</c><00:06:44.479><c> notice</c><00:06:44.960><c> here</c><00:06:45.280><c> it's</c><00:06:45.520><c> showing</c><00:06:45.840><c> me</c><00:06:46.080><c> the</c>
+
+00:06:46.309 --> 00:06:46.319 align:start position:0%
+and it's notice here it's showing me the
+ 
+
+00:06:46.319 --> 00:06:48.070 align:start position:0%
+and it's notice here it's showing me the
+actual<00:06:46.960><c> query</c><00:06:47.440><c> that</c><00:06:47.600><c> it's</c><00:06:47.680><c> going</c><00:06:47.840><c> to</c><00:06:47.919><c> run</c>
+
+00:06:48.070 --> 00:06:48.080 align:start position:0%
+actual query that it's going to run
+ 
+
+00:06:48.080 --> 00:06:50.550 align:start position:0%
+actual query that it's going to run
+against<00:06:48.400><c> that</c><00:06:48.479><c> log</c><00:06:48.720><c> analytics</c><00:06:49.199><c> workspace</c>
+
+00:06:50.550 --> 00:06:50.560 align:start position:0%
+against that log analytics workspace
+ 
+
+00:06:50.560 --> 00:06:53.350 align:start position:0%
+against that log analytics workspace
+there's<00:06:50.800><c> an</c><00:06:51.039><c> indication</c><00:06:51.680><c> of</c><00:06:51.919><c> some</c><00:06:52.319><c> rare</c><00:06:52.800><c> audit</c>
+
+00:06:53.350 --> 00:06:53.360 align:start position:0%
+there's an indication of some rare audit
+ 
+
+00:06:53.360 --> 00:06:56.309 align:start position:0%
+there's an indication of some rare audit
+activity<00:06:54.080><c> initiated</c><00:06:54.880><c> by</c><00:06:55.120><c> the</c><00:06:55.280><c> user</c><00:06:56.000><c> so</c>
+
+00:06:56.309 --> 00:06:56.319 align:start position:0%
+activity initiated by the user so
+ 
+
+00:06:56.319 --> 00:06:57.990 align:start position:0%
+activity initiated by the user so
+hunting<00:06:56.800><c> is</c><00:06:56.960><c> where</c><00:06:57.199><c> i</c><00:06:57.280><c> want</c><00:06:57.440><c> to</c><00:06:57.520><c> go</c><00:06:57.680><c> and</c><00:06:57.840><c> look</c>
+
+00:06:57.990 --> 00:06:58.000 align:start position:0%
+hunting is where i want to go and look
+ 
+
+00:06:58.000 --> 00:06:59.270 align:start position:0%
+hunting is where i want to go and look
+for<00:06:58.160><c> something</c>
+
+00:06:59.270 --> 00:06:59.280 align:start position:0%
+for something
+ 
+
+00:06:59.280 --> 00:07:00.870 align:start position:0%
+for something
+you'll<00:06:59.599><c> hear</c><00:06:59.919><c> there's</c><00:07:00.240><c> been</c><00:07:00.479><c> various</c>
+
+00:07:00.870 --> 00:07:00.880 align:start position:0%
+you'll hear there's been various
+ 
+
+00:07:00.880 --> 00:07:02.950 align:start position:0%
+you'll hear there's been various
+vulnerabilities<00:07:01.680><c> exposed</c><00:07:02.319><c> and</c><00:07:02.400><c> what</c><00:07:02.639><c> happens</c>
+
+00:07:02.950 --> 00:07:02.960 align:start position:0%
+vulnerabilities exposed and what happens
+ 
+
+00:07:02.960 --> 00:07:05.510 align:start position:0%
+vulnerabilities exposed and what happens
+a<00:07:03.039><c> lot</c><00:07:03.199><c> of</c><00:07:03.280><c> the</c><00:07:03.440><c> times</c><00:07:04.240><c> is</c><00:07:04.479><c> there'll</c><00:07:04.880><c> be</c><00:07:05.199><c> some</c>
+
+00:07:05.510 --> 00:07:05.520 align:start position:0%
+a lot of the times is there'll be some
+ 
+
+00:07:05.520 --> 00:07:08.150 align:start position:0%
+a lot of the times is there'll be some
+query<00:07:06.000><c> i</c><00:07:06.160><c> can</c><00:07:06.319><c> run</c><00:07:06.639><c> on</c><00:07:06.800><c> azure</c><00:07:07.120><c> sentinel</c><00:07:08.000><c> to</c>
+
+00:07:08.150 --> 00:07:08.160 align:start position:0%
+query i can run on azure sentinel to
+ 
+
+00:07:08.160 --> 00:07:10.070 align:start position:0%
+query i can run on azure sentinel to
+help<00:07:08.479><c> find</c><00:07:08.800><c> a</c><00:07:08.960><c> sign</c><00:07:09.280><c> that</c><00:07:09.360><c> that's</c><00:07:09.599><c> happening</c>
+
+00:07:10.070 --> 00:07:10.080 align:start position:0%
+help find a sign that that's happening
+ 
+
+00:07:10.080 --> 00:07:12.230 align:start position:0%
+help find a sign that that's happening
+to<00:07:10.400><c> my</c><00:07:10.800><c> environment</c>
+
+00:07:12.230 --> 00:07:12.240 align:start position:0%
+to my environment
+ 
+
+00:07:12.240 --> 00:07:13.749 align:start position:0%
+to my environment
+there<00:07:12.479><c> are</c><00:07:12.560><c> things</c><00:07:12.800><c> like</c><00:07:12.960><c> notebooks</c><00:07:13.440><c> which</c><00:07:13.680><c> is</c>
+
+00:07:13.749 --> 00:07:13.759 align:start position:0%
+there are things like notebooks which is
+ 
+
+00:07:13.759 --> 00:07:15.990 align:start position:0%
+there are things like notebooks which is
+built<00:07:14.080><c> on</c><00:07:14.319><c> jupyter</c><00:07:14.720><c> notebooks</c><00:07:15.520><c> which</c><00:07:15.759><c> gives</c>
+
+00:07:15.990 --> 00:07:16.000 align:start position:0%
+built on jupyter notebooks which gives
+ 
+
+00:07:16.000 --> 00:07:17.909 align:start position:0%
+built on jupyter notebooks which gives
+me<00:07:16.160><c> the</c><00:07:16.319><c> ability</c><00:07:16.800><c> to</c><00:07:16.880><c> have</c><00:07:17.120><c> some</c><00:07:17.520><c> common</c>
+
+00:07:17.909 --> 00:07:17.919 align:start position:0%
+me the ability to have some common
+ 
+
+00:07:17.919 --> 00:07:21.510 align:start position:0%
+me the ability to have some common
+response<00:07:18.720><c> and</c><00:07:19.360><c> pattern</c><00:07:20.240><c> to</c><00:07:20.639><c> actually</c><00:07:21.199><c> look</c>
+
+00:07:21.510 --> 00:07:21.520 align:start position:0%
+response and pattern to actually look
+ 
+
+00:07:21.520 --> 00:07:23.510 align:start position:0%
+response and pattern to actually look
+for<00:07:21.680><c> things</c><00:07:22.160><c> and</c><00:07:22.319><c> then</c><00:07:22.560><c> investigate</c><00:07:23.199><c> what's</c>
+
+00:07:23.510 --> 00:07:23.520 align:start position:0%
+for things and then investigate what's
+ 
+
+00:07:23.520 --> 00:07:24.950 align:start position:0%
+for things and then investigate what's
+happening
+
+00:07:24.950 --> 00:07:24.960 align:start position:0%
+happening
+ 
+
+00:07:24.960 --> 00:07:26.469 align:start position:0%
+happening
+there's<00:07:25.280><c> capabilities</c><00:07:25.840><c> like</c><00:07:26.080><c> entity</c>
+
+00:07:26.469 --> 00:07:26.479 align:start position:0%
+there's capabilities like entity
+ 
+
+00:07:26.479 --> 00:07:29.510 align:start position:0%
+there's capabilities like entity
+behavior<00:07:27.360><c> which</c><00:07:28.000><c> is</c><00:07:28.240><c> actually</c><00:07:28.560><c> now</c><00:07:28.880><c> looking</c>
+
+00:07:29.510 --> 00:07:29.520 align:start position:0%
+behavior which is actually now looking
+ 
+
+00:07:29.520 --> 00:07:32.550 align:start position:0%
+behavior which is actually now looking
+at<00:07:29.919><c> profiles</c><00:07:30.720><c> of</c><00:07:30.880><c> users</c><00:07:31.360><c> of</c><00:07:31.680><c> hosts</c><00:07:32.080><c> and</c><00:07:32.240><c> other</c>
+
+00:07:32.550 --> 00:07:32.560 align:start position:0%
+at profiles of users of hosts and other
+ 
+
+00:07:32.560 --> 00:07:35.189 align:start position:0%
+at profiles of users of hosts and other
+things<00:07:33.360><c> on</c><00:07:33.599><c> what's</c><00:07:34.000><c> common</c><00:07:34.479><c> and</c><00:07:34.639><c> then</c><00:07:35.039><c> what</c>
+
+00:07:35.189 --> 00:07:35.199 align:start position:0%
+things on what's common and then what
+ 
+
+00:07:35.199 --> 00:07:37.990 align:start position:0%
+things on what's common and then what
+are<00:07:35.280><c> we</c><00:07:35.520><c> seeing</c><00:07:36.000><c> outside</c><00:07:36.560><c> of</c><00:07:36.720><c> that</c>
+
+00:07:37.990 --> 00:07:38.000 align:start position:0%
+are we seeing outside of that
+ 
+
+00:07:38.000 --> 00:07:39.670 align:start position:0%
+are we seeing outside of that
+it<00:07:38.160><c> has</c><00:07:38.400><c> its</c><00:07:38.560><c> own</c><00:07:38.800><c> threat</c><00:07:39.120><c> intelligence</c>
+
+00:07:39.670 --> 00:07:39.680 align:start position:0%
+it has its own threat intelligence
+ 
+
+00:07:39.680 --> 00:07:42.550 align:start position:0%
+it has its own threat intelligence
+capabilities<00:07:40.800><c> but</c><00:07:41.039><c> also</c><00:07:41.280><c> you</c><00:07:41.440><c> can</c><00:07:41.759><c> add</c><00:07:42.080><c> in</c>
+
+00:07:42.550 --> 00:07:42.560 align:start position:0%
+capabilities but also you can add in
+ 
+
+00:07:42.560 --> 00:07:43.510 align:start position:0%
+capabilities but also you can add in
+other
+
+00:07:43.510 --> 00:07:43.520 align:start position:0%
+other
+ 
+
+00:07:43.520 --> 00:07:45.350 align:start position:0%
+other
+sets<00:07:43.840><c> of</c><00:07:43.919><c> thread</c><00:07:44.240><c> intelligence</c><00:07:44.800><c> coming</c><00:07:45.120><c> from</c>
+
+00:07:45.350 --> 00:07:45.360 align:start position:0%
+sets of thread intelligence coming from
+ 
+
+00:07:45.360 --> 00:07:46.710 align:start position:0%
+sets of thread intelligence coming from
+other<00:07:45.599><c> sources</c><00:07:46.000><c> maybe</c><00:07:46.240><c> it's</c><00:07:46.319><c> sets</c><00:07:46.639><c> of</c>
+
+00:07:46.710 --> 00:07:46.720 align:start position:0%
+other sources maybe it's sets of
+ 
+
+00:07:46.720 --> 00:07:49.270 align:start position:0%
+other sources maybe it's sets of
+malicious<00:07:47.199><c> ip</c><00:07:47.599><c> addresses</c><00:07:48.639><c> there's</c><00:07:48.960><c> other</c>
+
+00:07:49.270 --> 00:07:49.280 align:start position:0%
+malicious ip addresses there's other
+ 
+
+00:07:49.280 --> 00:07:51.430 align:start position:0%
+malicious ip addresses there's other
+things<00:07:49.599><c> i</c><00:07:49.759><c> could</c><00:07:50.080><c> add</c><00:07:50.479><c> that</c><00:07:50.639><c> was</c><00:07:50.800><c> domain</c><00:07:51.120><c> names</c>
+
+00:07:51.430 --> 00:07:51.440 align:start position:0%
+things i could add that was domain names
+ 
+
+00:07:51.440 --> 00:07:54.710 align:start position:0%
+things i could add that was domain names
+files<00:07:52.000><c> ipv4</c><00:07:52.639><c> addresses</c><00:07:53.039><c> etc</c><00:07:54.000><c> so</c><00:07:54.319><c> some</c>
+
+00:07:54.710 --> 00:07:54.720 align:start position:0%
+files ipv4 addresses etc so some
+ 
+
+00:07:54.720 --> 00:07:57.990 align:start position:0%
+files ipv4 addresses etc so some
+indicator<00:07:55.440><c> of</c><00:07:55.599><c> some</c><00:07:55.919><c> negative</c><00:07:56.840><c> thing</c><00:07:57.840><c> but</c>
+
+00:07:57.990 --> 00:07:58.000 align:start position:0%
+indicator of some negative thing but
+ 
+
+00:07:58.000 --> 00:07:59.990 align:start position:0%
+indicator of some negative thing but
+then<00:07:58.240><c> for</c><00:07:58.400><c> all</c><00:07:58.560><c> of</c><00:07:58.639><c> these</c>
+
+00:07:59.990 --> 00:08:00.000 align:start position:0%
+then for all of these
+ 
+
+00:08:00.000 --> 00:08:01.830 align:start position:0%
+then for all of these
+i<00:08:00.160><c> can</c><00:08:00.240><c> then</c><00:08:00.479><c> add</c><00:08:00.639><c> things</c><00:08:00.800><c> like</c><00:08:01.039><c> automation</c><00:08:01.680><c> so</c>
+
+00:08:01.830 --> 00:08:01.840 align:start position:0%
+i can then add things like automation so
+ 
+
+00:08:01.840 --> 00:08:04.550 align:start position:0%
+i can then add things like automation so
+there<00:08:02.160><c> are</c><00:08:02.319><c> built-in</c><00:08:03.039><c> automation</c><00:08:03.840><c> rules</c><00:08:04.400><c> that</c>
+
+00:08:04.550 --> 00:08:04.560 align:start position:0%
+there are built-in automation rules that
+ 
+
+00:08:04.560 --> 00:08:06.950 align:start position:0%
+there are built-in automation rules that
+i<00:08:04.720><c> don't</c><00:08:04.960><c> have</c><00:08:05.120><c> to</c><00:08:05.280><c> really</c><00:08:05.599><c> do</c><00:08:05.840><c> anything</c><00:08:06.639><c> i</c><00:08:06.800><c> can</c>
+
+00:08:06.950 --> 00:08:06.960 align:start position:0%
+i don't have to really do anything i can
+ 
+
+00:08:06.960 --> 00:08:08.790 align:start position:0%
+i don't have to really do anything i can
+just<00:08:07.120><c> go</c><00:08:07.280><c> ahead</c><00:08:07.520><c> and</c><00:08:07.680><c> create</c><00:08:07.919><c> an</c><00:08:08.160><c> automation</c>
+
+00:08:08.790 --> 00:08:08.800 align:start position:0%
+just go ahead and create an automation
+ 
+
+00:08:08.800 --> 00:08:09.670 align:start position:0%
+just go ahead and create an automation
+rule
+
+00:08:09.670 --> 00:08:09.680 align:start position:0%
+rule
+ 
+
+00:08:09.680 --> 00:08:11.510 align:start position:0%
+rule
+and<00:08:09.840><c> it</c><00:08:10.000><c> sets</c><00:08:10.240><c> me</c><00:08:10.400><c> for</c><00:08:10.560><c> this</c><00:08:10.720><c> nice</c><00:08:11.039><c> guided</c>
+
+00:08:11.510 --> 00:08:11.520 align:start position:0%
+and it sets me for this nice guided
+ 
+
+00:08:11.520 --> 00:08:13.110 align:start position:0%
+and it sets me for this nice guided
+experience<00:08:12.160><c> or</c>
+
+00:08:13.110 --> 00:08:13.120 align:start position:0%
+experience or
+ 
+
+00:08:13.120 --> 00:08:15.189 align:start position:0%
+experience or
+i<00:08:13.280><c> can</c><00:08:13.440><c> create</c><00:08:13.759><c> a</c><00:08:13.840><c> playbook</c><00:08:14.479><c> which</c><00:08:14.720><c> then</c><00:08:14.960><c> calls</c>
+
+00:08:15.189 --> 00:08:15.199 align:start position:0%
+i can create a playbook which then calls
+ 
+
+00:08:15.199 --> 00:08:17.029 align:start position:0%
+i can create a playbook which then calls
+something<00:08:15.440><c> like</c><00:08:15.680><c> an</c><00:08:15.840><c> azure</c><00:08:16.160><c> logic</c><00:08:16.560><c> app</c><00:08:16.800><c> that</c>
+
+00:08:17.029 --> 00:08:17.039 align:start position:0%
+something like an azure logic app that
+ 
+
+00:08:17.039 --> 00:08:19.110 align:start position:0%
+something like an azure logic app that
+serverless<00:08:17.599><c> technology</c>
+
+00:08:19.110 --> 00:08:19.120 align:start position:0%
+serverless technology
+ 
+
+00:08:19.120 --> 00:08:22.950 align:start position:0%
+serverless technology
+so<00:08:19.440><c> i</c><00:08:19.599><c> really</c><00:08:20.080><c> think</c><00:08:20.400><c> about</c><00:08:20.879><c> azure</c><00:08:21.360><c> sentinel</c>
+
+00:08:22.950 --> 00:08:22.960 align:start position:0%
+so i really think about azure sentinel
+ 
+
+00:08:22.960 --> 00:08:25.990 align:start position:0%
+so i really think about azure sentinel
+is<00:08:23.199><c> there</c><00:08:23.759><c> as</c><00:08:24.000><c> that</c><00:08:24.400><c> sim</c><00:08:24.800><c> solution</c><00:08:25.759><c> i'm</c><00:08:25.919><c> going</c>
+
+00:08:25.990 --> 00:08:26.000 align:start position:0%
+is there as that sim solution i'm going
+ 
+
+00:08:26.000 --> 00:08:28.070 align:start position:0%
+is there as that sim solution i'm going
+to<00:08:26.080><c> get</c><00:08:26.319><c> all</c><00:08:26.479><c> of</c><00:08:26.560><c> the</c><00:08:26.720><c> different</c><00:08:27.440><c> security</c>
+
+00:08:28.070 --> 00:08:28.080 align:start position:0%
+to get all of the different security
+ 
+
+00:08:28.080 --> 00:08:29.909 align:start position:0%
+to get all of the different security
+logs<00:08:28.400><c> and</c><00:08:28.560><c> signals</c><00:08:28.960><c> coming</c><00:08:29.280><c> in</c><00:08:29.360><c> from</c><00:08:29.599><c> all</c><00:08:29.840><c> of</c>
+
+00:08:29.909 --> 00:08:29.919 align:start position:0%
+logs and signals coming in from all of
+ 
+
+00:08:29.919 --> 00:08:33.269 align:start position:0%
+logs and signals coming in from all of
+my<00:08:30.240><c> systems</c><00:08:30.639><c> the</c><00:08:30.800><c> more</c><00:08:31.039><c> the</c><00:08:31.199><c> better</c>
+
+00:08:33.269 --> 00:08:33.279 align:start position:0%
+my systems the more the better
+ 
+
+00:08:33.279 --> 00:08:35.350 align:start position:0%
+my systems the more the better
+and<00:08:33.360><c> then</c><00:08:33.519><c> once</c><00:08:33.760><c> it's</c><00:08:34.080><c> gathered</c><00:08:34.479><c> that</c><00:08:34.880><c> it</c><00:08:35.120><c> has</c>
+
+00:08:35.350 --> 00:08:35.360 align:start position:0%
+and then once it's gathered that it has
+ 
+
+00:08:35.360 --> 00:08:37.350 align:start position:0%
+and then once it's gathered that it has
+the<00:08:35.599><c> intelligence</c><00:08:36.240><c> it</c><00:08:36.399><c> knows</c><00:08:36.719><c> the</c><00:08:36.880><c> queries</c>
+
+00:08:37.350 --> 00:08:37.360 align:start position:0%
+the intelligence it knows the queries
+ 
+
+00:08:37.360 --> 00:08:39.750 align:start position:0%
+the intelligence it knows the queries
+that<00:08:37.519><c> matter</c><00:08:37.919><c> it</c><00:08:38.080><c> knows</c><00:08:38.560><c> the</c><00:08:38.800><c> combinations</c><00:08:39.599><c> of</c>
+
+00:08:39.750 --> 00:08:39.760 align:start position:0%
+that matter it knows the combinations of
+ 
+
+00:08:39.760 --> 00:08:41.269 align:start position:0%
+that matter it knows the combinations of
+signals<00:08:40.240><c> and</c><00:08:40.320><c> logs</c><00:08:40.560><c> that</c><00:08:40.719><c> might</c><00:08:40.959><c> mean</c>
+
+00:08:41.269 --> 00:08:41.279 align:start position:0%
+signals and logs that might mean
+ 
+
+00:08:41.279 --> 00:08:43.430 align:start position:0%
+signals and logs that might mean
+something<00:08:42.000><c> it</c><00:08:42.159><c> has</c><00:08:42.399><c> machine</c><00:08:42.800><c> learning</c><00:08:43.120><c> it</c><00:08:43.279><c> has</c>
+
+00:08:43.430 --> 00:08:43.440 align:start position:0%
+something it has machine learning it has
+ 
+
+00:08:43.440 --> 00:08:45.350 align:start position:0%
+something it has machine learning it has
+microsoft<00:08:43.919><c> cyber</c><00:08:44.240><c> security</c><00:08:44.720><c> teams</c><00:08:45.040><c> building</c>
+
+00:08:45.350 --> 00:08:45.360 align:start position:0%
+microsoft cyber security teams building
+ 
+
+00:08:45.360 --> 00:08:47.670 align:start position:0%
+microsoft cyber security teams building
+an<00:08:45.519><c> intelligence</c><00:08:46.080><c> to</c><00:08:46.320><c> this</c><00:08:46.880><c> to</c><00:08:47.120><c> actually</c><00:08:47.440><c> then</c>
+
+00:08:47.670 --> 00:08:47.680 align:start position:0%
+an intelligence to this to actually then
+ 
+
+00:08:47.680 --> 00:08:51.110 align:start position:0%
+an intelligence to this to actually then
+give<00:08:48.000><c> me</c><00:08:48.240><c> those</c><00:08:48.560><c> abilities</c><00:08:49.360><c> to</c><00:08:49.839><c> hey</c><00:08:50.160><c> sure</c><00:08:50.880><c> it</c>
+
+00:08:51.110 --> 00:08:51.120 align:start position:0%
+give me those abilities to hey sure it
+ 
+
+00:08:51.120 --> 00:08:53.590 align:start position:0%
+give me those abilities to hey sure it
+might<00:08:51.440><c> alert</c><00:08:52.000><c> on</c><00:08:52.240><c> things</c><00:08:52.800><c> hey</c><00:08:53.040><c> there's</c><00:08:53.440><c> a</c>
+
+00:08:53.590 --> 00:08:53.600 align:start position:0%
+might alert on things hey there's a
+ 
+
+00:08:53.600 --> 00:08:54.710 align:start position:0%
+might alert on things hey there's a
+problem
+
+00:08:54.710 --> 00:08:54.720 align:start position:0%
+problem
+ 
+
+00:08:54.720 --> 00:08:57.829 align:start position:0%
+problem
+it's<00:08:54.959><c> going</c><00:08:55.040><c> to</c><00:08:55.120><c> generate</c><00:08:55.519><c> those</c><00:08:56.000><c> incidents</c>
+
+00:08:57.829 --> 00:08:57.839 align:start position:0%
+it's going to generate those incidents
+ 
+
+00:08:57.839 --> 00:08:59.910 align:start position:0%
+it's going to generate those incidents
+and<00:08:58.000><c> it</c><00:08:58.240><c> lets</c><00:08:58.480><c> me</c><00:08:58.800><c> actually</c><00:08:59.200><c> go</c><00:08:59.600><c> and</c>
+
+00:08:59.910 --> 00:08:59.920 align:start position:0%
+and it lets me actually go and
+ 
+
+00:08:59.920 --> 00:09:03.829 align:start position:0%
+and it lets me actually go and
+investigate
+
+00:09:03.829 --> 00:09:03.839 align:start position:0%
+ 
+ 
+
+00:09:03.839 --> 00:09:06.310 align:start position:0%
+ 
+i<00:09:04.000><c> can</c><00:09:04.160><c> go</c><00:09:04.320><c> and</c><00:09:04.399><c> do</c><00:09:04.720><c> hunting</c><00:09:05.279><c> to</c><00:09:05.440><c> go</c><00:09:05.680><c> and</c><00:09:05.920><c> find</c>
+
+00:09:06.310 --> 00:09:06.320 align:start position:0%
+i can go and do hunting to go and find
+ 
+
+00:09:06.320 --> 00:09:08.230 align:start position:0%
+i can go and do hunting to go and find
+the<00:09:06.560><c> problems</c>
+
+00:09:08.230 --> 00:09:08.240 align:start position:0%
+the problems
+ 
+
+00:09:08.240 --> 00:09:10.630 align:start position:0%
+the problems
+but<00:09:08.480><c> also</c><00:09:08.959><c> through</c><00:09:09.279><c> that</c><00:09:09.600><c> saw</c><00:09:10.000><c> it</c><00:09:10.160><c> can</c><00:09:10.320><c> then</c><00:09:10.480><c> go</c>
+
+00:09:10.630 --> 00:09:10.640 align:start position:0%
+but also through that saw it can then go
+ 
+
+00:09:10.640 --> 00:09:12.470 align:start position:0%
+but also through that saw it can then go
+and<00:09:10.880><c> automate</c><00:09:11.360><c> responses</c><00:09:11.920><c> hey</c><00:09:12.160><c> i'm</c><00:09:12.240><c> seeing</c>
+
+00:09:12.470 --> 00:09:12.480 align:start position:0%
+and automate responses hey i'm seeing
+ 
+
+00:09:12.480 --> 00:09:14.870 align:start position:0%
+and automate responses hey i'm seeing
+some<00:09:12.640><c> attack</c><00:09:12.959><c> coming</c><00:09:13.200><c> from</c><00:09:13.360><c> this</c><00:09:13.680><c> ip</c><00:09:14.000><c> address</c>
+
+00:09:14.870 --> 00:09:14.880 align:start position:0%
+some attack coming from this ip address
+ 
+
+00:09:14.880 --> 00:09:16.790 align:start position:0%
+some attack coming from this ip address
+hey<00:09:15.360><c> i</c><00:09:15.440><c> might</c><00:09:15.680><c> have</c><00:09:15.760><c> an</c><00:09:15.920><c> automated</c><00:09:16.320><c> response</c>
+
+00:09:16.790 --> 00:09:16.800 align:start position:0%
+hey i might have an automated response
+ 
+
+00:09:16.800 --> 00:09:19.190 align:start position:0%
+hey i might have an automated response
+to<00:09:16.959><c> go</c><00:09:17.200><c> and</c><00:09:17.360><c> block</c><00:09:17.680><c> that</c><00:09:17.920><c> ip</c><00:09:18.240><c> address</c>
+
+00:09:19.190 --> 00:09:19.200 align:start position:0%
+to go and block that ip address
+ 
+
+00:09:19.200 --> 00:09:21.030 align:start position:0%
+to go and block that ip address
+hey<00:09:19.440><c> i'm</c><00:09:19.680><c> seeing</c><00:09:19.920><c> a</c><00:09:20.000><c> certain</c><00:09:20.399><c> account</c><00:09:20.800><c> doing</c>
+
+00:09:21.030 --> 00:09:21.040 align:start position:0%
+hey i'm seeing a certain account doing
+ 
+
+00:09:21.040 --> 00:09:22.949 align:start position:0%
+hey i'm seeing a certain account doing
+something<00:09:21.279><c> suspicious</c><00:09:21.920><c> hey</c><00:09:22.080><c> go</c><00:09:22.240><c> to</c><00:09:22.399><c> azure</c><00:09:22.640><c> id</c>
+
+00:09:22.949 --> 00:09:22.959 align:start position:0%
+something suspicious hey go to azure id
+ 
+
+00:09:22.959 --> 00:09:24.630 align:start position:0%
+something suspicious hey go to azure id
+and<00:09:23.040><c> disable</c><00:09:23.519><c> that</c><00:09:23.760><c> account</c>
+
+00:09:24.630 --> 00:09:24.640 align:start position:0%
+and disable that account
+ 
+
+00:09:24.640 --> 00:09:27.509 align:start position:0%
+and disable that account
+so<00:09:24.880><c> azure</c><00:09:25.279><c> sentinel</c><00:09:26.240><c> is</c><00:09:26.480><c> lighting</c><00:09:26.959><c> up</c><00:09:27.360><c> all</c>
+
+00:09:27.509 --> 00:09:27.519 align:start position:0%
+so azure sentinel is lighting up all
+ 
+
+00:09:27.519 --> 00:09:28.870 align:start position:0%
+so azure sentinel is lighting up all
+those<00:09:27.760><c> various</c><00:09:28.160><c> things</c><00:09:28.399><c> so</c><00:09:28.560><c> i</c><00:09:28.640><c> get</c><00:09:28.800><c> the</c>
+
+00:09:28.870 --> 00:09:28.880 align:start position:0%
+those various things so i get the
+ 
+
+00:09:28.880 --> 00:09:30.230 align:start position:0%
+those various things so i get the
+signals<00:09:29.279><c> in</c>
+
+00:09:30.230 --> 00:09:30.240 align:start position:0%
+signals in
+ 
+
+00:09:30.240 --> 00:09:31.910 align:start position:0%
+signals in
+and<00:09:30.320><c> then</c><00:09:30.560><c> it's</c><00:09:30.720><c> adding</c><00:09:31.040><c> that</c><00:09:31.200><c> ability</c><00:09:31.600><c> to</c>
+
+00:09:31.910 --> 00:09:31.920 align:start position:0%
+and then it's adding that ability to
+ 
+
+00:09:31.920 --> 00:09:36.600 align:start position:0%
+and then it's adding that ability to
+understand<00:09:32.480><c> what</c><00:09:32.640><c> it</c><00:09:32.800><c> means</c><00:09:33.440><c> and</c><00:09:33.600><c> react</c>
+

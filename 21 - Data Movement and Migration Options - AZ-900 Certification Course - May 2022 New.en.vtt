@@ -1,0 +1,2328 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.120 --> 00:00:02.790 align:start position:0%
+ 
+in<00:00:01.280><c> this</c><00:00:01.520><c> lesson</c><00:00:01.920><c> i</c><00:00:02.080><c> want</c><00:00:02.240><c> to</c><00:00:02.399><c> look</c><00:00:02.639><c> at</c><00:00:02.720><c> the</c>
+
+00:00:02.790 --> 00:00:02.800 align:start position:0%
+in this lesson i want to look at the
+ 
+
+00:00:02.800 --> 00:00:05.829 align:start position:0%
+in this lesson i want to look at the
+various<00:00:03.360><c> data</c><00:00:03.919><c> movement</c><00:00:04.799><c> and</c><00:00:05.040><c> migration</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+various data movement and migration
+ 
+
+00:00:05.839 --> 00:00:08.470 align:start position:0%
+various data movement and migration
+options<00:00:06.240><c> we</c><00:00:06.480><c> have</c><00:00:06.879><c> available</c><00:00:07.839><c> to</c><00:00:08.000><c> get</c><00:00:08.240><c> our</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+options we have available to get our
+ 
+
+00:00:08.480 --> 00:00:12.150 align:start position:0%
+options we have available to get our
+data<00:00:08.960><c> into</c><00:00:09.280><c> and</c><00:00:09.360><c> maybe</c><00:00:09.679><c> out</c><00:00:10.000><c> of</c><00:00:10.480><c> azure</c><00:00:11.440><c> because</c>
+
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+data into and maybe out of azure because
+ 
+
+00:00:12.160 --> 00:00:14.549 align:start position:0%
+data into and maybe out of azure because
+many<00:00:12.559><c> times</c><00:00:12.960><c> we</c><00:00:13.120><c> already</c><00:00:13.360><c> have</c><00:00:13.599><c> data</c>
+
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+many times we already have data
+ 
+
+00:00:14.559 --> 00:00:16.870 align:start position:0%
+many times we already have data
+we<00:00:14.719><c> have</c><00:00:14.960><c> some</c><00:00:15.200><c> data</c><00:00:15.679><c> on</c><00:00:15.839><c> premises</c><00:00:16.720><c> now</c>
+
+00:00:16.870 --> 00:00:16.880 align:start position:0%
+we have some data on premises now
+ 
+
+00:00:16.880 --> 00:00:18.150 align:start position:0%
+we have some data on premises now
+depending<00:00:17.359><c> on</c>
+
+00:00:18.150 --> 00:00:18.160 align:start position:0%
+depending on
+ 
+
+00:00:18.160 --> 00:00:21.109 align:start position:0%
+depending on
+how<00:00:18.400><c> we</c><00:00:18.640><c> have</c><00:00:18.960><c> that</c><00:00:19.199><c> data</c><00:00:19.760><c> how</c><00:00:20.000><c> it's</c><00:00:20.400><c> used</c><00:00:20.880><c> how</c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+how we have that data how it's used how
+ 
+
+00:00:21.119 --> 00:00:23.189 align:start position:0%
+how we have that data how it's used how
+it's<00:00:21.359><c> communicated</c><00:00:22.240><c> to</c><00:00:22.640><c> and</c><00:00:22.720><c> how</c><00:00:22.880><c> we</c><00:00:22.960><c> want</c><00:00:23.119><c> to</c>
+
+00:00:23.189 --> 00:00:23.199 align:start position:0%
+it's communicated to and how we want to
+ 
+
+00:00:23.199 --> 00:00:25.269 align:start position:0%
+it's communicated to and how we want to
+use<00:00:23.359><c> it</c><00:00:23.439><c> in</c><00:00:23.600><c> the</c><00:00:23.680><c> cloud</c><00:00:24.560><c> we</c><00:00:24.720><c> have</c><00:00:24.880><c> different</c>
+
+00:00:25.269 --> 00:00:25.279 align:start position:0%
+use it in the cloud we have different
+ 
+
+00:00:25.279 --> 00:00:26.550 align:start position:0%
+use it in the cloud we have different
+options
+
+00:00:26.550 --> 00:00:26.560 align:start position:0%
+options
+ 
+
+00:00:26.560 --> 00:00:28.790 align:start position:0%
+options
+now<00:00:26.720><c> a</c><00:00:26.880><c> very</c><00:00:27.279><c> common</c><00:00:27.680><c> type</c><00:00:27.920><c> of</c><00:00:28.080><c> data</c><00:00:28.400><c> we</c><00:00:28.560><c> often</c>
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+now a very common type of data we often
+ 
+
+00:00:28.800 --> 00:00:31.750 align:start position:0%
+now a very common type of data we often
+have<00:00:29.039><c> on</c><00:00:29.199><c> premises</c><00:00:30.240><c> is</c><00:00:30.400><c> i</c><00:00:30.480><c> think</c><00:00:30.720><c> about</c><00:00:31.359><c> wire</c>
+
+00:00:31.750 --> 00:00:31.760 align:start position:0%
+have on premises is i think about wire
+ 
+
+00:00:31.760 --> 00:00:33.430 align:start position:0%
+have on premises is i think about wire
+file<00:00:32.160><c> shares</c>
+
+00:00:33.430 --> 00:00:33.440 align:start position:0%
+file shares
+ 
+
+00:00:33.440 --> 00:00:36.950 align:start position:0%
+file shares
+i<00:00:33.600><c> have</c><00:00:33.760><c> an</c><00:00:34.079><c> smb</c><00:00:34.960><c> file</c><00:00:35.440><c> share</c><00:00:36.320><c> and</c><00:00:36.399><c> that</c><00:00:36.640><c> file</c>
+
+00:00:36.950 --> 00:00:36.960 align:start position:0%
+i have an smb file share and that file
+ 
+
+00:00:36.960 --> 00:00:41.270 align:start position:0%
+i have an smb file share and that file
+share<00:00:37.280><c> is</c><00:00:37.440><c> hosted</c><00:00:38.079><c> on</c><00:00:38.480><c> a</c><00:00:38.719><c> windows</c><00:00:39.600><c> file</c><00:00:40.079><c> server</c>
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+share is hosted on a windows file server
+ 
+
+00:00:41.280 --> 00:00:43.270 align:start position:0%
+share is hosted on a windows file server
+now<00:00:41.520><c> in</c><00:00:41.920><c> azure</c>
+
+00:00:43.270 --> 00:00:43.280 align:start position:0%
+now in azure
+ 
+
+00:00:43.280 --> 00:00:46.389 align:start position:0%
+now in azure
+our<00:00:43.520><c> equivalent</c><00:00:44.320><c> service</c><00:00:45.360><c> would</c><00:00:45.600><c> be</c>
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+our equivalent service would be
+ 
+
+00:00:46.399 --> 00:00:49.110 align:start position:0%
+our equivalent service would be
+azure<00:00:46.800><c> files</c>
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+azure files
+ 
+
+00:00:49.120 --> 00:00:52.549 align:start position:0%
+azure files
+in<00:00:49.360><c> azure</c><00:00:49.840><c> files</c><00:00:50.480><c> i</c><00:00:50.719><c> can</c><00:00:51.039><c> create</c><00:00:51.520><c> a</c><00:00:51.600><c> file</c><00:00:51.920><c> share</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+in azure files i can create a file share
+ 
+
+00:00:52.559 --> 00:00:55.350 align:start position:0%
+in azure files i can create a file share
+and<00:00:52.719><c> i</c><00:00:52.800><c> can</c><00:00:53.039><c> access</c><00:00:53.440><c> via</c><00:00:54.000><c> smb</c>
+
+00:00:55.350 --> 00:00:55.360 align:start position:0%
+and i can access via smb
+ 
+
+00:00:55.360 --> 00:00:58.069 align:start position:0%
+and i can access via smb
+now<00:00:55.520><c> i</c><00:00:55.680><c> might</c><00:00:55.920><c> have</c><00:00:56.239><c> multiple</c><00:00:56.879><c> file</c><00:00:57.280><c> servers</c>
+
+00:00:58.069 --> 00:00:58.079 align:start position:0%
+now i might have multiple file servers
+ 
+
+00:00:58.079 --> 00:01:00.389 align:start position:0%
+now i might have multiple file servers
+at<00:00:58.239><c> different</c><00:00:58.559><c> locations</c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+at different locations
+ 
+
+00:01:00.399 --> 00:01:02.790 align:start position:0%
+at different locations
+and<00:01:00.480><c> the</c><00:01:00.640><c> most</c><00:01:00.960><c> useful</c><00:01:01.680><c> service</c><00:01:02.239><c> that</c><00:01:02.480><c> i</c><00:01:02.559><c> can</c>
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+and the most useful service that i can
+ 
+
+00:01:02.800 --> 00:01:04.630 align:start position:0%
+and the most useful service that i can
+leverage<00:01:03.280><c> here</c>
+
+00:01:04.630 --> 00:01:04.640 align:start position:0%
+leverage here
+ 
+
+00:01:04.640 --> 00:01:07.670 align:start position:0%
+leverage here
+is<00:01:05.119><c> azure</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+ 
+ 
+
+00:01:07.680 --> 00:01:10.710 align:start position:0%
+ 
+file<00:01:08.080><c> sync</c>
+
+00:01:10.710 --> 00:01:10.720 align:start position:0%
+ 
+ 
+
+00:01:10.720 --> 00:01:13.750 align:start position:0%
+ 
+and<00:01:10.880><c> what</c><00:01:11.119><c> i</c><00:01:11.360><c> have</c><00:01:11.680><c> here</c><00:01:12.080><c> is</c><00:01:12.240><c> the</c><00:01:12.400><c> ability</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+and what i have here is the ability
+ 
+
+00:01:13.760 --> 00:01:16.310 align:start position:0%
+and what i have here is the ability
+to<00:01:14.000><c> create</c><00:01:14.479><c> a</c><00:01:14.720><c> sync</c><00:01:15.280><c> group</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+to create a sync group
+ 
+
+00:01:16.320 --> 00:01:20.550 align:start position:0%
+to create a sync group
+so<00:01:16.560><c> i</c><00:01:16.720><c> create</c><00:01:17.040><c> a</c><00:01:17.280><c> sync</c><00:01:17.759><c> group</c>
+
+00:01:20.550 --> 00:01:20.560 align:start position:0%
+ 
+ 
+
+00:01:20.560 --> 00:01:23.270 align:start position:0%
+ 
+i<00:01:20.799><c> register</c><00:01:21.360><c> the</c><00:01:21.680><c> servers</c><00:01:22.560><c> with</c><00:01:22.799><c> the</c><00:01:22.960><c> sync</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+i register the servers with the sync
+ 
+
+00:01:23.280 --> 00:01:25.190 align:start position:0%
+i register the servers with the sync
+group<00:01:23.920><c> i</c><00:01:24.080><c> believe</c><00:01:24.400><c> i</c><00:01:24.479><c> can</c><00:01:24.640><c> have</c><00:01:24.799><c> up</c><00:01:24.880><c> to</c><00:01:25.119><c> a</c>
+
+00:01:25.190 --> 00:01:25.200 align:start position:0%
+group i believe i can have up to a
+ 
+
+00:01:25.200 --> 00:01:28.870 align:start position:0%
+group i believe i can have up to a
+hundred<00:01:26.240><c> of</c><00:01:26.320><c> these</c><00:01:26.880><c> server</c><00:01:27.600><c> endpoints</c>
+
+00:01:28.870 --> 00:01:28.880 align:start position:0%
+hundred of these server endpoints
+ 
+
+00:01:28.880 --> 00:01:31.030 align:start position:0%
+hundred of these server endpoints
+i<00:01:29.040><c> shall</c><00:01:29.200><c> do</c><00:01:29.360><c> this</c><00:01:29.520><c> in</c><00:01:29.680><c> green</c><00:01:30.079><c> so</c><00:01:30.240><c> we</c><00:01:30.400><c> have</c><00:01:30.640><c> our</c>
+
+00:01:31.030 --> 00:01:31.040 align:start position:0%
+i shall do this in green so we have our
+ 
+
+00:01:31.040 --> 00:01:34.310 align:start position:0%
+i shall do this in green so we have our
+server<00:01:31.920><c> endpoints</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+server endpoints
+ 
+
+00:01:34.320 --> 00:01:36.149 align:start position:0%
+server endpoints
+which<00:01:34.560><c> are</c><00:01:34.799><c> windows</c>
+
+00:01:36.149 --> 00:01:36.159 align:start position:0%
+which are windows
+ 
+
+00:01:36.159 --> 00:01:38.310 align:start position:0%
+which are windows
+server<00:01:36.560><c> based</c><00:01:36.880><c> file</c><00:01:37.200><c> servers</c><00:01:37.520><c> so</c><00:01:37.680><c> i</c><00:01:37.759><c> can</c><00:01:38.000><c> have</c>
+
+00:01:38.310 --> 00:01:38.320 align:start position:0%
+server based file servers so i can have
+ 
+
+00:01:38.320 --> 00:01:41.030 align:start position:0%
+server based file servers so i can have
+up<00:01:38.400><c> to</c><00:01:38.560><c> 100</c><00:01:39.200><c> at</c><00:01:39.360><c> time</c><00:01:39.520><c> of</c><00:01:39.680><c> recording</c>
+
+00:01:41.030 --> 00:01:41.040 align:start position:0%
+up to 100 at time of recording
+ 
+
+00:01:41.040 --> 00:01:44.069 align:start position:0%
+up to 100 at time of recording
+i<00:01:41.200><c> can</c><00:01:41.360><c> have</c><00:01:42.079><c> one</c>
+
+00:01:44.069 --> 00:01:44.079 align:start position:0%
+i can have one
+ 
+
+00:01:44.079 --> 00:01:47.990 align:start position:0%
+i can have one
+cloud<00:01:45.040><c> endpoint</c>
+
+00:01:47.990 --> 00:01:48.000 align:start position:0%
+ 
+ 
+
+00:01:48.000 --> 00:01:51.109 align:start position:0%
+ 
+and<00:01:48.159><c> i</c><00:01:48.479><c> put</c><00:01:48.720><c> these</c>
+
+00:01:51.109 --> 00:01:51.119 align:start position:0%
+and i put these
+ 
+
+00:01:51.119 --> 00:01:52.230 align:start position:0%
+and i put these
+into<00:01:51.439><c> this</c>
+
+00:01:52.230 --> 00:01:52.240 align:start position:0%
+into this
+ 
+
+00:01:52.240 --> 00:01:56.389 align:start position:0%
+into this
+sync<00:01:52.840><c> group</c><00:01:54.000><c> and</c><00:01:54.079><c> now</c><00:01:54.320><c> what</c><00:01:54.479><c> this</c><00:01:54.799><c> does</c><00:01:55.600><c> is</c>
+
+00:01:56.389 --> 00:01:56.399 align:start position:0%
+sync group and now what this does is
+ 
+
+00:01:56.399 --> 00:01:57.749 align:start position:0%
+sync group and now what this does is
+all<00:01:56.640><c> of</c><00:01:56.799><c> my</c>
+
+00:01:57.749 --> 00:01:57.759 align:start position:0%
+all of my
+ 
+
+00:01:57.759 --> 00:01:59.910 align:start position:0%
+all of my
+smb<00:01:58.320><c> file</c><00:01:58.640><c> shares</c>
+
+00:01:59.910 --> 00:01:59.920 align:start position:0%
+smb file shares
+ 
+
+00:01:59.920 --> 00:02:02.230 align:start position:0%
+smb file shares
+well<00:02:00.479><c> they</c><00:02:00.880><c> synchronize</c>
+
+00:02:02.230 --> 00:02:02.240 align:start position:0%
+well they synchronize
+ 
+
+00:02:02.240 --> 00:02:04.389 align:start position:0%
+well they synchronize
+to
+
+00:02:04.389 --> 00:02:04.399 align:start position:0%
+to
+ 
+
+00:02:04.399 --> 00:02:06.950 align:start position:0%
+to
+the<00:02:04.560><c> file</c><00:02:04.880><c> share</c><00:02:05.600><c> in</c><00:02:05.920><c> azure</c><00:02:06.479><c> now</c><00:02:06.719><c> they</c><00:02:06.799><c> are</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+the file share in azure now they are
+ 
+
+00:02:06.960 --> 00:02:08.869 align:start position:0%
+the file share in azure now they are
+syncing<00:02:07.280><c> to</c><00:02:07.439><c> the</c><00:02:07.680><c> azure</c><00:02:08.080><c> file</c><00:02:08.399><c> share</c><00:02:08.720><c> they</c>
+
+00:02:08.869 --> 00:02:08.879 align:start position:0%
+syncing to the azure file share they
+ 
+
+00:02:08.879 --> 00:02:10.229 align:start position:0%
+syncing to the azure file share they
+don't<00:02:09.039><c> ever</c><00:02:09.280><c> sync</c><00:02:09.520><c> to</c><00:02:09.599><c> each</c><00:02:09.759><c> other</c><00:02:09.920><c> so</c><00:02:10.080><c> it's</c>
+
+00:02:10.229 --> 00:02:10.239 align:start position:0%
+don't ever sync to each other so it's
+ 
+
+00:02:10.239 --> 00:02:13.190 align:start position:0%
+don't ever sync to each other so it's
+all<00:02:10.479><c> via</c><00:02:11.200><c> this</c><00:02:11.440><c> file</c><00:02:11.840><c> share</c><00:02:12.560><c> but</c><00:02:12.720><c> this</c><00:02:12.959><c> now</c>
+
+00:02:13.190 --> 00:02:13.200 align:start position:0%
+all via this file share but this now
+ 
+
+00:02:13.200 --> 00:02:15.830 align:start position:0%
+all via this file share but this now
+means<00:02:13.920><c> well</c><00:02:14.160><c> i</c><00:02:14.239><c> have</c><00:02:14.400><c> my</c><00:02:14.560><c> data</c><00:02:14.959><c> here</c><00:02:15.440><c> it's</c><00:02:15.680><c> now</c>
+
+00:02:15.830 --> 00:02:15.840 align:start position:0%
+means well i have my data here it's now
+ 
+
+00:02:15.840 --> 00:02:18.550 align:start position:0%
+means well i have my data here it's now
+got<00:02:16.080><c> replicated</c><00:02:16.800><c> to</c><00:02:16.959><c> this</c><00:02:17.280><c> azure</c><00:02:17.760><c> files</c><00:02:18.239><c> base</c>
+
+00:02:18.550 --> 00:02:18.560 align:start position:0%
+got replicated to this azure files base
+ 
+
+00:02:18.560 --> 00:02:21.430 align:start position:0%
+got replicated to this azure files base
+share<00:02:19.360><c> that</c><00:02:19.840><c> i</c><00:02:20.000><c> can</c><00:02:20.239><c> integrate</c><00:02:20.720><c> this</c><00:02:21.040><c> with</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+share that i can integrate this with
+ 
+
+00:02:21.440 --> 00:02:23.910 align:start position:0%
+share that i can integrate this with
+azure<00:02:21.760><c> id</c><00:02:22.080><c> kerberos</c><00:02:22.640><c> or</c><00:02:22.879><c> azure</c><00:02:23.280><c> ad</c><00:02:23.520><c> domain</c>
+
+00:02:23.910 --> 00:02:23.920 align:start position:0%
+azure id kerberos or azure ad domain
+ 
+
+00:02:23.920 --> 00:02:25.350 align:start position:0%
+azure id kerberos or azure ad domain
+services<00:02:24.319><c> i</c><00:02:24.400><c> have</c><00:02:24.480><c> multiple</c><00:02:24.959><c> options</c>
+
+00:02:25.350 --> 00:02:25.360 align:start position:0%
+services i have multiple options
+ 
+
+00:02:25.360 --> 00:02:28.630 align:start position:0%
+services i have multiple options
+available<00:02:26.000><c> to</c><00:02:26.160><c> me</c>
+
+00:02:28.630 --> 00:02:28.640 align:start position:0%
+ 
+ 
+
+00:02:28.640 --> 00:02:30.949 align:start position:0%
+ 
+if<00:02:28.800><c> this</c><00:02:29.040><c> has</c><00:02:29.200><c> a</c><00:02:29.280><c> problem</c><00:02:30.080><c> hey</c><00:02:30.319><c> i</c><00:02:30.400><c> can</c><00:02:30.560><c> access</c>
+
+00:02:30.949 --> 00:02:30.959 align:start position:0%
+if this has a problem hey i can access
+ 
+
+00:02:30.959 --> 00:02:33.910 align:start position:0%
+if this has a problem hey i can access
+this<00:02:31.440><c> it's</c><00:02:31.599><c> also</c><00:02:32.000><c> keeping</c><00:02:32.400><c> in</c><00:02:32.640><c> sync</c><00:02:33.120><c> my</c><00:02:33.440><c> other</c>
+
+00:02:33.910 --> 00:02:33.920 align:start position:0%
+this it's also keeping in sync my other
+ 
+
+00:02:33.920 --> 00:02:37.990 align:start position:0%
+this it's also keeping in sync my other
+windows-based<00:02:34.800><c> smb</c><00:02:35.200><c> file</c><00:02:35.519><c> servers</c>
+
+00:02:37.990 --> 00:02:38.000 align:start position:0%
+ 
+ 
+
+00:02:38.000 --> 00:02:40.309 align:start position:0%
+ 
+if<00:02:38.480><c> i</c><00:02:38.560><c> just</c><00:02:38.720><c> want</c><00:02:38.879><c> to</c><00:02:38.959><c> move</c><00:02:39.280><c> the</c><00:02:39.360><c> data</c><00:02:40.000><c> hey</c><00:02:40.239><c> i</c>
+
+00:02:40.309 --> 00:02:40.319 align:start position:0%
+if i just want to move the data hey i
+ 
+
+00:02:40.319 --> 00:02:42.070 align:start position:0%
+if i just want to move the data hey i
+set<00:02:40.480><c> up</c><00:02:40.640><c> azure</c><00:02:40.879><c> file</c><00:02:41.120><c> sync</c><00:02:41.440><c> then</c><00:02:41.599><c> i</c><00:02:41.680><c> can</c><00:02:41.840><c> turn</c>
+
+00:02:42.070 --> 00:02:42.080 align:start position:0%
+set up azure file sync then i can turn
+ 
+
+00:02:42.080 --> 00:02:43.910 align:start position:0%
+set up azure file sync then i can turn
+these<00:02:42.400><c> off</c><00:02:42.800><c> or</c><00:02:42.959><c> maybe</c><00:02:43.120><c> i</c><00:02:43.200><c> just</c><00:02:43.360><c> want</c><00:02:43.440><c> to</c><00:02:43.599><c> keep</c>
+
+00:02:43.910 --> 00:02:43.920 align:start position:0%
+these off or maybe i just want to keep
+ 
+
+00:02:43.920 --> 00:02:45.670 align:start position:0%
+these off or maybe i just want to keep
+them<00:02:44.560><c> available</c><00:02:44.959><c> and</c><00:02:45.040><c> this</c><00:02:45.280><c> is</c><00:02:45.360><c> for</c>
+
+00:02:45.670 --> 00:02:45.680 align:start position:0%
+them available and this is for
+ 
+
+00:02:45.680 --> 00:02:47.990 align:start position:0%
+them available and this is for
+resiliency<00:02:46.319><c> purposes</c>
+
+00:02:47.990 --> 00:02:48.000 align:start position:0%
+resiliency purposes
+ 
+
+00:02:48.000 --> 00:02:50.630 align:start position:0%
+resiliency purposes
+additionally<00:02:48.879><c> i</c><00:02:49.040><c> can</c><00:02:49.200><c> do</c><00:02:49.519><c> something</c><00:02:50.080><c> called</c>
+
+00:02:50.630 --> 00:02:50.640 align:start position:0%
+additionally i can do something called
+ 
+
+00:02:50.640 --> 00:02:53.350 align:start position:0%
+additionally i can do something called
+cloud
+
+00:02:53.350 --> 00:02:53.360 align:start position:0%
+ 
+ 
+
+00:02:53.360 --> 00:02:55.430 align:start position:0%
+ 
+tiering
+
+00:02:55.430 --> 00:02:55.440 align:start position:0%
+tiering
+ 
+
+00:02:55.440 --> 00:02:57.910 align:start position:0%
+tiering
+and<00:02:55.599><c> what</c><00:02:55.760><c> this</c><00:02:56.080><c> says</c><00:02:56.319><c> is</c><00:02:56.480><c> i</c><00:02:56.560><c> have</c><00:02:56.800><c> a</c><00:02:56.959><c> choice</c>
+
+00:02:57.910 --> 00:02:57.920 align:start position:0%
+and what this says is i have a choice
+ 
+
+00:02:57.920 --> 00:03:00.710 align:start position:0%
+and what this says is i have a choice
+either<00:02:58.879><c> when</c><00:02:59.040><c> i</c><00:02:59.200><c> reach</c><00:02:59.519><c> a</c><00:02:59.599><c> certain</c><00:03:00.000><c> threshold</c>
+
+00:03:00.710 --> 00:03:00.720 align:start position:0%
+either when i reach a certain threshold
+ 
+
+00:03:00.720 --> 00:03:03.430 align:start position:0%
+either when i reach a certain threshold
+of<00:03:01.040><c> free</c><00:03:01.440><c> space</c><00:03:01.920><c> i</c><00:03:02.080><c> am</c><00:03:02.239><c> running</c><00:03:02.560><c> out</c>
+
+00:03:03.430 --> 00:03:03.440 align:start position:0%
+of free space i am running out
+ 
+
+00:03:03.440 --> 00:03:05.110 align:start position:0%
+of free space i am running out
+it<00:03:03.599><c> can</c><00:03:03.840><c> start</c>
+
+00:03:05.110 --> 00:03:05.120 align:start position:0%
+it can start
+ 
+
+00:03:05.120 --> 00:03:06.790 align:start position:0%
+it can start
+offloading
+
+00:03:06.790 --> 00:03:06.800 align:start position:0%
+offloading
+ 
+
+00:03:06.800 --> 00:03:09.270 align:start position:0%
+offloading
+the<00:03:07.040><c> least</c><00:03:07.599><c> access</c><00:03:08.159><c> data</c>
+
+00:03:09.270 --> 00:03:09.280 align:start position:0%
+the least access data
+ 
+
+00:03:09.280 --> 00:03:11.830 align:start position:0%
+the least access data
+only<00:03:09.840><c> to</c><00:03:10.000><c> be</c><00:03:10.239><c> on</c><00:03:10.319><c> the</c><00:03:10.480><c> azure</c><00:03:10.879><c> file</c><00:03:11.200><c> share</c><00:03:11.680><c> it</c>
+
+00:03:11.830 --> 00:03:11.840 align:start position:0%
+only to be on the azure file share it
+ 
+
+00:03:11.840 --> 00:03:13.750 align:start position:0%
+only to be on the azure file share it
+still<00:03:12.080><c> has</c><00:03:12.319><c> a</c><00:03:12.480><c> basically</c><00:03:12.800><c> a</c><00:03:12.959><c> link</c><00:03:13.200><c> to</c><00:03:13.360><c> it</c><00:03:13.440><c> if</c><00:03:13.599><c> i</c>
+
+00:03:13.750 --> 00:03:13.760 align:start position:0%
+still has a basically a link to it if i
+ 
+
+00:03:13.760 --> 00:03:16.149 align:start position:0%
+still has a basically a link to it if i
+talk<00:03:14.080><c> to</c><00:03:14.239><c> this</c><00:03:14.400><c> as</c><00:03:14.560><c> a</c><00:03:14.720><c> user</c><00:03:15.360><c> i</c><00:03:15.519><c> still</c><00:03:15.760><c> see</c><00:03:16.000><c> the</c>
+
+00:03:16.149 --> 00:03:16.159 align:start position:0%
+talk to this as a user i still see the
+ 
+
+00:03:16.159 --> 00:03:18.790 align:start position:0%
+talk to this as a user i still see the
+data<00:03:16.879><c> if</c><00:03:17.040><c> i</c><00:03:17.200><c> access</c><00:03:17.519><c> it</c><00:03:17.519><c> it</c><00:03:17.840><c> brings</c><00:03:18.239><c> it</c><00:03:18.480><c> back</c>
+
+00:03:18.790 --> 00:03:18.800 align:start position:0%
+data if i access it it brings it back
+ 
+
+00:03:18.800 --> 00:03:19.830 align:start position:0%
+data if i access it it brings it back
+down
+
+00:03:19.830 --> 00:03:19.840 align:start position:0%
+down
+ 
+
+00:03:19.840 --> 00:03:24.949 align:start position:0%
+down
+or<00:03:20.400><c> i</c><00:03:20.560><c> could</c><00:03:20.800><c> say</c><00:03:21.120><c> hey</c><00:03:21.920><c> if</c><00:03:22.080><c> it's</c><00:03:22.239><c> not</c><00:03:22.480><c> been</c><00:03:23.200><c> used</c>
+
+00:03:24.949 --> 00:03:24.959 align:start position:0%
+or i could say hey if it's not been used
+ 
+
+00:03:24.959 --> 00:03:26.070 align:start position:0%
+or i could say hey if it's not been used
+for<00:03:25.120><c> a</c><00:03:25.200><c> certain</c><00:03:25.440><c> amount</c><00:03:25.599><c> of</c><00:03:25.680><c> time</c><00:03:25.840><c> it's</c><00:03:25.920><c> not</c>
+
+00:03:26.070 --> 00:03:26.080 align:start position:0%
+for a certain amount of time it's not
+ 
+
+00:03:26.080 --> 00:03:28.470 align:start position:0%
+for a certain amount of time it's not
+been<00:03:26.239><c> used</c><00:03:26.400><c> for</c><00:03:26.480><c> 60</c><00:03:26.799><c> days</c><00:03:27.440><c> just</c><00:03:27.920><c> tear</c><00:03:28.159><c> it</c><00:03:28.319><c> off</c>
+
+00:03:28.470 --> 00:03:28.480 align:start position:0%
+been used for 60 days just tear it off
+ 
+
+00:03:28.480 --> 00:03:30.070 align:start position:0%
+been used for 60 days just tear it off
+to<00:03:28.640><c> the</c><00:03:28.799><c> cloud</c><00:03:29.200><c> as</c><00:03:29.280><c> well</c>
+
+00:03:30.070 --> 00:03:30.080 align:start position:0%
+to the cloud as well
+ 
+
+00:03:30.080 --> 00:03:32.630 align:start position:0%
+to the cloud as well
+so<00:03:30.239><c> this</c><00:03:30.400><c> is</c><00:03:30.560><c> a</c><00:03:30.720><c> great</c><00:03:31.280><c> solution</c>
+
+00:03:32.630 --> 00:03:32.640 align:start position:0%
+so this is a great solution
+ 
+
+00:03:32.640 --> 00:03:34.470 align:start position:0%
+so this is a great solution
+if<00:03:32.799><c> i</c><00:03:32.959><c> want</c><00:03:33.280><c> to</c><00:03:33.519><c> move</c>
+
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+if i want to move
+ 
+
+00:03:34.480 --> 00:03:37.190 align:start position:0%
+if i want to move
+my<00:03:34.720><c> data</c>
+
+00:03:37.190 --> 00:03:37.200 align:start position:0%
+my data
+ 
+
+00:03:37.200 --> 00:03:40.149 align:start position:0%
+my data
+if<00:03:37.440><c> i</c><00:03:37.599><c> want</c><00:03:37.920><c> to</c><00:03:38.239><c> just</c><00:03:38.560><c> keep</c><00:03:38.799><c> it</c><00:03:39.040><c> synchronized</c>
+
+00:03:40.149 --> 00:03:40.159 align:start position:0%
+if i want to just keep it synchronized
+ 
+
+00:03:40.159 --> 00:03:42.309 align:start position:0%
+if i want to just keep it synchronized
+for<00:03:40.319><c> resiliency</c><00:03:41.040><c> purposes</c>
+
+00:03:42.309 --> 00:03:42.319 align:start position:0%
+for resiliency purposes
+ 
+
+00:03:42.319 --> 00:03:45.830 align:start position:0%
+for resiliency purposes
+um<00:03:42.959><c> or</c><00:03:43.519><c> i</c><00:03:43.680><c> just</c><00:03:44.239><c> want</c><00:03:44.560><c> that</c><00:03:44.879><c> overall</c><00:03:45.360><c> solution</c>
+
+00:03:45.830 --> 00:03:45.840 align:start position:0%
+um or i just want that overall solution
+ 
+
+00:03:45.840 --> 00:03:47.830 align:start position:0%
+um or i just want that overall solution
+to<00:03:45.920><c> keep</c><00:03:46.080><c> maybe</c><00:03:46.400><c> other</c><00:03:46.959><c> windows-based</c><00:03:47.599><c> file</c>
+
+00:03:47.830 --> 00:03:47.840 align:start position:0%
+to keep maybe other windows-based file
+ 
+
+00:03:47.840 --> 00:03:51.110 align:start position:0%
+to keep maybe other windows-based file
+servers<00:03:48.400><c> synchronized</c><00:03:49.040><c> with</c><00:03:49.280><c> each</c><00:03:49.599><c> other</c>
+
+00:03:51.110 --> 00:03:51.120 align:start position:0%
+servers synchronized with each other
+ 
+
+00:03:51.120 --> 00:03:54.070 align:start position:0%
+servers synchronized with each other
+now<00:03:51.280><c> there</c><00:03:51.440><c> are</c><00:03:51.599><c> other</c><00:03:51.760><c> methods</c><00:03:52.239><c> as</c><00:03:52.400><c> well</c>
+
+00:03:54.070 --> 00:03:54.080 align:start position:0%
+now there are other methods as well
+ 
+
+00:03:54.080 --> 00:03:56.070 align:start position:0%
+now there are other methods as well
+maybe<00:03:54.560><c> remember</c><00:03:54.799><c> there's</c><00:03:55.120><c> other</c><00:03:55.439><c> types</c><00:03:55.920><c> of</c>
+
+00:03:56.070 --> 00:03:56.080 align:start position:0%
+maybe remember there's other types of
+ 
+
+00:03:56.080 --> 00:03:59.350 align:start position:0%
+maybe remember there's other types of
+storage<00:03:56.560><c> in</c><00:03:56.720><c> azure</c><00:03:57.360><c> there's</c><00:03:57.760><c> blob</c><00:03:58.640><c> there's</c>
+
+00:03:59.350 --> 00:03:59.360 align:start position:0%
+storage in azure there's blob there's
+ 
+
+00:03:59.360 --> 00:04:02.710 align:start position:0%
+storage in azure there's blob there's
+files<00:04:00.319><c> there's</c><00:04:00.799><c> database</c><00:04:01.439><c> services</c>
+
+00:04:02.710 --> 00:04:02.720 align:start position:0%
+files there's database services
+ 
+
+00:04:02.720 --> 00:04:04.949 align:start position:0%
+files there's database services
+so<00:04:02.959><c> another</c><00:04:03.280><c> really</c><00:04:03.599><c> useful</c><00:04:04.080><c> tool</c><00:04:04.319><c> we</c><00:04:04.480><c> have</c><00:04:04.640><c> is</c>
+
+00:04:04.949 --> 00:04:04.959 align:start position:0%
+so another really useful tool we have is
+ 
+
+00:04:04.959 --> 00:04:06.949 align:start position:0%
+so another really useful tool we have is
+azure<00:04:05.280><c> storage</c><00:04:05.760><c> explorer</c>
+
+00:04:06.949 --> 00:04:06.959 align:start position:0%
+azure storage explorer
+ 
+
+00:04:06.959 --> 00:04:09.270 align:start position:0%
+azure storage explorer
+so<00:04:07.200><c> azure</c><00:04:07.599><c> storage</c><00:04:08.000><c> explorer</c>
+
+00:04:09.270 --> 00:04:09.280 align:start position:0%
+so azure storage explorer
+ 
+
+00:04:09.280 --> 00:04:11.910 align:start position:0%
+so azure storage explorer
+this<00:04:09.519><c> is</c><00:04:09.680><c> a</c><00:04:09.920><c> nice</c><00:04:10.319><c> graphical</c><00:04:10.959><c> tool</c>
+
+00:04:11.910 --> 00:04:11.920 align:start position:0%
+this is a nice graphical tool
+ 
+
+00:04:11.920 --> 00:04:13.910 align:start position:0%
+this is a nice graphical tool
+so<00:04:12.159><c> in</c><00:04:12.239><c> this</c><00:04:12.480><c> tour</c><00:04:12.720><c> you</c><00:04:12.879><c> can</c><00:04:13.040><c> see</c><00:04:13.280><c> i</c><00:04:13.360><c> can</c><00:04:13.519><c> easily</c>
+
+00:04:13.910 --> 00:04:13.920 align:start position:0%
+so in this tour you can see i can easily
+ 
+
+00:04:13.920 --> 00:04:16.150 align:start position:0%
+so in this tour you can see i can easily
+see<00:04:14.159><c> all</c><00:04:14.319><c> of</c><00:04:14.480><c> my</c><00:04:14.640><c> different</c><00:04:14.879><c> storage</c><00:04:15.280><c> accounts</c>
+
+00:04:16.150 --> 00:04:16.160 align:start position:0%
+see all of my different storage accounts
+ 
+
+00:04:16.160 --> 00:04:18.229 align:start position:0%
+see all of my different storage accounts
+i<00:04:16.320><c> might</c><00:04:16.560><c> have</c><00:04:16.720><c> available</c>
+
+00:04:18.229 --> 00:04:18.239 align:start position:0%
+i might have available
+ 
+
+00:04:18.239 --> 00:04:19.990 align:start position:0%
+i might have available
+i<00:04:18.320><c> can</c><00:04:18.479><c> go</c><00:04:18.639><c> and</c><00:04:18.720><c> look</c><00:04:18.880><c> at</c><00:04:18.959><c> my</c><00:04:19.120><c> various</c><00:04:19.600><c> blob</c>
+
+00:04:19.990 --> 00:04:20.000 align:start position:0%
+i can go and look at my various blob
+ 
+
+00:04:20.000 --> 00:04:21.990 align:start position:0%
+i can go and look at my various blob
+containers
+
+00:04:21.990 --> 00:04:22.000 align:start position:0%
+containers
+ 
+
+00:04:22.000 --> 00:04:23.510 align:start position:0%
+containers
+and<00:04:22.240><c> from</c><00:04:22.479><c> here</c>
+
+00:04:23.510 --> 00:04:23.520 align:start position:0%
+and from here
+ 
+
+00:04:23.520 --> 00:04:25.909 align:start position:0%
+and from here
+you'll<00:04:23.680><c> notice</c><00:04:24.160><c> well</c><00:04:24.400><c> i</c><00:04:24.479><c> can</c><00:04:24.800><c> upload</c>
+
+00:04:25.909 --> 00:04:25.919 align:start position:0%
+you'll notice well i can upload
+ 
+
+00:04:25.919 --> 00:04:26.830 align:start position:0%
+you'll notice well i can upload
+a
+
+00:04:26.830 --> 00:04:26.840 align:start position:0%
+a
+ 
+
+00:04:26.840 --> 00:04:30.390 align:start position:0%
+a
+folder<00:04:27.919><c> i</c><00:04:28.080><c> could</c><00:04:28.400><c> upload</c><00:04:28.800><c> specific</c><00:04:29.440><c> files</c>
+
+00:04:30.390 --> 00:04:30.400 align:start position:0%
+folder i could upload specific files
+ 
+
+00:04:30.400 --> 00:04:34.150 align:start position:0%
+folder i could upload specific files
+i<00:04:30.560><c> can</c><00:04:30.800><c> also</c><00:04:31.120><c> select</c><00:04:31.600><c> content</c><00:04:32.400><c> to</c><00:04:32.800><c> download</c>
+
+00:04:34.150 --> 00:04:34.160 align:start position:0%
+i can also select content to download
+ 
+
+00:04:34.160 --> 00:04:37.830 align:start position:0%
+i can also select content to download
+so<00:04:34.320><c> this</c><00:04:34.560><c> is</c><00:04:34.800><c> very</c><00:04:35.280><c> useful</c><00:04:36.080><c> for</c><00:04:36.720><c> maybe</c><00:04:37.280><c> one-off</c>
+
+00:04:37.830 --> 00:04:37.840 align:start position:0%
+so this is very useful for maybe one-off
+ 
+
+00:04:37.840 --> 00:04:39.749 align:start position:0%
+so this is very useful for maybe one-off
+type<00:04:38.160><c> interactions</c><00:04:38.880><c> of</c><00:04:39.280><c> putting</c><00:04:39.520><c> some</c>
+
+00:04:39.749 --> 00:04:39.759 align:start position:0%
+type interactions of putting some
+ 
+
+00:04:39.759 --> 00:04:42.390 align:start position:0%
+type interactions of putting some
+content<00:04:40.320><c> in</c><00:04:40.960><c> bringing</c><00:04:41.280><c> it</c><00:04:41.440><c> down</c><00:04:41.759><c> i</c><00:04:41.840><c> can</c><00:04:42.000><c> also</c>
+
+00:04:42.390 --> 00:04:42.400 align:start position:0%
+content in bringing it down i can also
+ 
+
+00:04:42.400 --> 00:04:44.870 align:start position:0%
+content in bringing it down i can also
+change<00:04:42.720><c> the</c><00:04:42.880><c> tier</c><00:04:43.759><c> notice</c><00:04:44.160><c> i</c><00:04:44.240><c> can</c><00:04:44.479><c> also</c>
+
+00:04:44.870 --> 00:04:44.880 align:start position:0%
+change the tier notice i can also
+ 
+
+00:04:44.880 --> 00:04:47.350 align:start position:0%
+change the tier notice i can also
+interact<00:04:45.360><c> with</c><00:04:45.600><c> my</c><00:04:45.919><c> file</c><00:04:46.320><c> shares</c><00:04:46.960><c> i</c><00:04:47.040><c> can</c><00:04:47.199><c> do</c>
+
+00:04:47.350 --> 00:04:47.360 align:start position:0%
+interact with my file shares i can do
+ 
+
+00:04:47.360 --> 00:04:50.469 align:start position:0%
+interact with my file shares i can do
+the<00:04:47.520><c> same</c><00:04:47.840><c> idea</c><00:04:48.400><c> of</c><00:04:48.720><c> uploading</c>
+
+00:04:50.469 --> 00:04:50.479 align:start position:0%
+the same idea of uploading
+ 
+
+00:04:50.479 --> 00:04:52.790 align:start position:0%
+the same idea of uploading
+folders<00:04:50.800><c> and</c><00:04:50.960><c> files</c><00:04:51.280><c> or</c><00:04:51.440><c> downloading</c>
+
+00:04:52.790 --> 00:04:52.800 align:start position:0%
+folders and files or downloading
+ 
+
+00:04:52.800 --> 00:04:55.510 align:start position:0%
+folders and files or downloading
+and<00:04:52.880><c> it</c><00:04:53.040><c> also</c><00:04:53.280><c> lets</c><00:04:53.520><c> me</c><00:04:53.759><c> interact</c><00:04:54.160><c> with</c><00:04:54.479><c> cues</c><00:04:55.280><c> i</c>
+
+00:04:55.510 --> 00:04:55.520 align:start position:0%
+and it also lets me interact with cues i
+ 
+
+00:04:55.520 --> 00:04:58.310 align:start position:0%
+and it also lets me interact with cues i
+can<00:04:56.000><c> add</c><00:04:56.240><c> a</c><00:04:56.320><c> message</c><00:04:56.800><c> dequeue</c><00:04:57.199><c> a</c><00:04:57.360><c> message</c><00:04:58.160><c> and</c>
+
+00:04:58.310 --> 00:04:58.320 align:start position:0%
+can add a message dequeue a message and
+ 
+
+00:04:58.320 --> 00:05:00.310 align:start position:0%
+can add a message dequeue a message and
+also<00:04:58.479><c> lets</c><00:04:58.720><c> me</c><00:04:58.880><c> interact</c><00:04:59.280><c> with</c><00:04:59.440><c> tables</c><00:05:00.000><c> i</c><00:05:00.080><c> can</c>
+
+00:05:00.310 --> 00:05:00.320 align:start position:0%
+also lets me interact with tables i can
+ 
+
+00:05:00.320 --> 00:05:04.070 align:start position:0%
+also lets me interact with tables i can
+add<00:05:00.639><c> various</c><00:05:01.680><c> key</c><00:05:02.000><c> value</c><00:05:02.479><c> pairs</c>
+
+00:05:04.070 --> 00:05:04.080 align:start position:0%
+add various key value pairs
+ 
+
+00:05:04.080 --> 00:05:06.469 align:start position:0%
+add various key value pairs
+to<00:05:04.320><c> the</c><00:05:04.479><c> content</c><00:05:05.039><c> of</c><00:05:05.280><c> it</c><00:05:05.440><c> so</c><00:05:05.680><c> storage</c><00:05:06.080><c> explorer</c>
+
+00:05:06.469 --> 00:05:06.479 align:start position:0%
+to the content of it so storage explorer
+ 
+
+00:05:06.479 --> 00:05:08.790 align:start position:0%
+to the content of it so storage explorer
+lets<00:05:06.720><c> me</c><00:05:06.880><c> really</c><00:05:07.280><c> interactively</c>
+
+00:05:08.790 --> 00:05:08.800 align:start position:0%
+lets me really interactively
+ 
+
+00:05:08.800 --> 00:05:11.990 align:start position:0%
+lets me really interactively
+hey<00:05:09.120><c> upload</c><00:05:09.759><c> and</c><00:05:10.000><c> download</c><00:05:10.720><c> content</c>
+
+00:05:11.990 --> 00:05:12.000 align:start position:0%
+hey upload and download content
+ 
+
+00:05:12.000 --> 00:05:14.150 align:start position:0%
+hey upload and download content
+now<00:05:12.240><c> additionally</c><00:05:12.720><c> in</c><00:05:12.800><c> the</c><00:05:12.960><c> azure</c><00:05:13.520><c> portal</c><00:05:14.080><c> if</c>
+
+00:05:14.150 --> 00:05:14.160 align:start position:0%
+now additionally in the azure portal if
+ 
+
+00:05:14.160 --> 00:05:16.150 align:start position:0%
+now additionally in the azure portal if
+i<00:05:14.240><c> look</c><00:05:14.400><c> at</c><00:05:14.479><c> a</c><00:05:14.560><c> storage</c><00:05:14.960><c> account</c><00:05:15.680><c> you'll</c><00:05:15.919><c> see</c>
+
+00:05:16.150 --> 00:05:16.160 align:start position:0%
+i look at a storage account you'll see
+ 
+
+00:05:16.160 --> 00:05:18.070 align:start position:0%
+i look at a storage account you'll see
+this<00:05:16.479><c> option</c>
+
+00:05:18.070 --> 00:05:18.080 align:start position:0%
+this option
+ 
+
+00:05:18.080 --> 00:05:20.390 align:start position:0%
+this option
+of<00:05:18.240><c> storage</c><00:05:18.639><c> browser</c><00:05:19.520><c> this</c><00:05:19.680><c> is</c><00:05:19.759><c> doing</c><00:05:20.000><c> a</c><00:05:20.080><c> very</c>
+
+00:05:20.390 --> 00:05:20.400 align:start position:0%
+of storage browser this is doing a very
+ 
+
+00:05:20.400 --> 00:05:21.749 align:start position:0%
+of storage browser this is doing a very
+similar<00:05:20.960><c> thing</c>
+
+00:05:21.749 --> 00:05:21.759 align:start position:0%
+similar thing
+ 
+
+00:05:21.759 --> 00:05:23.350 align:start position:0%
+similar thing
+once<00:05:22.000><c> again</c><00:05:22.240><c> i</c><00:05:22.400><c> can</c><00:05:22.479><c> go</c><00:05:22.560><c> and</c><00:05:22.639><c> look</c><00:05:22.800><c> at</c><00:05:22.880><c> my</c><00:05:23.039><c> blog</c>
+
+00:05:23.350 --> 00:05:23.360 align:start position:0%
+once again i can go and look at my blog
+ 
+
+00:05:23.360 --> 00:05:24.629 align:start position:0%
+once again i can go and look at my blog
+containers
+
+00:05:24.629 --> 00:05:24.639 align:start position:0%
+containers
+ 
+
+00:05:24.639 --> 00:05:26.790 align:start position:0%
+containers
+i<00:05:24.720><c> could</c><00:05:24.960><c> go</c><00:05:25.199><c> and</c><00:05:25.440><c> select</c><00:05:25.919><c> it</c>
+
+00:05:26.790 --> 00:05:26.800 align:start position:0%
+i could go and select it
+ 
+
+00:05:26.800 --> 00:05:28.870 align:start position:0%
+i could go and select it
+and<00:05:27.120><c> notice</c><00:05:27.520><c> i</c><00:05:27.600><c> can</c><00:05:27.840><c> upload</c>
+
+00:05:28.870 --> 00:05:28.880 align:start position:0%
+and notice i can upload
+ 
+
+00:05:28.880 --> 00:05:31.029 align:start position:0%
+and notice i can upload
+i<00:05:29.039><c> have</c><00:05:29.280><c> those</c><00:05:29.600><c> same</c><00:05:30.240><c> concepts</c><00:05:30.720><c> this</c><00:05:30.880><c> is</c>
+
+00:05:31.029 --> 00:05:31.039 align:start position:0%
+i have those same concepts this is
+ 
+
+00:05:31.039 --> 00:05:33.990 align:start position:0%
+i have those same concepts this is
+directly<00:05:31.520><c> within</c><00:05:31.919><c> the</c><00:05:32.160><c> portal</c><00:05:32.720><c> itself</c>
+
+00:05:33.990 --> 00:05:34.000 align:start position:0%
+directly within the portal itself
+ 
+
+00:05:34.000 --> 00:05:36.150 align:start position:0%
+directly within the portal itself
+so<00:05:34.160><c> the</c><00:05:34.400><c> azure</c><00:05:34.720><c> storage</c><00:05:35.120><c> explorer</c><00:05:35.840><c> and</c><00:05:36.000><c> the</c>
+
+00:05:36.150 --> 00:05:36.160 align:start position:0%
+so the azure storage explorer and the
+ 
+
+00:05:36.160 --> 00:05:37.749 align:start position:0%
+so the azure storage explorer and the
+storage<00:05:36.560><c> browser</c>
+
+00:05:37.749 --> 00:05:37.759 align:start position:0%
+storage browser
+ 
+
+00:05:37.759 --> 00:05:40.950 align:start position:0%
+storage browser
+these<00:05:38.160><c> are</c><00:05:38.479><c> great</c><00:05:38.960><c> for</c><00:05:39.560><c> interacting</c>
+
+00:05:40.950 --> 00:05:40.960 align:start position:0%
+these are great for interacting
+ 
+
+00:05:40.960 --> 00:05:44.550 align:start position:0%
+these are great for interacting
+interactively<00:05:42.240><c> i</c><00:05:42.400><c> want</c><00:05:42.639><c> a</c><00:05:42.960><c> visual</c><00:05:43.520><c> view</c><00:05:44.240><c> i'm</c>
+
+00:05:44.550 --> 00:05:44.560 align:start position:0%
+interactively i want a visual view i'm
+ 
+
+00:05:44.560 --> 00:05:46.790 align:start position:0%
+interactively i want a visual view i'm
+dragging<00:05:45.039><c> and</c><00:05:45.280><c> dropping</c>
+
+00:05:46.790 --> 00:05:46.800 align:start position:0%
+dragging and dropping
+ 
+
+00:05:46.800 --> 00:05:50.469 align:start position:0%
+dragging and dropping
+files<00:05:47.199><c> and</c><00:05:47.360><c> folders</c><00:05:48.240><c> to</c><00:05:48.560><c> interact</c><00:05:49.199><c> with</c><00:05:49.440><c> that</c>
+
+00:05:50.469 --> 00:05:50.479 align:start position:0%
+files and folders to interact with that
+ 
+
+00:05:50.479 --> 00:05:53.029 align:start position:0%
+files and folders to interact with that
+so<00:05:50.639><c> we</c><00:05:50.800><c> have</c><00:05:51.039><c> the</c><00:05:51.199><c> idea</c><00:05:51.759><c> of</c>
+
+00:05:53.029 --> 00:05:53.039 align:start position:0%
+so we have the idea of
+ 
+
+00:05:53.039 --> 00:05:55.510 align:start position:0%
+so we have the idea of
+storage<00:05:53.600><c> explorer</c>
+
+00:05:55.510 --> 00:05:55.520 align:start position:0%
+storage explorer
+ 
+
+00:05:55.520 --> 00:05:58.390 align:start position:0%
+storage explorer
+very<00:05:55.840><c> useful</c><00:05:56.319><c> for</c><00:05:56.479><c> those</c><00:05:57.280><c> ad</c><00:05:57.680><c> hoc</c>
+
+00:05:58.390 --> 00:05:58.400 align:start position:0%
+very useful for those ad hoc
+ 
+
+00:05:58.400 --> 00:06:00.390 align:start position:0%
+very useful for those ad hoc
+interactions<00:05:59.440><c> where</c><00:05:59.680><c> it's</c><00:05:59.759><c> probably</c><00:06:00.160><c> a</c>
+
+00:06:00.390 --> 00:06:00.400 align:start position:0%
+interactions where it's probably a
+ 
+
+00:06:00.400 --> 00:06:03.350 align:start position:0%
+interactions where it's probably a
+smaller<00:06:00.960><c> amount</c><00:06:01.360><c> of</c><00:06:01.520><c> data</c>
+
+00:06:03.350 --> 00:06:03.360 align:start position:0%
+smaller amount of data
+ 
+
+00:06:03.360 --> 00:06:05.029 align:start position:0%
+smaller amount of data
+so<00:06:03.600><c> this</c><00:06:03.759><c> is</c><00:06:03.919><c> very</c><00:06:04.160><c> much</c>
+
+00:06:05.029 --> 00:06:05.039 align:start position:0%
+so this is very much
+ 
+
+00:06:05.039 --> 00:06:08.309 align:start position:0%
+so this is very much
+interactive
+
+00:06:08.309 --> 00:06:08.319 align:start position:0%
+ 
+ 
+
+00:06:08.319 --> 00:06:10.629 align:start position:0%
+ 
+now<00:06:08.560><c> what</c><00:06:08.800><c> about</c><00:06:09.199><c> if</c><00:06:09.520><c> i</c><00:06:09.680><c> want</c><00:06:10.000><c> to</c><00:06:10.160><c> maybe</c>
+
+00:06:10.629 --> 00:06:10.639 align:start position:0%
+now what about if i want to maybe
+ 
+
+00:06:10.639 --> 00:06:13.430 align:start position:0%
+now what about if i want to maybe
+automate<00:06:11.520><c> maybe</c><00:06:11.759><c> it's</c><00:06:11.919><c> a</c><00:06:12.000><c> very</c><00:06:12.240><c> large</c><00:06:12.560><c> scale</c>
+
+00:06:13.430 --> 00:06:13.440 align:start position:0%
+automate maybe it's a very large scale
+ 
+
+00:06:13.440 --> 00:06:15.070 align:start position:0%
+automate maybe it's a very large scale
+maybe<00:06:13.680><c> i</c><00:06:13.759><c> want</c><00:06:13.840><c> to</c><00:06:13.919><c> do</c><00:06:14.000><c> it</c><00:06:14.160><c> as</c><00:06:14.240><c> part</c><00:06:14.400><c> of</c><00:06:14.479><c> some</c>
+
+00:06:15.070 --> 00:06:15.080 align:start position:0%
+maybe i want to do it as part of some
+ 
+
+00:06:15.080 --> 00:06:16.870 align:start position:0%
+maybe i want to do it as part of some
+unattended<00:06:16.080><c> job</c>
+
+00:06:16.870 --> 00:06:16.880 align:start position:0%
+unattended job
+ 
+
+00:06:16.880 --> 00:06:19.749 align:start position:0%
+unattended job
+so<00:06:17.039><c> then</c><00:06:17.199><c> we</c><00:06:17.280><c> have</c><00:06:17.520><c> a</c><00:06:17.759><c> z</c><00:06:18.080><c> copy</c>
+
+00:06:19.749 --> 00:06:19.759 align:start position:0%
+so then we have a z copy
+ 
+
+00:06:19.759 --> 00:06:22.230 align:start position:0%
+so then we have a z copy
+so<00:06:19.919><c> a</c><00:06:20.319><c> z</c><00:06:20.560><c> copy</c><00:06:20.960><c> is</c><00:06:21.120><c> really</c><00:06:21.360><c> useful</c><00:06:21.919><c> for</c>
+
+00:06:22.230 --> 00:06:22.240 align:start position:0%
+so a z copy is really useful for
+ 
+
+00:06:22.240 --> 00:06:24.309 align:start position:0%
+so a z copy is really useful for
+automation<00:06:23.039><c> scenarios</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+automation scenarios
+ 
+
+00:06:24.319 --> 00:06:28.469 align:start position:0%
+automation scenarios
+an<00:06:24.560><c> az</c><00:06:25.120><c> copy</c><00:06:25.680><c> can</c><00:06:25.840><c> be</c><00:06:26.080><c> used</c><00:06:26.880><c> both</c><00:06:27.199><c> to</c><00:06:27.840><c> copy</c><00:06:28.240><c> the</c>
+
+00:06:28.469 --> 00:06:28.479 align:start position:0%
+an az copy can be used both to copy the
+ 
+
+00:06:28.479 --> 00:06:30.629 align:start position:0%
+an az copy can be used both to copy the
+data
+
+00:06:30.629 --> 00:06:30.639 align:start position:0%
+data
+ 
+
+00:06:30.639 --> 00:06:33.270 align:start position:0%
+data
+but<00:06:30.800><c> it</c><00:06:30.880><c> can</c><00:06:31.039><c> also</c><00:06:31.360><c> be</c><00:06:31.520><c> set</c><00:06:31.680><c> up</c><00:06:31.840><c> to</c><00:06:32.080><c> sync</c><00:06:32.720><c> so</c><00:06:32.960><c> hey</c>
+
+00:06:33.270 --> 00:06:33.280 align:start position:0%
+but it can also be set up to sync so hey
+ 
+
+00:06:33.280 --> 00:06:37.590 align:start position:0%
+but it can also be set up to sync so hey
+what's<00:06:33.759><c> changed</c><00:06:34.319><c> on</c><00:06:34.400><c> my</c><00:06:34.639><c> local</c><00:06:35.440><c> or</c><00:06:35.680><c> my</c><00:06:35.919><c> target</c>
+
+00:06:37.590 --> 00:06:37.600 align:start position:0%
+what's changed on my local or my target
+ 
+
+00:06:37.600 --> 00:06:39.990 align:start position:0%
+what's changed on my local or my target
+and<00:06:37.759><c> here's</c><00:06:38.000><c> a</c><00:06:38.160><c> powerful</c><00:06:38.639><c> thing</c>
+
+00:06:39.990 --> 00:06:40.000 align:start position:0%
+and here's a powerful thing
+ 
+
+00:06:40.000 --> 00:06:42.629 align:start position:0%
+and here's a powerful thing
+yes<00:06:40.479><c> it</c><00:06:40.639><c> can</c><00:06:40.880><c> copy</c><00:06:41.280><c> from</c><00:06:41.440><c> my</c><00:06:41.600><c> local</c>
+
+00:06:42.629 --> 00:06:42.639 align:start position:0%
+yes it can copy from my local
+ 
+
+00:06:42.639 --> 00:06:45.590 align:start position:0%
+yes it can copy from my local
+area<00:06:43.199><c> to</c><00:06:43.440><c> the</c><00:06:43.600><c> cloud</c><00:06:44.080><c> or</c><00:06:44.240><c> vice</c><00:06:44.560><c> versa</c>
+
+00:06:45.590 --> 00:06:45.600 align:start position:0%
+area to the cloud or vice versa
+ 
+
+00:06:45.600 --> 00:06:47.670 align:start position:0%
+area to the cloud or vice versa
+but<00:06:45.759><c> it</c><00:06:45.840><c> can</c><00:06:46.080><c> also</c><00:06:46.639><c> do</c>
+
+00:06:47.670 --> 00:06:47.680 align:start position:0%
+but it can also do
+ 
+
+00:06:47.680 --> 00:06:50.629 align:start position:0%
+but it can also do
+kind<00:06:47.919><c> of</c><00:06:48.319><c> cloud</c><00:06:48.880><c> to</c><00:06:49.120><c> cloud</c>
+
+00:06:50.629 --> 00:06:50.639 align:start position:0%
+kind of cloud to cloud
+ 
+
+00:06:50.639 --> 00:06:54.230 align:start position:0%
+kind of cloud to cloud
+and<00:06:50.800><c> when</c><00:06:50.960><c> it</c><00:06:51.039><c> does</c><00:06:51.280><c> cloud</c><00:06:51.680><c> to</c><00:06:51.840><c> cloud</c><00:06:52.400><c> in</c><00:06:52.880><c> azure</c>
+
+00:06:54.230 --> 00:06:54.240 align:start position:0%
+and when it does cloud to cloud in azure
+ 
+
+00:06:54.240 --> 00:06:56.070 align:start position:0%
+and when it does cloud to cloud in azure
+it's<00:06:54.560><c> server-side</c>
+
+00:06:56.070 --> 00:06:56.080 align:start position:0%
+it's server-side
+ 
+
+00:06:56.080 --> 00:06:58.230 align:start position:0%
+it's server-side
+the<00:06:56.240><c> data</c><00:06:56.639><c> does</c><00:06:56.880><c> not</c>
+
+00:06:58.230 --> 00:06:58.240 align:start position:0%
+the data does not
+ 
+
+00:06:58.240 --> 00:07:00.710 align:start position:0%
+the data does not
+copy<00:06:58.720><c> down</c><00:06:58.960><c> to</c><00:06:59.199><c> my</c><00:06:59.520><c> machine</c><00:07:00.080><c> and</c><00:07:00.240><c> back</c><00:07:00.560><c> up</c>
+
+00:07:00.710 --> 00:07:00.720 align:start position:0%
+copy down to my machine and back up
+ 
+
+00:07:00.720 --> 00:07:01.589 align:start position:0%
+copy down to my machine and back up
+again
+
+00:07:01.589 --> 00:07:01.599 align:start position:0%
+again
+ 
+
+00:07:01.599 --> 00:07:03.430 align:start position:0%
+again
+it<00:07:01.759><c> goes</c><00:07:02.080><c> directly</c><00:07:02.560><c> between</c><00:07:02.960><c> the</c><00:07:03.120><c> storage</c>
+
+00:07:03.430 --> 00:07:03.440 align:start position:0%
+it goes directly between the storage
+ 
+
+00:07:03.440 --> 00:07:04.710 align:start position:0%
+it goes directly between the storage
+accounts<00:07:03.840><c> in</c><00:07:04.000><c> azure</c><00:07:04.240><c> so</c><00:07:04.400><c> it's</c><00:07:04.479><c> going</c><00:07:04.479><c> to</c><00:07:04.560><c> be</c>
+
+00:07:04.710 --> 00:07:04.720 align:start position:0%
+accounts in azure so it's going to be
+ 
+
+00:07:04.720 --> 00:07:07.430 align:start position:0%
+accounts in azure so it's going to be
+very<00:07:04.960><c> fast</c><00:07:05.280><c> very</c><00:07:05.520><c> performant</c><00:07:06.400><c> but</c><00:07:06.639><c> i</c><00:07:06.720><c> can</c><00:07:07.039><c> also</c>
+
+00:07:07.430 --> 00:07:07.440 align:start position:0%
+very fast very performant but i can also
+ 
+
+00:07:07.440 --> 00:07:10.070 align:start position:0%
+very fast very performant but i can also
+use<00:07:07.680><c> it</c><00:07:07.840><c> to</c><00:07:07.919><c> do</c><00:07:08.160><c> things</c><00:07:08.400><c> like</c><00:07:08.560><c> well</c><00:07:08.800><c> hey</c>
+
+00:07:10.070 --> 00:07:10.080 align:start position:0%
+use it to do things like well hey
+ 
+
+00:07:10.080 --> 00:07:12.870 align:start position:0%
+use it to do things like well hey
+i<00:07:10.240><c> want</c><00:07:10.400><c> to</c><00:07:10.479><c> be</c><00:07:10.639><c> able</c><00:07:10.720><c> to</c><00:07:10.880><c> copy</c><00:07:11.199><c> from</c><00:07:11.520><c> aws</c>
+
+00:07:12.870 --> 00:07:12.880 align:start position:0%
+i want to be able to copy from aws
+ 
+
+00:07:12.880 --> 00:07:14.629 align:start position:0%
+i want to be able to copy from aws
+from<00:07:13.120><c> gcp</c>
+
+00:07:14.629 --> 00:07:14.639 align:start position:0%
+from gcp
+ 
+
+00:07:14.639 --> 00:07:16.790 align:start position:0%
+from gcp
+so<00:07:15.039><c> it</c><00:07:15.199><c> gives</c><00:07:15.440><c> me</c><00:07:15.599><c> the</c><00:07:15.680><c> ability</c><00:07:16.160><c> to</c><00:07:16.319><c> take</c><00:07:16.560><c> data</c>
+
+00:07:16.790 --> 00:07:16.800 align:start position:0%
+so it gives me the ability to take data
+ 
+
+00:07:16.800 --> 00:07:19.029 align:start position:0%
+so it gives me the ability to take data
+from<00:07:17.039><c> aws</c><00:07:17.599><c> from</c><00:07:17.680><c> gcp</c><00:07:18.160><c> and</c><00:07:18.240><c> bring</c><00:07:18.479><c> it</c><00:07:18.639><c> into</c>
+
+00:07:19.029 --> 00:07:19.039 align:start position:0%
+from aws from gcp and bring it into
+ 
+
+00:07:19.039 --> 00:07:21.430 align:start position:0%
+from aws from gcp and bring it into
+azure<00:07:19.440><c> storage</c><00:07:20.240><c> so</c><00:07:20.400><c> it's</c><00:07:20.560><c> really</c><00:07:20.800><c> useful</c><00:07:21.280><c> for</c>
+
+00:07:21.430 --> 00:07:21.440 align:start position:0%
+azure storage so it's really useful for
+ 
+
+00:07:21.440 --> 00:07:23.589 align:start position:0%
+azure storage so it's really useful for
+not<00:07:21.599><c> just</c><00:07:22.160><c> hey</c><00:07:22.479><c> data</c><00:07:22.960><c> movements</c><00:07:23.360><c> from</c>
+
+00:07:23.589 --> 00:07:23.599 align:start position:0%
+not just hey data movements from
+ 
+
+00:07:23.599 --> 00:07:26.230 align:start position:0%
+not just hey data movements from
+on-premises<00:07:24.400><c> to</c><00:07:24.560><c> azure</c><00:07:24.960><c> or</c><00:07:25.039><c> vice</c><00:07:25.360><c> versa</c><00:07:26.080><c> but</c>
+
+00:07:26.230 --> 00:07:26.240 align:start position:0%
+on-premises to azure or vice versa but
+ 
+
+00:07:26.240 --> 00:07:28.870 align:start position:0%
+on-premises to azure or vice versa but
+from<00:07:26.560><c> other</c><00:07:26.880><c> clouds</c><00:07:27.520><c> and</c><00:07:27.759><c> also</c><00:07:28.160><c> between</c>
+
+00:07:28.870 --> 00:07:28.880 align:start position:0%
+from other clouds and also between
+ 
+
+00:07:28.880 --> 00:07:31.510 align:start position:0%
+from other clouds and also between
+storage<00:07:29.280><c> accounts</c><00:07:29.759><c> i</c><00:07:30.000><c> have</c><00:07:30.720><c> so</c><00:07:30.880><c> this</c><00:07:31.039><c> is</c><00:07:31.199><c> a</c>
+
+00:07:31.510 --> 00:07:31.520 align:start position:0%
+storage accounts i have so this is a
+ 
+
+00:07:31.520 --> 00:07:35.670 align:start position:0%
+storage accounts i have so this is a
+super<00:07:31.919><c> useful</c><00:07:32.400><c> utility</c><00:07:32.960><c> for</c><00:07:33.280><c> automation</c>
+
+00:07:35.670 --> 00:07:35.680 align:start position:0%
+super useful utility for automation
+ 
+
+00:07:35.680 --> 00:07:37.110 align:start position:0%
+super useful utility for automation
+what<00:07:35.840><c> about</c><00:07:36.080><c> if</c><00:07:36.160><c> i</c><00:07:36.240><c> want</c><00:07:36.400><c> to</c><00:07:36.479><c> move</c><00:07:36.720><c> virtual</c>
+
+00:07:37.110 --> 00:07:37.120 align:start position:0%
+what about if i want to move virtual
+ 
+
+00:07:37.120 --> 00:07:38.469 align:start position:0%
+what about if i want to move virtual
+machines
+
+00:07:38.469 --> 00:07:38.479 align:start position:0%
+machines
+ 
+
+00:07:38.479 --> 00:07:41.110 align:start position:0%
+machines
+so<00:07:38.639><c> if</c><00:07:38.800><c> i</c><00:07:38.880><c> want</c><00:07:39.039><c> to</c><00:07:39.199><c> use</c><00:07:39.680><c> for</c><00:07:39.840><c> example</c><00:07:40.479><c> entire</c>
+
+00:07:41.110 --> 00:07:41.120 align:start position:0%
+so if i want to use for example entire
+ 
+
+00:07:41.120 --> 00:07:44.150 align:start position:0%
+so if i want to use for example entire
+virtual<00:07:41.599><c> machines</c><00:07:42.240><c> maybe</c><00:07:42.639><c> databases</c>
+
+00:07:44.150 --> 00:07:44.160 align:start position:0%
+virtual machines maybe databases
+ 
+
+00:07:44.160 --> 00:07:47.990 align:start position:0%
+virtual machines maybe databases
+we<00:07:44.319><c> have</c><00:07:44.639><c> azure</c><00:07:45.039><c> migrate</c>
+
+00:07:47.990 --> 00:07:48.000 align:start position:0%
+ 
+ 
+
+00:07:48.000 --> 00:07:51.270 align:start position:0%
+ 
+so<00:07:48.240><c> azure</c><00:07:48.720><c> migrate</c><00:07:49.840><c> yes</c><00:07:50.240><c> vm</c>
+
+00:07:51.270 --> 00:07:51.280 align:start position:0%
+so azure migrate yes vm
+ 
+
+00:07:51.280 --> 00:07:52.629 align:start position:0%
+so azure migrate yes vm
+database
+
+00:07:52.629 --> 00:07:52.639 align:start position:0%
+database
+ 
+
+00:07:52.639 --> 00:07:53.990 align:start position:0%
+database
+it<00:07:52.800><c> will</c><00:07:53.039><c> actually</c><00:07:53.360><c> go</c><00:07:53.599><c> and</c><00:07:53.680><c> do</c><00:07:53.840><c> an</c>
+
+00:07:53.990 --> 00:07:54.000 align:start position:0%
+it will actually go and do an
+ 
+
+00:07:54.000 --> 00:07:56.469 align:start position:0%
+it will actually go and do an
+investigation<00:07:54.879><c> and</c><00:07:55.039><c> assessment</c><00:07:55.840><c> of</c><00:07:56.319><c> the</c>
+
+00:07:56.469 --> 00:07:56.479 align:start position:0%
+investigation and assessment of the
+ 
+
+00:07:56.479 --> 00:07:59.270 align:start position:0%
+investigation and assessment of the
+current<00:07:56.800><c> usage</c><00:07:57.599><c> the</c><00:07:57.759><c> current</c><00:07:58.240><c> specification</c>
+
+00:07:59.270 --> 00:07:59.280 align:start position:0%
+current usage the current specification
+ 
+
+00:07:59.280 --> 00:08:02.710 align:start position:0%
+current usage the current specification
+of<00:07:59.599><c> that</c><00:07:59.919><c> source</c><00:08:00.240><c> workload</c><00:08:01.360><c> if</c><00:08:01.520><c> it's</c><00:08:01.680><c> a</c><00:08:01.759><c> vm</c><00:08:02.560><c> we</c>
+
+00:08:02.710 --> 00:08:02.720 align:start position:0%
+of that source workload if it's a vm we
+ 
+
+00:08:02.720 --> 00:08:03.830 align:start position:0%
+of that source workload if it's a vm we
+could<00:08:02.879><c> be</c>
+
+00:08:03.830 --> 00:08:03.840 align:start position:0%
+could be
+ 
+
+00:08:03.840 --> 00:08:05.909 align:start position:0%
+could be
+vmware<00:08:04.639><c> it</c><00:08:04.720><c> could</c><00:08:04.879><c> be</c><00:08:05.039><c> hyper-v</c><00:08:05.520><c> it</c><00:08:05.680><c> could</c>
+
+00:08:05.909 --> 00:08:05.919 align:start position:0%
+vmware it could be hyper-v it could
+ 
+
+00:08:05.919 --> 00:08:07.029 align:start position:0%
+vmware it could be hyper-v it could
+actually<00:08:06.319><c> be</c>
+
+00:08:07.029 --> 00:08:07.039 align:start position:0%
+actually be
+ 
+
+00:08:07.039 --> 00:08:08.790 align:start position:0%
+actually be
+a<00:08:07.280><c> bare</c><00:08:07.520><c> metal</c><00:08:07.840><c> operating</c><00:08:08.240><c> system</c><00:08:08.479><c> it</c><00:08:08.560><c> doesn't</c>
+
+00:08:08.790 --> 00:08:08.800 align:start position:0%
+a bare metal operating system it doesn't
+ 
+
+00:08:08.800 --> 00:08:10.869 align:start position:0%
+a bare metal operating system it doesn't
+even<00:08:09.120><c> have</c><00:08:09.360><c> to</c><00:08:09.599><c> be</c>
+
+00:08:10.869 --> 00:08:10.879 align:start position:0%
+even have to be
+ 
+
+00:08:10.879 --> 00:08:12.629 align:start position:0%
+even have to be
+a<00:08:11.039><c> virtual</c><00:08:11.440><c> machine</c>
+
+00:08:12.629 --> 00:08:12.639 align:start position:0%
+a virtual machine
+ 
+
+00:08:12.639 --> 00:08:15.430 align:start position:0%
+a virtual machine
+assess<00:08:13.120><c> it</c><00:08:13.680><c> recommend</c><00:08:14.319><c> the</c><00:08:14.479><c> right</c><00:08:14.800><c> sku</c><00:08:15.120><c> to</c><00:08:15.199><c> use</c>
+
+00:08:15.430 --> 00:08:15.440 align:start position:0%
+assess it recommend the right sku to use
+ 
+
+00:08:15.440 --> 00:08:16.629 align:start position:0%
+assess it recommend the right sku to use
+in<00:08:15.599><c> azure</c>
+
+00:08:16.629 --> 00:08:16.639 align:start position:0%
+in azure
+ 
+
+00:08:16.639 --> 00:08:19.110 align:start position:0%
+in azure
+replicate<00:08:17.440><c> it</c><00:08:17.759><c> to</c><00:08:18.000><c> azure</c><00:08:18.479><c> and</c><00:08:18.560><c> then</c><00:08:18.800><c> it</c><00:08:18.879><c> can</c>
+
+00:08:19.110 --> 00:08:19.120 align:start position:0%
+replicate it to azure and then it can
+ 
+
+00:08:19.120 --> 00:08:21.189 align:start position:0%
+replicate it to azure and then it can
+cut<00:08:19.360><c> over</c><00:08:19.680><c> for</c><00:08:19.840><c> a</c><00:08:19.919><c> database</c><00:08:20.639><c> does</c><00:08:20.800><c> the</c><00:08:20.960><c> same</c>
+
+00:08:21.189 --> 00:08:21.199 align:start position:0%
+cut over for a database does the same
+ 
+
+00:08:21.199 --> 00:08:23.430 align:start position:0%
+cut over for a database does the same
+assessment<00:08:22.160><c> synchronization</c><00:08:23.120><c> and</c><00:08:23.199><c> then</c><00:08:23.360><c> i</c>
+
+00:08:23.430 --> 00:08:23.440 align:start position:0%
+assessment synchronization and then i
+ 
+
+00:08:23.440 --> 00:08:26.070 align:start position:0%
+assessment synchronization and then i
+can<00:08:23.599><c> do</c><00:08:23.759><c> the</c><00:08:23.919><c> cut</c><00:08:24.240><c> over</c><00:08:24.800><c> so</c><00:08:25.039><c> these</c><00:08:25.360><c> are</c><00:08:25.520><c> really</c>
+
+00:08:26.070 --> 00:08:26.080 align:start position:0%
+can do the cut over so these are really
+ 
+
+00:08:26.080 --> 00:08:28.469 align:start position:0%
+can do the cut over so these are really
+powerful<00:08:26.720><c> tools</c><00:08:27.039><c> so</c><00:08:27.199><c> we</c><00:08:27.280><c> have</c><00:08:27.840><c> azure</c><00:08:28.160><c> file</c>
+
+00:08:28.469 --> 00:08:28.479 align:start position:0%
+powerful tools so we have azure file
+ 
+
+00:08:28.479 --> 00:08:31.270 align:start position:0%
+powerful tools so we have azure file
+sync<00:08:28.960><c> storage</c><00:08:29.360><c> explorer</c><00:08:29.840><c> az</c><00:08:30.160><c> copy</c><00:08:30.639><c> and</c><00:08:30.879><c> azure</c>
+
+00:08:31.270 --> 00:08:31.280 align:start position:0%
+sync storage explorer az copy and azure
+ 
+
+00:08:31.280 --> 00:08:36.389 align:start position:0%
+sync storage explorer az copy and azure
+migrate<00:08:32.240><c> now</c><00:08:32.560><c> all</c><00:08:32.719><c> of</c><00:08:32.880><c> these</c><00:08:33.279><c> tools</c>
+
+00:08:36.389 --> 00:08:36.399 align:start position:0%
+ 
+ 
+
+00:08:36.399 --> 00:08:40.709 align:start position:0%
+ 
+we<00:08:36.560><c> really</c><00:08:36.880><c> think</c><00:08:37.200><c> of</c><00:08:37.519><c> as</c><00:08:37.919><c> online</c>
+
+00:08:40.709 --> 00:08:40.719 align:start position:0%
+we really think of as online
+ 
+
+00:08:40.719 --> 00:08:43.190 align:start position:0%
+we really think of as online
+the<00:08:41.039><c> data</c><00:08:41.519><c> copy</c><00:08:42.000><c> the</c><00:08:42.240><c> interaction</c><00:08:43.039><c> is</c>
+
+00:08:43.190 --> 00:08:43.200 align:start position:0%
+the data copy the interaction is
+ 
+
+00:08:43.200 --> 00:08:45.509 align:start position:0%
+the data copy the interaction is
+happening<00:08:43.839><c> over</c><00:08:44.159><c> the</c><00:08:44.320><c> network</c>
+
+00:08:45.509 --> 00:08:45.519 align:start position:0%
+happening over the network
+ 
+
+00:08:45.519 --> 00:08:48.790 align:start position:0%
+happening over the network
+then<00:08:45.680><c> there</c><00:08:45.920><c> are</c><00:08:46.240><c> also</c><00:08:47.120><c> offline</c>
+
+00:08:48.790 --> 00:08:48.800 align:start position:0%
+then there are also offline
+ 
+
+00:08:48.800 --> 00:08:51.190 align:start position:0%
+then there are also offline
+maybe<00:08:49.200><c> i</c><00:08:49.360><c> don't</c><00:08:49.839><c> have</c><00:08:50.320><c> the</c><00:08:50.560><c> bandwidth</c>
+
+00:08:51.190 --> 00:08:51.200 align:start position:0%
+maybe i don't have the bandwidth
+ 
+
+00:08:51.200 --> 00:08:52.790 align:start position:0%
+maybe i don't have the bandwidth
+available
+
+00:08:52.790 --> 00:08:52.800 align:start position:0%
+available
+ 
+
+00:08:52.800 --> 00:08:53.990 align:start position:0%
+available
+maybe<00:08:53.040><c> i</c><00:08:53.200><c> don't</c><00:08:53.279><c> want</c><00:08:53.440><c> to</c><00:08:53.600><c> maybe</c><00:08:53.760><c> it</c><00:08:53.839><c> would</c>
+
+00:08:53.990 --> 00:08:54.000 align:start position:0%
+maybe i don't want to maybe it would
+ 
+
+00:08:54.000 --> 00:08:55.430 align:start position:0%
+maybe i don't want to maybe it would
+take<00:08:54.320><c> too</c><00:08:54.560><c> long</c>
+
+00:08:55.430 --> 00:08:55.440 align:start position:0%
+take too long
+ 
+
+00:08:55.440 --> 00:08:57.350 align:start position:0%
+take too long
+and<00:08:55.600><c> so</c><00:08:55.760><c> from</c><00:08:56.000><c> an</c><00:08:56.240><c> offline</c><00:08:56.640><c> perspective</c>
+
+00:08:57.350 --> 00:08:57.360 align:start position:0%
+and so from an offline perspective
+ 
+
+00:08:57.360 --> 00:09:01.190 align:start position:0%
+and so from an offline perspective
+you'll<00:08:57.680><c> often</c><00:08:58.080><c> hear</c><00:08:58.320><c> about</c>
+
+00:09:01.190 --> 00:09:01.200 align:start position:0%
+ 
+ 
+
+00:09:01.200 --> 00:09:02.870 align:start position:0%
+ 
+azure
+
+00:09:02.870 --> 00:09:02.880 align:start position:0%
+azure
+ 
+
+00:09:02.880 --> 00:09:04.310 align:start position:0%
+azure
+data
+
+00:09:04.310 --> 00:09:04.320 align:start position:0%
+data
+ 
+
+00:09:04.320 --> 00:09:05.829 align:start position:0%
+data
+box
+
+00:09:05.829 --> 00:09:05.839 align:start position:0%
+box
+ 
+
+00:09:05.839 --> 00:09:07.990 align:start position:0%
+box
+now<00:09:06.000><c> there</c><00:09:06.240><c> are</c><00:09:06.399><c> different</c><00:09:06.880><c> versions</c><00:09:07.440><c> of</c><00:09:07.519><c> this</c>
+
+00:09:07.990 --> 00:09:08.000 align:start position:0%
+now there are different versions of this
+ 
+
+00:09:08.000 --> 00:09:10.550 align:start position:0%
+now there are different versions of this
+there's<00:09:08.320><c> azure</c><00:09:08.560><c> databox</c><00:09:09.440><c> disk</c>
+
+00:09:10.550 --> 00:09:10.560 align:start position:0%
+there's azure databox disk
+ 
+
+00:09:10.560 --> 00:09:13.910 align:start position:0%
+there's azure databox disk
+so<00:09:10.800><c> the</c><00:09:10.959><c> azure</c><00:09:11.279><c> database</c><00:09:12.320><c> disk</c><00:09:12.959><c> these</c><00:09:13.200><c> are</c><00:09:13.760><c> as</c>
+
+00:09:13.910 --> 00:09:13.920 align:start position:0%
+so the azure database disk these are as
+ 
+
+00:09:13.920 --> 00:09:16.389 align:start position:0%
+so the azure database disk these are as
+the<00:09:14.000><c> name</c><00:09:14.160><c> suggests</c><00:09:14.880><c> i</c><00:09:14.959><c> think</c><00:09:15.120><c> it's</c><00:09:15.279><c> between</c><00:09:16.160><c> a</c>
+
+00:09:16.389 --> 00:09:16.399 align:start position:0%
+the name suggests i think it's between a
+ 
+
+00:09:16.399 --> 00:09:18.389 align:start position:0%
+the name suggests i think it's between a
+one<00:09:16.640><c> and</c><00:09:16.800><c> five</c><00:09:17.120><c> solid</c><00:09:17.440><c> state</c><00:09:17.760><c> disks</c><00:09:18.160><c> get</c>
+
+00:09:18.389 --> 00:09:18.399 align:start position:0%
+one and five solid state disks get
+ 
+
+00:09:18.399 --> 00:09:20.470 align:start position:0%
+one and five solid state disks get
+shipped<00:09:18.640><c> to</c><00:09:18.800><c> you</c><00:09:19.279><c> they're</c><00:09:19.519><c> fully</c><00:09:19.839><c> encrypted</c>
+
+00:09:20.470 --> 00:09:20.480 align:start position:0%
+shipped to you they're fully encrypted
+ 
+
+00:09:20.480 --> 00:09:22.949 align:start position:0%
+shipped to you they're fully encrypted
+they're<00:09:20.720><c> currently</c><00:09:21.200><c> eight</c><00:09:21.440><c> terabytes</c><00:09:22.080><c> each</c>
+
+00:09:22.949 --> 00:09:22.959 align:start position:0%
+they're currently eight terabytes each
+ 
+
+00:09:22.959 --> 00:09:25.430 align:start position:0%
+they're currently eight terabytes each
+and<00:09:23.120><c> i</c><00:09:23.279><c> just</c><00:09:23.920><c> copy</c><00:09:24.240><c> the</c><00:09:24.480><c> data</c><00:09:24.959><c> so</c><00:09:25.120><c> this</c><00:09:25.360><c> is</c>
+
+00:09:25.430 --> 00:09:25.440 align:start position:0%
+and i just copy the data so this is
+ 
+
+00:09:25.440 --> 00:09:28.389 align:start position:0%
+and i just copy the data so this is
+about<00:09:25.839><c> importing</c><00:09:26.800><c> into</c><00:09:27.279><c> azure</c><00:09:27.839><c> i</c><00:09:28.000><c> cannot</c><00:09:28.240><c> get</c>
+
+00:09:28.389 --> 00:09:28.399 align:start position:0%
+about importing into azure i cannot get
+ 
+
+00:09:28.399 --> 00:09:30.550 align:start position:0%
+about importing into azure i cannot get
+data<00:09:28.720><c> out</c><00:09:28.880><c> of</c><00:09:29.200><c> azure</c><00:09:29.440><c> with</c><00:09:29.600><c> this</c>
+
+00:09:30.550 --> 00:09:30.560 align:start position:0%
+data out of azure with this
+ 
+
+00:09:30.560 --> 00:09:32.949 align:start position:0%
+data out of azure with this
+so<00:09:30.720><c> they</c><00:09:30.880><c> send</c><00:09:31.040><c> me</c><00:09:31.200><c> the</c><00:09:31.279><c> disks</c><00:09:31.680><c> i</c><00:09:31.760><c> copy</c><00:09:32.080><c> my</c><00:09:32.240><c> data</c>
+
+00:09:32.949 --> 00:09:32.959 align:start position:0%
+so they send me the disks i copy my data
+ 
+
+00:09:32.959 --> 00:09:34.949 align:start position:0%
+so they send me the disks i copy my data
+i<00:09:33.120><c> ship</c><00:09:33.360><c> them</c><00:09:33.519><c> back</c><00:09:34.000><c> they</c><00:09:34.240><c> bring</c><00:09:34.399><c> it</c><00:09:34.560><c> into</c><00:09:34.800><c> my</c>
+
+00:09:34.949 --> 00:09:34.959 align:start position:0%
+i ship them back they bring it into my
+ 
+
+00:09:34.959 --> 00:09:36.470 align:start position:0%
+i ship them back they bring it into my
+storage<00:09:35.279><c> account</c><00:09:35.760><c> and</c><00:09:36.000><c> there's</c><00:09:36.240><c> other</c>
+
+00:09:36.470 --> 00:09:36.480 align:start position:0%
+storage account and there's other
+ 
+
+00:09:36.480 --> 00:09:38.870 align:start position:0%
+storage account and there's other
+services<00:09:36.959><c> that</c><00:09:37.200><c> actually</c><00:09:37.440><c> supports</c><00:09:37.920><c> as</c><00:09:38.000><c> well</c>
+
+00:09:38.870 --> 00:09:38.880 align:start position:0%
+services that actually supports as well
+ 
+
+00:09:38.880 --> 00:09:40.790 align:start position:0%
+services that actually supports as well
+and<00:09:38.959><c> then</c><00:09:39.120><c> there's</c><00:09:39.279><c> just</c><00:09:39.600><c> regular</c><00:09:40.080><c> azure</c><00:09:40.480><c> data</c>
+
+00:09:40.790 --> 00:09:40.800 align:start position:0%
+and then there's just regular azure data
+ 
+
+00:09:40.800 --> 00:09:42.150 align:start position:0%
+and then there's just regular azure data
+box
+
+00:09:42.150 --> 00:09:42.160 align:start position:0%
+box
+ 
+
+00:09:42.160 --> 00:09:45.269 align:start position:0%
+box
+so<00:09:42.320><c> that</c><00:09:42.480><c> can</c><00:09:42.640><c> be</c><00:09:42.800><c> both</c><00:09:43.279><c> import</c>
+
+00:09:45.269 --> 00:09:45.279 align:start position:0%
+so that can be both import
+ 
+
+00:09:45.279 --> 00:09:47.910 align:start position:0%
+so that can be both import
+and<00:09:45.760><c> export</c>
+
+00:09:47.910 --> 00:09:47.920 align:start position:0%
+and export
+ 
+
+00:09:47.920 --> 00:09:52.389 align:start position:0%
+and export
+this<00:09:48.240><c> is</c><00:09:48.560><c> a</c><00:09:49.279><c> box</c><00:09:50.080><c> it's</c><00:09:50.240><c> about</c><00:09:50.480><c> 50</c><00:09:50.880><c> pounds</c><00:09:51.760><c> um</c><00:09:52.240><c> it</c>
+
+00:09:52.389 --> 00:09:52.399 align:start position:0%
+this is a box it's about 50 pounds um it
+ 
+
+00:09:52.399 --> 00:09:54.550 align:start position:0%
+this is a box it's about 50 pounds um it
+has<00:09:52.560><c> 80</c><00:09:52.959><c> terabytes</c><00:09:53.440><c> of</c><00:09:53.600><c> data</c><00:09:54.160><c> after</c><00:09:54.399><c> the</c>
+
+00:09:54.550 --> 00:09:54.560 align:start position:0%
+has 80 terabytes of data after the
+ 
+
+00:09:54.560 --> 00:09:57.350 align:start position:0%
+has 80 terabytes of data after the
+resiliency<00:09:55.839><c> and</c><00:09:55.920><c> they</c><00:09:56.160><c> ship</c><00:09:56.399><c> me</c><00:09:56.560><c> this</c><00:09:56.720><c> box</c><00:09:57.200><c> i</c>
+
+00:09:57.350 --> 00:09:57.360 align:start position:0%
+resiliency and they ship me this box i
+ 
+
+00:09:57.360 --> 00:09:59.829 align:start position:0%
+resiliency and they ship me this box i
+plug<00:09:57.600><c> it</c><00:09:57.680><c> into</c><00:09:57.920><c> my</c><00:09:58.000><c> network</c><00:09:58.959><c> i</c><00:09:59.120><c> then</c><00:09:59.360><c> copy</c><00:09:59.680><c> to</c>
+
+00:09:59.829 --> 00:09:59.839 align:start position:0%
+plug it into my network i then copy to
+ 
+
+00:09:59.839 --> 00:10:03.430 align:start position:0%
+plug it into my network i then copy to
+it<00:10:00.000><c> using</c><00:10:00.320><c> smb</c><00:10:00.800><c> or</c><00:10:01.040><c> nfs</c><00:10:01.920><c> i</c><00:10:02.079><c> then</c><00:10:02.240><c> ship</c><00:10:02.480><c> it</c><00:10:02.640><c> back</c>
+
+00:10:03.430 --> 00:10:03.440 align:start position:0%
+it using smb or nfs i then ship it back
+ 
+
+00:10:03.440 --> 00:10:05.670 align:start position:0%
+it using smb or nfs i then ship it back
+and<00:10:03.760><c> when</c><00:10:03.920><c> i</c><00:10:04.160><c> place</c><00:10:04.399><c> the</c><00:10:04.640><c> order</c><00:10:05.040><c> for</c><00:10:05.200><c> this</c><00:10:05.440><c> i</c>
+
+00:10:05.670 --> 00:10:05.680 align:start position:0%
+and when i place the order for this i
+ 
+
+00:10:05.680 --> 00:10:07.829 align:start position:0%
+and when i place the order for this i
+specified<00:10:06.240><c> storage</c><00:10:06.720><c> accounts</c><00:10:07.120><c> that</c><00:10:07.279><c> i</c><00:10:07.360><c> wanted</c>
+
+00:10:07.829 --> 00:10:07.839 align:start position:0%
+specified storage accounts that i wanted
+ 
+
+00:10:07.839 --> 00:10:09.910 align:start position:0%
+specified storage accounts that i wanted
+data<00:10:08.160><c> to</c><00:10:08.320><c> be</c><00:10:08.399><c> able</c><00:10:08.560><c> to</c><00:10:08.720><c> go</c><00:10:08.959><c> to</c>
+
+00:10:09.910 --> 00:10:09.920 align:start position:0%
+data to be able to go to
+ 
+
+00:10:09.920 --> 00:10:11.670 align:start position:0%
+data to be able to go to
+on<00:10:10.160><c> the</c><00:10:10.320><c> box</c><00:10:10.560><c> when</c><00:10:10.720><c> it</c><00:10:10.800><c> arrives</c><00:10:11.120><c> on</c><00:10:11.279><c> premises</c>
+
+00:10:11.670 --> 00:10:11.680 align:start position:0%
+on the box when it arrives on premises
+ 
+
+00:10:11.680 --> 00:10:12.790 align:start position:0%
+on the box when it arrives on premises
+i'll<00:10:11.839><c> see</c><00:10:12.000><c> different</c><00:10:12.399><c> shares</c><00:10:12.640><c> that</c>
+
+00:10:12.790 --> 00:10:12.800 align:start position:0%
+i'll see different shares that
+ 
+
+00:10:12.800 --> 00:10:15.030 align:start position:0%
+i'll see different shares that
+correspond<00:10:13.360><c> to</c><00:10:13.519><c> those</c><00:10:13.680><c> storage</c><00:10:14.079><c> accounts</c><00:10:14.880><c> and</c>
+
+00:10:15.030 --> 00:10:15.040 align:start position:0%
+correspond to those storage accounts and
+ 
+
+00:10:15.040 --> 00:10:16.550 align:start position:0%
+correspond to those storage accounts and
+then<00:10:15.120><c> when</c><00:10:15.279><c> it</c><00:10:15.360><c> goes</c><00:10:15.600><c> back</c><00:10:15.839><c> they</c><00:10:16.079><c> copy</c><00:10:16.399><c> the</c>
+
+00:10:16.550 --> 00:10:16.560 align:start position:0%
+then when it goes back they copy the
+ 
+
+00:10:16.560 --> 00:10:19.030 align:start position:0%
+then when it goes back they copy the
+data<00:10:17.120><c> into</c><00:10:17.440><c> those</c><00:10:17.680><c> storage</c><00:10:18.079><c> accounts</c><00:10:18.640><c> that</c><00:10:18.880><c> i</c>
+
+00:10:19.030 --> 00:10:19.040 align:start position:0%
+data into those storage accounts that i
+ 
+
+00:10:19.040 --> 00:10:20.310 align:start position:0%
+data into those storage accounts that i
+specified
+
+00:10:20.310 --> 00:10:20.320 align:start position:0%
+specified
+ 
+
+00:10:20.320 --> 00:10:21.910 align:start position:0%
+specified
+this<00:10:20.560><c> just</c><00:10:20.720><c> ships</c><00:10:21.040><c> via</c><00:10:21.279><c> regular</c><00:10:21.680><c> kind</c><00:10:21.839><c> of</c>
+
+00:10:21.910 --> 00:10:21.920 align:start position:0%
+this just ships via regular kind of
+ 
+
+00:10:21.920 --> 00:10:23.829 align:start position:0%
+this just ships via regular kind of
+fedex<00:10:22.399><c> ups</c>
+
+00:10:23.829 --> 00:10:23.839 align:start position:0%
+fedex ups
+ 
+
+00:10:23.839 --> 00:10:25.110 align:start position:0%
+fedex ups
+and<00:10:24.000><c> then</c><00:10:24.079><c> there</c><00:10:24.320><c> is</c>
+
+00:10:25.110 --> 00:10:25.120 align:start position:0%
+and then there is
+ 
+
+00:10:25.120 --> 00:10:27.430 align:start position:0%
+and then there is
+a<00:10:25.360><c> data</c><00:10:25.839><c> box</c>
+
+00:10:27.430 --> 00:10:27.440 align:start position:0%
+a data box
+ 
+
+00:10:27.440 --> 00:10:29.670 align:start position:0%
+a data box
+heavy
+
+00:10:29.670 --> 00:10:29.680 align:start position:0%
+heavy
+ 
+
+00:10:29.680 --> 00:10:30.630 align:start position:0%
+heavy
+so
+
+00:10:30.630 --> 00:10:30.640 align:start position:0%
+so
+ 
+
+00:10:30.640 --> 00:10:35.350 align:start position:0%
+so
+if<00:10:31.120><c> this</c><00:10:31.600><c> was</c><00:10:32.160><c> i</c><00:10:32.399><c> i</c><00:10:32.560><c> think</c><00:10:32.800><c> i</c><00:10:32.880><c> said</c><00:10:33.120><c> it</c><00:10:33.279><c> was</c><00:10:34.079><c> um</c>
+
+00:10:35.350 --> 00:10:35.360 align:start position:0%
+if this was i i think i said it was um
+ 
+
+00:10:35.360 --> 00:10:38.710 align:start position:0%
+if this was i i think i said it was um
+like<00:10:35.600><c> 80</c><00:10:35.920><c> terabytes</c>
+
+00:10:38.710 --> 00:10:38.720 align:start position:0%
+ 
+ 
+
+00:10:38.720 --> 00:10:41.269 align:start position:0%
+ 
+and<00:10:38.959><c> it's</c><00:10:39.120><c> 50</c><00:10:39.440><c> pounds</c><00:10:40.320><c> well</c><00:10:40.560><c> the</c><00:10:40.720><c> data</c><00:10:41.040><c> box</c>
+
+00:10:41.269 --> 00:10:41.279 align:start position:0%
+and it's 50 pounds well the data box
+ 
+
+00:10:41.279 --> 00:10:42.670 align:start position:0%
+and it's 50 pounds well the data box
+heavy<00:10:41.680><c> is</c>
+
+00:10:42.670 --> 00:10:42.680 align:start position:0%
+heavy is
+ 
+
+00:10:42.680 --> 00:10:44.949 align:start position:0%
+heavy is
+770<00:10:43.680><c> terabytes</c>
+
+00:10:44.949 --> 00:10:44.959 align:start position:0%
+770 terabytes
+ 
+
+00:10:44.959 --> 00:10:47.990 align:start position:0%
+770 terabytes
+but<00:10:45.120><c> it's</c><00:10:45.360><c> 500</c><00:10:46.320><c> pounds</c><00:10:47.120><c> this</c><00:10:47.360><c> ships</c><00:10:47.680><c> via</c>
+
+00:10:47.990 --> 00:10:48.000 align:start position:0%
+but it's 500 pounds this ships via
+ 
+
+00:10:48.000 --> 00:10:50.310 align:start position:0%
+but it's 500 pounds this ships via
+freight<00:10:48.720><c> it's</c><00:10:48.959><c> this</c><00:10:49.440><c> massive</c><00:10:50.000><c> thing</c><00:10:50.160><c> that</c>
+
+00:10:50.310 --> 00:10:50.320 align:start position:0%
+freight it's this massive thing that
+ 
+
+00:10:50.320 --> 00:10:52.550 align:start position:0%
+freight it's this massive thing that
+will<00:10:50.480><c> get</c><00:10:50.640><c> rolled</c><00:10:50.959><c> into</c><00:10:51.200><c> your</c><00:10:51.360><c> data</c><00:10:51.680><c> center</c>
+
+00:10:52.550 --> 00:10:52.560 align:start position:0%
+will get rolled into your data center
+ 
+
+00:10:52.560 --> 00:10:54.630 align:start position:0%
+will get rolled into your data center
+but<00:10:52.800><c> if</c><00:10:52.880><c> i</c><00:10:53.040><c> do</c><00:10:53.279><c> have</c><00:10:53.440><c> just</c><00:10:53.680><c> a</c><00:10:53.839><c> huge</c><00:10:54.240><c> amount</c><00:10:54.560><c> of</c>
+
+00:10:54.630 --> 00:10:54.640 align:start position:0%
+but if i do have just a huge amount of
+ 
+
+00:10:54.640 --> 00:10:57.509 align:start position:0%
+but if i do have just a huge amount of
+data<00:10:55.040><c> to</c><00:10:55.200><c> move</c><00:10:55.519><c> offline</c><00:10:56.480><c> i</c><00:10:56.640><c> do</c><00:10:56.800><c> that</c><00:10:57.120><c> it</c><00:10:57.200><c> works</c>
+
+00:10:57.509 --> 00:10:57.519 align:start position:0%
+data to move offline i do that it works
+ 
+
+00:10:57.519 --> 00:10:59.190 align:start position:0%
+data to move offline i do that it works
+exactly<00:10:57.839><c> the</c><00:10:57.920><c> same</c><00:10:58.160><c> way</c><00:10:58.399><c> rc</c><00:10:58.800><c> shares</c><00:10:59.120><c> and</c>
+
+00:10:59.190 --> 00:10:59.200 align:start position:0%
+exactly the same way rc shares and
+ 
+
+00:10:59.200 --> 00:11:01.750 align:start position:0%
+exactly the same way rc shares and
+storage<00:10:59.519><c> account</c><00:11:00.160><c> i</c><00:11:00.399><c> copy</c><00:11:00.800><c> to</c><00:11:00.959><c> it</c><00:11:01.279><c> and</c><00:11:01.440><c> then</c><00:11:01.600><c> it</c>
+
+00:11:01.750 --> 00:11:01.760 align:start position:0%
+storage account i copy to it and then it
+ 
+
+00:11:01.760 --> 00:11:03.670 align:start position:0%
+storage account i copy to it and then it
+ships<00:11:02.079><c> back</c><00:11:02.399><c> via</c><00:11:02.720><c> freight</c><00:11:03.040><c> and</c><00:11:03.120><c> they</c><00:11:03.279><c> bring</c><00:11:03.519><c> it</c>
+
+00:11:03.670 --> 00:11:03.680 align:start position:0%
+ships back via freight and they bring it
+ 
+
+00:11:03.680 --> 00:11:05.590 align:start position:0%
+ships back via freight and they bring it
+into<00:11:03.920><c> my</c><00:11:04.160><c> storage</c><00:11:04.480><c> accounts</c><00:11:04.880><c> but</c><00:11:05.040><c> obviously</c>
+
+00:11:05.590 --> 00:11:05.600 align:start position:0%
+into my storage accounts but obviously
+ 
+
+00:11:05.600 --> 00:11:06.949 align:start position:0%
+into my storage accounts but obviously
+because<00:11:05.839><c> it's</c><00:11:05.920><c> shipping</c><00:11:06.240><c> freight</c><00:11:06.640><c> there's</c>
+
+00:11:06.949 --> 00:11:06.959 align:start position:0%
+because it's shipping freight there's
+ 
+
+00:11:06.959 --> 00:11:08.710 align:start position:0%
+because it's shipping freight there's
+longer<00:11:07.519><c> times</c><00:11:07.920><c> there</c>
+
+00:11:08.710 --> 00:11:08.720 align:start position:0%
+longer times there
+ 
+
+00:11:08.720 --> 00:11:10.389 align:start position:0%
+longer times there
+so<00:11:08.880><c> we</c><00:11:09.040><c> really</c><00:11:09.360><c> have</c><00:11:09.519><c> these</c><00:11:09.839><c> different</c>
+
+00:11:10.389 --> 00:11:10.399 align:start position:0%
+so we really have these different
+ 
+
+00:11:10.399 --> 00:11:13.430 align:start position:0%
+so we really have these different
+options<00:11:10.880><c> for</c><00:11:11.120><c> data</c><00:11:11.519><c> movement</c><00:11:12.320><c> offline</c><00:11:13.200><c> is</c><00:11:13.360><c> the</c>
+
+00:11:13.430 --> 00:11:13.440 align:start position:0%
+options for data movement offline is the
+ 
+
+00:11:13.440 --> 00:11:15.910 align:start position:0%
+options for data movement offline is the
+various<00:11:13.920><c> azure</c><00:11:14.320><c> data</c><00:11:14.640><c> box</c><00:11:15.120><c> azure</c><00:11:15.360><c> databox</c>
+
+00:11:15.910 --> 00:11:15.920 align:start position:0%
+various azure data box azure databox
+ 
+
+00:11:15.920 --> 00:11:17.829 align:start position:0%
+various azure data box azure databox
+azure<00:11:16.160><c> databox</c><00:11:16.560><c> heavy</c><00:11:16.880><c> or</c><00:11:17.040><c> azure</c><00:11:17.360><c> databox</c>
+
+00:11:17.829 --> 00:11:17.839 align:start position:0%
+azure databox heavy or azure databox
+ 
+
+00:11:17.839 --> 00:11:20.870 align:start position:0%
+azure databox heavy or azure databox
+disk<00:11:18.480><c> and</c><00:11:18.560><c> then</c><00:11:18.800><c> online</c><00:11:19.680><c> hey</c><00:11:19.839><c> if</c><00:11:20.000><c> it's</c><00:11:20.240><c> smb</c>
+
+00:11:20.870 --> 00:11:20.880 align:start position:0%
+disk and then online hey if it's smb
+ 
+
+00:11:20.880 --> 00:11:23.590 align:start position:0%
+disk and then online hey if it's smb
+based<00:11:21.360><c> azure</c><00:11:21.680><c> file</c><00:11:22.000><c> sync</c><00:11:22.240><c> is</c><00:11:22.399><c> great</c><00:11:22.640><c> for</c><00:11:22.800><c> that</c>
+
+00:11:23.590 --> 00:11:23.600 align:start position:0%
+based azure file sync is great for that
+ 
+
+00:11:23.600 --> 00:11:25.990 align:start position:0%
+based azure file sync is great for that
+i<00:11:23.680><c> can</c><00:11:23.920><c> interactively</c><00:11:24.560><c> use</c><00:11:24.800><c> storage</c><00:11:25.120><c> explorer</c>
+
+00:11:25.990 --> 00:11:26.000 align:start position:0%
+i can interactively use storage explorer
+ 
+
+00:11:26.000 --> 00:11:28.230 align:start position:0%
+i can interactively use storage explorer
+if<00:11:26.160><c> i</c><00:11:26.240><c> want</c><00:11:26.320><c> to</c><00:11:26.480><c> automate</c><00:11:27.120><c> things</c><00:11:27.600><c> or</c><00:11:28.000><c> do</c>
+
+00:11:28.230 --> 00:11:28.240 align:start position:0%
+if i want to automate things or do
+ 
+
+00:11:28.240 --> 00:11:30.069 align:start position:0%
+if i want to automate things or do
+synchronization<00:11:29.040><c> not</c><00:11:29.200><c> just</c><00:11:29.360><c> copies</c><00:11:29.760><c> we</c><00:11:29.920><c> have</c>
+
+00:11:30.069 --> 00:11:30.079 align:start position:0%
+synchronization not just copies we have
+ 
+
+00:11:30.079 --> 00:11:33.190 align:start position:0%
+synchronization not just copies we have
+easy<00:11:30.480><c> copy</c><00:11:31.360><c> and</c><00:11:31.519><c> then</c><00:11:31.920><c> for</c><00:11:32.160><c> os</c><00:11:32.720><c> based</c>
+
+00:11:33.190 --> 00:11:33.200 align:start position:0%
+easy copy and then for os based
+ 
+
+00:11:33.200 --> 00:11:35.990 align:start position:0%
+easy copy and then for os based
+workloads<00:11:33.839><c> be</c><00:11:34.000><c> it</c><00:11:34.160><c> a</c><00:11:34.240><c> vmware</c><00:11:34.720><c> vm</c><00:11:35.040><c> or</c><00:11:35.200><c> hyper</c><00:11:35.519><c> vvm</c>
+
+00:11:35.990 --> 00:11:36.000 align:start position:0%
+workloads be it a vmware vm or hyper vvm
+ 
+
+00:11:36.000 --> 00:11:39.030 align:start position:0%
+workloads be it a vmware vm or hyper vvm
+or<00:11:36.160><c> bare</c><00:11:36.399><c> metal</c><00:11:36.720><c> os</c><00:11:37.360><c> or</c><00:11:37.519><c> for</c><00:11:37.680><c> databases</c><00:11:38.640><c> and</c><00:11:38.880><c> we</c>
+
+00:11:39.030 --> 00:11:39.040 align:start position:0%
+or bare metal os or for databases and we
+ 
+
+00:11:39.040 --> 00:11:41.750 align:start position:0%
+or bare metal os or for databases and we
+have<00:11:39.440><c> azure</c><00:11:39.839><c> migrate</c><00:11:40.800><c> so</c><00:11:41.040><c> those</c><00:11:41.360><c> are</c><00:11:41.440><c> some</c><00:11:41.600><c> of</c>
+
+00:11:41.750 --> 00:11:41.760 align:start position:0%
+have azure migrate so those are some of
+ 
+
+00:11:41.760 --> 00:11:42.949 align:start position:0%
+have azure migrate so those are some of
+the<00:11:42.000><c> key</c>
+
+00:11:42.949 --> 00:11:42.959 align:start position:0%
+the key
+ 
+
+00:11:42.959 --> 00:11:45.190 align:start position:0%
+the key
+data<00:11:43.440><c> movement</c><00:11:44.079><c> and</c><00:11:44.240><c> migration</c><00:11:44.800><c> options</c>
+
+00:11:45.190 --> 00:11:45.200 align:start position:0%
+data movement and migration options
+ 
+
+00:11:45.200 --> 00:11:48.200 align:start position:0%
+data movement and migration options
+available
+

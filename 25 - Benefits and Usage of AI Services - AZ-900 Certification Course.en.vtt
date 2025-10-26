@@ -1,0 +1,1856 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.120 --> 00:00:02.470 align:start position:0%
+ 
+in<00:00:01.199><c> this</c><00:00:01.439><c> lesson</c><00:00:01.760><c> we're</c><00:00:01.920><c> going</c><00:00:02.000><c> to</c><00:00:02.080><c> look</c><00:00:02.320><c> at</c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.480 --> 00:00:06.710 align:start position:0%
+in this lesson we're going to look at
+the<00:00:02.720><c> benefits</c><00:00:03.280><c> and</c><00:00:03.520><c> usage</c><00:00:04.000><c> of</c><00:00:04.319><c> ai</c><00:00:04.799><c> services</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+the benefits and usage of ai services
+ 
+
+00:00:06.720 --> 00:00:09.430 align:start position:0%
+the benefits and usage of ai services
+there's<00:00:07.040><c> many</c><00:00:07.440><c> scenarios</c><00:00:08.320><c> today</c><00:00:08.880><c> where</c><00:00:09.200><c> we</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+there's many scenarios today where we
+ 
+
+00:00:09.440 --> 00:00:11.350 align:start position:0%
+there's many scenarios today where we
+have<00:00:09.760><c> some</c><00:00:10.080><c> data</c>
+
+00:00:11.350 --> 00:00:11.360 align:start position:0%
+have some data
+ 
+
+00:00:11.360 --> 00:00:13.589 align:start position:0%
+have some data
+and<00:00:11.440><c> i</c><00:00:11.599><c> want</c><00:00:11.759><c> to</c><00:00:12.000><c> ascertain</c><00:00:12.719><c> something</c><00:00:13.360><c> from</c>
+
+00:00:13.589 --> 00:00:13.599 align:start position:0%
+and i want to ascertain something from
+ 
+
+00:00:13.599 --> 00:00:14.950 align:start position:0%
+and i want to ascertain something from
+that<00:00:13.840><c> data</c>
+
+00:00:14.950 --> 00:00:14.960 align:start position:0%
+that data
+ 
+
+00:00:14.960 --> 00:00:17.109 align:start position:0%
+that data
+i'm<00:00:15.200><c> trying</c><00:00:15.440><c> to</c><00:00:15.599><c> emulate</c><00:00:16.080><c> some</c><00:00:16.480><c> aspect</c><00:00:16.960><c> of</c>
+
+00:00:17.109 --> 00:00:17.119 align:start position:0%
+i'm trying to emulate some aspect of
+ 
+
+00:00:17.119 --> 00:00:18.950 align:start position:0%
+i'm trying to emulate some aspect of
+human<00:00:17.440><c> behavior</c><00:00:18.160><c> now</c><00:00:18.320><c> this</c><00:00:18.480><c> could</c><00:00:18.640><c> be</c><00:00:18.720><c> i</c><00:00:18.800><c> want</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+human behavior now this could be i want
+ 
+
+00:00:18.960 --> 00:00:21.590 align:start position:0%
+human behavior now this could be i want
+to<00:00:19.119><c> identify</c><00:00:19.600><c> a</c><00:00:19.760><c> pattern</c><00:00:20.560><c> i</c><00:00:20.640><c> want</c><00:00:20.800><c> to</c><00:00:20.960><c> identify</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+to identify a pattern i want to identify
+ 
+
+00:00:21.600 --> 00:00:23.269 align:start position:0%
+to identify a pattern i want to identify
+what<00:00:21.840><c> something</c><00:00:22.320><c> is</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+what something is
+ 
+
+00:00:23.279 --> 00:00:25.830 align:start position:0%
+what something is
+i<00:00:23.439><c> want</c><00:00:23.680><c> to</c><00:00:23.840><c> predict</c><00:00:24.400><c> maybe</c><00:00:24.800><c> what's</c><00:00:25.199><c> going</c><00:00:25.599><c> to</c>
+
+00:00:25.830 --> 00:00:25.840 align:start position:0%
+i want to predict maybe what's going to
+ 
+
+00:00:25.840 --> 00:00:26.950 align:start position:0%
+i want to predict maybe what's going to
+happen
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+happen
+ 
+
+00:00:26.960 --> 00:00:29.029 align:start position:0%
+happen
+based<00:00:27.279><c> on</c><00:00:27.439><c> what's</c><00:00:27.760><c> happened</c><00:00:28.160><c> in</c><00:00:28.240><c> the</c><00:00:28.480><c> past</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+based on what's happened in the past
+ 
+
+00:00:29.039 --> 00:00:31.669 align:start position:0%
+based on what's happened in the past
+based<00:00:29.359><c> on</c><00:00:29.519><c> a</c><00:00:29.679><c> certain</c><00:00:30.160><c> set</c><00:00:30.560><c> of</c><00:00:31.039><c> events</c><00:00:31.599><c> a</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+based on a certain set of events a
+ 
+
+00:00:31.679 --> 00:00:34.150 align:start position:0%
+based on a certain set of events a
+certain<00:00:32.079><c> set</c><00:00:32.320><c> of</c><00:00:32.559><c> data</c>
+
+00:00:34.150 --> 00:00:34.160 align:start position:0%
+certain set of data
+ 
+
+00:00:34.160 --> 00:00:36.549 align:start position:0%
+certain set of data
+now<00:00:34.320><c> when</c><00:00:34.480><c> i</c><00:00:34.559><c> think</c><00:00:34.719><c> about</c><00:00:35.120><c> ai</c><00:00:36.000><c> artificial</c>
+
+00:00:36.549 --> 00:00:36.559 align:start position:0%
+now when i think about ai artificial
+ 
+
+00:00:36.559 --> 00:00:39.350 align:start position:0%
+now when i think about ai artificial
+intelligence<00:00:37.520><c> this</c><00:00:37.760><c> is</c><00:00:37.920><c> about</c><00:00:38.320><c> the</c><00:00:38.480><c> ability</c>
+
+00:00:39.350 --> 00:00:39.360 align:start position:0%
+intelligence this is about the ability
+ 
+
+00:00:39.360 --> 00:00:42.470 align:start position:0%
+intelligence this is about the ability
+for<00:00:39.840><c> deep</c><00:00:40.320><c> learning</c><00:00:41.200><c> based</c><00:00:41.520><c> on</c><00:00:41.680><c> that</c><00:00:41.920><c> normal</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+for deep learning based on that normal
+ 
+
+00:00:42.480 --> 00:00:45.029 align:start position:0%
+for deep learning based on that normal
+network<00:00:43.040><c> of</c><00:00:43.200><c> the</c><00:00:43.440><c> brain</c><00:00:43.840><c> itself</c>
+
+00:00:45.029 --> 00:00:45.039 align:start position:0%
+network of the brain itself
+ 
+
+00:00:45.039 --> 00:00:47.270 align:start position:0%
+network of the brain itself
+i<00:00:45.120><c> don't</c><00:00:45.360><c> have</c><00:00:45.600><c> to</c><00:00:45.760><c> specifically</c><00:00:46.719><c> program</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+i don't have to specifically program
+ 
+
+00:00:47.280 --> 00:00:48.229 align:start position:0%
+i don't have to specifically program
+something
+
+00:00:48.229 --> 00:00:48.239 align:start position:0%
+something
+ 
+
+00:00:48.239 --> 00:00:50.229 align:start position:0%
+something
+machine<00:00:48.879><c> learning</c><00:00:49.280><c> is</c><00:00:49.440><c> more</c><00:00:49.680><c> about</c><00:00:49.920><c> i'm</c><00:00:50.079><c> going</c>
+
+00:00:50.229 --> 00:00:50.239 align:start position:0%
+machine learning is more about i'm going
+ 
+
+00:00:50.239 --> 00:00:52.150 align:start position:0%
+machine learning is more about i'm going
+to<00:00:50.399><c> train</c><00:00:50.719><c> a</c><00:00:50.879><c> model</c><00:00:51.520><c> i'm</c><00:00:51.680><c> going</c><00:00:51.760><c> to</c><00:00:51.920><c> train</c><00:00:52.079><c> a</c>
+
+00:00:52.150 --> 00:00:52.160 align:start position:0%
+to train a model i'm going to train a
+ 
+
+00:00:52.160 --> 00:00:54.950 align:start position:0%
+to train a model i'm going to train a
+model<00:00:52.480><c> based</c><00:00:52.719><c> on</c><00:00:52.879><c> some</c><00:00:53.120><c> existing</c><00:00:53.840><c> data</c>
+
+00:00:54.950 --> 00:00:54.960 align:start position:0%
+model based on some existing data
+ 
+
+00:00:54.960 --> 00:00:57.430 align:start position:0%
+model based on some existing data
+then<00:00:55.199><c> i</c><00:00:55.280><c> want</c><00:00:55.520><c> to</c><00:00:55.840><c> apply</c><00:00:56.399><c> that</c><00:00:56.640><c> generated</c>
+
+00:00:57.430 --> 00:00:57.440 align:start position:0%
+then i want to apply that generated
+ 
+
+00:00:57.440 --> 00:01:00.069 align:start position:0%
+then i want to apply that generated
+model<00:00:58.000><c> to</c><00:00:58.399><c> new</c><00:00:58.719><c> data</c>
+
+00:01:00.069 --> 00:01:00.079 align:start position:0%
+model to new data
+ 
+
+00:01:00.079 --> 00:01:01.349 align:start position:0%
+model to new data
+so<00:01:00.239><c> it</c><00:01:00.480><c> can</c>
+
+00:01:01.349 --> 00:01:01.359 align:start position:0%
+so it can
+ 
+
+00:01:01.359 --> 00:01:04.390 align:start position:0%
+so it can
+forecast<00:01:02.320><c> maybe</c><00:01:02.640><c> some</c><00:01:02.879><c> future</c><00:01:03.359><c> outcome</c><00:01:04.159><c> it</c>
+
+00:01:04.390 --> 00:01:04.400 align:start position:0%
+forecast maybe some future outcome it
+ 
+
+00:01:04.400 --> 00:01:07.270 align:start position:0%
+forecast maybe some future outcome it
+can<00:01:04.640><c> give</c><00:01:04.879><c> me</c><00:01:05.119><c> some</c><00:01:05.519><c> piece</c><00:01:05.760><c> of</c><00:01:05.920><c> information</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+can give me some piece of information
+ 
+
+00:01:07.280 --> 00:01:09.750 align:start position:0%
+can give me some piece of information
+and<00:01:07.360><c> we</c><00:01:07.680><c> commonly</c><00:01:08.400><c> use</c><00:01:08.720><c> those</c><00:01:09.040><c> more</c><00:01:09.280><c> and</c><00:01:09.439><c> more</c>
+
+00:01:09.750 --> 00:01:09.760 align:start position:0%
+and we commonly use those more and more
+ 
+
+00:01:09.760 --> 00:01:12.469 align:start position:0%
+and we commonly use those more and more
+in<00:01:09.920><c> many</c><00:01:10.240><c> types</c><00:01:10.560><c> of</c><00:01:10.720><c> service</c><00:01:11.119><c> today</c><00:01:12.080><c> now</c><00:01:12.240><c> if</c><00:01:12.320><c> i</c>
+
+00:01:12.469 --> 00:01:12.479 align:start position:0%
+in many types of service today now if i
+ 
+
+00:01:12.479 --> 00:01:14.230 align:start position:0%
+in many types of service today now if i
+think<00:01:12.640><c> about</c><00:01:12.960><c> well</c><00:01:13.119><c> what</c><00:01:13.280><c> are</c><00:01:13.360><c> the</c><00:01:13.600><c> services</c>
+
+00:01:14.230 --> 00:01:14.240 align:start position:0%
+think about well what are the services
+ 
+
+00:01:14.240 --> 00:01:16.710 align:start position:0%
+think about well what are the services
+for<00:01:14.479><c> that</c><00:01:14.720><c> in</c><00:01:15.040><c> azure</c>
+
+00:01:16.710 --> 00:01:16.720 align:start position:0%
+for that in azure
+ 
+
+00:01:16.720 --> 00:01:18.310 align:start position:0%
+for that in azure
+we<00:01:16.880><c> have</c><00:01:17.119><c> the</c><00:01:17.280><c> idea</c>
+
+00:01:18.310 --> 00:01:18.320 align:start position:0%
+we have the idea
+ 
+
+00:01:18.320 --> 00:01:21.670 align:start position:0%
+we have the idea
+of<00:01:19.040><c> azure</c>
+
+00:01:21.670 --> 00:01:21.680 align:start position:0%
+ 
+ 
+
+00:01:21.680 --> 00:01:24.789 align:start position:0%
+ 
+machine
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+ 
+ 
+
+00:01:24.799 --> 00:01:28.789 align:start position:0%
+ 
+learning
+
+00:01:28.789 --> 00:01:28.799 align:start position:0%
+ 
+ 
+
+00:01:28.799 --> 00:01:31.510 align:start position:0%
+ 
+so<00:01:28.960><c> azure</c><00:01:29.280><c> machine</c><00:01:29.759><c> learning</c><00:01:30.560><c> is</c><00:01:30.880><c> about</c><00:01:31.280><c> the</c>
+
+00:01:31.510 --> 00:01:31.520 align:start position:0%
+so azure machine learning is about the
+ 
+
+00:01:31.520 --> 00:01:33.910 align:start position:0%
+so azure machine learning is about the
+idea<00:01:32.000><c> that</c><00:01:32.240><c> it's</c><00:01:32.400><c> a</c><00:01:32.640><c> platform</c>
+
+00:01:33.910 --> 00:01:33.920 align:start position:0%
+idea that it's a platform
+ 
+
+00:01:33.920 --> 00:01:39.190 align:start position:0%
+idea that it's a platform
+so<00:01:34.159><c> this</c><00:01:34.400><c> is</c><00:01:34.560><c> a</c><00:01:34.880><c> platform</c><00:01:36.000><c> that</c><00:01:36.159><c> i</c><00:01:36.400><c> can</c><00:01:36.640><c> use</c>
+
+00:01:39.190 --> 00:01:39.200 align:start position:0%
+ 
+ 
+
+00:01:39.200 --> 00:01:44.310 align:start position:0%
+ 
+for<00:01:39.520><c> predictions</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+ 
+ 
+
+00:01:44.320 --> 00:01:46.710 align:start position:0%
+ 
+it's<00:01:44.640><c> something</c><00:01:45.280><c> that's</c><00:01:45.600><c> going</c><00:01:45.840><c> to</c><00:01:46.000><c> be</c><00:01:46.240><c> used</c>
+
+00:01:46.710 --> 00:01:46.720 align:start position:0%
+it's something that's going to be used
+ 
+
+00:01:46.720 --> 00:01:49.590 align:start position:0%
+it's something that's going to be used
+for<00:01:46.880><c> example</c><00:01:47.360><c> by</c><00:01:47.600><c> the</c><00:01:47.840><c> data</c><00:01:48.320><c> scientists</c><00:01:49.040><c> in</c><00:01:49.280><c> my</c>
+
+00:01:49.590 --> 00:01:49.600 align:start position:0%
+for example by the data scientists in my
+ 
+
+00:01:49.600 --> 00:01:52.950 align:start position:0%
+for example by the data scientists in my
+company<00:01:50.560><c> who</c><00:01:50.799><c> want</c><00:01:51.200><c> complete</c><00:01:51.759><c> control</c>
+
+00:01:52.950 --> 00:01:52.960 align:start position:0%
+company who want complete control
+ 
+
+00:01:52.960 --> 00:01:58.230 align:start position:0%
+company who want complete control
+so<00:01:53.119><c> i</c><00:01:53.360><c> think</c><00:01:53.600><c> about</c><00:01:54.000><c> hey</c><00:01:54.320><c> i</c><00:01:54.560><c> have</c><00:01:54.799><c> these</c><00:01:55.439><c> data</c>
+
+00:01:58.230 --> 00:01:58.240 align:start position:0%
+ 
+ 
+
+00:01:58.240 --> 00:02:00.310 align:start position:0%
+ 
+scientists
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+scientists
+ 
+
+00:02:00.320 --> 00:02:04.069 align:start position:0%
+scientists
+and<00:02:00.560><c> i</c><00:02:00.719><c> want</c><00:02:01.439><c> total</c><00:02:02.079><c> control</c>
+
+00:02:04.069 --> 00:02:04.079 align:start position:0%
+and i want total control
+ 
+
+00:02:04.079 --> 00:02:06.870 align:start position:0%
+and i want total control
+every<00:02:04.719><c> aspect</c><00:02:05.360><c> of</c><00:02:05.520><c> creating</c><00:02:06.320><c> writing</c><00:02:06.719><c> the</c>
+
+00:02:06.870 --> 00:02:06.880 align:start position:0%
+every aspect of creating writing the
+ 
+
+00:02:06.880 --> 00:02:09.669 align:start position:0%
+every aspect of creating writing the
+model<00:02:07.759><c> training</c><00:02:08.239><c> the</c><00:02:08.399><c> model</c><00:02:09.039><c> tweaking</c><00:02:09.520><c> the</c>
+
+00:02:09.669 --> 00:02:09.679 align:start position:0%
+model training the model tweaking the
+ 
+
+00:02:09.679 --> 00:02:11.190 align:start position:0%
+model training the model tweaking the
+various<00:02:10.160><c> things</c>
+
+00:02:11.190 --> 00:02:11.200 align:start position:0%
+various things
+ 
+
+00:02:11.200 --> 00:02:14.070 align:start position:0%
+various things
+so<00:02:11.360><c> if</c><00:02:11.520><c> i</c><00:02:11.680><c> think</c><00:02:11.920><c> about</c><00:02:12.640><c> this</c><00:02:13.200><c> i</c><00:02:13.440><c> want</c><00:02:13.680><c> this</c><00:02:13.920><c> is</c>
+
+00:02:14.070 --> 00:02:14.080 align:start position:0%
+so if i think about this i want this is
+ 
+
+00:02:14.080 --> 00:02:19.670 align:start position:0%
+so if i think about this i want this is
+that<00:02:14.400><c> platform</c><00:02:15.599><c> that</c><00:02:15.760><c> lets</c><00:02:16.080><c> me</c><00:02:16.400><c> define</c><00:02:17.120><c> well</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+ 
+ 
+
+00:02:19.680 --> 00:02:21.110 align:start position:0%
+ 
+how
+
+00:02:21.110 --> 00:02:21.120 align:start position:0%
+how
+ 
+
+00:02:21.120 --> 00:02:22.949 align:start position:0%
+how
+to<00:02:21.440><c> get</c><00:02:21.680><c> data</c>
+
+00:02:22.949 --> 00:02:22.959 align:start position:0%
+to get data
+ 
+
+00:02:22.959 --> 00:02:25.190 align:start position:0%
+to get data
+i'm<00:02:23.040><c> going</c><00:02:23.200><c> to</c><00:02:23.360><c> use</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+i'm going to use
+ 
+
+00:02:25.200 --> 00:02:27.270 align:start position:0%
+i'm going to use
+i'm<00:02:25.360><c> going</c><00:02:25.520><c> to</c><00:02:25.599><c> think</c><00:02:25.840><c> about</c><00:02:26.560><c> training</c><00:02:27.120><c> a</c>
+
+00:02:27.270 --> 00:02:27.280 align:start position:0%
+i'm going to think about training a
+ 
+
+00:02:27.280 --> 00:02:28.550 align:start position:0%
+i'm going to think about training a
+model
+
+00:02:28.550 --> 00:02:28.560 align:start position:0%
+model
+ 
+
+00:02:28.560 --> 00:02:30.550 align:start position:0%
+model
+but<00:02:28.800><c> also</c><00:02:29.120><c> we</c><00:02:29.280><c> have</c><00:02:29.360><c> to</c><00:02:29.599><c> evaluate</c><00:02:30.239><c> we'll</c><00:02:30.400><c> have</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+but also we have to evaluate we'll have
+ 
+
+00:02:30.560 --> 00:02:32.470 align:start position:0%
+but also we have to evaluate we'll have
+lots<00:02:30.720><c> of</c><00:02:30.800><c> different</c><00:02:31.040><c> models</c><00:02:31.840><c> and</c><00:02:32.000><c> we</c><00:02:32.160><c> have</c><00:02:32.239><c> to</c>
+
+00:02:32.470 --> 00:02:32.480 align:start position:0%
+lots of different models and we have to
+ 
+
+00:02:32.480 --> 00:02:34.710 align:start position:0%
+lots of different models and we have to
+evaluate<00:02:33.200><c> those</c><00:02:33.440><c> models</c><00:02:33.840><c> to</c><00:02:34.000><c> see</c><00:02:34.239><c> okay</c><00:02:34.480><c> which</c>
+
+00:02:34.710 --> 00:02:34.720 align:start position:0%
+evaluate those models to see okay which
+ 
+
+00:02:34.720 --> 00:02:36.470 align:start position:0%
+evaluate those models to see okay which
+one's<00:02:35.040><c> working</c><00:02:35.519><c> which</c><00:02:35.760><c> ones</c><00:02:36.000><c> are</c><00:02:36.080><c> not</c><00:02:36.319><c> where</c>
+
+00:02:36.470 --> 00:02:36.480 align:start position:0%
+one's working which ones are not where
+ 
+
+00:02:36.480 --> 00:02:38.790 align:start position:0%
+one's working which ones are not where
+should<00:02:36.640><c> we</c><00:02:36.879><c> treat</c><00:02:37.599><c> tweak</c><00:02:38.000><c> them</c>
+
+00:02:38.790 --> 00:02:38.800 align:start position:0%
+should we treat tweak them
+ 
+
+00:02:38.800 --> 00:02:43.589 align:start position:0%
+should we treat tweak them
+so<00:02:38.959><c> this</c><00:02:39.120><c> is</c><00:02:39.280><c> about</c><00:02:39.599><c> training</c><00:02:40.400><c> and</c><00:02:40.879><c> evaluate</c>
+
+00:02:43.589 --> 00:02:43.599 align:start position:0%
+so this is about training and evaluate
+ 
+
+00:02:43.599 --> 00:02:46.390 align:start position:0%
+so this is about training and evaluate
+the<00:02:43.760><c> models</c>
+
+00:02:46.390 --> 00:02:46.400 align:start position:0%
+ 
+ 
+
+00:02:46.400 --> 00:02:48.710 align:start position:0%
+ 
+we<00:02:46.640><c> think</c><00:02:46.879><c> about</c><00:02:47.280><c> then</c><00:02:47.599><c> various</c><00:02:48.000><c> experiments</c>
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+we think about then various experiments
+ 
+
+00:02:48.720 --> 00:02:51.509 align:start position:0%
+we think about then various experiments
+there's<00:02:48.879><c> going</c><00:02:48.959><c> to</c><00:02:49.040><c> be</c><00:02:49.200><c> a</c><00:02:49.440><c> pipeline</c>
+
+00:02:51.509 --> 00:02:51.519 align:start position:0%
+there's going to be a pipeline
+ 
+
+00:02:51.519 --> 00:02:53.910 align:start position:0%
+there's going to be a pipeline
+for<00:02:52.000><c> our</c><00:02:52.400><c> experiments</c>
+
+00:02:53.910 --> 00:02:53.920 align:start position:0%
+for our experiments
+ 
+
+00:02:53.920 --> 00:02:55.830 align:start position:0%
+for our experiments
+and<00:02:54.000><c> then</c><00:02:54.239><c> i</c><00:02:54.319><c> obviously</c><00:02:54.640><c> have</c><00:02:54.720><c> to</c><00:02:54.800><c> deploy</c>
+
+00:02:55.830 --> 00:02:55.840 align:start position:0%
+and then i obviously have to deploy
+ 
+
+00:02:55.840 --> 00:03:00.229 align:start position:0%
+and then i obviously have to deploy
+so<00:02:56.080><c> i</c><00:02:56.239><c> want</c><00:02:56.560><c> to</c><00:02:56.720><c> deploy</c><00:02:58.000><c> the</c><00:02:58.400><c> algorithm</c>
+
+00:03:00.229 --> 00:03:00.239 align:start position:0%
+so i want to deploy the algorithm
+ 
+
+00:03:00.239 --> 00:03:02.149 align:start position:0%
+so i want to deploy the algorithm
+that<00:03:00.480><c> we</c><00:03:00.720><c> generate</c>
+
+00:03:02.149 --> 00:03:02.159 align:start position:0%
+that we generate
+ 
+
+00:03:02.159 --> 00:03:04.229 align:start position:0%
+that we generate
+and<00:03:02.319><c> i</c><00:03:02.400><c> want</c><00:03:02.560><c> to</c><00:03:02.640><c> deploy</c><00:03:03.040><c> that</c><00:03:03.360><c> algorithm</c><00:03:04.080><c> and</c>
+
+00:03:04.229 --> 00:03:04.239 align:start position:0%
+and i want to deploy that algorithm and
+ 
+
+00:03:04.239 --> 00:03:06.070 align:start position:0%
+and i want to deploy that algorithm and
+make<00:03:04.560><c> it</c><00:03:04.720><c> available</c>
+
+00:03:06.070 --> 00:03:06.080 align:start position:0%
+make it available
+ 
+
+00:03:06.080 --> 00:03:08.630 align:start position:0%
+make it available
+as<00:03:06.480><c> an</c><00:03:06.879><c> api</c>
+
+00:03:08.630 --> 00:03:08.640 align:start position:0%
+as an api
+ 
+
+00:03:08.640 --> 00:03:12.710 align:start position:0%
+as an api
+that's<00:03:09.040><c> accessible</c><00:03:09.920><c> by</c><00:03:10.720><c> some</c><00:03:11.360><c> endpoint</c>
+
+00:03:12.710 --> 00:03:12.720 align:start position:0%
+that's accessible by some endpoint
+ 
+
+00:03:12.720 --> 00:03:15.430 align:start position:0%
+that's accessible by some endpoint
+the<00:03:12.879><c> whole</c><00:03:13.280><c> point</c><00:03:13.680><c> of</c><00:03:13.840><c> this</c><00:03:14.239><c> is</c><00:03:14.640><c> that</c><00:03:14.959><c> hey</c><00:03:15.200><c> i</c>
+
+00:03:15.430 --> 00:03:15.440 align:start position:0%
+the whole point of this is that hey i
+ 
+
+00:03:15.440 --> 00:03:17.190 align:start position:0%
+the whole point of this is that hey i
+create<00:03:15.760><c> these</c><00:03:16.000><c> models</c>
+
+00:03:17.190 --> 00:03:17.200 align:start position:0%
+create these models
+ 
+
+00:03:17.200 --> 00:03:18.550 align:start position:0%
+create these models
+i
+
+00:03:18.550 --> 00:03:18.560 align:start position:0%
+i
+ 
+
+00:03:18.560 --> 00:03:20.309 align:start position:0%
+i
+train<00:03:18.879><c> and</c><00:03:18.959><c> evaluate</c><00:03:19.519><c> them</c>
+
+00:03:20.309 --> 00:03:20.319 align:start position:0%
+train and evaluate them
+ 
+
+00:03:20.319 --> 00:03:22.949 align:start position:0%
+train and evaluate them
+i<00:03:20.560><c> have</c><00:03:20.800><c> a</c><00:03:21.040><c> pipeline</c><00:03:22.000><c> for</c><00:03:22.239><c> my</c><00:03:22.480><c> various</c>
+
+00:03:22.949 --> 00:03:22.959 align:start position:0%
+i have a pipeline for my various
+ 
+
+00:03:22.959 --> 00:03:25.670 align:start position:0%
+i have a pipeline for my various
+experiments
+
+00:03:25.670 --> 00:03:25.680 align:start position:0%
+experiments
+ 
+
+00:03:25.680 --> 00:03:27.830 align:start position:0%
+experiments
+and<00:03:25.760><c> then</c><00:03:25.920><c> once</c><00:03:26.239><c> i've</c><00:03:26.400><c> got</c><00:03:26.560><c> one</c><00:03:26.959><c> working</c><00:03:27.760><c> i</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+and then once i've got one working i
+ 
+
+00:03:27.840 --> 00:03:29.670 align:start position:0%
+and then once i've got one working i
+need<00:03:28.000><c> to</c><00:03:28.159><c> make</c><00:03:28.319><c> it</c><00:03:28.480><c> available</c><00:03:29.200><c> to</c>
+
+00:03:29.670 --> 00:03:29.680 align:start position:0%
+need to make it available to
+ 
+
+00:03:29.680 --> 00:03:31.190 align:start position:0%
+need to make it available to
+applications
+
+00:03:31.190 --> 00:03:31.200 align:start position:0%
+applications
+ 
+
+00:03:31.200 --> 00:03:33.110 align:start position:0%
+applications
+so<00:03:31.360><c> this</c><00:03:31.519><c> is</c><00:03:31.599><c> going</c><00:03:31.760><c> to</c><00:03:31.920><c> help</c><00:03:32.239><c> me</c><00:03:32.560><c> deploy</c><00:03:32.959><c> the</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+so this is going to help me deploy the
+ 
+
+00:03:33.120 --> 00:03:35.110 align:start position:0%
+so this is going to help me deploy the
+algorithm<00:03:33.680><c> that</c><00:03:33.760><c> we</c><00:03:33.920><c> generate</c><00:03:34.799><c> make</c><00:03:34.959><c> it</c>
+
+00:03:35.110 --> 00:03:35.120 align:start position:0%
+algorithm that we generate make it
+ 
+
+00:03:35.120 --> 00:03:37.430 align:start position:0%
+algorithm that we generate make it
+available<00:03:35.519><c> via</c><00:03:35.760><c> an</c><00:03:35.920><c> api</c><00:03:36.720><c> and</c><00:03:36.879><c> the</c><00:03:37.040><c> api</c><00:03:37.360><c> is</c>
+
+00:03:37.430 --> 00:03:37.440 align:start position:0%
+available via an api and the api is
+ 
+
+00:03:37.440 --> 00:03:39.750 align:start position:0%
+available via an api and the api is
+accessed<00:03:37.840><c> via</c><00:03:38.159><c> some</c><00:03:38.480><c> endpoint</c><00:03:39.360><c> with</c><00:03:39.599><c> the</c>
+
+00:03:39.750 --> 00:03:39.760 align:start position:0%
+accessed via some endpoint with the
+ 
+
+00:03:39.760 --> 00:03:42.430 align:start position:0%
+accessed via some endpoint with the
+whole<00:03:40.080><c> goal</c><00:03:40.400><c> of</c><00:03:40.560><c> then</c><00:03:40.799><c> being</c><00:03:41.200><c> some</c><00:03:41.760><c> other</c>
+
+00:03:42.430 --> 00:03:42.440 align:start position:0%
+whole goal of then being some other
+ 
+
+00:03:42.440 --> 00:03:43.990 align:start position:0%
+whole goal of then being some other
+application
+
+00:03:43.990 --> 00:03:44.000 align:start position:0%
+application
+ 
+
+00:03:44.000 --> 00:03:46.869 align:start position:0%
+application
+can<00:03:44.400><c> talk</c><00:03:44.879><c> to</c><00:03:45.040><c> that</c><00:03:45.360><c> endpoint</c><00:03:46.159><c> to</c><00:03:46.480><c> leverage</c>
+
+00:03:46.869 --> 00:03:46.879 align:start position:0%
+can talk to that endpoint to leverage
+ 
+
+00:03:46.879 --> 00:03:48.710 align:start position:0%
+can talk to that endpoint to leverage
+that<00:03:47.120><c> model</c><00:03:47.440><c> we've</c><00:03:47.680><c> built</c>
+
+00:03:48.710 --> 00:03:48.720 align:start position:0%
+that model we've built
+ 
+
+00:03:48.720 --> 00:03:50.869 align:start position:0%
+that model we've built
+so<00:03:48.879><c> the</c><00:03:49.040><c> azure</c><00:03:49.440><c> machine</c><00:03:49.840><c> learning</c><00:03:50.400><c> gives</c><00:03:50.640><c> me</c>
+
+00:03:50.869 --> 00:03:50.879 align:start position:0%
+so the azure machine learning gives me
+ 
+
+00:03:50.879 --> 00:03:52.949 align:start position:0%
+so the azure machine learning gives me
+that<00:03:51.200><c> platform</c><00:03:51.680><c> that</c><00:03:51.840><c> lets</c><00:03:52.080><c> me</c><00:03:52.239><c> do</c><00:03:52.640><c> all</c><00:03:52.799><c> of</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+that platform that lets me do all of
+ 
+
+00:03:52.959 --> 00:03:55.990 align:start position:0%
+that platform that lets me do all of
+this<00:03:53.680><c> but</c><00:03:54.319><c> it's</c><00:03:54.560><c> involved</c>
+
+00:03:55.990 --> 00:03:56.000 align:start position:0%
+this but it's involved
+ 
+
+00:03:56.000 --> 00:03:57.990 align:start position:0%
+this but it's involved
+my<00:03:56.239><c> data</c><00:03:56.640><c> scientists</c><00:03:57.280><c> are</c><00:03:57.360><c> doing</c><00:03:57.599><c> a</c><00:03:57.680><c> lot</c><00:03:57.840><c> of</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+my data scientists are doing a lot of
+ 
+
+00:03:58.000 --> 00:04:00.710 align:start position:0%
+my data scientists are doing a lot of
+work<00:03:58.239><c> a</c><00:03:58.319><c> lot</c><00:03:58.560><c> of</c><00:03:58.799><c> writing</c><00:03:59.360><c> things</c><00:04:00.319><c> but</c><00:04:00.560><c> then</c>
+
+00:04:00.710 --> 00:04:00.720 align:start position:0%
+work a lot of writing things but then
+ 
+
+00:04:00.720 --> 00:04:03.589 align:start position:0%
+work a lot of writing things but then
+they<00:04:00.959><c> have</c><00:04:01.120><c> complete</c><00:04:01.680><c> control</c><00:04:02.319><c> over</c><00:04:02.640><c> that</c>
+
+00:04:03.589 --> 00:04:03.599 align:start position:0%
+they have complete control over that
+ 
+
+00:04:03.599 --> 00:04:05.190 align:start position:0%
+they have complete control over that
+so<00:04:03.680><c> that's</c><00:04:03.920><c> great</c><00:04:04.239><c> if</c><00:04:04.400><c> that's</c><00:04:04.640><c> what</c><00:04:04.799><c> you</c><00:04:04.959><c> want</c>
+
+00:04:05.190 --> 00:04:05.200 align:start position:0%
+so that's great if that's what you want
+ 
+
+00:04:05.200 --> 00:04:07.589 align:start position:0%
+so that's great if that's what you want
+you<00:04:05.280><c> want</c><00:04:05.439><c> to</c><00:04:05.519><c> do</c><00:04:05.760><c> these</c><00:04:06.239><c> deep</c><00:04:06.720><c> customized</c>
+
+00:04:07.589 --> 00:04:07.599 align:start position:0%
+you want to do these deep customized
+ 
+
+00:04:07.599 --> 00:04:10.470 align:start position:0%
+you want to do these deep customized
+different<00:04:07.920><c> types</c><00:04:08.239><c> of</c><00:04:08.400><c> service</c><00:04:09.200><c> but</c><00:04:09.360><c> what</c><00:04:09.599><c> if</c><00:04:10.319><c> i</c>
+
+00:04:10.470 --> 00:04:10.480 align:start position:0%
+different types of service but what if i
+ 
+
+00:04:10.480 --> 00:04:11.750 align:start position:0%
+different types of service but what if i
+don't<00:04:10.640><c> want</c><00:04:10.799><c> that</c>
+
+00:04:11.750 --> 00:04:11.760 align:start position:0%
+don't want that
+ 
+
+00:04:11.760 --> 00:04:13.750 align:start position:0%
+don't want that
+what<00:04:11.920><c> about</c><00:04:12.319><c> if</c><00:04:12.720><c> actually</c><00:04:13.120><c> i</c><00:04:13.200><c> just</c><00:04:13.439><c> want</c>
+
+00:04:13.750 --> 00:04:13.760 align:start position:0%
+what about if actually i just want
+ 
+
+00:04:13.760 --> 00:04:16.069 align:start position:0%
+what about if actually i just want
+something<00:04:14.239><c> kind</c><00:04:14.400><c> of</c><00:04:14.560><c> pre-built</c><00:04:15.760><c> that</c><00:04:15.920><c> can</c>
+
+00:04:16.069 --> 00:04:16.079 align:start position:0%
+something kind of pre-built that can
+ 
+
+00:04:16.079 --> 00:04:19.189 align:start position:0%
+something kind of pre-built that can
+help<00:04:16.320><c> me</c><00:04:16.479><c> identify</c><00:04:17.199><c> objects</c><00:04:17.840><c> or</c><00:04:18.160><c> understand</c>
+
+00:04:19.189 --> 00:04:19.199 align:start position:0%
+help me identify objects or understand
+ 
+
+00:04:19.199 --> 00:04:22.069 align:start position:0%
+help me identify objects or understand
+human<00:04:19.600><c> speech</c><00:04:20.160><c> or</c><00:04:20.880><c> translate</c><00:04:21.600><c> from</c><00:04:21.840><c> one</c>
+
+00:04:22.069 --> 00:04:22.079 align:start position:0%
+human speech or translate from one
+ 
+
+00:04:22.079 --> 00:04:23.830 align:start position:0%
+human speech or translate from one
+language<00:04:22.560><c> to</c><00:04:22.720><c> another</c>
+
+00:04:23.830 --> 00:04:23.840 align:start position:0%
+language to another
+ 
+
+00:04:23.840 --> 00:04:25.909 align:start position:0%
+language to another
+so<00:04:24.080><c> the</c><00:04:24.160><c> next</c><00:04:24.400><c> set</c><00:04:24.560><c> of</c><00:04:24.720><c> services</c><00:04:25.199><c> we</c><00:04:25.360><c> have</c><00:04:25.840><c> are</c>
+
+00:04:25.909 --> 00:04:25.919 align:start position:0%
+so the next set of services we have are
+ 
+
+00:04:25.919 --> 00:04:29.990 align:start position:0%
+so the next set of services we have are
+the<00:04:26.080><c> various</c><00:04:26.720><c> azure</c>
+
+00:04:29.990 --> 00:04:30.000 align:start position:0%
+ 
+ 
+
+00:04:30.000 --> 00:04:31.990 align:start position:0%
+ 
+cognitive
+
+00:04:31.990 --> 00:04:32.000 align:start position:0%
+cognitive
+ 
+
+00:04:32.000 --> 00:04:35.030 align:start position:0%
+cognitive
+services
+
+00:04:35.030 --> 00:04:35.040 align:start position:0%
+ 
+ 
+
+00:04:35.040 --> 00:04:36.790 align:start position:0%
+ 
+so<00:04:35.199><c> the</c><00:04:35.360><c> whole</c><00:04:35.600><c> point</c><00:04:35.840><c> of</c><00:04:35.919><c> these</c><00:04:36.320><c> azure</c>
+
+00:04:36.790 --> 00:04:36.800 align:start position:0%
+so the whole point of these azure
+ 
+
+00:04:36.800 --> 00:04:38.710 align:start position:0%
+so the whole point of these azure
+cognitive<00:04:37.440><c> services</c>
+
+00:04:38.710 --> 00:04:38.720 align:start position:0%
+cognitive services
+ 
+
+00:04:38.720 --> 00:04:40.950 align:start position:0%
+cognitive services
+is<00:04:39.040><c> these</c><00:04:39.360><c> are</c><00:04:39.600><c> pre-built</c>
+
+00:04:40.950 --> 00:04:40.960 align:start position:0%
+is these are pre-built
+ 
+
+00:04:40.960 --> 00:04:43.670 align:start position:0%
+is these are pre-built
+so<00:04:41.120><c> we</c><00:04:41.280><c> have</c><00:04:41.680><c> a</c><00:04:42.000><c> number</c>
+
+00:04:43.670 --> 00:04:43.680 align:start position:0%
+so we have a number
+ 
+
+00:04:43.680 --> 00:04:47.590 align:start position:0%
+so we have a number
+of<00:04:44.240><c> pre-built</c><00:04:45.040><c> models</c>
+
+00:04:47.590 --> 00:04:47.600 align:start position:0%
+ 
+ 
+
+00:04:47.600 --> 00:04:50.629 align:start position:0%
+ 
+that<00:04:47.919><c> i</c><00:04:48.080><c> can</c><00:04:48.320><c> very</c><00:04:48.720><c> easily</c><00:04:49.440><c> spin</c><00:04:49.919><c> up</c><00:04:50.240><c> and</c><00:04:50.320><c> then</c>
+
+00:04:50.629 --> 00:04:50.639 align:start position:0%
+that i can very easily spin up and then
+ 
+
+00:04:50.639 --> 00:04:53.830 align:start position:0%
+that i can very easily spin up and then
+leverage<00:04:51.680><c> within</c><00:04:52.240><c> some</c><00:04:52.560><c> application</c><00:04:53.520><c> i'm</c>
+
+00:04:53.830 --> 00:04:53.840 align:start position:0%
+leverage within some application i'm
+ 
+
+00:04:53.840 --> 00:04:55.670 align:start position:0%
+leverage within some application i'm
+doing
+
+00:04:55.670 --> 00:04:55.680 align:start position:0%
+doing
+ 
+
+00:04:55.680 --> 00:04:57.030 align:start position:0%
+doing
+i<00:04:55.759><c> don't</c><00:04:55.919><c> need</c><00:04:56.080><c> specialist</c><00:04:56.560><c> knowledge</c><00:04:56.880><c> for</c>
+
+00:04:57.030 --> 00:04:57.040 align:start position:0%
+i don't need specialist knowledge for
+ 
+
+00:04:57.040 --> 00:04:59.909 align:start position:0%
+i don't need specialist knowledge for
+these<00:04:57.759><c> i</c><00:04:58.080><c> can</c><00:04:58.240><c> with</c><00:04:58.560><c> very</c><00:04:58.880><c> very</c><00:04:59.280><c> minimal</c>
+
+00:04:59.909 --> 00:04:59.919 align:start position:0%
+these i can with very very minimal
+ 
+
+00:04:59.919 --> 00:05:01.110 align:start position:0%
+these i can with very very minimal
+coding
+
+00:05:01.110 --> 00:05:01.120 align:start position:0%
+coding
+ 
+
+00:05:01.120 --> 00:05:03.189 align:start position:0%
+coding
+interact<00:05:01.600><c> with</c><00:05:01.840><c> this</c>
+
+00:05:03.189 --> 00:05:03.199 align:start position:0%
+interact with this
+ 
+
+00:05:03.199 --> 00:05:04.950 align:start position:0%
+interact with this
+so<00:05:03.360><c> there</c><00:05:03.520><c> are</c><00:05:03.600><c> models</c><00:05:04.080><c> built</c><00:05:04.400><c> around</c><00:05:04.720><c> things</c>
+
+00:05:04.950 --> 00:05:04.960 align:start position:0%
+so there are models built around things
+ 
+
+00:05:04.960 --> 00:05:09.590 align:start position:0%
+so there are models built around things
+like<00:05:05.280><c> language</c>
+
+00:05:09.590 --> 00:05:09.600 align:start position:0%
+ 
+ 
+
+00:05:09.600 --> 00:05:11.909 align:start position:0%
+ 
+i<00:05:09.919><c> want</c><00:05:10.160><c> that</c><00:05:10.400><c> ability</c><00:05:11.120><c> to</c><00:05:11.280><c> maybe</c><00:05:11.600><c> someone's</c>
+
+00:05:11.909 --> 00:05:11.919 align:start position:0%
+i want that ability to maybe someone's
+ 
+
+00:05:11.919 --> 00:05:14.629 align:start position:0%
+i want that ability to maybe someone's
+communicating<00:05:12.479><c> in</c><00:05:12.639><c> natural</c><00:05:13.199><c> language</c><00:05:14.240><c> and</c><00:05:14.400><c> i</c>
+
+00:05:14.629 --> 00:05:14.639 align:start position:0%
+communicating in natural language and i
+ 
+
+00:05:14.639 --> 00:05:17.590 align:start position:0%
+communicating in natural language and i
+need<00:05:14.960><c> to</c><00:05:15.360><c> actually</c><00:05:16.080><c> assess</c><00:05:16.639><c> what</c><00:05:16.880><c> is</c><00:05:17.120><c> being</c>
+
+00:05:17.590 --> 00:05:17.600 align:start position:0%
+need to actually assess what is being
+ 
+
+00:05:17.600 --> 00:05:20.150 align:start position:0%
+need to actually assess what is being
+maybe<00:05:17.919><c> asked</c><00:05:18.240><c> of</c><00:05:18.400><c> me</c><00:05:18.960><c> maybe</c><00:05:19.199><c> i</c><00:05:19.199><c> want</c><00:05:19.360><c> to</c><00:05:19.520><c> assess</c>
+
+00:05:20.150 --> 00:05:20.160 align:start position:0%
+maybe asked of me maybe i want to assess
+ 
+
+00:05:20.160 --> 00:05:22.390 align:start position:0%
+maybe asked of me maybe i want to assess
+the<00:05:20.560><c> sentiment</c><00:05:21.039><c> is</c><00:05:21.120><c> this</c><00:05:21.280><c> positive</c><00:05:22.000><c> is</c><00:05:22.080><c> this</c>
+
+00:05:22.390 --> 00:05:22.400 align:start position:0%
+the sentiment is this positive is this
+ 
+
+00:05:22.400 --> 00:05:23.670 align:start position:0%
+the sentiment is this positive is this
+negative
+
+00:05:23.670 --> 00:05:23.680 align:start position:0%
+negative
+ 
+
+00:05:23.680 --> 00:05:26.790 align:start position:0%
+negative
+i<00:05:23.840><c> need</c><00:05:24.000><c> to</c><00:05:24.400><c> learn</c><00:05:24.720><c> and</c><00:05:24.880><c> recognize</c><00:05:25.759><c> what</c><00:05:26.160><c> users</c>
+
+00:05:26.790 --> 00:05:26.800 align:start position:0%
+i need to learn and recognize what users
+ 
+
+00:05:26.800 --> 00:05:28.550 align:start position:0%
+i need to learn and recognize what users
+actually<00:05:27.280><c> want</c>
+
+00:05:28.550 --> 00:05:28.560 align:start position:0%
+actually want
+ 
+
+00:05:28.560 --> 00:05:29.909 align:start position:0%
+actually want
+then<00:05:28.800><c> we</c><00:05:28.880><c> can</c><00:05:29.039><c> actually</c><00:05:29.360><c> think</c><00:05:29.520><c> there</c><00:05:29.759><c> are</c>
+
+00:05:29.909 --> 00:05:29.919 align:start position:0%
+then we can actually think there are
+ 
+
+00:05:29.919 --> 00:05:31.749 align:start position:0%
+then we can actually think there are
+various<00:05:30.479><c> speech</c>
+
+00:05:31.749 --> 00:05:31.759 align:start position:0%
+various speech
+ 
+
+00:05:31.759 --> 00:05:33.270 align:start position:0%
+various speech
+services
+
+00:05:33.270 --> 00:05:33.280 align:start position:0%
+services
+ 
+
+00:05:33.280 --> 00:05:35.430 align:start position:0%
+services
+so<00:05:33.440><c> the</c><00:05:33.600><c> idea</c><00:05:33.759><c> of</c><00:05:33.840><c> the</c><00:05:34.000><c> speech</c><00:05:34.400><c> service</c><00:05:34.880><c> is</c><00:05:35.280><c> hey</c>
+
+00:05:35.430 --> 00:05:35.440 align:start position:0%
+so the idea of the speech service is hey
+ 
+
+00:05:35.440 --> 00:05:37.110 align:start position:0%
+so the idea of the speech service is hey
+someone's<00:05:35.840><c> talking</c><00:05:36.240><c> to</c><00:05:36.400><c> me</c>
+
+00:05:37.110 --> 00:05:37.120 align:start position:0%
+someone's talking to me
+ 
+
+00:05:37.120 --> 00:05:39.189 align:start position:0%
+someone's talking to me
+i<00:05:37.280><c> can</c><00:05:37.440><c> convert</c><00:05:37.680><c> it</c><00:05:37.840><c> to</c><00:05:38.000><c> text</c>
+
+00:05:39.189 --> 00:05:39.199 align:start position:0%
+i can convert it to text
+ 
+
+00:05:39.199 --> 00:05:42.629 align:start position:0%
+i can convert it to text
+i<00:05:39.520><c> might</c><00:05:40.240><c> take</c><00:05:40.560><c> text</c><00:05:41.120><c> into</c><00:05:41.680><c> net</c><00:05:42.080><c> natural</c>
+
+00:05:42.629 --> 00:05:42.639 align:start position:0%
+i might take text into net natural
+ 
+
+00:05:42.639 --> 00:05:44.950 align:start position:0%
+i might take text into net natural
+sounding<00:05:43.360><c> speech</c><00:05:44.080><c> i</c><00:05:44.240><c> want</c><00:05:44.320><c> to</c><00:05:44.400><c> translate</c><00:05:44.800><c> from</c>
+
+00:05:44.950 --> 00:05:44.960 align:start position:0%
+sounding speech i want to translate from
+ 
+
+00:05:44.960 --> 00:05:48.230 align:start position:0%
+sounding speech i want to translate from
+one<00:05:45.120><c> language</c><00:05:45.520><c> to</c><00:05:45.680><c> another</c><00:05:46.080><c> language</c>
+
+00:05:48.230 --> 00:05:48.240 align:start position:0%
+one language to another language
+ 
+
+00:05:48.240 --> 00:05:49.830 align:start position:0%
+one language to another language
+i<00:05:48.320><c> can</c><00:05:48.639><c> do</c><00:05:48.800><c> all</c><00:05:48.880><c> these</c><00:05:49.120><c> with</c><00:05:49.280><c> the</c><00:05:49.360><c> various</c>
+
+00:05:49.830 --> 00:05:49.840 align:start position:0%
+i can do all these with the various
+ 
+
+00:05:49.840 --> 00:05:52.310 align:start position:0%
+i can do all these with the various
+speech<00:05:50.320><c> cognitive</c><00:05:50.800><c> services</c>
+
+00:05:52.310 --> 00:05:52.320 align:start position:0%
+speech cognitive services
+ 
+
+00:05:52.320 --> 00:05:56.150 align:start position:0%
+speech cognitive services
+then<00:05:52.479><c> we</c><00:05:52.639><c> have</c><00:05:52.720><c> things</c><00:05:52.960><c> around</c><00:05:53.280><c> vision</c>
+
+00:05:56.150 --> 00:05:56.160 align:start position:0%
+ 
+ 
+
+00:05:56.160 --> 00:05:57.909 align:start position:0%
+ 
+now<00:05:56.319><c> with</c><00:05:56.560><c> vision</c><00:05:56.880><c> the</c><00:05:57.039><c> idea</c><00:05:57.360><c> here</c><00:05:57.520><c> is</c><00:05:57.680><c> i</c><00:05:57.759><c> want</c>
+
+00:05:57.909 --> 00:05:57.919 align:start position:0%
+now with vision the idea here is i want
+ 
+
+00:05:57.919 --> 00:06:01.029 align:start position:0%
+now with vision the idea here is i want
+to<00:05:58.160><c> add</c><00:05:58.479><c> recognition</c><00:05:59.919><c> and</c><00:06:00.160><c> identification</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+to add recognition and identification
+ 
+
+00:06:01.039 --> 00:06:02.469 align:start position:0%
+to add recognition and identification
+capabilities
+
+00:06:02.469 --> 00:06:02.479 align:start position:0%
+capabilities
+ 
+
+00:06:02.479 --> 00:06:04.790 align:start position:0%
+capabilities
+maybe<00:06:02.800><c> i</c><00:06:02.880><c> have</c><00:06:03.039><c> a</c><00:06:03.120><c> security</c><00:06:03.759><c> camera</c>
+
+00:06:04.790 --> 00:06:04.800 align:start position:0%
+maybe i have a security camera
+ 
+
+00:06:04.800 --> 00:06:06.390 align:start position:0%
+maybe i have a security camera
+and<00:06:04.960><c> i</c><00:06:05.120><c> want</c><00:06:05.199><c> to</c><00:06:05.360><c> identify</c><00:06:05.919><c> someone's</c><00:06:06.240><c> not</c>
+
+00:06:06.390 --> 00:06:06.400 align:start position:0%
+and i want to identify someone's not
+ 
+
+00:06:06.400 --> 00:06:08.150 align:start position:0%
+and i want to identify someone's not
+wearing<00:06:06.639><c> a</c><00:06:06.800><c> safety</c><00:06:07.120><c> helmet</c>
+
+00:06:08.150 --> 00:06:08.160 align:start position:0%
+wearing a safety helmet
+ 
+
+00:06:08.160 --> 00:06:09.990 align:start position:0%
+wearing a safety helmet
+in<00:06:08.319><c> the</c><00:06:08.639><c> covered</c><00:06:09.039><c> world</c><00:06:09.360><c> hey</c><00:06:09.520><c> someone's</c><00:06:09.840><c> not</c>
+
+00:06:09.990 --> 00:06:10.000 align:start position:0%
+in the covered world hey someone's not
+ 
+
+00:06:10.000 --> 00:06:12.550 align:start position:0%
+in the covered world hey someone's not
+wearing<00:06:10.319><c> a</c><00:06:10.400><c> mask</c><00:06:10.800><c> for</c><00:06:10.960><c> example</c><00:06:11.360><c> and</c><00:06:11.520><c> flag</c><00:06:11.840><c> that</c>
+
+00:06:12.550 --> 00:06:12.560 align:start position:0%
+wearing a mask for example and flag that
+ 
+
+00:06:12.560 --> 00:06:14.629 align:start position:0%
+wearing a mask for example and flag that
+i'm<00:06:12.800><c> seeing</c><00:06:13.039><c> something</c><00:06:13.280><c> that's</c><00:06:13.600><c> a</c><00:06:14.080><c> security</c>
+
+00:06:14.629 --> 00:06:14.639 align:start position:0%
+i'm seeing something that's a security
+ 
+
+00:06:14.639 --> 00:06:17.029 align:start position:0%
+i'm seeing something that's a security
+risk<00:06:15.280><c> i</c><00:06:15.440><c> want</c><00:06:15.600><c> to</c><00:06:15.759><c> identify</c><00:06:16.479><c> what's</c><00:06:16.800><c> in</c><00:06:16.880><c> this</c>
+
+00:06:17.029 --> 00:06:17.039 align:start position:0%
+risk i want to identify what's in this
+ 
+
+00:06:17.039 --> 00:06:19.270 align:start position:0%
+risk i want to identify what's in this
+picture<00:06:17.360><c> hey</c><00:06:17.680><c> it's</c><00:06:17.840><c> a</c><00:06:18.000><c> person</c><00:06:18.560><c> it's</c><00:06:18.800><c> a</c><00:06:18.960><c> car</c>
+
+00:06:19.270 --> 00:06:19.280 align:start position:0%
+picture hey it's a person it's a car
+ 
+
+00:06:19.280 --> 00:06:22.230 align:start position:0%
+picture hey it's a person it's a car
+it's<00:06:19.440><c> a</c><00:06:19.520><c> certain</c><00:06:19.919><c> type</c><00:06:20.240><c> of</c><00:06:20.400><c> flower</c>
+
+00:06:22.230 --> 00:06:22.240 align:start position:0%
+it's a certain type of flower
+ 
+
+00:06:22.240 --> 00:06:25.909 align:start position:0%
+it's a certain type of flower
+i<00:06:22.479><c> can</c><00:06:22.720><c> do</c><00:06:22.960><c> that</c><00:06:23.360><c> with</c><00:06:23.680><c> the</c><00:06:24.000><c> vision</c><00:06:24.479><c> services</c>
+
+00:06:25.909 --> 00:06:25.919 align:start position:0%
+i can do that with the vision services
+ 
+
+00:06:25.919 --> 00:06:27.430 align:start position:0%
+i can do that with the vision services
+and<00:06:26.000><c> then</c><00:06:26.160><c> there</c><00:06:26.319><c> are</c><00:06:26.479><c> things</c><00:06:26.639><c> like</c><00:06:26.800><c> decision</c>
+
+00:06:27.430 --> 00:06:27.440 align:start position:0%
+and then there are things like decision
+ 
+
+00:06:27.440 --> 00:06:31.189 align:start position:0%
+and then there are things like decision
+services
+
+00:06:31.189 --> 00:06:31.199 align:start position:0%
+ 
+ 
+
+00:06:31.199 --> 00:06:33.430 align:start position:0%
+ 
+we<00:06:31.440><c> have</c><00:06:31.600><c> the</c><00:06:31.840><c> idea</c><00:06:32.160><c> that</c><00:06:32.400><c> i</c><00:06:32.479><c> want</c><00:06:32.639><c> to</c><00:06:32.720><c> get</c><00:06:33.039><c> some</c>
+
+00:06:33.430 --> 00:06:33.440 align:start position:0%
+we have the idea that i want to get some
+ 
+
+00:06:33.440 --> 00:06:35.430 align:start position:0%
+we have the idea that i want to get some
+recommendation
+
+00:06:35.430 --> 00:06:35.440 align:start position:0%
+recommendation
+ 
+
+00:06:35.440 --> 00:06:38.230 align:start position:0%
+recommendation
+that<00:06:35.600><c> maybe</c><00:06:35.919><c> improves</c><00:06:36.319><c> over</c><00:06:36.720><c> time</c>
+
+00:06:38.230 --> 00:06:38.240 align:start position:0%
+that maybe improves over time
+ 
+
+00:06:38.240 --> 00:06:39.270 align:start position:0%
+that maybe improves over time
+to
+
+00:06:39.270 --> 00:06:39.280 align:start position:0%
+to
+ 
+
+00:06:39.280 --> 00:06:40.710 align:start position:0%
+to
+recommend<00:06:39.919><c> something</c><00:06:40.400><c> maybe</c><00:06:40.639><c> it's</c>
+
+00:06:40.710 --> 00:06:40.720 align:start position:0%
+recommend something maybe it's
+ 
+
+00:06:40.720 --> 00:06:42.550 align:start position:0%
+recommend something maybe it's
+moderating<00:06:41.360><c> content</c><00:06:41.680><c> it</c><00:06:41.759><c> can</c><00:06:41.919><c> automatically</c>
+
+00:06:42.550 --> 00:06:42.560 align:start position:0%
+moderating content it can automatically
+ 
+
+00:06:42.560 --> 00:06:44.790 align:start position:0%
+moderating content it can automatically
+remove<00:06:43.120><c> certain</c><00:06:43.440><c> things</c><00:06:43.680><c> or</c><00:06:44.000><c> detect</c><00:06:44.479><c> some</c>
+
+00:06:44.790 --> 00:06:44.800 align:start position:0%
+remove certain things or detect some
+ 
+
+00:06:44.800 --> 00:06:46.469 align:start position:0%
+remove certain things or detect some
+anomaly
+
+00:06:46.469 --> 00:06:46.479 align:start position:0%
+anomaly
+ 
+
+00:06:46.479 --> 00:06:48.629 align:start position:0%
+anomaly
+there's<00:06:46.720><c> a</c><00:06:46.800><c> whole</c><00:06:47.120><c> range</c><00:06:47.520><c> of</c><00:06:47.600><c> these</c><00:06:48.240><c> but</c><00:06:48.400><c> the</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+there's a whole range of these but the
+ 
+
+00:06:48.639 --> 00:06:50.309 align:start position:0%
+there's a whole range of these but the
+point<00:06:48.960><c> of</c><00:06:49.120><c> this</c><00:06:49.440><c> service</c><00:06:49.759><c> is</c><00:06:49.919><c> hey</c><00:06:50.080><c> i</c><00:06:50.160><c> want</c>
+
+00:06:50.309 --> 00:06:50.319 align:start position:0%
+point of this service is hey i want
+ 
+
+00:06:50.319 --> 00:06:52.550 align:start position:0%
+point of this service is hey i want
+saying<00:06:50.639><c> pre-built</c><00:06:51.599><c> i</c><00:06:51.680><c> just</c><00:06:51.840><c> want</c><00:06:52.000><c> to</c><00:06:52.240><c> use</c>
+
+00:06:52.550 --> 00:06:52.560 align:start position:0%
+saying pre-built i just want to use
+ 
+
+00:06:52.560 --> 00:06:53.909 align:start position:0%
+saying pre-built i just want to use
+something<00:06:53.120><c> hey</c><00:06:53.360><c> it's</c><00:06:53.440><c> probably</c><00:06:53.599><c> going</c><00:06:53.680><c> to</c><00:06:53.759><c> be</c>
+
+00:06:53.909 --> 00:06:53.919 align:start position:0%
+something hey it's probably going to be
+ 
+
+00:06:53.919 --> 00:06:56.710 align:start position:0%
+something hey it's probably going to be
+azure<00:06:54.319><c> cognitive</c><00:06:54.880><c> services</c>
+
+00:06:56.710 --> 00:06:56.720 align:start position:0%
+azure cognitive services
+ 
+
+00:06:56.720 --> 00:06:58.629 align:start position:0%
+azure cognitive services
+now<00:06:56.880><c> the</c><00:06:57.039><c> next</c><00:06:57.280><c> one</c><00:06:57.520><c> we</c><00:06:57.680><c> have</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+now the next one we have
+ 
+
+00:06:58.639 --> 00:07:07.430 align:start position:0%
+now the next one we have
+is<00:06:58.880><c> the</c><00:06:59.120><c> azure</c><00:06:59.520><c> bot</c><00:06:59.840><c> service</c>
+
+00:07:07.430 --> 00:07:07.440 align:start position:0%
+ 
+ 
+
+00:07:07.440 --> 00:07:09.430 align:start position:0%
+ 
+how<00:07:07.599><c> many</c><00:07:08.080><c> times</c><00:07:08.479><c> have</c><00:07:08.639><c> you</c><00:07:08.800><c> been</c><00:07:09.039><c> on</c><00:07:09.199><c> some</c>
+
+00:07:09.430 --> 00:07:09.440 align:start position:0%
+how many times have you been on some
+ 
+
+00:07:09.440 --> 00:07:11.670 align:start position:0%
+how many times have you been on some
+website<00:07:10.479><c> and</c><00:07:10.639><c> it's</c><00:07:10.800><c> hey</c><00:07:11.039><c> do</c><00:07:11.120><c> you</c><00:07:11.199><c> want</c><00:07:11.360><c> to</c><00:07:11.440><c> talk</c>
+
+00:07:11.670 --> 00:07:11.680 align:start position:0%
+website and it's hey do you want to talk
+ 
+
+00:07:11.680 --> 00:07:12.790 align:start position:0%
+website and it's hey do you want to talk
+to<00:07:11.919><c> us</c>
+
+00:07:12.790 --> 00:07:12.800 align:start position:0%
+to us
+ 
+
+00:07:12.800 --> 00:07:15.670 align:start position:0%
+to us
+and<00:07:12.960><c> it's</c><00:07:13.199><c> some</c><00:07:13.520><c> chat</c><00:07:14.160><c> interaction</c><00:07:15.360><c> so</c>
+
+00:07:15.670 --> 00:07:15.680 align:start position:0%
+and it's some chat interaction so
+ 
+
+00:07:15.680 --> 00:07:18.070 align:start position:0%
+and it's some chat interaction so
+there's<00:07:16.160><c> some</c><00:07:16.639><c> aspect</c><00:07:17.039><c> now</c><00:07:17.199><c> it</c><00:07:17.280><c> could</c><00:07:17.440><c> be</c><00:07:17.599><c> text</c>
+
+00:07:18.070 --> 00:07:18.080 align:start position:0%
+there's some aspect now it could be text
+ 
+
+00:07:18.080 --> 00:07:20.629 align:start position:0%
+there's some aspect now it could be text
+it<00:07:18.160><c> could</c><00:07:18.319><c> be</c><00:07:18.560><c> voice</c><00:07:19.199><c> but</c><00:07:19.360><c> i'm</c><00:07:19.759><c> interacting</c>
+
+00:07:20.629 --> 00:07:20.639 align:start position:0%
+it could be voice but i'm interacting
+ 
+
+00:07:20.639 --> 00:07:24.710 align:start position:0%
+it could be voice but i'm interacting
+with<00:07:21.039><c> some</c><00:07:21.440><c> kind</c><00:07:21.680><c> of</c><00:07:22.080><c> virtual</c><00:07:22.720><c> agent</c>
+
+00:07:24.710 --> 00:07:24.720 align:start position:0%
+with some kind of virtual agent
+ 
+
+00:07:24.720 --> 00:07:26.629 align:start position:0%
+with some kind of virtual agent
+so<00:07:24.880><c> the</c><00:07:25.039><c> whole</c><00:07:25.280><c> point</c><00:07:25.599><c> here</c><00:07:25.840><c> is</c><00:07:26.000><c> i</c><00:07:26.080><c> have</c><00:07:26.319><c> these</c>
+
+00:07:26.629 --> 00:07:26.639 align:start position:0%
+so the whole point here is i have these
+ 
+
+00:07:26.639 --> 00:07:30.390 align:start position:0%
+so the whole point here is i have these
+virtual<00:07:27.280><c> agents</c>
+
+00:07:30.390 --> 00:07:30.400 align:start position:0%
+ 
+ 
+
+00:07:30.400 --> 00:07:33.189 align:start position:0%
+ 
+that<00:07:30.639><c> i'm</c><00:07:31.039><c> interacting</c><00:07:31.759><c> in</c><00:07:32.000><c> some</c><00:07:32.240><c> way</c>
+
+00:07:33.189 --> 00:07:33.199 align:start position:0%
+that i'm interacting in some way
+ 
+
+00:07:33.199 --> 00:07:35.350 align:start position:0%
+that i'm interacting in some way
+and<00:07:33.520><c> as</c><00:07:33.759><c> part</c><00:07:34.000><c> of</c><00:07:34.160><c> this</c><00:07:34.400><c> service</c><00:07:34.960><c> we</c><00:07:35.120><c> have</c><00:07:35.280><c> to</c>
+
+00:07:35.350 --> 00:07:35.360 align:start position:0%
+and as part of this service we have to
+ 
+
+00:07:35.360 --> 00:07:37.110 align:start position:0%
+and as part of this service we have to
+do<00:07:35.520><c> a</c><00:07:35.599><c> number</c><00:07:35.840><c> of</c><00:07:36.000><c> different</c><00:07:36.319><c> things</c><00:07:36.960><c> so</c>
+
+00:07:37.110 --> 00:07:37.120 align:start position:0%
+do a number of different things so
+ 
+
+00:07:37.120 --> 00:07:39.510 align:start position:0%
+do a number of different things so
+there's<00:07:37.360><c> some</c><00:07:37.759><c> user</c><00:07:38.479><c> on</c><00:07:38.639><c> the</c><00:07:38.880><c> other</c><00:07:39.199><c> end</c>
+
+00:07:39.510 --> 00:07:39.520 align:start position:0%
+there's some user on the other end
+ 
+
+00:07:39.520 --> 00:07:42.790 align:start position:0%
+there's some user on the other end
+communicating<00:07:40.800><c> but</c><00:07:41.039><c> if</c><00:07:41.120><c> there's</c><00:07:41.360><c> some</c><00:07:41.919><c> user</c>
+
+00:07:42.790 --> 00:07:42.800 align:start position:0%
+communicating but if there's some user
+ 
+
+00:07:42.800 --> 00:07:44.869 align:start position:0%
+communicating but if there's some user
+communicating
+
+00:07:44.869 --> 00:07:44.879 align:start position:0%
+communicating
+ 
+
+00:07:44.879 --> 00:07:47.189 align:start position:0%
+communicating
+we<00:07:45.039><c> have</c><00:07:45.199><c> to</c><00:07:45.440><c> understand</c>
+
+00:07:47.189 --> 00:07:47.199 align:start position:0%
+we have to understand
+ 
+
+00:07:47.199 --> 00:07:48.629 align:start position:0%
+we have to understand
+we<00:07:47.360><c> have</c><00:07:47.520><c> to</c><00:07:47.599><c> understand</c><00:07:48.080><c> what</c><00:07:48.240><c> are</c><00:07:48.319><c> they</c>
+
+00:07:48.629 --> 00:07:48.639 align:start position:0%
+we have to understand what are they
+ 
+
+00:07:48.639 --> 00:07:50.869 align:start position:0%
+we have to understand what are they
+asking<00:07:49.120><c> what</c><00:07:49.360><c> is</c><00:07:49.520><c> the</c><00:07:49.680><c> intent</c><00:07:50.319><c> of</c><00:07:50.560><c> their</c>
+
+00:07:50.869 --> 00:07:50.879 align:start position:0%
+asking what is the intent of their
+ 
+
+00:07:50.879 --> 00:07:52.150 align:start position:0%
+asking what is the intent of their
+question
+
+00:07:52.150 --> 00:07:52.160 align:start position:0%
+question
+ 
+
+00:07:52.160 --> 00:07:54.230 align:start position:0%
+question
+and<00:07:52.319><c> then</c><00:07:52.560><c> what</c><00:07:52.720><c> we</c><00:07:53.039><c> have</c><00:07:53.280><c> is</c><00:07:53.520><c> with</c><00:07:53.759><c> the</c><00:07:54.000><c> bot</c>
+
+00:07:54.230 --> 00:07:54.240 align:start position:0%
+and then what we have is with the bot
+ 
+
+00:07:54.240 --> 00:07:56.230 align:start position:0%
+and then what we have is with the bot
+that<00:07:54.479><c> we</c><00:07:54.800><c> build</c>
+
+00:07:56.230 --> 00:07:56.240 align:start position:0%
+that we build
+ 
+
+00:07:56.240 --> 00:07:58.869 align:start position:0%
+that we build
+we<00:07:56.400><c> have</c><00:07:56.560><c> a</c><00:07:56.720><c> knowledge</c><00:07:57.120><c> base</c><00:07:58.160><c> so</c><00:07:58.319><c> we</c><00:07:58.479><c> have</c><00:07:58.720><c> a</c>
+
+00:07:58.869 --> 00:07:58.879 align:start position:0%
+we have a knowledge base so we have a
+ 
+
+00:07:58.879 --> 00:08:02.230 align:start position:0%
+we have a knowledge base so we have a
+certain<00:07:59.440><c> knowledge</c><00:07:59.919><c> base</c>
+
+00:08:02.230 --> 00:08:02.240 align:start position:0%
+certain knowledge base
+ 
+
+00:08:02.240 --> 00:08:05.270 align:start position:0%
+certain knowledge base
+through<00:08:02.560><c> which</c><00:08:02.879><c> the</c><00:08:03.120><c> bop</c><00:08:03.599><c> can</c><00:08:04.000><c> draw</c><00:08:04.879><c> and</c><00:08:05.039><c> based</c>
+
+00:08:05.270 --> 00:08:05.280 align:start position:0%
+through which the bop can draw and based
+ 
+
+00:08:05.280 --> 00:08:06.869 align:start position:0%
+through which the bop can draw and based
+on<00:08:05.440><c> its</c><00:08:05.680><c> understanding</c><00:08:06.160><c> of</c><00:08:06.240><c> what's</c><00:08:06.479><c> being</c>
+
+00:08:06.869 --> 00:08:06.879 align:start position:0%
+on its understanding of what's being
+ 
+
+00:08:06.879 --> 00:08:10.629 align:start position:0%
+on its understanding of what's being
+asked<00:08:07.440><c> it</c><00:08:07.680><c> can</c><00:08:07.919><c> respond</c><00:08:08.800><c> in</c><00:08:08.960><c> a</c><00:08:09.199><c> rich</c><00:08:09.680><c> way</c><00:08:10.479><c> to</c>
+
+00:08:10.629 --> 00:08:10.639 align:start position:0%
+asked it can respond in a rich way to
+ 
+
+00:08:10.639 --> 00:08:12.550 align:start position:0%
+asked it can respond in a rich way to
+that<00:08:10.960><c> end</c><00:08:11.199><c> user</c>
+
+00:08:12.550 --> 00:08:12.560 align:start position:0%
+that end user
+ 
+
+00:08:12.560 --> 00:08:14.230 align:start position:0%
+that end user
+and<00:08:12.720><c> again</c><00:08:13.039><c> it</c><00:08:13.120><c> doesn't</c><00:08:13.360><c> have</c><00:08:13.520><c> to</c><00:08:13.599><c> be</c><00:08:13.840><c> text</c>
+
+00:08:14.230 --> 00:08:14.240 align:start position:0%
+and again it doesn't have to be text
+ 
+
+00:08:14.240 --> 00:08:18.070 align:start position:0%
+and again it doesn't have to be text
+it's<00:08:14.479><c> chat</c><00:08:15.039><c> so</c><00:08:15.199><c> this</c><00:08:15.440><c> could</c><00:08:15.599><c> be</c><00:08:15.840><c> text</c>
+
+00:08:18.070 --> 00:08:18.080 align:start position:0%
+it's chat so this could be text
+ 
+
+00:08:18.080 --> 00:08:20.469 align:start position:0%
+it's chat so this could be text
+it<00:08:18.240><c> could</c><00:08:18.560><c> be</c><00:08:18.720><c> speech</c>
+
+00:08:20.469 --> 00:08:20.479 align:start position:0%
+it could be speech
+ 
+
+00:08:20.479 --> 00:08:22.469 align:start position:0%
+it could be speech
+and<00:08:20.720><c> the</c><00:08:20.800><c> whole</c><00:08:21.039><c> point</c><00:08:21.360><c> is</c><00:08:21.520><c> it</c><00:08:21.680><c> can</c><00:08:22.000><c> leverage</c>
+
+00:08:22.469 --> 00:08:22.479 align:start position:0%
+and the whole point is it can leverage
+ 
+
+00:08:22.479 --> 00:08:25.110 align:start position:0%
+and the whole point is it can leverage
+behind<00:08:22.800><c> the</c><00:08:22.879><c> scenes</c><00:08:23.120><c> these</c><00:08:23.440><c> other</c><00:08:23.919><c> services</c>
+
+00:08:25.110 --> 00:08:25.120 align:start position:0%
+behind the scenes these other services
+ 
+
+00:08:25.120 --> 00:08:28.070 align:start position:0%
+behind the scenes these other services
+to<00:08:25.520><c> understand</c><00:08:26.319><c> what's</c><00:08:26.639><c> being</c><00:08:27.120><c> asked</c><00:08:27.680><c> but</c><00:08:27.919><c> i'm</c>
+
+00:08:28.070 --> 00:08:28.080 align:start position:0%
+to understand what's being asked but i'm
+ 
+
+00:08:28.080 --> 00:08:30.629 align:start position:0%
+to understand what's being asked but i'm
+going<00:08:28.160><c> to</c><00:08:28.319><c> build</c><00:08:28.720><c> this</c><00:08:29.120><c> knowledge</c><00:08:29.680><c> base</c><00:08:30.400><c> that</c>
+
+00:08:30.629 --> 00:08:30.639 align:start position:0%
+going to build this knowledge base that
+ 
+
+00:08:30.639 --> 00:08:32.709 align:start position:0%
+going to build this knowledge base that
+it's<00:08:30.800><c> going</c><00:08:30.879><c> to</c><00:08:31.120><c> draw</c><00:08:31.599><c> from</c><00:08:32.080><c> to</c><00:08:32.240><c> how</c><00:08:32.479><c> it</c><00:08:32.560><c> can</c>
+
+00:08:32.709 --> 00:08:32.719 align:start position:0%
+it's going to draw from to how it can
+ 
+
+00:08:32.719 --> 00:08:34.630 align:start position:0%
+it's going to draw from to how it can
+actually<00:08:33.039><c> go</c><00:08:33.440><c> and</c><00:08:33.599><c> respond</c><00:08:34.000><c> and</c><00:08:34.080><c> when</c><00:08:34.240><c> i</c><00:08:34.320><c> build</c>
+
+00:08:34.630 --> 00:08:34.640 align:start position:0%
+actually go and respond and when i build
+ 
+
+00:08:34.640 --> 00:08:36.790 align:start position:0%
+actually go and respond and when i build
+a<00:08:34.719><c> bot</c><00:08:35.360><c> i</c><00:08:35.440><c> can</c><00:08:35.599><c> actually</c><00:08:35.839><c> use</c><00:08:36.159><c> it</c><00:08:36.320><c> from</c><00:08:36.479><c> many</c>
+
+00:08:36.790 --> 00:08:36.800 align:start position:0%
+a bot i can actually use it from many
+ 
+
+00:08:36.800 --> 00:08:39.190 align:start position:0%
+a bot i can actually use it from many
+different<00:08:37.120><c> places</c><00:08:37.839><c> it's</c><00:08:38.000><c> not</c><00:08:38.240><c> a</c><00:08:38.560><c> one-to-one</c>
+
+00:08:39.190 --> 00:08:39.200 align:start position:0%
+different places it's not a one-to-one
+ 
+
+00:08:39.200 --> 00:08:40.469 align:start position:0%
+different places it's not a one-to-one
+correlation
+
+00:08:40.469 --> 00:08:40.479 align:start position:0%
+correlation
+ 
+
+00:08:40.479 --> 00:08:43.750 align:start position:0%
+correlation
+so<00:08:40.640><c> these</c><00:08:40.959><c> are</c><00:08:41.039><c> the</c><00:08:41.360><c> three</c><00:08:41.919><c> kind</c><00:08:42.159><c> of</c><00:08:42.479><c> key</c>
+
+00:08:43.750 --> 00:08:43.760 align:start position:0%
+so these are the three kind of key
+ 
+
+00:08:43.760 --> 00:08:45.590 align:start position:0%
+so these are the three kind of key
+machine<00:08:44.159><c> learning</c><00:08:44.480><c> services</c><00:08:45.040><c> we'll</c><00:08:45.360><c> think</c>
+
+00:08:45.590 --> 00:08:45.600 align:start position:0%
+machine learning services we'll think
+ 
+
+00:08:45.600 --> 00:08:46.470 align:start position:0%
+machine learning services we'll think
+about
+
+00:08:46.470 --> 00:08:46.480 align:start position:0%
+about
+ 
+
+00:08:46.480 --> 00:08:48.070 align:start position:0%
+about
+azure<00:08:46.800><c> machine</c><00:08:47.120><c> learning</c>
+
+00:08:48.070 --> 00:08:48.080 align:start position:0%
+azure machine learning
+ 
+
+00:08:48.080 --> 00:08:51.590 align:start position:0%
+azure machine learning
+i<00:08:48.480><c> want</c><00:08:48.880><c> a</c><00:08:49.440><c> platform</c><00:08:50.320><c> on</c><00:08:50.480><c> which</c><00:08:50.800><c> i</c><00:08:51.120><c> can</c><00:08:51.360><c> as</c><00:08:51.519><c> a</c>
+
+00:08:51.590 --> 00:08:51.600 align:start position:0%
+i want a platform on which i can as a
+ 
+
+00:08:51.600 --> 00:08:53.590 align:start position:0%
+i want a platform on which i can as a
+data<00:08:51.920><c> scientist</c>
+
+00:08:53.590 --> 00:08:53.600 align:start position:0%
+data scientist
+ 
+
+00:08:53.600 --> 00:08:56.230 align:start position:0%
+data scientist
+build<00:08:54.000><c> my</c><00:08:54.320><c> model</c><00:08:54.800><c> test</c><00:08:55.200><c> my</c><00:08:55.440><c> model</c><00:08:55.839><c> make</c><00:08:56.080><c> my</c>
+
+00:08:56.230 --> 00:08:56.240 align:start position:0%
+build my model test my model make my
+ 
+
+00:08:56.240 --> 00:08:58.870 align:start position:0%
+build my model test my model make my
+model<00:08:56.640><c> available</c><00:08:57.120><c> to</c><00:08:57.279><c> other</c><00:08:57.440><c> applications</c>
+
+00:08:58.870 --> 00:08:58.880 align:start position:0%
+model available to other applications
+ 
+
+00:08:58.880 --> 00:09:00.630 align:start position:0%
+model available to other applications
+azure<00:08:59.200><c> cognitive</c><00:08:59.760><c> services</c><00:09:00.399><c> they're</c>
+
+00:09:00.630 --> 00:09:00.640 align:start position:0%
+azure cognitive services they're
+ 
+
+00:09:00.640 --> 00:09:01.829 align:start position:0%
+azure cognitive services they're
+pre-built
+
+00:09:01.829 --> 00:09:01.839 align:start position:0%
+pre-built
+ 
+
+00:09:01.839 --> 00:09:03.910 align:start position:0%
+pre-built
+hey<00:09:02.160><c> i</c><00:09:02.399><c> have</c><00:09:02.720><c> some</c><00:09:03.200><c> picture</c><00:09:03.519><c> that</c><00:09:03.600><c> i</c><00:09:03.680><c> want</c><00:09:03.839><c> to</c>
+
+00:09:03.910 --> 00:09:03.920 align:start position:0%
+hey i have some picture that i want to
+ 
+
+00:09:03.920 --> 00:09:06.230 align:start position:0%
+hey i have some picture that i want to
+analyze<00:09:04.320><c> some</c><00:09:04.640><c> video</c><00:09:05.120><c> some</c><00:09:05.440><c> audio</c><00:09:05.920><c> some</c>
+
+00:09:06.230 --> 00:09:06.240 align:start position:0%
+analyze some video some audio some
+ 
+
+00:09:06.240 --> 00:09:08.310 align:start position:0%
+analyze some video some audio some
+translation<00:09:07.120><c> i</c><00:09:07.360><c> need</c><00:09:07.519><c> some</c><00:09:07.760><c> help</c><00:09:08.000><c> with</c><00:09:08.160><c> some</c>
+
+00:09:08.310 --> 00:09:08.320 align:start position:0%
+translation i need some help with some
+ 
+
+00:09:08.320 --> 00:09:09.509 align:start position:0%
+translation i need some help with some
+prediction
+
+00:09:09.509 --> 00:09:09.519 align:start position:0%
+prediction
+ 
+
+00:09:09.519 --> 00:09:11.190 align:start position:0%
+prediction
+but<00:09:09.680><c> i</c><00:09:09.760><c> don't</c><00:09:09.920><c> want</c><00:09:10.080><c> to</c><00:09:10.320><c> have</c><00:09:10.480><c> to</c><00:09:10.560><c> be</c><00:09:10.720><c> that</c><00:09:10.880><c> data</c>
+
+00:09:11.190 --> 00:09:11.200 align:start position:0%
+but i don't want to have to be that data
+ 
+
+00:09:11.200 --> 00:09:13.350 align:start position:0%
+but i don't want to have to be that data
+scientist<00:09:11.600><c> i</c><00:09:11.680><c> want</c><00:09:11.839><c> it</c><00:09:12.000><c> out</c><00:09:12.160><c> the</c><00:09:12.240><c> box</c><00:09:13.040><c> azure</c>
+
+00:09:13.350 --> 00:09:13.360 align:start position:0%
+scientist i want it out the box azure
+ 
+
+00:09:13.360 --> 00:09:15.590 align:start position:0%
+scientist i want it out the box azure
+cognitive<00:09:13.920><c> services</c><00:09:14.640><c> hey</c><00:09:14.880><c> i'm</c><00:09:15.040><c> building</c><00:09:15.519><c> a</c>
+
+00:09:15.590 --> 00:09:15.600 align:start position:0%
+cognitive services hey i'm building a
+ 
+
+00:09:15.600 --> 00:09:17.910 align:start position:0%
+cognitive services hey i'm building a
+virtual<00:09:16.080><c> agent</c>
+
+00:09:17.910 --> 00:09:17.920 align:start position:0%
+virtual agent
+ 
+
+00:09:17.920 --> 00:09:21.480 align:start position:0%
+virtual agent
+azure<00:09:18.240><c> bot</c><00:09:18.480><c> service</c>
+

@@ -1,0 +1,1208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.040 --> 00:00:04.070 align:start position:0%
+ 
+in<00:00:01.199><c> this</c><00:00:01.439><c> lesson</c><00:00:01.839><c> i</c><00:00:01.920><c> wanted</c><00:00:02.320><c> to</c><00:00:02.560><c> review</c><00:00:03.679><c> the</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+in this lesson i wanted to review the
+ 
+
+00:00:04.080 --> 00:00:06.950 align:start position:0%
+in this lesson i wanted to review the
+constructs<00:00:04.799><c> available</c><00:00:05.520><c> for</c><00:00:06.000><c> our</c><00:00:06.240><c> management</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+constructs available for our management
+ 
+
+00:00:06.960 --> 00:00:08.549 align:start position:0%
+constructs available for our management
+hierarchy
+
+00:00:08.549 --> 00:00:08.559 align:start position:0%
+hierarchy
+ 
+
+00:00:08.559 --> 00:00:12.310 align:start position:0%
+hierarchy
+remember<00:00:09.120><c> at</c><00:00:09.200><c> the</c><00:00:09.360><c> top</c><00:00:10.000><c> we</c><00:00:10.240><c> have</c><00:00:10.559><c> our</c><00:00:10.960><c> azure</c><00:00:11.599><c> ad</c>
+
+00:00:12.310 --> 00:00:12.320 align:start position:0%
+remember at the top we have our azure ad
+ 
+
+00:00:12.320 --> 00:00:14.709 align:start position:0%
+remember at the top we have our azure ad
+instance<00:00:13.200><c> so</c><00:00:13.440><c> for</c><00:00:13.599><c> our</c><00:00:13.759><c> particular</c><00:00:14.240><c> company</c>
+
+00:00:14.709 --> 00:00:14.719 align:start position:0%
+instance so for our particular company
+ 
+
+00:00:14.719 --> 00:00:18.550 align:start position:0%
+instance so for our particular company
+we<00:00:14.880><c> have</c><00:00:15.120><c> an</c><00:00:15.360><c> instance</c><00:00:15.920><c> of</c><00:00:16.400><c> azure</c>
+
+00:00:18.550 --> 00:00:18.560 align:start position:0%
+we have an instance of azure
+ 
+
+00:00:18.560 --> 00:00:20.710 align:start position:0%
+we have an instance of azure
+active<00:00:18.960><c> directory</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+active directory
+ 
+
+00:00:20.720 --> 00:00:22.310 align:start position:0%
+active directory
+and<00:00:20.800><c> that</c><00:00:21.039><c> may</c><00:00:21.199><c> be</c><00:00:21.439><c> synchronized</c><00:00:22.080><c> from</c>
+
+00:00:22.310 --> 00:00:22.320 align:start position:0%
+and that may be synchronized from
+ 
+
+00:00:22.320 --> 00:00:24.230 align:start position:0%
+and that may be synchronized from
+on-premises<00:00:22.880><c> active</c><00:00:23.119><c> directory</c><00:00:23.680><c> using</c><00:00:23.920><c> azure</c>
+
+00:00:24.230 --> 00:00:24.240 align:start position:0%
+on-premises active directory using azure
+ 
+
+00:00:24.240 --> 00:00:25.910 align:start position:0%
+on-premises active directory using azure
+ad<00:00:24.480><c> connect</c><00:00:24.720><c> to</c><00:00:24.880><c> azure</c><00:00:25.119><c> id</c><00:00:25.279><c> connect</c><00:00:25.599><c> cloud</c>
+
+00:00:25.910 --> 00:00:25.920 align:start position:0%
+ad connect to azure id connect cloud
+ 
+
+00:00:25.920 --> 00:00:28.630 align:start position:0%
+ad connect to azure id connect cloud
+sync<00:00:26.400><c> but</c><00:00:26.640><c> i</c><00:00:26.720><c> have</c><00:00:26.960><c> my</c><00:00:27.199><c> users</c><00:00:28.000><c> groups</c><00:00:28.400><c> maybe</c>
+
+00:00:28.630 --> 00:00:28.640 align:start position:0%
+sync but i have my users groups maybe
+ 
+
+00:00:28.640 --> 00:00:32.150 align:start position:0%
+sync but i have my users groups maybe
+machine<00:00:29.119><c> objects</c><00:00:29.599><c> in</c><00:00:29.760><c> my</c><00:00:30.080><c> azure</c><00:00:30.480><c> ad</c>
+
+00:00:32.150 --> 00:00:32.160 align:start position:0%
+machine objects in my azure ad
+ 
+
+00:00:32.160 --> 00:00:34.709 align:start position:0%
+machine objects in my azure ad
+then<00:00:32.559><c> from</c><00:00:32.800><c> a</c><00:00:33.440><c> governance</c><00:00:34.079><c> and</c><00:00:34.239><c> management</c>
+
+00:00:34.709 --> 00:00:34.719 align:start position:0%
+then from a governance and management
+ 
+
+00:00:34.719 --> 00:00:36.630 align:start position:0%
+then from a governance and management
+perspective
+
+00:00:36.630 --> 00:00:36.640 align:start position:0%
+perspective
+ 
+
+00:00:36.640 --> 00:00:39.750 align:start position:0%
+perspective
+under<00:00:36.880><c> the</c><00:00:37.120><c> azure</c><00:00:37.600><c> ad</c>
+
+00:00:39.750 --> 00:00:39.760 align:start position:0%
+under the azure ad
+ 
+
+00:00:39.760 --> 00:00:42.950 align:start position:0%
+under the azure ad
+we<00:00:40.000><c> have</c><00:00:40.160><c> the</c><00:00:40.399><c> idea</c><00:00:40.960><c> of</c><00:00:41.360><c> a</c><00:00:41.680><c> route</c><00:00:42.480><c> management</c>
+
+00:00:42.950 --> 00:00:42.960 align:start position:0%
+we have the idea of a route management
+ 
+
+00:00:42.960 --> 00:00:45.430 align:start position:0%
+we have the idea of a route management
+group<00:00:43.280><c> that's</c><00:00:43.520><c> tied</c><00:00:43.840><c> directly</c><00:00:44.480><c> to</c><00:00:44.800><c> our</c><00:00:45.039><c> azure</c>
+
+00:00:45.430 --> 00:00:45.440 align:start position:0%
+group that's tied directly to our azure
+ 
+
+00:00:45.440 --> 00:00:46.950 align:start position:0%
+group that's tied directly to our azure
+ad<00:00:45.920><c> instance</c>
+
+00:00:46.950 --> 00:00:46.960 align:start position:0%
+ad instance
+ 
+
+00:00:46.960 --> 00:00:49.830 align:start position:0%
+ad instance
+now<00:00:47.280><c> under</c><00:00:47.520><c> that</c><00:00:47.760><c> root</c><00:00:48.000><c> management</c><00:00:48.640><c> group</c>
+
+00:00:49.830 --> 00:00:49.840 align:start position:0%
+now under that root management group
+ 
+
+00:00:49.840 --> 00:00:53.510 align:start position:0%
+now under that root management group
+i<00:00:50.000><c> can</c><00:00:50.160><c> then</c><00:00:50.399><c> create</c><00:00:50.719><c> my</c><00:00:50.960><c> own</c><00:00:51.360><c> hierarchy</c>
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+i can then create my own hierarchy
+ 
+
+00:00:53.520 --> 00:00:55.189 align:start position:0%
+i can then create my own hierarchy
+of<00:00:53.680><c> management</c><00:00:54.160><c> groups</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+of management groups
+ 
+
+00:00:55.199 --> 00:00:56.790 align:start position:0%
+of management groups
+and<00:00:55.360><c> so</c><00:00:55.520><c> i'm</c><00:00:55.680><c> thinking</c><00:00:56.000><c> here</c><00:00:56.239><c> about</c><00:00:56.559><c> my</c>
+
+00:00:56.790 --> 00:00:56.800 align:start position:0%
+and so i'm thinking here about my
+ 
+
+00:00:56.800 --> 00:01:01.270 align:start position:0%
+and so i'm thinking here about my
+management
+
+00:01:01.270 --> 00:01:01.280 align:start position:0%
+ 
+ 
+
+00:01:01.280 --> 00:01:04.070 align:start position:0%
+ 
+groups
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+ 
+ 
+
+00:01:04.080 --> 00:01:06.550 align:start position:0%
+ 
+and<00:01:04.239><c> these</c><00:01:04.559><c> can</c><00:01:04.720><c> be</c><00:01:05.040><c> not</c><00:01:05.280><c> including</c><00:01:05.840><c> the</c><00:01:06.000><c> route</c>
+
+00:01:06.550 --> 00:01:06.560 align:start position:0%
+and these can be not including the route
+ 
+
+00:01:06.560 --> 00:01:08.950 align:start position:0%
+and these can be not including the route
+so<00:01:06.720><c> it's</c><00:01:06.880><c> kind</c><00:01:07.040><c> of</c><00:01:07.200><c> a</c><00:01:07.600><c> management</c><00:01:08.080><c> group</c><00:01:08.400><c> here</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+so it's kind of a management group here
+ 
+
+00:01:08.960 --> 00:01:10.230 align:start position:0%
+so it's kind of a management group here
+here
+
+00:01:10.230 --> 00:01:10.240 align:start position:0%
+here
+ 
+
+00:01:10.240 --> 00:01:11.910 align:start position:0%
+here
+i<00:01:10.400><c> have</c><00:01:10.640><c> all</c><00:01:10.799><c> these</c><00:01:11.040><c> management</c><00:01:11.520><c> groups</c>
+
+00:01:11.910 --> 00:01:11.920 align:start position:0%
+i have all these management groups
+ 
+
+00:01:11.920 --> 00:01:14.390 align:start position:0%
+i have all these management groups
+forming<00:01:12.240><c> the</c><00:01:12.479><c> hierarchy</c>
+
+00:01:14.390 --> 00:01:14.400 align:start position:0%
+forming the hierarchy
+ 
+
+00:01:14.400 --> 00:01:16.310 align:start position:0%
+forming the hierarchy
+this<00:01:14.560><c> can</c><00:01:14.799><c> be</c><00:01:15.200><c> up</c><00:01:15.439><c> to</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+this can be up to
+ 
+
+00:01:16.320 --> 00:01:18.310 align:start position:0%
+this can be up to
+six<00:01:16.720><c> levels</c>
+
+00:01:18.310 --> 00:01:18.320 align:start position:0%
+six levels
+ 
+
+00:01:18.320 --> 00:01:20.310 align:start position:0%
+six levels
+so<00:01:18.479><c> i</c><00:01:18.640><c> can</c><00:01:18.799><c> have</c><00:01:18.960><c> an</c><00:01:19.119><c> additional</c><00:01:19.680><c> six</c><00:01:20.000><c> levels</c>
+
+00:01:20.310 --> 00:01:20.320 align:start position:0%
+so i can have an additional six levels
+ 
+
+00:01:20.320 --> 00:01:22.070 align:start position:0%
+so i can have an additional six levels
+of<00:01:20.400><c> management</c><00:01:20.960><c> groups</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+of management groups
+ 
+
+00:01:22.080 --> 00:01:25.270 align:start position:0%
+of management groups
+then<00:01:22.320><c> under</c><00:01:22.560><c> the</c><00:01:22.720><c> management</c><00:01:23.280><c> group</c>
+
+00:01:25.270 --> 00:01:25.280 align:start position:0%
+then under the management group
+ 
+
+00:01:25.280 --> 00:01:27.990 align:start position:0%
+then under the management group
+i'm<00:01:25.439><c> going</c><00:01:25.520><c> to</c><00:01:25.600><c> have</c><00:01:25.840><c> subscriptions</c>
+
+00:01:27.990 --> 00:01:28.000 align:start position:0%
+i'm going to have subscriptions
+ 
+
+00:01:28.000 --> 00:01:30.550 align:start position:0%
+i'm going to have subscriptions
+so<00:01:28.159><c> we'll</c><00:01:28.400><c> have</c><00:01:29.200><c> multiple</c><00:01:29.680><c> subscription</c><00:01:30.479><c> so</c>
+
+00:01:30.550 --> 00:01:30.560 align:start position:0%
+so we'll have multiple subscription so
+ 
+
+00:01:30.560 --> 00:01:33.190 align:start position:0%
+so we'll have multiple subscription so
+this<00:01:30.720><c> could</c><00:01:30.880><c> be</c><00:01:31.119><c> subscription</c><00:01:31.840><c> one</c>
+
+00:01:33.190 --> 00:01:33.200 align:start position:0%
+this could be subscription one
+ 
+
+00:01:33.200 --> 00:01:35.990 align:start position:0%
+this could be subscription one
+and<00:01:33.280><c> then</c><00:01:33.439><c> within</c><00:01:33.759><c> our</c><00:01:33.920><c> subscriptions</c>
+
+00:01:35.990 --> 00:01:36.000 align:start position:0%
+and then within our subscriptions
+ 
+
+00:01:36.000 --> 00:01:38.390 align:start position:0%
+and then within our subscriptions
+what<00:01:36.240><c> we</c><00:01:36.400><c> can</c><00:01:36.560><c> then</c><00:01:36.880><c> create</c>
+
+00:01:38.390 --> 00:01:38.400 align:start position:0%
+what we can then create
+ 
+
+00:01:38.400 --> 00:01:41.190 align:start position:0%
+what we can then create
+are<00:01:38.720><c> resource</c><00:01:39.280><c> groups</c>
+
+00:01:41.190 --> 00:01:41.200 align:start position:0%
+are resource groups
+ 
+
+00:01:41.200 --> 00:01:43.830 align:start position:0%
+are resource groups
+so<00:01:41.360><c> this</c><00:01:41.520><c> could</c><00:01:41.680><c> be</c><00:01:41.920><c> resource</c><00:01:42.560><c> group</c><00:01:42.960><c> 1</c>
+
+00:01:43.830 --> 00:01:43.840 align:start position:0%
+so this could be resource group 1
+ 
+
+00:01:43.840 --> 00:01:46.630 align:start position:0%
+so this could be resource group 1
+i<00:01:44.000><c> could</c><00:01:44.159><c> have</c><00:01:44.399><c> a</c><00:01:44.560><c> resource</c><00:01:45.200><c> group</c><00:01:45.680><c> 2</c>
+
+00:01:46.630 --> 00:01:46.640 align:start position:0%
+i could have a resource group 2
+ 
+
+00:01:46.640 --> 00:01:48.550 align:start position:0%
+i could have a resource group 2
+resource<00:01:47.200><c> group</c><00:01:47.520><c> 3</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+resource group 3
+ 
+
+00:01:48.560 --> 00:01:50.230 align:start position:0%
+resource group 3
+etc
+
+00:01:50.230 --> 00:01:50.240 align:start position:0%
+etc
+ 
+
+00:01:50.240 --> 00:01:51.910 align:start position:0%
+etc
+a<00:01:50.399><c> subscription</c><00:01:51.119><c> i</c><00:01:51.200><c> cannot</c><00:01:51.600><c> nest</c>
+
+00:01:51.910 --> 00:01:51.920 align:start position:0%
+a subscription i cannot nest
+ 
+
+00:01:51.920 --> 00:01:53.990 align:start position:0%
+a subscription i cannot nest
+subscriptions<00:01:52.560><c> in</c><00:01:52.720><c> other</c><00:01:52.880><c> subscriptions</c><00:01:53.840><c> i</c>
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+subscriptions in other subscriptions i
+ 
+
+00:01:54.000 --> 00:01:56.230 align:start position:0%
+subscriptions in other subscriptions i
+cannot<00:01:54.399><c> nest</c><00:01:54.799><c> resource</c><00:01:55.280><c> groups</c><00:01:55.600><c> in</c><00:01:55.759><c> resource</c>
+
+00:01:56.230 --> 00:01:56.240 align:start position:0%
+cannot nest resource groups in resource
+ 
+
+00:01:56.240 --> 00:01:58.310 align:start position:0%
+cannot nest resource groups in resource
+groups<00:01:56.640><c> so</c><00:01:56.880><c> it's</c><00:01:57.119><c> a</c><00:01:57.200><c> very</c><00:01:57.439><c> flat</c><00:01:57.840><c> structure</c>
+
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+groups so it's a very flat structure
+ 
+
+00:01:58.320 --> 00:01:59.270 align:start position:0%
+groups so it's a very flat structure
+there
+
+00:01:59.270 --> 00:01:59.280 align:start position:0%
+there
+ 
+
+00:01:59.280 --> 00:02:01.670 align:start position:0%
+there
+and<00:01:59.360><c> then</c><00:01:59.520><c> obviously</c><00:01:59.840><c> our</c><00:02:00.000><c> resources</c><00:02:00.960><c> go</c><00:02:01.280><c> into</c>
+
+00:02:01.670 --> 00:02:01.680 align:start position:0%
+and then obviously our resources go into
+ 
+
+00:02:01.680 --> 00:02:04.630 align:start position:0%
+and then obviously our resources go into
+a<00:02:01.759><c> resource</c><00:02:02.320><c> group</c><00:02:03.040><c> this</c><00:02:03.360><c> could</c><00:02:03.520><c> be</c>
+
+00:02:04.630 --> 00:02:04.640 align:start position:0%
+a resource group this could be
+ 
+
+00:02:04.640 --> 00:02:06.550 align:start position:0%
+a resource group this could be
+multiple<00:02:05.040><c> virtual</c><00:02:05.439><c> machines</c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+multiple virtual machines
+ 
+
+00:02:06.560 --> 00:02:09.029 align:start position:0%
+multiple virtual machines
+it<00:02:06.719><c> could</c><00:02:06.880><c> be</c><00:02:07.200><c> storage</c><00:02:07.680><c> accounts</c><00:02:08.239><c> it</c><00:02:08.399><c> could</c><00:02:08.720><c> be</c>
+
+00:02:09.029 --> 00:02:09.039 align:start position:0%
+it could be storage accounts it could be
+ 
+
+00:02:09.039 --> 00:02:12.070 align:start position:0%
+it could be storage accounts it could be
+disks<00:02:09.840><c> whatever</c><00:02:10.399><c> i</c><00:02:10.560><c> need</c><00:02:10.800><c> those</c><00:02:11.120><c> to</c><00:02:11.280><c> be</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+disks whatever i need those to be
+ 
+
+00:02:12.080 --> 00:02:13.750 align:start position:0%
+disks whatever i need those to be
+and<00:02:12.239><c> remember</c><00:02:12.560><c> we</c><00:02:12.800><c> think</c><00:02:13.040><c> about</c><00:02:13.440><c> putting</c>
+
+00:02:13.750 --> 00:02:13.760 align:start position:0%
+and remember we think about putting
+ 
+
+00:02:13.760 --> 00:02:15.510 align:start position:0%
+and remember we think about putting
+things<00:02:14.000><c> in</c><00:02:14.080><c> the</c><00:02:14.239><c> same</c><00:02:14.560><c> resource</c><00:02:15.120><c> group</c><00:02:15.360><c> that</c>
+
+00:02:15.510 --> 00:02:15.520 align:start position:0%
+things in the same resource group that
+ 
+
+00:02:15.520 --> 00:02:17.589 align:start position:0%
+things in the same resource group that
+share<00:02:15.840><c> a</c><00:02:15.920><c> common</c><00:02:16.239><c> life</c><00:02:16.480><c> cycle</c><00:02:17.280><c> they're</c><00:02:17.440><c> part</c>
+
+00:02:17.589 --> 00:02:17.599 align:start position:0%
+share a common life cycle they're part
+ 
+
+00:02:17.599 --> 00:02:19.110 align:start position:0%
+share a common life cycle they're part
+of<00:02:17.760><c> the</c><00:02:17.840><c> same</c><00:02:18.160><c> service</c><00:02:18.640><c> they're</c><00:02:18.800><c> going</c><00:02:18.879><c> to</c><00:02:18.959><c> get</c>
+
+00:02:19.110 --> 00:02:19.120 align:start position:0%
+of the same service they're going to get
+ 
+
+00:02:19.120 --> 00:02:20.830 align:start position:0%
+of the same service they're going to get
+created<00:02:19.520><c> together</c><00:02:20.160><c> run</c>
+
+00:02:20.830 --> 00:02:20.840 align:start position:0%
+created together run
+ 
+
+00:02:20.840 --> 00:02:23.589 align:start position:0%
+created together run
+together<00:02:21.920><c> ultimately</c><00:02:22.560><c> get</c><00:02:22.800><c> decommissioned</c>
+
+00:02:23.589 --> 00:02:23.599 align:start position:0%
+together ultimately get decommissioned
+ 
+
+00:02:23.599 --> 00:02:25.350 align:start position:0%
+together ultimately get decommissioned
+together
+
+00:02:25.350 --> 00:02:25.360 align:start position:0%
+together
+ 
+
+00:02:25.360 --> 00:02:27.750 align:start position:0%
+together
+and<00:02:25.520><c> the</c><00:02:25.680><c> key</c><00:02:26.000><c> point</c><00:02:26.319><c> in</c><00:02:26.560><c> what</c><00:02:26.800><c> we</c><00:02:27.040><c> can</c><00:02:27.360><c> do</c><00:02:27.520><c> with</c>
+
+00:02:27.750 --> 00:02:27.760 align:start position:0%
+and the key point in what we can do with
+ 
+
+00:02:27.760 --> 00:02:30.229 align:start position:0%
+and the key point in what we can do with
+these<00:02:28.000><c> management</c><00:02:28.480><c> group</c><00:02:29.040><c> subscriptions</c><00:02:30.000><c> and</c>
+
+00:02:30.229 --> 00:02:30.239 align:start position:0%
+these management group subscriptions and
+ 
+
+00:02:30.239 --> 00:02:33.350 align:start position:0%
+these management group subscriptions and
+resource<00:02:30.800><c> groups</c><00:02:31.680><c> is</c><00:02:31.840><c> really</c><00:02:32.080><c> about</c><00:02:32.640><c> three</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+resource groups is really about three
+ 
+
+00:02:33.360 --> 00:02:36.710 align:start position:0%
+resource groups is really about three
+key<00:02:33.840><c> types</c><00:02:34.319><c> of</c><00:02:34.560><c> management</c><00:02:35.120><c> and</c><00:02:35.280><c> governance</c>
+
+00:02:36.710 --> 00:02:36.720 align:start position:0%
+key types of management and governance
+ 
+
+00:02:36.720 --> 00:02:38.550 align:start position:0%
+key types of management and governance
+so<00:02:36.879><c> the</c><00:02:37.120><c> first</c><00:02:37.519><c> one</c><00:02:37.840><c> we're</c><00:02:38.000><c> really</c><00:02:38.239><c> going</c><00:02:38.400><c> to</c>
+
+00:02:38.550 --> 00:02:38.560 align:start position:0%
+so the first one we're really going to
+ 
+
+00:02:38.560 --> 00:02:41.589 align:start position:0%
+so the first one we're really going to
+focus<00:02:38.959><c> on</c><00:02:39.280><c> remember</c><00:02:39.760><c> is</c><00:02:40.000><c> policy</c>
+
+00:02:41.589 --> 00:02:41.599 align:start position:0%
+focus on remember is policy
+ 
+
+00:02:41.599 --> 00:02:43.750 align:start position:0%
+focus on remember is policy
+so<00:02:41.760><c> with</c><00:02:42.160><c> policy</c>
+
+00:02:43.750 --> 00:02:43.760 align:start position:0%
+so with policy
+ 
+
+00:02:43.760 --> 00:02:46.309 align:start position:0%
+so with policy
+it's<00:02:44.080><c> the</c><00:02:44.239><c> ability</c><00:02:45.040><c> to</c><00:02:45.360><c> create</c><00:02:45.680><c> those</c><00:02:46.000><c> guard</c>
+
+00:02:46.309 --> 00:02:46.319 align:start position:0%
+it's the ability to create those guard
+ 
+
+00:02:46.319 --> 00:02:48.790 align:start position:0%
+it's the ability to create those guard
+rails<00:02:47.040><c> now</c><00:02:47.280><c> those</c><00:02:47.519><c> guard</c><00:02:47.760><c> rails</c><00:02:48.080><c> can</c><00:02:48.239><c> be</c><00:02:48.400><c> used</c>
+
+00:02:48.790 --> 00:02:48.800 align:start position:0%
+rails now those guard rails can be used
+ 
+
+00:02:48.800 --> 00:02:52.229 align:start position:0%
+rails now those guard rails can be used
+to<00:02:48.959><c> block</c><00:02:49.920><c> i</c><00:02:50.319><c> stop</c><00:02:50.640><c> something</c><00:02:51.120><c> if</c><00:02:51.280><c> it</c>
+
+00:02:52.229 --> 00:02:52.239 align:start position:0%
+to block i stop something if it
+ 
+
+00:02:52.239 --> 00:02:54.470 align:start position:0%
+to block i stop something if it
+goes<00:02:52.560><c> against</c><00:02:52.879><c> the</c><00:02:52.959><c> rules</c><00:02:53.280><c> we</c><00:02:53.440><c> define</c>
+
+00:02:54.470 --> 00:02:54.480 align:start position:0%
+goes against the rules we define
+ 
+
+00:02:54.480 --> 00:02:56.949 align:start position:0%
+goes against the rules we define
+i<00:02:54.640><c> can</c><00:02:54.959><c> audit</c><00:02:55.760><c> so</c><00:02:55.920><c> we</c><00:02:56.080><c> let</c><00:02:56.239><c> it</c><00:02:56.400><c> happen</c><00:02:56.800><c> but</c>
+
+00:02:56.949 --> 00:02:56.959 align:start position:0%
+i can audit so we let it happen but
+ 
+
+00:02:56.959 --> 00:02:58.550 align:start position:0%
+i can audit so we let it happen but
+we'll<00:02:57.120><c> then</c><00:02:57.440><c> track</c><00:02:57.760><c> that</c><00:02:57.920><c> that's</c><00:02:58.159><c> good</c><00:02:58.319><c> for</c>
+
+00:02:58.550 --> 00:02:58.560 align:start position:0%
+we'll then track that that's good for
+ 
+
+00:02:58.560 --> 00:03:02.149 align:start position:0%
+we'll then track that that's good for
+compliance<00:02:59.840><c> or</c><00:03:00.080><c> we</c><00:03:00.239><c> might</c><00:03:00.560><c> remediate</c><00:03:01.680><c> hey</c><00:03:01.920><c> the</c>
+
+00:03:02.149 --> 00:03:02.159 align:start position:0%
+compliance or we might remediate hey the
+ 
+
+00:03:02.159 --> 00:03:03.670 align:start position:0%
+compliance or we might remediate hey the
+tag<00:03:02.400><c> is</c><00:03:02.560><c> missing</c><00:03:02.879><c> we're</c><00:03:03.040><c> going</c><00:03:03.200><c> to</c><00:03:03.280><c> copy</c><00:03:03.599><c> it</c>
+
+00:03:03.670 --> 00:03:03.680 align:start position:0%
+tag is missing we're going to copy it
+ 
+
+00:03:03.680 --> 00:03:05.110 align:start position:0%
+tag is missing we're going to copy it
+from<00:03:03.840><c> the</c><00:03:03.920><c> subscription</c><00:03:04.400><c> or</c><00:03:04.560><c> the</c><00:03:04.640><c> resource</c>
+
+00:03:05.110 --> 00:03:05.120 align:start position:0%
+from the subscription or the resource
+ 
+
+00:03:05.120 --> 00:03:05.990 align:start position:0%
+from the subscription or the resource
+group
+
+00:03:05.990 --> 00:03:06.000 align:start position:0%
+group
+ 
+
+00:03:06.000 --> 00:03:07.589 align:start position:0%
+group
+so<00:03:06.159><c> the</c><00:03:06.239><c> whole</c><00:03:06.400><c> point</c><00:03:06.640><c> of</c><00:03:06.720><c> the</c><00:03:06.800><c> policy</c><00:03:07.360><c> is</c><00:03:07.440><c> we</c>
+
+00:03:07.589 --> 00:03:07.599 align:start position:0%
+so the whole point of the policy is we
+ 
+
+00:03:07.599 --> 00:03:10.390 align:start position:0%
+so the whole point of the policy is we
+have<00:03:07.840><c> these</c><00:03:08.319><c> really</c><00:03:08.879><c> rules</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+have these really rules
+ 
+
+00:03:10.400 --> 00:03:13.509 align:start position:0%
+have these really rules
+and<00:03:10.480><c> then</c><00:03:10.959><c> actions</c>
+
+00:03:13.509 --> 00:03:13.519 align:start position:0%
+and then actions
+ 
+
+00:03:13.519 --> 00:03:17.030 align:start position:0%
+and then actions
+and<00:03:13.680><c> we</c><00:03:14.159><c> assign</c><00:03:15.040><c> these</c><00:03:15.360><c> at</c><00:03:15.599><c> a</c><00:03:15.760><c> scope</c><00:03:16.560><c> so</c><00:03:16.720><c> our</c>
+
+00:03:17.030 --> 00:03:17.040 align:start position:0%
+and we assign these at a scope so our
+ 
+
+00:03:17.040 --> 00:03:19.030 align:start position:0%
+and we assign these at a scope so our
+scope<00:03:17.599><c> remember</c>
+
+00:03:19.030 --> 00:03:19.040 align:start position:0%
+scope remember
+ 
+
+00:03:19.040 --> 00:03:19.990 align:start position:0%
+scope remember
+well
+
+00:03:19.990 --> 00:03:20.000 align:start position:0%
+well
+ 
+
+00:03:20.000 --> 00:03:22.550 align:start position:0%
+well
+it<00:03:20.159><c> can</c><00:03:20.319><c> be</c><00:03:20.720><c> at</c><00:03:20.959><c> management</c><00:03:21.440><c> groups</c>
+
+00:03:22.550 --> 00:03:22.560 align:start position:0%
+it can be at management groups
+ 
+
+00:03:22.560 --> 00:03:25.110 align:start position:0%
+it can be at management groups
+it<00:03:22.720><c> can</c><00:03:22.879><c> be</c><00:03:23.200><c> at</c><00:03:23.519><c> subscriptions</c>
+
+00:03:25.110 --> 00:03:25.120 align:start position:0%
+it can be at subscriptions
+ 
+
+00:03:25.120 --> 00:03:29.830 align:start position:0%
+it can be at subscriptions
+it<00:03:25.280><c> can</c><00:03:25.519><c> be</c><00:03:26.159><c> at</c><00:03:26.400><c> resource</c><00:03:26.959><c> groups</c>
+
+00:03:29.830 --> 00:03:29.840 align:start position:0%
+ 
+ 
+
+00:03:29.840 --> 00:03:31.589 align:start position:0%
+ 
+for<00:03:30.159><c> all</c><00:03:30.319><c> of</c><00:03:30.480><c> these</c><00:03:30.799><c> things</c><00:03:31.120><c> we're</c><00:03:31.280><c> going</c><00:03:31.440><c> to</c>
+
+00:03:31.589 --> 00:03:31.599 align:start position:0%
+for all of these things we're going to
+ 
+
+00:03:31.599 --> 00:03:35.350 align:start position:0%
+for all of these things we're going to
+talk<00:03:32.000><c> about</c><00:03:32.799><c> one</c><00:03:32.959><c> of</c><00:03:33.120><c> the</c><00:03:33.280><c> key</c><00:03:33.680><c> points</c><00:03:34.239><c> is</c>
+
+00:03:35.350 --> 00:03:35.360 align:start position:0%
+talk about one of the key points is
+ 
+
+00:03:35.360 --> 00:03:41.430 align:start position:0%
+talk about one of the key points is
+we<00:03:35.519><c> get</c><00:03:35.760><c> inheritance</c>
+
+00:03:41.430 --> 00:03:41.440 align:start position:0%
+ 
+ 
+
+00:03:41.440 --> 00:03:44.229 align:start position:0%
+ 
+so<00:03:41.680><c> if</c><00:03:41.840><c> i</c><00:03:42.080><c> set</c><00:03:42.400><c> a</c><00:03:42.640><c> policy</c><00:03:43.280><c> or</c><00:03:43.440><c> anything</c><00:03:43.760><c> else</c><00:03:44.000><c> we</c>
+
+00:03:44.229 --> 00:03:44.239 align:start position:0%
+so if i set a policy or anything else we
+ 
+
+00:03:44.239 --> 00:03:46.070 align:start position:0%
+so if i set a policy or anything else we
+talk<00:03:44.480><c> about</c><00:03:44.799><c> at</c><00:03:44.879><c> a</c><00:03:44.959><c> management</c><00:03:45.440><c> group</c><00:03:45.840><c> hey</c>
+
+00:03:46.070 --> 00:03:46.080 align:start position:0%
+talk about at a management group hey
+ 
+
+00:03:46.080 --> 00:03:47.350 align:start position:0%
+talk about at a management group hey
+it'll<00:03:46.159><c> get</c><00:03:46.319><c> inherited</c><00:03:46.799><c> by</c><00:03:46.959><c> the</c><00:03:47.120><c> child</c>
+
+00:03:47.350 --> 00:03:47.360 align:start position:0%
+it'll get inherited by the child
+ 
+
+00:03:47.360 --> 00:03:48.630 align:start position:0%
+it'll get inherited by the child
+management<00:03:47.840><c> groups</c><00:03:48.080><c> by</c><00:03:48.239><c> the</c><00:03:48.400><c> child</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+management groups by the child
+ 
+
+00:03:48.640 --> 00:03:50.309 align:start position:0%
+management groups by the child
+subscriptions<00:03:49.280><c> by</c><00:03:49.440><c> the</c><00:03:49.599><c> child</c><00:03:49.920><c> resource</c>
+
+00:03:50.309 --> 00:03:50.319 align:start position:0%
+subscriptions by the child resource
+ 
+
+00:03:50.319 --> 00:03:52.869 align:start position:0%
+subscriptions by the child resource
+groups<00:03:51.120><c> by</c><00:03:51.360><c> the</c><00:03:51.519><c> resources</c><00:03:52.319><c> within</c><00:03:52.720><c> the</c>
+
+00:03:52.869 --> 00:03:52.879 align:start position:0%
+groups by the resources within the
+ 
+
+00:03:52.879 --> 00:03:54.309 align:start position:0%
+groups by the resources within the
+resource<00:03:53.439><c> groups</c>
+
+00:03:54.309 --> 00:03:54.319 align:start position:0%
+resource groups
+ 
+
+00:03:54.319 --> 00:03:56.550 align:start position:0%
+resource groups
+so<00:03:54.480><c> we</c><00:03:54.640><c> tend</c><00:03:54.799><c> to</c><00:03:54.959><c> think</c><00:03:55.200><c> of</c><00:03:55.439><c> we</c><00:03:55.680><c> set</c><00:03:55.920><c> things</c><00:03:56.319><c> at</c>
+
+00:03:56.550 --> 00:03:56.560 align:start position:0%
+so we tend to think of we set things at
+ 
+
+00:03:56.560 --> 00:03:58.229 align:start position:0%
+so we tend to think of we set things at
+higher<00:03:56.799><c> levels</c><00:03:57.200><c> that</c><00:03:57.360><c> are</c><00:03:57.439><c> fairly</c><00:03:57.760><c> broad</c><00:03:58.080><c> and</c>
+
+00:03:58.229 --> 00:03:58.239 align:start position:0%
+higher levels that are fairly broad and
+ 
+
+00:03:58.239 --> 00:03:59.830 align:start position:0%
+higher levels that are fairly broad and
+generic<00:03:58.640><c> we</c><00:03:58.799><c> have</c><00:03:58.879><c> to</c><00:03:59.040><c> apply</c><00:03:59.280><c> to</c><00:03:59.439><c> the</c><00:03:59.519><c> whole</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+generic we have to apply to the whole
+ 
+
+00:03:59.840 --> 00:04:02.309 align:start position:0%
+generic we have to apply to the whole
+company<00:04:00.640><c> and</c><00:04:00.720><c> then</c><00:04:00.879><c> get</c><00:04:01.120><c> more</c><00:04:01.360><c> specific</c><00:04:02.080><c> as</c><00:04:02.159><c> we</c>
+
+00:04:02.309 --> 00:04:02.319 align:start position:0%
+company and then get more specific as we
+ 
+
+00:04:02.319 --> 00:04:05.030 align:start position:0%
+company and then get more specific as we
+get<00:04:02.560><c> closer</c><00:04:02.879><c> to</c><00:04:03.040><c> the</c><00:04:03.200><c> resources</c>
+
+00:04:05.030 --> 00:04:05.040 align:start position:0%
+get closer to the resources
+ 
+
+00:04:05.040 --> 00:04:06.869 align:start position:0%
+get closer to the resources
+then<00:04:05.519><c> the</c><00:04:05.680><c> next</c><00:04:06.000><c> type</c><00:04:06.239><c> of</c><00:04:06.319><c> thing</c><00:04:06.560><c> we</c><00:04:06.720><c> can</c>
+
+00:04:06.869 --> 00:04:06.879 align:start position:0%
+then the next type of thing we can
+ 
+
+00:04:06.879 --> 00:04:08.390 align:start position:0%
+then the next type of thing we can
+deploy
+
+00:04:08.390 --> 00:04:08.400 align:start position:0%
+deploy
+ 
+
+00:04:08.400 --> 00:04:11.110 align:start position:0%
+deploy
+is<00:04:08.560><c> role-based</c><00:04:09.040><c> access</c><00:04:09.439><c> control</c>
+
+00:04:11.110 --> 00:04:11.120 align:start position:0%
+is role-based access control
+ 
+
+00:04:11.120 --> 00:04:12.949 align:start position:0%
+is role-based access control
+remember<00:04:11.439><c> role-based</c><00:04:12.000><c> access</c><00:04:12.400><c> control</c><00:04:12.879><c> is</c>
+
+00:04:12.949 --> 00:04:12.959 align:start position:0%
+remember role-based access control is
+ 
+
+00:04:12.959 --> 00:04:18.229 align:start position:0%
+remember role-based access control is
+about<00:04:13.360><c> role</c><00:04:14.000><c> assignment</c>
+
+00:04:18.229 --> 00:04:18.239 align:start position:0%
+ 
+ 
+
+00:04:18.239 --> 00:04:21.590 align:start position:0%
+ 
+a<00:04:18.560><c> security</c><00:04:19.359><c> principle</c><00:04:19.919><c> from</c><00:04:20.160><c> our</c><00:04:20.400><c> azure</c><00:04:20.880><c> id</c>
+
+00:04:21.590 --> 00:04:21.600 align:start position:0%
+a security principle from our azure id
+ 
+
+00:04:21.600 --> 00:04:24.230 align:start position:0%
+a security principle from our azure id
+user<00:04:22.160><c> group</c><00:04:22.880><c> service</c><00:04:23.280><c> principle</c><00:04:23.759><c> managed</c>
+
+00:04:24.230 --> 00:04:24.240 align:start position:0%
+user group service principle managed
+ 
+
+00:04:24.240 --> 00:04:26.629 align:start position:0%
+user group service principle managed
+identity<00:04:24.800><c> for</c><00:04:24.960><c> an</c><00:04:25.120><c> azure</c><00:04:25.440><c> resource</c>
+
+00:04:26.629 --> 00:04:26.639 align:start position:0%
+identity for an azure resource
+ 
+
+00:04:26.639 --> 00:04:29.189 align:start position:0%
+identity for an azure resource
+gets<00:04:27.040><c> assigned</c><00:04:27.520><c> a</c><00:04:27.759><c> certain</c><00:04:28.320><c> role</c>
+
+00:04:29.189 --> 00:04:29.199 align:start position:0%
+gets assigned a certain role
+ 
+
+00:04:29.199 --> 00:04:31.749 align:start position:0%
+gets assigned a certain role
+so<00:04:29.440><c> i</c><00:04:29.520><c> have</c><00:04:29.840><c> an</c><00:04:30.080><c> identity</c>
+
+00:04:31.749 --> 00:04:31.759 align:start position:0%
+so i have an identity
+ 
+
+00:04:31.759 --> 00:04:34.469 align:start position:0%
+so i have an identity
+is<00:04:31.919><c> given</c><00:04:32.479><c> a</c><00:04:32.880><c> role</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+is given a role
+ 
+
+00:04:34.479 --> 00:04:37.830 align:start position:0%
+is given a role
+at<00:04:34.720><c> a</c><00:04:35.040><c> certain</c><00:04:35.680><c> scope</c>
+
+00:04:37.830 --> 00:04:37.840 align:start position:0%
+at a certain scope
+ 
+
+00:04:37.840 --> 00:04:40.070 align:start position:0%
+at a certain scope
+and<00:04:38.000><c> once</c><00:04:38.320><c> again</c><00:04:39.120><c> hey</c>
+
+00:04:40.070 --> 00:04:40.080 align:start position:0%
+and once again hey
+ 
+
+00:04:40.080 --> 00:04:43.030 align:start position:0%
+and once again hey
+that<00:04:40.400><c> scope</c><00:04:40.720><c> can</c><00:04:40.880><c> be</c><00:04:41.040><c> management</c><00:04:41.440><c> groups</c>
+
+00:04:43.030 --> 00:04:43.040 align:start position:0%
+that scope can be management groups
+ 
+
+00:04:43.040 --> 00:04:45.430 align:start position:0%
+that scope can be management groups
+subscriptions
+
+00:04:45.430 --> 00:04:45.440 align:start position:0%
+subscriptions
+ 
+
+00:04:45.440 --> 00:04:48.469 align:start position:0%
+subscriptions
+resource<00:04:45.919><c> groups</c><00:04:46.800><c> so</c><00:04:46.960><c> we</c><00:04:47.040><c> have</c><00:04:47.199><c> those</c><00:04:47.600><c> same</c>
+
+00:04:48.469 --> 00:04:48.479 align:start position:0%
+resource groups so we have those same
+ 
+
+00:04:48.479 --> 00:04:50.950 align:start position:0%
+resource groups so we have those same
+constructs<00:04:49.120><c> available</c><00:04:49.600><c> that</c><00:04:49.840><c> i</c><00:04:49.919><c> can</c><00:04:50.160><c> use</c><00:04:50.800><c> for</c>
+
+00:04:50.950 --> 00:04:50.960 align:start position:0%
+constructs available that i can use for
+ 
+
+00:04:50.960 --> 00:04:54.150 align:start position:0%
+constructs available that i can use for
+role-based<00:04:51.520><c> access</c><00:04:51.919><c> control</c><00:04:52.639><c> as</c><00:04:52.800><c> well</c>
+
+00:04:54.150 --> 00:04:54.160 align:start position:0%
+role-based access control as well
+ 
+
+00:04:54.160 --> 00:04:57.590 align:start position:0%
+role-based access control as well
+and<00:04:54.240><c> then</c><00:04:54.840><c> finally</c><00:04:56.240><c> we</c><00:04:56.479><c> have</c><00:04:57.040><c> the</c><00:04:57.199><c> idea</c><00:04:57.440><c> of</c>
+
+00:04:57.590 --> 00:04:57.600 align:start position:0%
+and then finally we have the idea of
+ 
+
+00:04:57.600 --> 00:05:01.189 align:start position:0%
+and then finally we have the idea of
+budget
+
+00:05:01.189 --> 00:05:01.199 align:start position:0%
+ 
+ 
+
+00:05:01.199 --> 00:05:04.150 align:start position:0%
+ 
+so<00:05:01.360><c> i</c><00:05:01.440><c> can</c><00:05:01.680><c> set</c><00:05:02.000><c> a</c><00:05:02.080><c> certain</c><00:05:02.560><c> dollar</c><00:05:03.039><c> amount</c><00:05:04.000><c> and</c>
+
+00:05:04.150 --> 00:05:04.160 align:start position:0%
+so i can set a certain dollar amount and
+ 
+
+00:05:04.160 --> 00:05:07.670 align:start position:0%
+so i can set a certain dollar amount and
+then<00:05:04.479><c> a</c><00:05:04.880><c> threshold</c><00:05:06.000><c> of</c><00:05:06.240><c> that</c><00:05:06.479><c> dollar</c><00:05:06.880><c> amount</c>
+
+00:05:07.670 --> 00:05:07.680 align:start position:0%
+then a threshold of that dollar amount
+ 
+
+00:05:07.680 --> 00:05:10.310 align:start position:0%
+then a threshold of that dollar amount
+then<00:05:07.919><c> that</c><00:05:08.240><c> dollar</c><00:05:08.560><c> amount</c><00:05:09.039><c> could</c><00:05:09.199><c> be</c><00:05:09.440><c> done</c><00:05:10.160><c> in</c>
+
+00:05:10.310 --> 00:05:10.320 align:start position:0%
+then that dollar amount could be done in
+ 
+
+00:05:10.320 --> 00:05:13.029 align:start position:0%
+then that dollar amount could be done in
+terms<00:05:10.720><c> of</c><00:05:11.120><c> actual</c><00:05:11.759><c> use</c>
+
+00:05:13.029 --> 00:05:13.039 align:start position:0%
+terms of actual use
+ 
+
+00:05:13.039 --> 00:05:15.909 align:start position:0%
+terms of actual use
+i<00:05:13.360><c> i'm</c><00:05:13.680><c> at</c><00:05:13.919><c> eighty</c><00:05:14.240><c> percent</c><00:05:14.639><c> of</c><00:05:14.720><c> my</c><00:05:14.960><c> budget</c><00:05:15.759><c> or</c>
+
+00:05:15.909 --> 00:05:15.919 align:start position:0%
+i i'm at eighty percent of my budget or
+ 
+
+00:05:15.919 --> 00:05:19.189 align:start position:0%
+i i'm at eighty percent of my budget or
+it<00:05:16.080><c> can</c><00:05:16.240><c> be</c><00:05:16.400><c> based</c><00:05:16.880><c> on</c><00:05:17.280><c> forecast</c><00:05:18.400><c> if</c><00:05:18.639><c> i</c><00:05:18.800><c> carry</c>
+
+00:05:19.189 --> 00:05:19.199 align:start position:0%
+it can be based on forecast if i carry
+ 
+
+00:05:19.199 --> 00:05:21.749 align:start position:0%
+it can be based on forecast if i carry
+on<00:05:19.280><c> the</c><00:05:19.520><c> trend</c><00:05:19.919><c> that</c><00:05:20.160><c> i'm</c><00:05:20.400><c> doing</c>
+
+00:05:21.749 --> 00:05:21.759 align:start position:0%
+on the trend that i'm doing
+ 
+
+00:05:21.759 --> 00:05:25.670 align:start position:0%
+on the trend that i'm doing
+hey<00:05:22.000><c> i'm</c><00:05:22.240><c> gonna</c><00:05:22.800><c> hit</c><00:05:23.039><c> 120</c><00:05:24.160><c> of</c><00:05:24.320><c> my</c><00:05:24.479><c> budget</c><00:05:25.360><c> and</c><00:05:25.520><c> i</c>
+
+00:05:25.670 --> 00:05:25.680 align:start position:0%
+hey i'm gonna hit 120 of my budget and i
+ 
+
+00:05:25.680 --> 00:05:28.550 align:start position:0%
+hey i'm gonna hit 120 of my budget and i
+can<00:05:25.840><c> assign</c><00:05:26.240><c> the</c><00:05:26.400><c> budgets</c><00:05:27.280><c> you</c><00:05:27.520><c> guessed</c><00:05:27.840><c> it</c>
+
+00:05:28.550 --> 00:05:28.560 align:start position:0%
+can assign the budgets you guessed it
+ 
+
+00:05:28.560 --> 00:05:30.469 align:start position:0%
+can assign the budgets you guessed it
+management<00:05:29.120><c> groups</c>
+
+00:05:30.469 --> 00:05:30.479 align:start position:0%
+management groups
+ 
+
+00:05:30.479 --> 00:05:32.230 align:start position:0%
+management groups
+subscriptions
+
+00:05:32.230 --> 00:05:32.240 align:start position:0%
+subscriptions
+ 
+
+00:05:32.240 --> 00:05:34.950 align:start position:0%
+subscriptions
+and<00:05:32.400><c> resource</c><00:05:32.960><c> groups</c><00:05:33.520><c> so</c><00:05:33.759><c> those</c><00:05:34.240><c> three</c>
+
+00:05:34.950 --> 00:05:34.960 align:start position:0%
+and resource groups so those three
+ 
+
+00:05:34.960 --> 00:05:36.629 align:start position:0%
+and resource groups so those three
+constructs<00:05:35.680><c> the</c><00:05:35.840><c> management</c><00:05:36.320><c> group</c><00:05:36.479><c> the</c>
+
+00:05:36.629 --> 00:05:36.639 align:start position:0%
+constructs the management group the
+ 
+
+00:05:36.639 --> 00:05:39.029 align:start position:0%
+constructs the management group the
+subscription<00:05:37.280><c> the</c><00:05:37.360><c> resource</c><00:05:37.919><c> group</c><00:05:38.560><c> i</c><00:05:38.720><c> can</c>
+
+00:05:39.029 --> 00:05:39.039 align:start position:0%
+subscription the resource group i can
+ 
+
+00:05:39.039 --> 00:05:41.830 align:start position:0%
+subscription the resource group i can
+use<00:05:39.759><c> for</c><00:05:39.919><c> those</c><00:05:40.320><c> key</c><00:05:40.720><c> policy</c><00:05:41.280><c> role-based</c>
+
+00:05:41.830 --> 00:05:41.840 align:start position:0%
+use for those key policy role-based
+ 
+
+00:05:41.840 --> 00:05:44.230 align:start position:0%
+use for those key policy role-based
+access<00:05:42.160><c> control</c><00:05:42.800><c> and</c><00:05:43.039><c> budget</c><00:05:43.600><c> governance</c>
+
+00:05:44.230 --> 00:05:44.240 align:start position:0%
+access control and budget governance
+ 
+
+00:05:44.240 --> 00:05:45.909 align:start position:0%
+access control and budget governance
+constructs
+
+00:05:45.909 --> 00:05:45.919 align:start position:0%
+constructs
+ 
+
+00:05:45.919 --> 00:05:48.070 align:start position:0%
+constructs
+and<00:05:46.080><c> we</c><00:05:46.320><c> think</c><00:05:46.639><c> about</c><00:05:47.039><c> again</c><00:05:47.440><c> you're</c><00:05:47.759><c> more</c>
+
+00:05:48.070 --> 00:05:48.080 align:start position:0%
+and we think about again you're more
+ 
+
+00:05:48.080 --> 00:05:50.550 align:start position:0%
+and we think about again you're more
+generic<00:05:48.880><c> at</c><00:05:49.039><c> the</c><00:05:49.280><c> top</c><00:05:50.000><c> i</c><00:05:50.160><c> don't</c><00:05:50.320><c> want</c><00:05:50.400><c> to</c><00:05:50.479><c> be</c>
+
+00:05:50.550 --> 00:05:50.560 align:start position:0%
+generic at the top i don't want to be
+ 
+
+00:05:50.560 --> 00:05:53.670 align:start position:0%
+generic at the top i don't want to be
+too<00:05:50.800><c> specific</c><00:05:51.440><c> or</c><00:05:51.600><c> be</c><00:05:52.160><c> too</c><00:05:52.400><c> many</c><00:05:53.039><c> permissions</c>
+
+00:05:53.670 --> 00:05:53.680 align:start position:0%
+too specific or be too many permissions
+ 
+
+00:05:53.680 --> 00:05:55.510 align:start position:0%
+too specific or be too many permissions
+at<00:05:53.759><c> the</c><00:05:53.919><c> high</c><00:05:54.160><c> level</c>
+
+00:05:55.510 --> 00:05:55.520 align:start position:0%
+at the high level
+ 
+
+00:05:55.520 --> 00:05:57.110 align:start position:0%
+at the high level
+because<00:05:55.680><c> they</c><00:05:55.919><c> all</c><00:05:56.080><c> of</c><00:05:56.160><c> these</c><00:05:56.400><c> get</c><00:05:56.639><c> inherited</c>
+
+00:05:57.110 --> 00:05:57.120 align:start position:0%
+because they all of these get inherited
+ 
+
+00:05:57.120 --> 00:05:59.510 align:start position:0%
+because they all of these get inherited
+down<00:05:57.440><c> when</c><00:05:57.600><c> the</c><00:05:57.680><c> budget</c><00:05:58.000><c> it</c><00:05:58.160><c> gets</c><00:05:58.400><c> rolled</c><00:05:58.800><c> up</c>
+
+00:05:59.510 --> 00:05:59.520 align:start position:0%
+down when the budget it gets rolled up
+ 
+
+00:05:59.520 --> 00:06:01.029 align:start position:0%
+down when the budget it gets rolled up
+depending<00:05:59.840><c> on</c><00:06:00.000><c> where</c><00:06:00.240><c> i</c><00:06:00.400><c> sign</c><00:06:00.639><c> it</c><00:06:00.720><c> for</c><00:06:00.880><c> all</c><00:06:00.960><c> of</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+depending on where i sign it for all of
+ 
+
+00:06:01.039 --> 00:06:03.430 align:start position:0%
+depending on where i sign it for all of
+the<00:06:01.199><c> child</c><00:06:01.440><c> resources</c><00:06:02.560><c> and</c><00:06:02.639><c> then</c><00:06:02.800><c> i</c><00:06:02.960><c> get</c><00:06:03.199><c> more</c>
+
+00:06:03.430 --> 00:06:03.440 align:start position:0%
+the child resources and then i get more
+ 
+
+00:06:03.440 --> 00:06:06.309 align:start position:0%
+the child resources and then i get more
+specific<00:06:04.560><c> as</c><00:06:04.720><c> i</c><00:06:04.800><c> get</c><00:06:05.039><c> closer</c><00:06:05.600><c> and</c><00:06:05.680><c> closer</c><00:06:06.160><c> to</c>
+
+00:06:06.309 --> 00:06:06.319 align:start position:0%
+specific as i get closer and closer to
+ 
+
+00:06:06.319 --> 00:06:08.710 align:start position:0%
+specific as i get closer and closer to
+the<00:06:06.479><c> resource</c><00:06:07.440><c> so</c><00:06:07.680><c> those</c><00:06:08.080><c> are</c><00:06:08.160><c> the</c><00:06:08.400><c> key</c>
+
+00:06:08.710 --> 00:06:08.720 align:start position:0%
+the resource so those are the key
+ 
+
+00:06:08.720 --> 00:06:10.870 align:start position:0%
+the resource so those are the key
+constructs<00:06:09.759><c> we</c><00:06:09.919><c> think</c><00:06:10.160><c> about</c><00:06:10.479><c> for</c><00:06:10.720><c> our</c>
+
+00:06:10.870 --> 00:06:10.880 align:start position:0%
+constructs we think about for our
+ 
+
+00:06:10.880 --> 00:06:14.520 align:start position:0%
+constructs we think about for our
+management<00:06:11.520><c> hierarchy</c>
+

@@ -1,0 +1,1456 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.880 --> 00:00:02.869 align:start position:0%
+ 
+in<00:00:01.040><c> this</c><00:00:01.360><c> lesson</c><00:00:01.680><c> i</c><00:00:01.760><c> want</c><00:00:01.920><c> to</c><00:00:02.080><c> talk</c><00:00:02.240><c> about</c><00:00:02.720><c> what</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+in this lesson i want to talk about what
+ 
+
+00:00:02.879 --> 00:00:05.910 align:start position:0%
+in this lesson i want to talk about what
+is<00:00:03.040><c> the</c><00:00:03.360><c> purpose</c><00:00:04.000><c> of</c><00:00:04.400><c> azure</c><00:00:04.880><c> arc</c>
+
+00:00:05.910 --> 00:00:05.920 align:start position:0%
+is the purpose of azure arc
+ 
+
+00:00:05.920 --> 00:00:09.030 align:start position:0%
+is the purpose of azure arc
+if<00:00:06.080><c> we</c><00:00:06.319><c> think</c><00:00:06.560><c> about</c><00:00:07.120><c> azure</c>
+
+00:00:09.030 --> 00:00:09.040 align:start position:0%
+if we think about azure
+ 
+
+00:00:09.040 --> 00:00:11.270 align:start position:0%
+if we think about azure
+azure<00:00:09.599><c> is</c><00:00:09.840><c> really</c><00:00:10.320><c> as</c><00:00:10.480><c> i've</c><00:00:10.639><c> talked</c><00:00:10.960><c> about</c>
+
+00:00:11.270 --> 00:00:11.280 align:start position:0%
+azure is really as i've talked about
+ 
+
+00:00:11.280 --> 00:00:13.749 align:start position:0%
+azure is really as i've talked about
+before
+
+00:00:13.749 --> 00:00:13.759 align:start position:0%
+before
+ 
+
+00:00:13.759 --> 00:00:18.630 align:start position:0%
+before
+the<00:00:14.000><c> idea</c><00:00:14.799><c> of</c><00:00:15.040><c> this</c><00:00:15.519><c> huge</c><00:00:16.000><c> amount</c><00:00:16.560><c> of</c><00:00:16.880><c> capacity</c>
+
+00:00:18.630 --> 00:00:18.640 align:start position:0%
+the idea of this huge amount of capacity
+ 
+
+00:00:18.640 --> 00:00:22.070 align:start position:0%
+the idea of this huge amount of capacity
+this<00:00:18.960><c> capacity</c><00:00:19.680><c> is</c><00:00:19.920><c> exposed</c><00:00:20.880><c> over</c><00:00:21.439><c> many</c><00:00:21.680><c> many</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+this capacity is exposed over many many
+ 
+
+00:00:22.080 --> 00:00:24.310 align:start position:0%
+this capacity is exposed over many many
+regions<00:00:22.720><c> throughout</c><00:00:23.119><c> the</c><00:00:23.279><c> world</c>
+
+00:00:24.310 --> 00:00:24.320 align:start position:0%
+regions throughout the world
+ 
+
+00:00:24.320 --> 00:00:27.109 align:start position:0%
+regions throughout the world
+and<00:00:24.480><c> we</c><00:00:24.720><c> consume</c><00:00:25.359><c> it</c><00:00:25.680><c> through</c><00:00:26.000><c> various</c><00:00:26.640><c> types</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+and we consume it through various types
+ 
+
+00:00:27.119 --> 00:00:29.509 align:start position:0%
+and we consume it through various types
+of<00:00:27.359><c> resource</c><00:00:28.320><c> this</c><00:00:28.560><c> could</c><00:00:28.720><c> be</c><00:00:28.960><c> a</c><00:00:29.039><c> virtual</c>
+
+00:00:29.509 --> 00:00:29.519 align:start position:0%
+of resource this could be a virtual
+ 
+
+00:00:29.519 --> 00:00:32.069 align:start position:0%
+of resource this could be a virtual
+machine<00:00:30.080><c> it</c><00:00:30.240><c> might</c><00:00:30.640><c> be</c><00:00:30.800><c> an</c><00:00:31.039><c> aks</c><00:00:31.599><c> cluster</c><00:00:31.920><c> for</c>
+
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+machine it might be an aks cluster for
+ 
+
+00:00:32.079 --> 00:00:34.229 align:start position:0%
+machine it might be an aks cluster for
+containers<00:00:32.960><c> could</c><00:00:33.120><c> be</c><00:00:33.280><c> a</c><00:00:33.440><c> managed</c><00:00:33.840><c> data</c>
+
+00:00:34.229 --> 00:00:34.239 align:start position:0%
+containers could be a managed data
+ 
+
+00:00:34.239 --> 00:00:35.910 align:start position:0%
+containers could be a managed data
+service<00:00:34.640><c> could</c><00:00:34.800><c> be</c><00:00:34.880><c> an</c><00:00:35.040><c> app</c><00:00:35.280><c> service</c><00:00:35.600><c> could</c><00:00:35.760><c> be</c>
+
+00:00:35.910 --> 00:00:35.920 align:start position:0%
+service could be an app service could be
+ 
+
+00:00:35.920 --> 00:00:38.950 align:start position:0%
+service could be an app service could be
+machine<00:00:36.239><c> learning</c><00:00:36.960><c> whatever</c><00:00:37.360><c> that</c><00:00:37.600><c> might</c><00:00:37.840><c> be</c>
+
+00:00:38.950 --> 00:00:38.960 align:start position:0%
+machine learning whatever that might be
+ 
+
+00:00:38.960 --> 00:00:41.030 align:start position:0%
+machine learning whatever that might be
+and<00:00:39.200><c> in</c><00:00:39.360><c> addition</c><00:00:39.760><c> to</c><00:00:39.920><c> that</c><00:00:40.160><c> capacity</c><00:00:40.800><c> and</c>
+
+00:00:41.030 --> 00:00:41.040 align:start position:0%
+and in addition to that capacity and
+ 
+
+00:00:41.040 --> 00:00:43.350 align:start position:0%
+and in addition to that capacity and
+resource<00:00:41.920><c> azure</c><00:00:42.320><c> gives</c><00:00:42.559><c> us</c><00:00:42.800><c> lots</c><00:00:43.120><c> of</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+resource azure gives us lots of
+ 
+
+00:00:43.360 --> 00:00:45.750 align:start position:0%
+resource azure gives us lots of
+governance<00:00:43.920><c> and</c><00:00:44.079><c> management</c><00:00:44.640><c> features</c><00:00:45.600><c> i</c>
+
+00:00:45.750 --> 00:00:45.760 align:start position:0%
+governance and management features i
+ 
+
+00:00:45.760 --> 00:00:48.709 align:start position:0%
+governance and management features i
+have<00:00:45.920><c> things</c><00:00:46.160><c> like</c><00:00:46.559><c> azure</c><00:00:46.960><c> policy</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+have things like azure policy
+ 
+
+00:00:48.719 --> 00:00:51.990 align:start position:0%
+have things like azure policy
+i<00:00:48.960><c> have</c><00:00:49.360><c> role-based</c><00:00:50.000><c> access</c><00:00:50.480><c> control</c>
+
+00:00:51.990 --> 00:00:52.000 align:start position:0%
+i have role-based access control
+ 
+
+00:00:52.000 --> 00:00:54.549 align:start position:0%
+i have role-based access control
+i<00:00:52.160><c> have</c><00:00:52.719><c> tagging</c>
+
+00:00:54.549 --> 00:00:54.559 align:start position:0%
+i have tagging
+ 
+
+00:00:54.559 --> 00:00:57.430 align:start position:0%
+i have tagging
+i<00:00:54.719><c> have</c><00:00:54.960><c> various</c><00:00:55.600><c> defender</c><00:00:56.399><c> for</c><00:00:56.719><c> solutions</c>
+
+00:00:57.430 --> 00:00:57.440 align:start position:0%
+i have various defender for solutions
+ 
+
+00:00:57.440 --> 00:00:59.830 align:start position:0%
+i have various defender for solutions
+when<00:00:57.600><c> i</c><00:00:57.680><c> think</c><00:00:57.920><c> about</c><00:00:58.399><c> security</c><00:00:59.440><c> this</c><00:00:59.600><c> could</c>
+
+00:00:59.830 --> 00:00:59.840 align:start position:0%
+when i think about security this could
+ 
+
+00:00:59.840 --> 00:01:01.510 align:start position:0%
+when i think about security this could
+be<00:00:59.920><c> defender</c><00:01:00.399><c> for</c><00:01:00.559><c> cloud</c><00:01:00.879><c> just</c><00:01:01.039><c> for</c><00:01:01.280><c> all</c><00:01:01.440><c> up</c>
+
+00:01:01.510 --> 00:01:01.520 align:start position:0%
+be defender for cloud just for all up
+ 
+
+00:01:01.520 --> 00:01:04.229 align:start position:0%
+be defender for cloud just for all up
+security<00:01:02.079><c> posture</c><00:01:02.719><c> this</c><00:01:02.960><c> could</c><00:01:03.120><c> be</c><00:01:03.359><c> defender</c>
+
+00:01:04.229 --> 00:01:04.239 align:start position:0%
+security posture this could be defender
+ 
+
+00:01:04.239 --> 00:01:05.109 align:start position:0%
+security posture this could be defender
+for
+
+00:01:05.109 --> 00:01:05.119 align:start position:0%
+for
+ 
+
+00:01:05.119 --> 00:01:07.030 align:start position:0%
+for
+containers<00:01:05.680><c> defender</c><00:01:06.080><c> for</c><00:01:06.240><c> kubernetes</c>
+
+00:01:07.030 --> 00:01:07.040 align:start position:0%
+containers defender for kubernetes
+ 
+
+00:01:07.040 --> 00:01:09.350 align:start position:0%
+containers defender for kubernetes
+defender<00:01:07.520><c> for</c><00:01:07.840><c> various</c><00:01:08.240><c> types</c><00:01:08.479><c> of</c><00:01:08.560><c> service</c><00:01:09.119><c> to</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+defender for various types of service to
+ 
+
+00:01:09.360 --> 00:01:11.750 align:start position:0%
+defender for various types of service to
+bring<00:01:09.600><c> enhanced</c><00:01:10.159><c> security</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+bring enhanced security
+ 
+
+00:01:11.760 --> 00:01:13.990 align:start position:0%
+bring enhanced security
+and<00:01:11.920><c> i</c><00:01:12.000><c> can</c><00:01:12.320><c> think</c><00:01:12.560><c> about</c><00:01:12.960><c> this</c><00:01:13.360><c> all</c><00:01:13.680><c> through</c>
+
+00:01:13.990 --> 00:01:14.000 align:start position:0%
+and i can think about this all through
+ 
+
+00:01:14.000 --> 00:01:15.510 align:start position:0%
+and i can think about this all through
+the<00:01:14.400><c> azure</c>
+
+00:01:15.510 --> 00:01:15.520 align:start position:0%
+the azure
+ 
+
+00:01:15.520 --> 00:01:19.270 align:start position:0%
+the azure
+resource<00:01:16.640><c> manager</c><00:01:17.600><c> this</c><00:01:17.840><c> is</c><00:01:18.000><c> this</c><00:01:18.400><c> control</c>
+
+00:01:19.270 --> 00:01:19.280 align:start position:0%
+resource manager this is this control
+ 
+
+00:01:19.280 --> 00:01:21.190 align:start position:0%
+resource manager this is this control
+plane
+
+00:01:21.190 --> 00:01:21.200 align:start position:0%
+plane
+ 
+
+00:01:21.200 --> 00:01:24.390 align:start position:0%
+plane
+that<00:01:21.439><c> we</c><00:01:21.759><c> use</c><00:01:22.240><c> to</c><00:01:22.720><c> interact</c><00:01:23.360><c> with</c><00:01:23.600><c> azure</c><00:01:24.159><c> be</c><00:01:24.320><c> it</c>
+
+00:01:24.390 --> 00:01:24.400 align:start position:0%
+that we use to interact with azure be it
+ 
+
+00:01:24.400 --> 00:01:26.789 align:start position:0%
+that we use to interact with azure be it
+by<00:01:24.640><c> a</c><00:01:24.799><c> portal</c><00:01:25.360><c> a</c><00:01:25.439><c> template</c><00:01:26.000><c> a</c><00:01:26.159><c> powershell</c><00:01:26.640><c> or</c>
+
+00:01:26.789 --> 00:01:26.799 align:start position:0%
+by a portal a template a powershell or
+ 
+
+00:01:26.799 --> 00:01:29.350 align:start position:0%
+by a portal a template a powershell or
+cli<00:01:27.600><c> or</c><00:01:27.759><c> whatever</c><00:01:28.320><c> else</c>
+
+00:01:29.350 --> 00:01:29.360 align:start position:0%
+cli or whatever else
+ 
+
+00:01:29.360 --> 00:01:30.950 align:start position:0%
+cli or whatever else
+then<00:01:29.600><c> we</c><00:01:29.680><c> talk</c><00:01:29.840><c> about</c><00:01:30.320><c> azure</c><00:01:30.640><c> as</c><00:01:30.799><c> this</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+then we talk about azure as this
+ 
+
+00:01:30.960 --> 00:01:34.230 align:start position:0%
+then we talk about azure as this
+capacity<00:01:31.600><c> exposes</c><00:01:32.240><c> resources</c><00:01:33.040><c> realize</c><00:01:33.920><c> i</c><00:01:34.079><c> may</c>
+
+00:01:34.230 --> 00:01:34.240 align:start position:0%
+capacity exposes resources realize i may
+ 
+
+00:01:34.240 --> 00:01:35.749 align:start position:0%
+capacity exposes resources realize i may
+have<00:01:34.479><c> capacity</c>
+
+00:01:35.749 --> 00:01:35.759 align:start position:0%
+have capacity
+ 
+
+00:01:35.759 --> 00:01:39.030 align:start position:0%
+have capacity
+in<00:01:35.920><c> other</c><00:01:36.159><c> places</c><00:01:37.119><c> i</c><00:01:37.280><c> may</c><00:01:37.520><c> have</c><00:01:37.759><c> capacity</c><00:01:38.720><c> on</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+in other places i may have capacity on
+ 
+
+00:01:39.040 --> 00:01:41.270 align:start position:0%
+in other places i may have capacity on
+premises
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+premises
+ 
+
+00:01:41.280 --> 00:01:42.149 align:start position:0%
+premises
+through
+
+00:01:42.149 --> 00:01:42.159 align:start position:0%
+through
+ 
+
+00:01:42.159 --> 00:01:45.030 align:start position:0%
+through
+my<00:01:42.399><c> own</c><00:01:42.880><c> private</c><00:01:43.439><c> clouds</c><00:01:44.399><c> i</c><00:01:44.560><c> may</c><00:01:44.799><c> have</c>
+
+00:01:45.030 --> 00:01:45.040 align:start position:0%
+my own private clouds i may have
+ 
+
+00:01:45.040 --> 00:01:51.830 align:start position:0%
+my own private clouds i may have
+capacity<00:01:46.000><c> in</c><00:01:46.320><c> some</c><00:01:46.720><c> other</c><00:01:47.040><c> cloud</c>
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+ 
+ 
+
+00:01:51.840 --> 00:01:55.030 align:start position:0%
+ 
+aws<00:01:52.560><c> gcp</c><00:01:53.119><c> whatever</c><00:01:53.520><c> that</c><00:01:53.759><c> could</c><00:01:54.000><c> be</c><00:01:54.640><c> i</c><00:01:54.799><c> may</c>
+
+00:01:55.030 --> 00:01:55.040 align:start position:0%
+aws gcp whatever that could be i may
+ 
+
+00:01:55.040 --> 00:01:57.030 align:start position:0%
+aws gcp whatever that could be i may
+have<00:01:55.200><c> that</c><00:01:55.439><c> capacity</c>
+
+00:01:57.030 --> 00:01:57.040 align:start position:0%
+have that capacity
+ 
+
+00:01:57.040 --> 00:02:00.230 align:start position:0%
+have that capacity
+so<00:01:57.200><c> the</c><00:01:57.360><c> whole</c><00:01:57.680><c> point</c><00:01:57.920><c> of</c><00:01:58.240><c> azure</c><00:01:58.880><c> arc</c>
+
+00:02:00.230 --> 00:02:00.240 align:start position:0%
+so the whole point of azure arc
+ 
+
+00:02:00.240 --> 00:02:05.270 align:start position:0%
+so the whole point of azure arc
+is<00:02:00.560><c> arc</c><00:02:00.960><c> is</c><00:02:01.119><c> going</c><00:02:01.439><c> to</c><00:02:01.840><c> extend</c>
+
+00:02:05.270 --> 00:02:05.280 align:start position:0%
+ 
+ 
+
+00:02:05.280 --> 00:02:08.790 align:start position:0%
+ 
+this<00:02:05.520><c> control</c><00:02:06.000><c> plane</c><00:02:06.320><c> of</c><00:02:06.640><c> azure</c><00:02:07.439><c> to</c><00:02:07.680><c> services</c>
+
+00:02:08.790 --> 00:02:08.800 align:start position:0%
+this control plane of azure to services
+ 
+
+00:02:08.800 --> 00:02:11.029 align:start position:0%
+this control plane of azure to services
+outside<00:02:09.280><c> of</c><00:02:09.440><c> azure</c>
+
+00:02:11.029 --> 00:02:11.039 align:start position:0%
+outside of azure
+ 
+
+00:02:11.039 --> 00:02:13.589 align:start position:0%
+outside of azure
+i'm<00:02:11.200><c> going</c><00:02:11.360><c> to</c><00:02:11.599><c> bring</c><00:02:12.000><c> this</c><00:02:12.400><c> control</c><00:02:13.120><c> plane</c>
+
+00:02:13.589 --> 00:02:13.599 align:start position:0%
+i'm going to bring this control plane
+ 
+
+00:02:13.599 --> 00:02:16.390 align:start position:0%
+i'm going to bring this control plane
+this<00:02:13.920><c> governance</c><00:02:14.480><c> set</c><00:02:14.640><c> of</c><00:02:14.800><c> capabilities</c><00:02:16.080><c> to</c>
+
+00:02:16.390 --> 00:02:16.400 align:start position:0%
+this governance set of capabilities to
+ 
+
+00:02:16.400 --> 00:02:18.309 align:start position:0%
+this governance set of capabilities to
+other<00:02:16.720><c> things</c><00:02:17.280><c> and</c><00:02:17.440><c> this</c><00:02:17.680><c> could</c><00:02:17.840><c> be</c><00:02:18.160><c> on</c>
+
+00:02:18.309 --> 00:02:18.319 align:start position:0%
+other things and this could be on
+ 
+
+00:02:18.319 --> 00:02:20.550 align:start position:0%
+other things and this could be on
+premises<00:02:18.879><c> this</c><00:02:19.040><c> could</c><00:02:19.280><c> be</c><00:02:19.440><c> in</c><00:02:19.680><c> other</c><00:02:20.000><c> clouds</c>
+
+00:02:20.550 --> 00:02:20.560 align:start position:0%
+premises this could be in other clouds
+ 
+
+00:02:20.560 --> 00:02:22.070 align:start position:0%
+premises this could be in other clouds
+now<00:02:20.720><c> there</c><00:02:21.120><c> are</c><00:02:21.280><c> a</c><00:02:21.360><c> number</c><00:02:21.520><c> of</c><00:02:21.599><c> different</c>
+
+00:02:22.070 --> 00:02:22.080 align:start position:0%
+now there are a number of different
+ 
+
+00:02:22.080 --> 00:02:23.990 align:start position:0%
+now there are a number of different
+solutions<00:02:22.720><c> for</c><00:02:22.879><c> this</c>
+
+00:02:23.990 --> 00:02:24.000 align:start position:0%
+solutions for this
+ 
+
+00:02:24.000 --> 00:02:27.350 align:start position:0%
+solutions for this
+the<00:02:24.239><c> first</c><00:02:24.640><c> solution</c><00:02:25.200><c> i</c><00:02:25.360><c> can</c><00:02:25.599><c> think</c><00:02:25.840><c> about</c>
+
+00:02:27.350 --> 00:02:27.360 align:start position:0%
+the first solution i can think about
+ 
+
+00:02:27.360 --> 00:02:29.270 align:start position:0%
+the first solution i can think about
+is<00:02:27.760><c> arc</c>
+
+00:02:29.270 --> 00:02:29.280 align:start position:0%
+is arc
+ 
+
+00:02:29.280 --> 00:02:32.949 align:start position:0%
+is arc
+enabled
+
+00:02:32.949 --> 00:02:32.959 align:start position:0%
+ 
+ 
+
+00:02:32.959 --> 00:02:35.750 align:start position:0%
+ 
+servers
+
+00:02:35.750 --> 00:02:35.760 align:start position:0%
+ 
+ 
+
+00:02:35.760 --> 00:02:37.350 align:start position:0%
+ 
+so<00:02:35.920><c> this</c><00:02:36.080><c> could</c><00:02:36.239><c> be</c><00:02:36.400><c> windows</c><00:02:36.879><c> this</c><00:02:37.040><c> could</c><00:02:37.200><c> be</c>
+
+00:02:37.350 --> 00:02:37.360 align:start position:0%
+so this could be windows this could be
+ 
+
+00:02:37.360 --> 00:02:39.350 align:start position:0%
+so this could be windows this could be
+linux<00:02:37.760><c> this</c><00:02:37.920><c> could</c><00:02:38.080><c> be</c><00:02:38.239><c> a</c><00:02:38.400><c> vm</c><00:02:38.800><c> this</c><00:02:38.959><c> could</c><00:02:39.120><c> be</c><00:02:39.200><c> a</c>
+
+00:02:39.350 --> 00:02:39.360 align:start position:0%
+linux this could be a vm this could be a
+ 
+
+00:02:39.360 --> 00:02:42.150 align:start position:0%
+linux this could be a vm this could be a
+bare<00:02:39.680><c> metal</c><00:02:40.080><c> i.e</c><00:02:40.400><c> a</c><00:02:40.560><c> physical</c><00:02:41.040><c> machine</c>
+
+00:02:42.150 --> 00:02:42.160 align:start position:0%
+bare metal i.e a physical machine
+ 
+
+00:02:42.160 --> 00:02:43.990 align:start position:0%
+bare metal i.e a physical machine
+and<00:02:42.319><c> what's</c><00:02:42.560><c> going</c><00:02:42.640><c> to</c><00:02:42.800><c> happen</c><00:02:43.120><c> here</c><00:02:43.360><c> this</c><00:02:43.680><c> arc</c>
+
+00:02:43.990 --> 00:02:44.000 align:start position:0%
+and what's going to happen here this arc
+ 
+
+00:02:44.000 --> 00:02:47.350 align:start position:0%
+and what's going to happen here this arc
+enabled<00:02:44.800><c> for</c><00:02:45.040><c> servers</c><00:02:46.080><c> is</c><00:02:46.319><c> running</c><00:02:46.800><c> inside</c>
+
+00:02:47.350 --> 00:02:47.360 align:start position:0%
+enabled for servers is running inside
+ 
+
+00:02:47.360 --> 00:02:50.630 align:start position:0%
+enabled for servers is running inside
+that<00:02:47.680><c> operating</c><00:02:48.319><c> system</c>
+
+00:02:50.630 --> 00:02:50.640 align:start position:0%
+that operating system
+ 
+
+00:02:50.640 --> 00:02:53.430 align:start position:0%
+that operating system
+i<00:02:50.800><c> have</c><00:02:50.959><c> an</c><00:02:51.200><c> agent</c><00:02:51.680><c> running</c><00:02:52.160><c> inside</c><00:02:52.720><c> there</c><00:02:53.280><c> and</c>
+
+00:02:53.430 --> 00:02:53.440 align:start position:0%
+i have an agent running inside there and
+ 
+
+00:02:53.440 --> 00:02:56.790 align:start position:0%
+i have an agent running inside there and
+then<00:02:53.599><c> once</c><00:02:53.920><c> i</c><00:02:54.160><c> have</c><00:02:54.480><c> this</c><00:02:54.800><c> agent</c><00:02:55.760><c> this</c><00:02:56.080><c> control</c>
+
+00:02:56.790 --> 00:02:56.800 align:start position:0%
+then once i have this agent this control
+ 
+
+00:02:56.800 --> 00:03:00.390 align:start position:0%
+then once i have this agent this control
+plane<00:02:57.200><c> of</c><00:02:57.599><c> azure</c><00:02:58.319><c> via</c><00:02:58.800><c> arc</c>
+
+00:03:00.390 --> 00:03:00.400 align:start position:0%
+plane of azure via arc
+ 
+
+00:03:00.400 --> 00:03:03.670 align:start position:0%
+plane of azure via arc
+is<00:03:00.560><c> now</c><00:03:00.959><c> extended</c><00:03:01.599><c> to</c><00:03:01.840><c> whatever</c><00:03:02.400><c> that</c><00:03:02.720><c> is</c><00:03:03.360><c> so</c><00:03:03.519><c> i</c>
+
+00:03:03.670 --> 00:03:03.680 align:start position:0%
+is now extended to whatever that is so i
+ 
+
+00:03:03.680 --> 00:03:08.949 align:start position:0%
+is now extended to whatever that is so i
+have<00:03:04.080><c> some</c><00:03:04.560><c> os</c><00:03:05.200><c> instance</c>
+
+00:03:08.949 --> 00:03:08.959 align:start position:0%
+ 
+ 
+
+00:03:08.959 --> 00:03:12.070 align:start position:0%
+ 
+that<00:03:09.200><c> now</c><00:03:09.840><c> is</c><00:03:10.080><c> arc</c><00:03:10.560><c> enabled</c><00:03:11.440><c> through</c><00:03:11.760><c> that</c>
+
+00:03:12.070 --> 00:03:12.080 align:start position:0%
+that now is arc enabled through that
+ 
+
+00:03:12.080 --> 00:03:13.350 align:start position:0%
+that now is arc enabled through that
+agent
+
+00:03:13.350 --> 00:03:13.360 align:start position:0%
+agent
+ 
+
+00:03:13.360 --> 00:03:15.670 align:start position:0%
+agent
+and<00:03:13.599><c> then</c><00:03:13.840><c> the</c><00:03:14.159><c> features</c><00:03:14.720><c> of</c><00:03:14.959><c> azure</c><00:03:15.360><c> and</c><00:03:15.519><c> that</c>
+
+00:03:15.670 --> 00:03:15.680 align:start position:0%
+and then the features of azure and that
+ 
+
+00:03:15.680 --> 00:03:17.990 align:start position:0%
+and then the features of azure and that
+control<00:03:16.239><c> plane</c><00:03:16.879><c> are</c><00:03:17.040><c> brought</c><00:03:17.440><c> into</c><00:03:17.680><c> this</c>
+
+00:03:17.990 --> 00:03:18.000 align:start position:0%
+control plane are brought into this
+ 
+
+00:03:18.000 --> 00:03:19.910 align:start position:0%
+control plane are brought into this
+operating<00:03:18.640><c> system</c>
+
+00:03:19.910 --> 00:03:19.920 align:start position:0%
+operating system
+ 
+
+00:03:19.920 --> 00:03:21.670 align:start position:0%
+operating system
+i<00:03:20.080><c> can</c><00:03:20.239><c> deploy</c><00:03:20.640><c> governance</c><00:03:21.120><c> with</c><00:03:21.360><c> azure</c>
+
+00:03:21.670 --> 00:03:21.680 align:start position:0%
+i can deploy governance with azure
+ 
+
+00:03:21.680 --> 00:03:23.990 align:start position:0%
+i can deploy governance with azure
+policy<00:03:22.080><c> and</c><00:03:22.159><c> role-based</c><00:03:22.640><c> access</c><00:03:23.040><c> control</c>
+
+00:03:23.990 --> 00:03:24.000 align:start position:0%
+policy and role-based access control
+ 
+
+00:03:24.000 --> 00:03:26.149 align:start position:0%
+policy and role-based access control
+i<00:03:24.159><c> get</c><00:03:24.319><c> things</c><00:03:24.480><c> like</c><00:03:24.720><c> defender</c><00:03:25.200><c> for</c><00:03:25.519><c> cloud</c><00:03:26.000><c> for</c>
+
+00:03:26.149 --> 00:03:26.159 align:start position:0%
+i get things like defender for cloud for
+ 
+
+00:03:26.159 --> 00:03:28.229 align:start position:0%
+i get things like defender for cloud for
+that<00:03:26.319><c> security</c><00:03:26.959><c> posture</c>
+
+00:03:28.229 --> 00:03:28.239 align:start position:0%
+that security posture
+ 
+
+00:03:28.239 --> 00:03:30.789 align:start position:0%
+that security posture
+i<00:03:28.480><c> can</c><00:03:29.120><c> do</c><00:03:29.440><c> patching</c><00:03:30.000><c> i</c><00:03:30.080><c> can</c><00:03:30.239><c> do</c><00:03:30.400><c> other</c><00:03:30.560><c> types</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+i can do patching i can do other types
+ 
+
+00:03:30.799 --> 00:03:33.110 align:start position:0%
+i can do patching i can do other types
+of<00:03:31.120><c> automations</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+of automations
+ 
+
+00:03:33.120 --> 00:03:36.229 align:start position:0%
+of automations
+i<00:03:33.360><c> now</c><00:03:33.760><c> have</c><00:03:34.159><c> tagging</c><00:03:34.720><c> available</c><00:03:35.440><c> i</c><00:03:35.519><c> can</c><00:03:35.840><c> find</c>
+
+00:03:36.229 --> 00:03:36.239 align:start position:0%
+i now have tagging available i can find
+ 
+
+00:03:36.239 --> 00:03:38.390 align:start position:0%
+i now have tagging available i can find
+it<00:03:36.480><c> in</c><00:03:36.560><c> my</c><00:03:36.799><c> azure</c><00:03:37.280><c> inventory</c><00:03:37.760><c> i</c><00:03:37.840><c> can</c><00:03:38.080><c> search</c>
+
+00:03:38.390 --> 00:03:38.400 align:start position:0%
+it in my azure inventory i can search
+ 
+
+00:03:38.400 --> 00:03:40.869 align:start position:0%
+it in my azure inventory i can search
+for<00:03:38.560><c> it</c><00:03:38.720><c> through</c><00:03:38.959><c> resource</c><00:03:39.519><c> graph</c><00:03:40.400><c> i</c><00:03:40.560><c> have</c><00:03:40.720><c> an</c>
+
+00:03:40.869 --> 00:03:40.879 align:start position:0%
+for it through resource graph i have an
+ 
+
+00:03:40.879 --> 00:03:43.430 align:start position:0%
+for it through resource graph i have an
+identity<00:03:41.760><c> just</c><00:03:41.920><c> like</c><00:03:42.080><c> a</c><00:03:42.159><c> managed</c><00:03:42.480><c> identity</c><00:03:43.200><c> to</c>
+
+00:03:43.430 --> 00:03:43.440 align:start position:0%
+identity just like a managed identity to
+ 
+
+00:03:43.440 --> 00:03:46.070 align:start position:0%
+identity just like a managed identity to
+interact<00:03:43.840><c> with</c><00:03:44.080><c> other</c><00:03:44.560><c> services</c><00:03:45.519><c> so</c><00:03:45.760><c> it's</c>
+
+00:03:46.070 --> 00:03:46.080 align:start position:0%
+interact with other services so it's
+ 
+
+00:03:46.080 --> 00:03:48.309 align:start position:0%
+interact with other services so it's
+about<00:03:46.599><c> extending</c>
+
+00:03:48.309 --> 00:03:48.319 align:start position:0%
+about extending
+ 
+
+00:03:48.319 --> 00:03:51.430 align:start position:0%
+about extending
+azure<00:03:49.280><c> to</c><00:03:49.519><c> resources</c><00:03:50.480><c> outside</c><00:03:50.959><c> of</c><00:03:51.120><c> azure</c><00:03:51.360><c> this</c>
+
+00:03:51.430 --> 00:03:51.440 align:start position:0%
+azure to resources outside of azure this
+ 
+
+00:03:51.440 --> 00:03:53.429 align:start position:0%
+azure to resources outside of azure this
+is<00:03:51.519><c> what</c><00:03:51.760><c> arc</c><00:03:52.000><c> enabled</c><00:03:52.560><c> servers</c><00:03:52.959><c> is</c><00:03:53.120><c> doing</c><00:03:53.360><c> and</c>
+
+00:03:53.429 --> 00:03:53.439 align:start position:0%
+is what arc enabled servers is doing and
+ 
+
+00:03:53.439 --> 00:03:55.270 align:start position:0%
+is what arc enabled servers is doing and
+that's<00:03:53.680><c> fantastic</c>
+
+00:03:55.270 --> 00:03:55.280 align:start position:0%
+that's fantastic
+ 
+
+00:03:55.280 --> 00:03:57.110 align:start position:0%
+that's fantastic
+but<00:03:55.519><c> realize</c><00:03:55.840><c> there's</c><00:03:56.080><c> more</c><00:03:56.319><c> than</c><00:03:56.560><c> just</c>
+
+00:03:57.110 --> 00:03:57.120 align:start position:0%
+but realize there's more than just
+ 
+
+00:03:57.120 --> 00:03:59.030 align:start position:0%
+but realize there's more than just
+operating<00:03:57.760><c> systems</c>
+
+00:03:59.030 --> 00:03:59.040 align:start position:0%
+operating systems
+ 
+
+00:03:59.040 --> 00:04:01.589 align:start position:0%
+operating systems
+i<00:03:59.200><c> may</c><00:03:59.439><c> also</c><00:03:59.840><c> have</c><00:04:00.159><c> capacity</c><00:04:01.040><c> again</c><00:04:01.360><c> it</c><00:04:01.439><c> could</c>
+
+00:04:01.589 --> 00:04:01.599 align:start position:0%
+i may also have capacity again it could
+ 
+
+00:04:01.599 --> 00:04:02.949 align:start position:0%
+i may also have capacity again it could
+be<00:04:01.680><c> in</c><00:04:01.840><c> other</c><00:04:02.080><c> clouds</c><00:04:02.400><c> it</c><00:04:02.480><c> could</c><00:04:02.640><c> be</c><00:04:02.799><c> on</c>
+
+00:04:02.949 --> 00:04:02.959 align:start position:0%
+be in other clouds it could be on
+ 
+
+00:04:02.959 --> 00:04:08.710 align:start position:0%
+be in other clouds it could be on
+premises<00:04:04.000><c> that's</c><00:04:04.319><c> maybe</c><00:04:04.799><c> kubernetes</c>
+
+00:04:08.710 --> 00:04:08.720 align:start position:0%
+ 
+ 
+
+00:04:08.720 --> 00:04:10.949 align:start position:0%
+ 
+kubernetes<00:04:09.360><c> is</c><00:04:09.519><c> that</c><00:04:09.920><c> industry</c><00:04:10.480><c> standard</c>
+
+00:04:10.949 --> 00:04:10.959 align:start position:0%
+kubernetes is that industry standard
+ 
+
+00:04:10.959 --> 00:04:13.030 align:start position:0%
+kubernetes is that industry standard
+orchestrator<00:04:11.680><c> for</c><00:04:11.920><c> containers</c><00:04:12.480><c> i</c><00:04:12.720><c> create</c>
+
+00:04:13.030 --> 00:04:13.040 align:start position:0%
+orchestrator for containers i create
+ 
+
+00:04:13.040 --> 00:04:15.030 align:start position:0%
+orchestrator for containers i create
+pods<00:04:13.439><c> that</c><00:04:13.599><c> host</c><00:04:14.080><c> there</c>
+
+00:04:15.030 --> 00:04:15.040 align:start position:0%
+pods that host there
+ 
+
+00:04:15.040 --> 00:04:17.670 align:start position:0%
+pods that host there
+so<00:04:15.280><c> once</c><00:04:15.680><c> again</c>
+
+00:04:17.670 --> 00:04:17.680 align:start position:0%
+so once again
+ 
+
+00:04:17.680 --> 00:04:21.270 align:start position:0%
+so once again
+there's<00:04:18.400><c> arc</c><00:04:19.040><c> enabled</c><00:04:19.840><c> kubernetes</c><00:04:20.799><c> so</c><00:04:20.959><c> i</c><00:04:21.040><c> can</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+there's arc enabled kubernetes so i can
+ 
+
+00:04:21.280 --> 00:04:22.950 align:start position:0%
+there's arc enabled kubernetes so i can
+have<00:04:21.759><c> arc</c>
+
+00:04:22.950 --> 00:04:22.960 align:start position:0%
+have arc
+ 
+
+00:04:22.960 --> 00:04:25.749 align:start position:0%
+have arc
+enabled
+
+00:04:25.749 --> 00:04:25.759 align:start position:0%
+ 
+ 
+
+00:04:25.759 --> 00:04:27.590 align:start position:0%
+ 
+kubernetes
+
+00:04:27.590 --> 00:04:27.600 align:start position:0%
+kubernetes
+ 
+
+00:04:27.600 --> 00:04:30.310 align:start position:0%
+kubernetes
+there<00:04:27.759><c> are</c><00:04:28.000><c> services</c><00:04:28.720><c> i</c><00:04:28.960><c> install</c>
+
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+there are services i install
+ 
+
+00:04:30.320 --> 00:04:33.350 align:start position:0%
+there are services i install
+inside<00:04:30.880><c> my</c><00:04:31.040><c> kubernetes</c><00:04:31.680><c> instance</c><00:04:32.080><c> it's</c><00:04:32.240><c> cncf</c>
+
+00:04:33.350 --> 00:04:33.360 align:start position:0%
+inside my kubernetes instance it's cncf
+ 
+
+00:04:33.360 --> 00:04:35.590 align:start position:0%
+inside my kubernetes instance it's cncf
+um<00:04:33.680><c> compatible</c><00:04:34.720><c> so</c><00:04:34.880><c> it's</c><00:04:35.040><c> compliant</c><00:04:35.440><c> with</c>
+
+00:04:35.590 --> 00:04:35.600 align:start position:0%
+um compatible so it's compliant with
+ 
+
+00:04:35.600 --> 00:04:38.710 align:start position:0%
+um compatible so it's compliant with
+cncf<00:04:36.800><c> doesn't</c><00:04:37.120><c> matter</c><00:04:37.360><c> where</c><00:04:37.600><c> it</c><00:04:37.759><c> is</c>
+
+00:04:38.710 --> 00:04:38.720 align:start position:0%
+cncf doesn't matter where it is
+ 
+
+00:04:38.720 --> 00:04:40.830 align:start position:0%
+cncf doesn't matter where it is
+aws<00:04:39.600><c> gcp</c>
+
+00:04:40.830 --> 00:04:40.840 align:start position:0%
+aws gcp
+ 
+
+00:04:40.840 --> 00:04:42.390 align:start position:0%
+aws gcp
+on-premises
+
+00:04:42.390 --> 00:04:42.400 align:start position:0%
+on-premises
+ 
+
+00:04:42.400 --> 00:04:44.469 align:start position:0%
+on-premises
+and<00:04:42.560><c> now</c><00:04:42.800><c> i'm</c><00:04:43.040><c> bringing</c><00:04:43.360><c> once</c><00:04:43.759><c> again</c><00:04:44.160><c> the</c>
+
+00:04:44.469 --> 00:04:44.479 align:start position:0%
+and now i'm bringing once again the
+ 
+
+00:04:44.479 --> 00:04:47.830 align:start position:0%
+and now i'm bringing once again the
+azure<00:04:45.160><c> capabilities</c><00:04:46.560><c> through</c><00:04:46.880><c> there</c><00:04:47.520><c> once</c>
+
+00:04:47.830 --> 00:04:47.840 align:start position:0%
+azure capabilities through there once
+ 
+
+00:04:47.840 --> 00:04:49.230 align:start position:0%
+azure capabilities through there once
+again<00:04:48.080><c> i'm</c><00:04:48.240><c> getting</c><00:04:48.639><c> all</c><00:04:48.800><c> of</c><00:04:48.960><c> these</c>
+
+00:04:49.230 --> 00:04:49.240 align:start position:0%
+again i'm getting all of these
+ 
+
+00:04:49.240 --> 00:04:51.430 align:start position:0%
+again i'm getting all of these
+capabilities<00:04:50.400><c> around</c>
+
+00:04:51.430 --> 00:04:51.440 align:start position:0%
+capabilities around
+ 
+
+00:04:51.440 --> 00:04:52.469 align:start position:0%
+capabilities around
+tagging
+
+00:04:52.469 --> 00:04:52.479 align:start position:0%
+tagging
+ 
+
+00:04:52.479 --> 00:04:53.990 align:start position:0%
+tagging
+policy
+
+00:04:53.990 --> 00:04:54.000 align:start position:0%
+policy
+ 
+
+00:04:54.000 --> 00:04:57.189 align:start position:0%
+policy
+i'm<00:04:54.240><c> defender</c><00:04:54.800><c> for</c><00:04:55.199><c> kubernetes</c>
+
+00:04:57.189 --> 00:04:57.199 align:start position:0%
+i'm defender for kubernetes
+ 
+
+00:04:57.199 --> 00:04:58.790 align:start position:0%
+i'm defender for kubernetes
+i<00:04:57.360><c> get</c><00:04:57.680><c> git</c><00:04:57.919><c> ops</c>
+
+00:04:58.790 --> 00:04:58.800 align:start position:0%
+i get git ops
+ 
+
+00:04:58.800 --> 00:05:02.550 align:start position:0%
+i get git ops
+i<00:04:59.040><c> have</c><00:04:59.280><c> the</c><00:04:59.520><c> idea</c><00:05:00.240><c> of</c><00:05:00.960><c> i</c><00:05:01.120><c> can</c><00:05:01.520><c> point</c><00:05:02.000><c> now</c><00:05:02.320><c> to</c><00:05:02.479><c> a</c>
+
+00:05:02.550 --> 00:05:02.560 align:start position:0%
+i have the idea of i can point now to a
+ 
+
+00:05:02.560 --> 00:05:05.110 align:start position:0%
+i have the idea of i can point now to a
+certain<00:05:02.960><c> git</c><00:05:03.360><c> repo</c>
+
+00:05:05.110 --> 00:05:05.120 align:start position:0%
+certain git repo
+ 
+
+00:05:05.120 --> 00:05:07.350 align:start position:0%
+certain git repo
+and<00:05:05.280><c> it</c><00:05:05.360><c> will</c><00:05:05.600><c> automatically</c><00:05:06.479><c> pull</c><00:05:06.800><c> down</c><00:05:07.199><c> the</c>
+
+00:05:07.350 --> 00:05:07.360 align:start position:0%
+and it will automatically pull down the
+ 
+
+00:05:07.360 --> 00:05:09.189 align:start position:0%
+and it will automatically pull down the
+deployment<00:05:07.840><c> manifest</c><00:05:08.479><c> of</c><00:05:08.560><c> what</c><00:05:08.800><c> should</c><00:05:08.960><c> be</c>
+
+00:05:09.189 --> 00:05:09.199 align:start position:0%
+deployment manifest of what should be
+ 
+
+00:05:09.199 --> 00:05:11.909 align:start position:0%
+deployment manifest of what should be
+deployed<00:05:09.919><c> into</c><00:05:10.240><c> there</c><00:05:10.960><c> so</c><00:05:11.199><c> i</c><00:05:11.360><c> get</c><00:05:11.520><c> these</c>
+
+00:05:11.909 --> 00:05:11.919 align:start position:0%
+deployed into there so i get these
+ 
+
+00:05:11.919 --> 00:05:15.110 align:start position:0%
+deployed into there so i get these
+really<00:05:12.320><c> great</c><00:05:12.960><c> features</c>
+
+00:05:15.110 --> 00:05:15.120 align:start position:0%
+really great features
+ 
+
+00:05:15.120 --> 00:05:16.629 align:start position:0%
+really great features
+in<00:05:15.280><c> terms</c><00:05:15.520><c> of</c><00:05:15.600><c> not</c><00:05:15.759><c> just</c><00:05:16.000><c> managing</c><00:05:16.400><c> the</c>
+
+00:05:16.629 --> 00:05:16.639 align:start position:0%
+in terms of not just managing the
+ 
+
+00:05:16.639 --> 00:05:19.749 align:start position:0%
+in terms of not just managing the
+kubernetes<00:05:17.919><c> but</c><00:05:18.400><c> managing</c><00:05:18.800><c> the</c><00:05:19.039><c> state</c><00:05:19.440><c> of</c><00:05:19.520><c> the</c>
+
+00:05:19.749 --> 00:05:19.759 align:start position:0%
+kubernetes but managing the state of the
+ 
+
+00:05:19.759 --> 00:05:23.430 align:start position:0%
+kubernetes but managing the state of the
+workloads<00:05:20.320><c> i</c><00:05:20.479><c> want</c><00:05:20.639><c> to</c><00:05:20.800><c> run</c><00:05:21.039><c> inside</c><00:05:21.520><c> it</c>
+
+00:05:23.430 --> 00:05:23.440 align:start position:0%
+workloads i want to run inside it
+ 
+
+00:05:23.440 --> 00:05:26.150 align:start position:0%
+workloads i want to run inside it
+once<00:05:23.759><c> i</c><00:05:23.919><c> have</c><00:05:24.240><c> arc</c><00:05:24.560><c> enabled</c><00:05:25.120><c> kubernetes</c><00:05:26.000><c> there</c>
+
+00:05:26.150 --> 00:05:26.160 align:start position:0%
+once i have arc enabled kubernetes there
+ 
+
+00:05:26.160 --> 00:05:28.710 align:start position:0%
+once i have arc enabled kubernetes there
+are<00:05:26.320><c> actually</c><00:05:26.560><c> a</c><00:05:26.720><c> whole</c><00:05:27.039><c> set</c><00:05:27.280><c> of</c><00:05:27.600><c> other</c><00:05:28.240><c> arc</c>
+
+00:05:28.710 --> 00:05:28.720 align:start position:0%
+are actually a whole set of other arc
+ 
+
+00:05:28.720 --> 00:05:31.350 align:start position:0%
+are actually a whole set of other arc
+services<00:05:29.520><c> that</c><00:05:29.759><c> sit</c><00:05:30.080><c> on</c><00:05:30.320><c> top</c><00:05:30.560><c> of</c><00:05:30.720><c> arc</c><00:05:30.880><c> enabled</c>
+
+00:05:31.350 --> 00:05:31.360 align:start position:0%
+services that sit on top of arc enabled
+ 
+
+00:05:31.360 --> 00:05:32.629 align:start position:0%
+services that sit on top of arc enabled
+kubernetes
+
+00:05:32.629 --> 00:05:32.639 align:start position:0%
+kubernetes
+ 
+
+00:05:32.639 --> 00:05:35.990 align:start position:0%
+kubernetes
+there<00:05:33.039><c> are</c><00:05:33.360><c> arc</c><00:05:33.680><c> enabled</c><00:05:34.320><c> data</c><00:05:34.800><c> services</c>
+
+00:05:35.990 --> 00:05:36.000 align:start position:0%
+there are arc enabled data services
+ 
+
+00:05:36.000 --> 00:05:38.870 align:start position:0%
+there are arc enabled data services
+sql<00:05:36.400><c> managed</c><00:05:36.800><c> instance</c><00:05:37.600><c> um</c><00:05:37.919><c> postgres</c><00:05:38.479><c> sql</c>
+
+00:05:38.870 --> 00:05:38.880 align:start position:0%
+sql managed instance um postgres sql
+ 
+
+00:05:38.880 --> 00:05:40.469 align:start position:0%
+sql managed instance um postgres sql
+hyperscale
+
+00:05:40.469 --> 00:05:40.479 align:start position:0%
+hyperscale
+ 
+
+00:05:40.479 --> 00:05:43.909 align:start position:0%
+hyperscale
+there<00:05:40.639><c> are</c><00:05:40.800><c> arc</c><00:05:41.120><c> enabled</c><00:05:41.759><c> app</c><00:05:42.160><c> services</c>
+
+00:05:43.909 --> 00:05:43.919 align:start position:0%
+there are arc enabled app services
+ 
+
+00:05:43.919 --> 00:05:45.749 align:start position:0%
+there are arc enabled app services
+and<00:05:44.080><c> once</c><00:05:44.320><c> again</c><00:05:44.479><c> these</c><00:05:44.800><c> all</c><00:05:44.960><c> sit</c><00:05:45.280><c> on</c><00:05:45.440><c> top</c><00:05:45.600><c> of</c>
+
+00:05:45.749 --> 00:05:45.759 align:start position:0%
+and once again these all sit on top of
+ 
+
+00:05:45.759 --> 00:05:48.629 align:start position:0%
+and once again these all sit on top of
+this<00:05:46.000><c> arc</c><00:05:46.240><c> enabled</c><00:05:46.639><c> kubernetes</c><00:05:47.759><c> app</c><00:05:48.080><c> services</c>
+
+00:05:48.629 --> 00:05:48.639 align:start position:0%
+this arc enabled kubernetes app services
+ 
+
+00:05:48.639 --> 00:05:51.590 align:start position:0%
+this arc enabled kubernetes app services
+functions<00:05:49.360><c> logic</c><00:05:49.759><c> apps</c><00:05:50.400><c> there's</c><00:05:50.800><c> also</c><00:05:51.360><c> arc</c>
+
+00:05:51.590 --> 00:05:51.600 align:start position:0%
+functions logic apps there's also arc
+ 
+
+00:05:51.600 --> 00:05:54.150 align:start position:0%
+functions logic apps there's also arc
+enabled<00:05:52.080><c> machine</c><00:05:52.560><c> learning</c><00:05:53.199><c> for</c><00:05:53.520><c> training</c>
+
+00:05:54.150 --> 00:05:54.160 align:start position:0%
+enabled machine learning for training
+ 
+
+00:05:54.160 --> 00:05:56.469 align:start position:0%
+enabled machine learning for training
+for<00:05:54.479><c> inferencing</c><00:05:55.600><c> and</c><00:05:55.759><c> these</c><00:05:56.080><c> are</c><00:05:56.160><c> actually</c>
+
+00:05:56.469 --> 00:05:56.479 align:start position:0%
+for inferencing and these are actually
+ 
+
+00:05:56.479 --> 00:05:58.870 align:start position:0%
+for inferencing and these are actually
+constantly<00:05:56.960><c> being</c><00:05:57.199><c> added</c><00:05:57.520><c> to</c><00:05:57.759><c> there's</c><00:05:58.080><c> now</c><00:05:58.479><c> um</c>
+
+00:05:58.870 --> 00:05:58.880 align:start position:0%
+constantly being added to there's now um
+ 
+
+00:05:58.880 --> 00:06:02.070 align:start position:0%
+constantly being added to there's now um
+vmware<00:05:59.600><c> vm</c><00:06:00.000><c> lifecycle</c><00:06:00.639><c> create</c><00:06:01.039><c> vm</c><00:06:01.360><c> start</c><00:06:01.680><c> vm</c>
+
+00:06:02.070 --> 00:06:02.080 align:start position:0%
+vmware vm lifecycle create vm start vm
+ 
+
+00:06:02.080 --> 00:06:05.110 align:start position:0%
+vmware vm lifecycle create vm start vm
+stop<00:06:02.319><c> vms</c><00:06:02.720><c> resize</c><00:06:03.199><c> vms</c><00:06:03.520><c> delete</c><00:06:03.919><c> vms</c><00:06:04.720><c> there's</c><00:06:04.960><c> a</c>
+
+00:06:05.110 --> 00:06:05.120 align:start position:0%
+stop vms resize vms delete vms there's a
+ 
+
+00:06:05.120 --> 00:06:08.629 align:start position:0%
+stop vms resize vms delete vms there's a
+whole<00:06:05.440><c> set</c><00:06:05.759><c> of</c><00:06:05.919><c> solutions</c><00:06:06.800><c> all</c><00:06:07.039><c> around</c><00:06:07.440><c> this</c>
+
+00:06:08.629 --> 00:06:08.639 align:start position:0%
+whole set of solutions all around this
+ 
+
+00:06:08.639 --> 00:06:11.990 align:start position:0%
+whole set of solutions all around this
+if<00:06:08.800><c> we</c><00:06:08.880><c> look</c><00:06:09.120><c> at</c><00:06:09.199><c> the</c><00:06:09.360><c> portal</c><00:06:09.840><c> super</c><00:06:10.160><c> quickly</c>
+
+00:06:11.990 --> 00:06:12.000 align:start position:0%
+if we look at the portal super quickly
+ 
+
+00:06:12.000 --> 00:06:15.990 align:start position:0%
+if we look at the portal super quickly
+and<00:06:12.240><c> i</c><00:06:12.400><c> just</c><00:06:12.720><c> look</c><00:06:13.120><c> at</c><00:06:13.680><c> my</c><00:06:14.000><c> azure</c><00:06:14.400><c> arc</c>
+
+00:06:15.990 --> 00:06:16.000 align:start position:0%
+and i just look at my azure arc
+ 
+
+00:06:16.000 --> 00:06:17.350 align:start position:0%
+and i just look at my azure arc
+you<00:06:16.160><c> can</c><00:06:16.319><c> see</c><00:06:16.560><c> them</c>
+
+00:06:17.350 --> 00:06:17.360 align:start position:0%
+you can see them
+ 
+
+00:06:17.360 --> 00:06:21.189 align:start position:0%
+you can see them
+well<00:06:17.919><c> sure</c><00:06:18.319><c> there's</c><00:06:18.800><c> arc</c><00:06:19.199><c> for</c><00:06:19.440><c> servers</c>
+
+00:06:21.189 --> 00:06:21.199 align:start position:0%
+well sure there's arc for servers
+ 
+
+00:06:21.199 --> 00:06:23.749 align:start position:0%
+well sure there's arc for servers
+there's<00:06:21.520><c> arc</c><00:06:21.840><c> for</c><00:06:22.080><c> kubernetes</c>
+
+00:06:23.749 --> 00:06:23.759 align:start position:0%
+there's arc for kubernetes
+ 
+
+00:06:23.759 --> 00:06:25.990 align:start position:0%
+there's arc for kubernetes
+if<00:06:24.080><c> i'm</c><00:06:24.319><c> using</c><00:06:24.639><c> some</c><00:06:24.800><c> of</c><00:06:24.960><c> the</c><00:06:25.199><c> azure</c><00:06:25.600><c> stack</c>
+
+00:06:25.990 --> 00:06:26.000 align:start position:0%
+if i'm using some of the azure stack
+ 
+
+00:06:26.000 --> 00:06:29.270 align:start position:0%
+if i'm using some of the azure stack
+solutions<00:06:26.639><c> like</c><00:06:26.880><c> hci</c><00:06:28.000><c> or</c><00:06:28.319><c> edge</c><00:06:28.560><c> i</c><00:06:28.720><c> can</c><00:06:28.960><c> layer</c>
+
+00:06:29.270 --> 00:06:29.280 align:start position:0%
+solutions like hci or edge i can layer
+ 
+
+00:06:29.280 --> 00:06:30.870 align:start position:0%
+solutions like hci or edge i can layer
+this<00:06:29.520><c> on</c><00:06:29.600><c> top</c><00:06:29.840><c> of</c><00:06:29.919><c> it</c><00:06:30.080><c> to</c><00:06:30.160><c> bring</c><00:06:30.400><c> additional</c>
+
+00:06:30.870 --> 00:06:30.880 align:start position:0%
+this on top of it to bring additional
+ 
+
+00:06:30.880 --> 00:06:32.950 align:start position:0%
+this on top of it to bring additional
+management<00:06:31.360><c> and</c><00:06:31.520><c> services</c>
+
+00:06:32.950 --> 00:06:32.960 align:start position:0%
+management and services
+ 
+
+00:06:32.960 --> 00:06:36.469 align:start position:0%
+management and services
+hey<00:06:33.199><c> there's</c><00:06:33.360><c> that</c><00:06:33.600><c> arc</c><00:06:34.080><c> for</c><00:06:34.400><c> vmware</c><00:06:34.960><c> vcenters</c>
+
+00:06:36.469 --> 00:06:36.479 align:start position:0%
+hey there's that arc for vmware vcenters
+ 
+
+00:06:36.479 --> 00:06:38.870 align:start position:0%
+hey there's that arc for vmware vcenters
+but<00:06:36.639><c> then</c><00:06:36.880><c> on</c><00:06:37.039><c> top</c><00:06:37.280><c> of</c><00:06:37.440><c> all</c><00:06:37.600><c> of</c><00:06:37.759><c> these</c><00:06:38.080><c> things</c>
+
+00:06:38.870 --> 00:06:38.880 align:start position:0%
+but then on top of all of these things
+ 
+
+00:06:38.880 --> 00:06:40.550 align:start position:0%
+but then on top of all of these things
+well<00:06:39.039><c> then</c><00:06:39.280><c> i</c><00:06:39.360><c> can</c><00:06:39.520><c> have</c><00:06:39.680><c> these</c><00:06:39.919><c> other</c><00:06:40.240><c> types</c>
+
+00:06:40.550 --> 00:06:40.560 align:start position:0%
+well then i can have these other types
+ 
+
+00:06:40.560 --> 00:06:42.070 align:start position:0%
+well then i can have these other types
+of<00:06:40.720><c> service</c>
+
+00:06:42.070 --> 00:06:42.080 align:start position:0%
+of service
+ 
+
+00:06:42.080 --> 00:06:44.950 align:start position:0%
+of service
+i<00:06:42.240><c> can</c><00:06:42.400><c> see</c><00:06:42.639><c> well</c><00:06:42.960><c> data</c><00:06:43.360><c> services</c>
+
+00:06:44.950 --> 00:06:44.960 align:start position:0%
+i can see well data services
+ 
+
+00:06:44.960 --> 00:06:48.150 align:start position:0%
+i can see well data services
+i<00:06:45.039><c> can</c><00:06:45.199><c> see</c><00:06:45.360><c> those</c><00:06:45.680><c> application</c><00:06:46.560><c> services</c>
+
+00:06:48.150 --> 00:06:48.160 align:start position:0%
+i can see those application services
+ 
+
+00:06:48.160 --> 00:06:50.950 align:start position:0%
+i can see those application services
+all<00:06:48.319><c> of</c><00:06:48.479><c> these</c><00:06:48.880><c> running</c><00:06:49.360><c> on</c><00:06:49.840><c> arc</c><00:06:50.479><c> so</c><00:06:50.639><c> i</c><00:06:50.800><c> can</c>
+
+00:06:50.950 --> 00:06:50.960 align:start position:0%
+all of these running on arc so i can
+ 
+
+00:06:50.960 --> 00:06:53.510 align:start position:0%
+all of these running on arc so i can
+really<00:06:51.280><c> think</c><00:06:51.520><c> about</c><00:06:51.919><c> what</c><00:06:52.160><c> is</c><00:06:52.479><c> arc</c>
+
+00:06:53.510 --> 00:06:53.520 align:start position:0%
+really think about what is arc
+ 
+
+00:06:53.520 --> 00:06:56.390 align:start position:0%
+really think about what is arc
+arc<00:06:53.840><c> is</c><00:06:54.080><c> all</c><00:06:54.240><c> about</c><00:06:54.479><c> the</c><00:06:54.720><c> idea</c><00:06:55.280><c> of</c><00:06:55.599><c> extending</c>
+
+00:06:56.390 --> 00:06:56.400 align:start position:0%
+arc is all about the idea of extending
+ 
+
+00:06:56.400 --> 00:07:01.110 align:start position:0%
+arc is all about the idea of extending
+that<00:06:56.720><c> control</c><00:06:57.360><c> plane</c><00:06:57.680><c> of</c><00:06:58.000><c> azure</c><00:06:58.880><c> to</c><00:06:59.120><c> capacity</c>
+
+00:07:01.110 --> 00:07:01.120 align:start position:0%
+that control plane of azure to capacity
+ 
+
+00:07:01.120 --> 00:07:04.550 align:start position:0%
+that control plane of azure to capacity
+be<00:07:01.280><c> it</c><00:07:01.440><c> an</c><00:07:01.680><c> os</c><00:07:02.319><c> or</c><00:07:02.560><c> kubernetes</c><00:07:03.840><c> wherever</c><00:07:04.319><c> that</c>
+
+00:07:04.550 --> 00:07:04.560 align:start position:0%
+be it an os or kubernetes wherever that
+ 
+
+00:07:04.560 --> 00:07:07.029 align:start position:0%
+be it an os or kubernetes wherever that
+capacity<00:07:05.199><c> may</c><00:07:05.440><c> reside</c><00:07:06.319><c> i'm</c><00:07:06.479><c> bringing</c><00:07:06.800><c> that</c>
+
+00:07:07.029 --> 00:07:07.039 align:start position:0%
+capacity may reside i'm bringing that
+ 
+
+00:07:07.039 --> 00:07:08.950 align:start position:0%
+capacity may reside i'm bringing that
+governance<00:07:07.680><c> i'm</c><00:07:07.759><c> bringing</c><00:07:08.080><c> those</c><00:07:08.240><c> security</c>
+
+00:07:08.950 --> 00:07:08.960 align:start position:0%
+governance i'm bringing those security
+ 
+
+00:07:08.960 --> 00:07:11.589 align:start position:0%
+governance i'm bringing those security
+features<00:07:09.360><c> those</c><00:07:09.599><c> benefits</c><00:07:10.160><c> of</c><00:07:10.479><c> azure</c>
+
+00:07:11.589 --> 00:07:11.599 align:start position:0%
+features those benefits of azure
+ 
+
+00:07:11.599 --> 00:07:14.230 align:start position:0%
+features those benefits of azure
+but<00:07:11.759><c> then</c><00:07:12.000><c> on</c><00:07:12.240><c> top</c><00:07:12.639><c> of</c><00:07:12.800><c> that</c><00:07:13.039><c> i</c><00:07:13.199><c> can</c><00:07:13.360><c> then</c><00:07:13.919><c> bring</c>
+
+00:07:14.230 --> 00:07:14.240 align:start position:0%
+but then on top of that i can then bring
+ 
+
+00:07:14.240 --> 00:07:17.189 align:start position:0%
+but then on top of that i can then bring
+down<00:07:14.479><c> a</c><00:07:14.560><c> layer</c><00:07:14.880><c> on</c><00:07:15.199><c> azure</c><00:07:16.080><c> resources</c><00:07:16.880><c> and</c><00:07:17.039><c> the</c>
+
+00:07:17.189 --> 00:07:17.199 align:start position:0%
+down a layer on azure resources and the
+ 
+
+00:07:17.199 --> 00:07:18.230 align:start position:0%
+down a layer on azure resources and the
+service
+
+00:07:18.230 --> 00:07:18.240 align:start position:0%
+service
+ 
+
+00:07:18.240 --> 00:07:20.550 align:start position:0%
+service
+data<00:07:18.639><c> services</c><00:07:19.280><c> app</c><00:07:19.599><c> services</c><00:07:20.080><c> machine</c>
+
+00:07:20.550 --> 00:07:20.560 align:start position:0%
+data services app services machine
+ 
+
+00:07:20.560 --> 00:07:23.110 align:start position:0%
+data services app services machine
+learning<00:07:21.039><c> services</c><00:07:21.840><c> wherever</c><00:07:22.240><c> that</c><00:07:22.479><c> may</c><00:07:22.800><c> be</c>
+
+00:07:23.110 --> 00:07:23.120 align:start position:0%
+learning services wherever that may be
+ 
+
+00:07:23.120 --> 00:07:25.589 align:start position:0%
+learning services wherever that may be
+really<00:07:23.360><c> enabling</c><00:07:24.160><c> a</c><00:07:24.319><c> consistent</c><00:07:25.120><c> hybrid</c>
+
+00:07:25.589 --> 00:07:25.599 align:start position:0%
+really enabling a consistent hybrid
+ 
+
+00:07:25.599 --> 00:07:28.070 align:start position:0%
+really enabling a consistent hybrid
+cloud<00:07:25.840><c> so</c><00:07:26.080><c> i</c><00:07:26.240><c> focus</c><00:07:26.639><c> on</c><00:07:26.880><c> the</c><00:07:27.199><c> azure</c><00:07:27.680><c> control</c>
+
+00:07:28.070 --> 00:07:28.080 align:start position:0%
+cloud so i focus on the azure control
+ 
+
+00:07:28.080 --> 00:07:29.189 align:start position:0%
+cloud so i focus on the azure control
+plane
+
+00:07:29.189 --> 00:07:29.199 align:start position:0%
+plane
+ 
+
+00:07:29.199 --> 00:07:31.270 align:start position:0%
+plane
+but<00:07:29.680><c> hey</c><00:07:29.919><c> is</c><00:07:30.000><c> that</c><00:07:30.160><c> capacity</c><00:07:30.639><c> is</c><00:07:30.880><c> in</c><00:07:31.039><c> other</c>
+
+00:07:31.270 --> 00:07:31.280 align:start position:0%
+but hey is that capacity is in other
+ 
+
+00:07:31.280 --> 00:07:34.070 align:start position:0%
+but hey is that capacity is in other
+places<00:07:31.759><c> as</c><00:07:31.919><c> i</c><00:07:32.080><c> need</c><00:07:32.319><c> it</c><00:07:32.720><c> it</c><00:07:32.800><c> doesn't</c><00:07:33.120><c> matter</c>
+
+00:07:34.070 --> 00:07:34.080 align:start position:0%
+places as i need it it doesn't matter
+ 
+
+00:07:34.080 --> 00:07:36.710 align:start position:0%
+places as i need it it doesn't matter
+our<00:07:34.319><c> enabled</c><00:07:34.720><c> servers</c><00:07:35.199><c> archival</c><00:07:35.759><c> kubernetes</c>
+
+00:07:36.710 --> 00:07:36.720 align:start position:0%
+our enabled servers archival kubernetes
+ 
+
+00:07:36.720 --> 00:07:39.510 align:start position:0%
+our enabled servers archival kubernetes
+on-prem<00:07:37.280><c> in</c><00:07:37.440><c> other</c><00:07:37.759><c> clouds</c><00:07:38.400><c> then</c><00:07:38.639><c> on</c><00:07:39.280><c> this</c>
+
+00:07:39.510 --> 00:07:39.520 align:start position:0%
+on-prem in other clouds then on this
+ 
+
+00:07:39.520 --> 00:07:42.710 align:start position:0%
+on-prem in other clouds then on this
+kubernetes<00:07:40.319><c> wherever</c><00:07:40.639><c> it</c><00:07:40.800><c> resides</c><00:07:41.840><c> data</c>
+
+00:07:42.710 --> 00:07:42.720 align:start position:0%
+kubernetes wherever it resides data
+ 
+
+00:07:42.720 --> 00:07:45.589 align:start position:0%
+kubernetes wherever it resides data
+machine<00:07:43.039><c> learning</c><00:07:44.080><c> that's</c><00:07:44.400><c> what</c><00:07:44.639><c> arc</c><00:07:45.039><c> is</c><00:07:45.280><c> it's</c>
+
+00:07:45.589 --> 00:07:45.599 align:start position:0%
+machine learning that's what arc is it's
+ 
+
+00:07:45.599 --> 00:07:48.629 align:start position:0%
+machine learning that's what arc is it's
+bringing<00:07:46.000><c> those</c><00:07:46.479><c> azure</c><00:07:46.879><c> capabilities</c>
+
+00:07:48.629 --> 00:07:48.639 align:start position:0%
+bringing those azure capabilities
+ 
+
+00:07:48.639 --> 00:07:52.759 align:start position:0%
+bringing those azure capabilities
+to<00:07:48.800><c> wherever</c><00:07:49.280><c> i</c><00:07:49.440><c> have</c><00:07:49.599><c> that</c><00:07:49.759><c> capacity</c>
+

@@ -1,0 +1,1104 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.120 --> 00:00:02.389 align:start position:0%
+ 
+in<00:00:01.280><c> this</c><00:00:01.520><c> lesson</c><00:00:01.839><c> we're</c><00:00:01.920><c> going</c><00:00:02.000><c> to</c><00:00:02.080><c> look</c><00:00:02.320><c> at</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+in this lesson we're going to look at
+ 
+
+00:00:02.399 --> 00:00:05.749 align:start position:0%
+in this lesson we're going to look at
+the<00:00:02.560><c> functionality</c><00:00:03.280><c> and</c><00:00:03.439><c> usage</c><00:00:04.080><c> of</c><00:00:04.640><c> tags</c><00:00:05.600><c> and</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+the functionality and usage of tags and
+ 
+
+00:00:05.759 --> 00:00:07.590 align:start position:0%
+the functionality and usage of tags and
+i'm<00:00:05.920><c> going</c><00:00:06.000><c> to</c><00:00:06.160><c> use</c><00:00:06.480><c> the</c><00:00:06.720><c> same</c><00:00:07.120><c> picture</c>
+
+00:00:07.590 --> 00:00:07.600 align:start position:0%
+i'm going to use the same picture
+ 
+
+00:00:07.600 --> 00:00:10.629 align:start position:0%
+i'm going to use the same picture
+because<00:00:08.320><c> it</c><00:00:08.480><c> actually</c><00:00:08.800><c> applies</c><00:00:09.360><c> here</c><00:00:09.679><c> as</c><00:00:09.760><c> well</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+because it actually applies here as well
+ 
+
+00:00:10.639 --> 00:00:12.789 align:start position:0%
+because it actually applies here as well
+if<00:00:10.960><c> resource</c><00:00:11.599><c> locks</c><00:00:11.840><c> could</c><00:00:12.000><c> be</c><00:00:12.160><c> applied</c><00:00:12.480><c> at</c><00:00:12.639><c> a</c>
+
+00:00:12.789 --> 00:00:12.799 align:start position:0%
+if resource locks could be applied at a
+ 
+
+00:00:12.799 --> 00:00:15.749 align:start position:0%
+if resource locks could be applied at a
+subscription<00:00:13.599><c> resource</c><00:00:14.160><c> group</c><00:00:14.400><c> and</c><00:00:14.559><c> resource</c>
+
+00:00:15.749 --> 00:00:15.759 align:start position:0%
+subscription resource group and resource
+ 
+
+00:00:15.759 --> 00:00:18.710 align:start position:0%
+subscription resource group and resource
+well<00:00:15.920><c> when</c><00:00:16.160><c> i</c><00:00:16.240><c> think</c><00:00:16.480><c> about</c><00:00:16.880><c> a</c><00:00:17.119><c> tag</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+well when i think about a tag
+ 
+
+00:00:18.720 --> 00:00:21.910 align:start position:0%
+well when i think about a tag
+a<00:00:19.039><c> tag</c><00:00:19.600><c> is</c><00:00:19.840><c> just</c><00:00:20.560><c> metadata</c>
+
+00:00:21.910 --> 00:00:21.920 align:start position:0%
+a tag is just metadata
+ 
+
+00:00:21.920 --> 00:00:24.470 align:start position:0%
+a tag is just metadata
+it's<00:00:22.320><c> a</c><00:00:22.560><c> key</c>
+
+00:00:24.470 --> 00:00:24.480 align:start position:0%
+it's a key
+ 
+
+00:00:24.480 --> 00:00:27.429 align:start position:0%
+it's a key
+and<00:00:24.720><c> then</c><00:00:25.279><c> a</c><00:00:25.599><c> value</c>
+
+00:00:27.429 --> 00:00:27.439 align:start position:0%
+and then a value
+ 
+
+00:00:27.439 --> 00:00:29.589 align:start position:0%
+and then a value
+and<00:00:27.599><c> i</c><00:00:27.760><c> can</c><00:00:27.920><c> apply</c><00:00:28.480><c> tags</c>
+
+00:00:29.589 --> 00:00:29.599 align:start position:0%
+and i can apply tags
+ 
+
+00:00:29.599 --> 00:00:32.389 align:start position:0%
+and i can apply tags
+at<00:00:30.240><c> a</c><00:00:30.320><c> subscription</c>
+
+00:00:32.389 --> 00:00:32.399 align:start position:0%
+at a subscription
+ 
+
+00:00:32.399 --> 00:00:34.790 align:start position:0%
+at a subscription
+at<00:00:32.719><c> a</c><00:00:32.880><c> resource</c><00:00:33.520><c> group</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+at a resource group
+ 
+
+00:00:34.800 --> 00:00:37.750 align:start position:0%
+at a resource group
+and<00:00:35.520><c> a</c><00:00:35.840><c> resource</c><00:00:36.800><c> level</c>
+
+00:00:37.750 --> 00:00:37.760 align:start position:0%
+and a resource level
+ 
+
+00:00:37.760 --> 00:00:41.350 align:start position:0%
+and a resource level
+now<00:00:38.000><c> a</c><00:00:38.160><c> key</c><00:00:38.480><c> point</c><00:00:38.719><c> about</c><00:00:39.200><c> tags</c><00:00:39.600><c> is</c><00:00:39.760><c> metadata</c>
+
+00:00:41.350 --> 00:00:41.360 align:start position:0%
+now a key point about tags is metadata
+ 
+
+00:00:41.360 --> 00:00:43.750 align:start position:0%
+now a key point about tags is metadata
+it<00:00:41.680><c> is</c><00:00:42.320><c> not</c>
+
+00:00:43.750 --> 00:00:43.760 align:start position:0%
+it is not
+ 
+
+00:00:43.760 --> 00:00:47.430 align:start position:0%
+it is not
+inherited
+
+00:00:47.430 --> 00:00:47.440 align:start position:0%
+ 
+ 
+
+00:00:47.440 --> 00:00:50.229 align:start position:0%
+ 
+if<00:00:47.680><c> i</c><00:00:47.920><c> create</c><00:00:48.399><c> a</c><00:00:48.480><c> tag</c><00:00:48.800><c> on</c><00:00:48.879><c> a</c><00:00:48.960><c> resource</c><00:00:49.520><c> group</c><00:00:50.079><c> it</c>
+
+00:00:50.229 --> 00:00:50.239 align:start position:0%
+if i create a tag on a resource group it
+ 
+
+00:00:50.239 --> 00:00:52.389 align:start position:0%
+if i create a tag on a resource group it
+does<00:00:50.399><c> not</c><00:00:50.719><c> get</c><00:00:51.039><c> inherited</c><00:00:51.600><c> and</c><00:00:51.760><c> applied</c><00:00:52.239><c> to</c>
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+does not get inherited and applied to
+ 
+
+00:00:52.399 --> 00:00:54.790 align:start position:0%
+does not get inherited and applied to
+the<00:00:52.559><c> resources</c><00:00:53.199><c> within</c><00:00:53.520><c> the</c><00:00:53.600><c> resource</c><00:00:54.160><c> group</c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+the resources within the resource group
+ 
+
+00:00:54.800 --> 00:00:57.510 align:start position:0%
+the resources within the resource group
+if<00:00:55.039><c> i</c><00:00:55.280><c> want</c><00:00:55.600><c> that</c><00:00:55.840><c> to</c><00:00:56.079><c> happen</c><00:00:56.559><c> i</c><00:00:56.719><c> can</c><00:00:56.879><c> use</c><00:00:57.199><c> azure</c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+if i want that to happen i can use azure
+ 
+
+00:00:57.520 --> 00:00:58.470 align:start position:0%
+if i want that to happen i can use azure
+policy
+
+00:00:58.470 --> 00:00:58.480 align:start position:0%
+policy
+ 
+
+00:00:58.480 --> 00:00:59.990 align:start position:0%
+policy
+i<00:00:58.640><c> could</c><00:00:58.800><c> have</c><00:00:58.879><c> a</c><00:00:58.960><c> policy</c><00:00:59.359><c> that</c><00:00:59.520><c> says</c><00:00:59.680><c> hey</c><00:00:59.920><c> if</c>
+
+00:00:59.990 --> 00:01:00.000 align:start position:0%
+i could have a policy that says hey if
+ 
+
+00:01:00.000 --> 00:01:02.950 align:start position:0%
+i could have a policy that says hey if
+i'm<00:01:00.160><c> missing</c><00:01:00.559><c> a</c><00:01:00.800><c> tag</c><00:01:01.120><c> on</c><00:01:01.199><c> this</c><00:01:01.440><c> resource</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+i'm missing a tag on this resource
+ 
+
+00:01:02.960 --> 00:01:05.030 align:start position:0%
+i'm missing a tag on this resource
+copy<00:01:03.280><c> the</c><00:01:03.359><c> value</c><00:01:03.760><c> from</c><00:01:04.000><c> its</c><00:01:04.159><c> parent</c><00:01:04.559><c> resource</c>
+
+00:01:05.030 --> 00:01:05.040 align:start position:0%
+copy the value from its parent resource
+ 
+
+00:01:05.040 --> 00:01:06.390 align:start position:0%
+copy the value from its parent resource
+group<00:01:05.280><c> or</c><00:01:05.360><c> copy</c><00:01:05.680><c> it</c><00:01:05.760><c> from</c><00:01:05.920><c> its</c><00:01:06.080><c> parent</c>
+
+00:01:06.390 --> 00:01:06.400 align:start position:0%
+group or copy it from its parent
+ 
+
+00:01:06.400 --> 00:01:07.670 align:start position:0%
+group or copy it from its parent
+subscription
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+subscription
+ 
+
+00:01:07.680 --> 00:01:08.630 align:start position:0%
+subscription
+but
+
+00:01:08.630 --> 00:01:08.640 align:start position:0%
+but
+ 
+
+00:01:08.640 --> 00:01:10.950 align:start position:0%
+but
+under<00:01:08.880><c> normal</c><00:01:09.200><c> circumstances</c>
+
+00:01:10.950 --> 00:01:10.960 align:start position:0%
+under normal circumstances
+ 
+
+00:01:10.960 --> 00:01:12.870 align:start position:0%
+under normal circumstances
+these<00:01:11.280><c> are</c><00:01:11.520><c> not</c><00:01:11.840><c> inherited</c><00:01:12.320><c> it's</c><00:01:12.400><c> saying</c><00:01:12.720><c> i</c>
+
+00:01:12.870 --> 00:01:12.880 align:start position:0%
+these are not inherited it's saying i
+ 
+
+00:01:12.880 --> 00:01:15.749 align:start position:0%
+these are not inherited it's saying i
+set<00:01:13.280><c> directly</c><00:01:13.840><c> on</c><00:01:14.000><c> a</c><00:01:14.080><c> subscription</c><00:01:15.200><c> resource</c>
+
+00:01:15.749 --> 00:01:15.759 align:start position:0%
+set directly on a subscription resource
+ 
+
+00:01:15.759 --> 00:01:17.510 align:start position:0%
+set directly on a subscription resource
+group<00:01:16.080><c> or</c><00:01:16.240><c> resource</c><00:01:16.720><c> and</c><00:01:16.880><c> it</c><00:01:17.040><c> is</c><00:01:17.200><c> just</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+group or resource and it is just
+ 
+
+00:01:17.520 --> 00:01:19.190 align:start position:0%
+group or resource and it is just
+metadata
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+metadata
+ 
+
+00:01:19.200 --> 00:01:21.590 align:start position:0%
+metadata
+and<00:01:19.360><c> typically</c><00:01:19.840><c> as</c><00:01:19.920><c> an</c><00:01:20.159><c> organization</c><00:01:21.360><c> i'll</c>
+
+00:01:21.590 --> 00:01:21.600 align:start position:0%
+and typically as an organization i'll
+ 
+
+00:01:21.600 --> 00:01:23.590 align:start position:0%
+and typically as an organization i'll
+have<00:01:22.000><c> some</c><00:01:22.479><c> scheme</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+have some scheme
+ 
+
+00:01:23.600 --> 00:01:25.910 align:start position:0%
+have some scheme
+of<00:01:23.840><c> the</c><00:01:24.080><c> tags</c><00:01:24.400><c> that</c><00:01:24.560><c> i</c><00:01:24.720><c> want</c><00:01:24.960><c> to</c><00:01:25.119><c> use</c><00:01:25.600><c> and</c><00:01:25.759><c> for</c>
+
+00:01:25.910 --> 00:01:25.920 align:start position:0%
+of the tags that i want to use and for
+ 
+
+00:01:25.920 --> 00:01:27.990 align:start position:0%
+of the tags that i want to use and for
+their<00:01:26.240><c> purpose</c><00:01:27.040><c> i</c><00:01:27.200><c> think</c><00:01:27.360><c> about</c><00:01:27.600><c> using</c><00:01:27.840><c> them</c>
+
+00:01:27.990 --> 00:01:28.000 align:start position:0%
+their purpose i think about using them
+ 
+
+00:01:28.000 --> 00:01:30.230 align:start position:0%
+their purpose i think about using them
+for<00:01:28.240><c> resource</c><00:01:28.799><c> management</c><00:01:29.600><c> maybe</c><00:01:29.840><c> i'm</c>
+
+00:01:30.230 --> 00:01:30.240 align:start position:0%
+for resource management maybe i'm
+ 
+
+00:01:30.240 --> 00:01:32.310 align:start position:0%
+for resource management maybe i'm
+identifying<00:01:30.799><c> the</c><00:01:30.960><c> environment</c><00:01:31.600><c> the</c><00:01:31.920><c> type</c><00:01:32.159><c> of</c>
+
+00:01:32.310 --> 00:01:32.320 align:start position:0%
+identifying the environment the type of
+ 
+
+00:01:32.320 --> 00:01:34.310 align:start position:0%
+identifying the environment the type of
+resource<00:01:32.880><c> a</c><00:01:33.040><c> business</c><00:01:33.439><c> unit</c><00:01:33.680><c> maybe</c><00:01:33.920><c> for</c><00:01:34.079><c> cost</c>
+
+00:01:34.310 --> 00:01:34.320 align:start position:0%
+resource a business unit maybe for cost
+ 
+
+00:01:34.320 --> 00:01:36.469 align:start position:0%
+resource a business unit maybe for cost
+management<00:01:35.040><c> i</c><00:01:35.200><c> want</c><00:01:35.360><c> to</c><00:01:35.439><c> tag</c><00:01:35.680><c> a</c><00:01:35.759><c> certain</c><00:01:36.159><c> cost</c>
+
+00:01:36.469 --> 00:01:36.479 align:start position:0%
+management i want to tag a certain cost
+ 
+
+00:01:36.479 --> 00:01:37.429 align:start position:0%
+management i want to tag a certain cost
+center
+
+00:01:37.429 --> 00:01:37.439 align:start position:0%
+center
+ 
+
+00:01:37.439 --> 00:01:39.270 align:start position:0%
+center
+might<00:01:37.600><c> be</c><00:01:37.840><c> security</c><00:01:38.560><c> hey</c><00:01:38.799><c> this</c><00:01:38.960><c> is</c><00:01:39.119><c> a</c>
+
+00:01:39.270 --> 00:01:39.280 align:start position:0%
+might be security hey this is a
+ 
+
+00:01:39.280 --> 00:01:40.870 align:start position:0%
+might be security hey this is a
+confidentiality
+
+00:01:40.870 --> 00:01:40.880 align:start position:0%
+confidentiality
+ 
+
+00:01:40.880 --> 00:01:43.109 align:start position:0%
+confidentiality
+based<00:01:41.200><c> resource</c><00:01:41.680><c> or</c><00:01:41.840><c> it's</c><00:01:42.079><c> public</c><00:01:42.799><c> maybe</c>
+
+00:01:43.109 --> 00:01:43.119 align:start position:0%
+based resource or it's public maybe
+ 
+
+00:01:43.119 --> 00:01:44.630 align:start position:0%
+based resource or it's public maybe
+regulatory<00:01:43.600><c> i</c><00:01:43.680><c> need</c><00:01:43.759><c> to</c><00:01:43.920><c> tag</c><00:01:44.159><c> it</c><00:01:44.240><c> with</c>
+
+00:01:44.630 --> 00:01:44.640 align:start position:0%
+regulatory i need to tag it with
+ 
+
+00:01:44.640 --> 00:01:46.550 align:start position:0%
+regulatory i need to tag it with
+regulatory<00:01:45.119><c> compliance</c><00:01:45.680><c> applies</c><00:01:46.079><c> to</c><00:01:46.240><c> these</c>
+
+00:01:46.550 --> 00:01:46.560 align:start position:0%
+regulatory compliance applies to these
+ 
+
+00:01:46.560 --> 00:01:47.910 align:start position:0%
+regulatory compliance applies to these
+resources
+
+00:01:47.910 --> 00:01:47.920 align:start position:0%
+resources
+ 
+
+00:01:47.920 --> 00:01:49.350 align:start position:0%
+resources
+i<00:01:48.079><c> can</c><00:01:48.240><c> configure</c><00:01:48.720><c> it</c><00:01:48.880><c> through</c><00:01:49.119><c> all</c><00:01:49.200><c> the</c>
+
+00:01:49.350 --> 00:01:49.360 align:start position:0%
+i can configure it through all the
+ 
+
+00:01:49.360 --> 00:01:51.910 align:start position:0%
+i can configure it through all the
+normal<00:01:49.680><c> means</c><00:01:50.000><c> a</c><00:01:50.159><c> template</c><00:01:50.720><c> a</c><00:01:50.960><c> power</c><00:01:51.360><c> shell</c><00:01:51.759><c> a</c>
+
+00:01:51.910 --> 00:01:51.920 align:start position:0%
+normal means a template a power shell a
+ 
+
+00:01:51.920 --> 00:01:53.109 align:start position:0%
+normal means a template a power shell a
+cli
+
+00:01:53.109 --> 00:01:53.119 align:start position:0%
+cli
+ 
+
+00:01:53.119 --> 00:01:55.270 align:start position:0%
+cli
+i<00:01:53.280><c> can</c><00:01:53.439><c> use</c><00:01:53.600><c> the</c><00:01:53.759><c> portal</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+i can use the portal
+ 
+
+00:01:55.280 --> 00:01:58.149 align:start position:0%
+i can use the portal
+if<00:01:55.439><c> i</c><00:01:55.520><c> want</c><00:01:55.840><c> to</c><00:01:56.159><c> enforce</c>
+
+00:01:58.149 --> 00:01:58.159 align:start position:0%
+if i want to enforce
+ 
+
+00:01:58.159 --> 00:02:00.310 align:start position:0%
+if i want to enforce
+the<00:01:58.320><c> creation</c><00:01:58.960><c> of</c><00:01:59.200><c> tags</c><00:01:59.600><c> so</c><00:01:59.759><c> if</c><00:01:59.840><c> i</c><00:01:59.920><c> want</c><00:02:00.159><c> to</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+the creation of tags so if i want to
+ 
+
+00:02:00.320 --> 00:02:02.230 align:start position:0%
+the creation of tags so if i want to
+enforce<00:02:01.040><c> this</c>
+
+00:02:02.230 --> 00:02:02.240 align:start position:0%
+enforce this
+ 
+
+00:02:02.240 --> 00:02:04.870 align:start position:0%
+enforce this
+well<00:02:02.560><c> i</c><00:02:02.719><c> would</c><00:02:02.960><c> use</c><00:02:03.680><c> azure</c><00:02:04.079><c> policy</c><00:02:04.640><c> which</c><00:02:04.799><c> is</c>
+
+00:02:04.870 --> 00:02:04.880 align:start position:0%
+well i would use azure policy which is
+ 
+
+00:02:04.880 --> 00:02:06.630 align:start position:0%
+well i would use azure policy which is
+saying<00:02:05.119><c> we're</c><00:02:05.280><c> going</c><00:02:05.439><c> to</c><00:02:05.520><c> talk</c><00:02:05.759><c> about</c><00:02:06.479><c> but</c>
+
+00:02:06.630 --> 00:02:06.640 align:start position:0%
+saying we're going to talk about but
+ 
+
+00:02:06.640 --> 00:02:08.949 align:start position:0%
+saying we're going to talk about but
+this<00:02:06.880><c> is</c><00:02:07.040><c> how</c><00:02:07.360><c> i</c><00:02:07.520><c> could</c><00:02:07.759><c> enforce</c><00:02:08.800><c> the</c>
+
+00:02:08.949 --> 00:02:08.959 align:start position:0%
+this is how i could enforce the
+ 
+
+00:02:08.959 --> 00:02:10.869 align:start position:0%
+this is how i could enforce the
+requirement<00:02:09.599><c> of</c><00:02:09.679><c> the</c><00:02:09.840><c> tag</c><00:02:10.080><c> now</c><00:02:10.239><c> be</c><00:02:10.479><c> careful</c>
+
+00:02:10.869 --> 00:02:10.879 align:start position:0%
+requirement of the tag now be careful
+ 
+
+00:02:10.879 --> 00:02:12.150 align:start position:0%
+requirement of the tag now be careful
+with<00:02:11.039><c> that</c>
+
+00:02:12.150 --> 00:02:12.160 align:start position:0%
+with that
+ 
+
+00:02:12.160 --> 00:02:13.910 align:start position:0%
+with that
+if<00:02:12.400><c> i</c><00:02:12.560><c> enforce</c>
+
+00:02:13.910 --> 00:02:13.920 align:start position:0%
+if i enforce
+ 
+
+00:02:13.920 --> 00:02:16.550 align:start position:0%
+if i enforce
+tags<00:02:14.160><c> to</c><00:02:14.319><c> be</c><00:02:14.480><c> present</c><00:02:15.360><c> and</c><00:02:15.520><c> i</c><00:02:15.760><c> don't</c><00:02:16.000><c> specify</c>
+
+00:02:16.550 --> 00:02:16.560 align:start position:0%
+tags to be present and i don't specify
+ 
+
+00:02:16.560 --> 00:02:18.150 align:start position:0%
+tags to be present and i don't specify
+the<00:02:16.720><c> tag</c><00:02:16.959><c> or</c><00:02:17.040><c> maybe</c><00:02:17.280><c> i'm</c><00:02:17.360><c> using</c><00:02:17.599><c> some</c><00:02:17.760><c> template</c>
+
+00:02:18.150 --> 00:02:18.160 align:start position:0%
+the tag or maybe i'm using some template
+ 
+
+00:02:18.160 --> 00:02:20.470 align:start position:0%
+the tag or maybe i'm using some template
+where<00:02:18.400><c> i</c><00:02:18.560><c> can't</c><00:02:19.440><c> it</c><00:02:19.520><c> won't</c><00:02:19.760><c> let</c><00:02:19.920><c> me</c><00:02:20.080><c> create</c><00:02:20.400><c> the</c>
+
+00:02:20.470 --> 00:02:20.480 align:start position:0%
+where i can't it won't let me create the
+ 
+
+00:02:20.480 --> 00:02:23.030 align:start position:0%
+where i can't it won't let me create the
+resource<00:02:21.280><c> so</c><00:02:21.520><c> just</c><00:02:21.680><c> be</c><00:02:22.080><c> careful</c><00:02:22.560><c> of</c><00:02:22.720><c> doing</c>
+
+00:02:23.030 --> 00:02:23.040 align:start position:0%
+resource so just be careful of doing
+ 
+
+00:02:23.040 --> 00:02:24.869 align:start position:0%
+resource so just be careful of doing
+that<00:02:23.280><c> kind</c><00:02:23.440><c> of</c><00:02:23.599><c> enforcement</c>
+
+00:02:24.869 --> 00:02:24.879 align:start position:0%
+that kind of enforcement
+ 
+
+00:02:24.879 --> 00:02:27.110 align:start position:0%
+that kind of enforcement
+but<00:02:25.120><c> they're</c><00:02:25.360><c> just</c><00:02:25.760><c> metadata</c><00:02:26.800><c> on</c><00:02:26.959><c> the</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+but they're just metadata on the
+ 
+
+00:02:27.120 --> 00:02:29.910 align:start position:0%
+but they're just metadata on the
+resource<00:02:27.920><c> i</c><00:02:28.080><c> can</c><00:02:28.239><c> apply</c><00:02:28.480><c> it</c><00:02:28.560><c> to</c><00:02:28.800><c> anything</c><00:02:29.680><c> so</c>
+
+00:02:29.910 --> 00:02:29.920 align:start position:0%
+resource i can apply it to anything so
+ 
+
+00:02:29.920 --> 00:02:31.350 align:start position:0%
+resource i can apply it to anything so
+this<00:02:30.239><c> kind</c><00:02:30.480><c> of</c><00:02:30.560><c> storage</c><00:02:30.879><c> account</c><00:02:31.120><c> we</c><00:02:31.280><c> were</c>
+
+00:02:31.350 --> 00:02:31.360 align:start position:0%
+this kind of storage account we were
+ 
+
+00:02:31.360 --> 00:02:34.070 align:start position:0%
+this kind of storage account we were
+looking<00:02:31.680><c> at</c><00:02:32.000><c> hey</c><00:02:32.160><c> look</c><00:02:32.400><c> there's</c><00:02:33.040><c> tags</c><00:02:33.440><c> option</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+looking at hey look there's tags option
+ 
+
+00:02:34.080 --> 00:02:36.070 align:start position:0%
+looking at hey look there's tags option
+and<00:02:34.239><c> you'll</c><00:02:34.480><c> actually</c><00:02:34.720><c> notice</c><00:02:35.120><c> it</c><00:02:35.360><c> has</c><00:02:35.680><c> this</c>
+
+00:02:36.070 --> 00:02:36.080 align:start position:0%
+and you'll actually notice it has this
+ 
+
+00:02:36.080 --> 00:02:39.830 align:start position:0%
+and you'll actually notice it has this
+tag<00:02:36.480><c> here</c><00:02:36.879><c> cost</c><00:02:37.440><c> center</c><00:02:38.400><c> core</c><00:02:38.720><c> id</c>
+
+00:02:39.830 --> 00:02:39.840 align:start position:0%
+tag here cost center core id
+ 
+
+00:02:39.840 --> 00:02:41.990 align:start position:0%
+tag here cost center core id
+now<00:02:40.080><c> i</c><00:02:40.160><c> didn't</c><00:02:40.400><c> manually</c><00:02:40.879><c> set</c><00:02:41.200><c> that</c><00:02:41.840><c> what</c>
+
+00:02:41.990 --> 00:02:42.000 align:start position:0%
+now i didn't manually set that what
+ 
+
+00:02:42.000 --> 00:02:43.750 align:start position:0%
+now i didn't manually set that what
+actually<00:02:42.319><c> happened</c><00:02:42.640><c> is</c><00:02:42.879><c> i</c><00:02:43.040><c> have</c><00:02:43.280><c> an</c><00:02:43.440><c> azure</c>
+
+00:02:43.750 --> 00:02:43.760 align:start position:0%
+actually happened is i have an azure
+ 
+
+00:02:43.760 --> 00:02:46.869 align:start position:0%
+actually happened is i have an azure
+policy<00:02:44.560><c> that's</c><00:02:44.959><c> automatically</c><00:02:46.000><c> setting</c><00:02:46.480><c> that</c>
+
+00:02:46.869 --> 00:02:46.879 align:start position:0%
+policy that's automatically setting that
+ 
+
+00:02:46.879 --> 00:02:47.910 align:start position:0%
+policy that's automatically setting that
+tag
+
+00:02:47.910 --> 00:02:47.920 align:start position:0%
+tag
+ 
+
+00:02:47.920 --> 00:02:49.910 align:start position:0%
+tag
+but<00:02:48.080><c> if</c><00:02:48.239><c> i</c><00:02:48.319><c> actually</c><00:02:48.720><c> jump</c><00:02:49.040><c> over</c><00:02:49.360><c> and</c><00:02:49.519><c> look</c><00:02:49.760><c> at</c>
+
+00:02:49.910 --> 00:02:49.920 align:start position:0%
+but if i actually jump over and look at
+ 
+
+00:02:49.920 --> 00:02:53.190 align:start position:0%
+but if i actually jump over and look at
+for<00:02:50.080><c> example</c><00:02:50.560><c> my</c><00:02:51.040><c> virtual</c><00:02:51.599><c> machines</c>
+
+00:02:53.190 --> 00:02:53.200 align:start position:0%
+for example my virtual machines
+ 
+
+00:02:53.200 --> 00:02:55.589 align:start position:0%
+for example my virtual machines
+if<00:02:53.280><c> i</c><00:02:53.360><c> look</c><00:02:53.519><c> at</c><00:02:53.599><c> my</c><00:02:53.760><c> demo</c><00:02:54.160><c> vm</c>
+
+00:02:55.589 --> 00:02:55.599 align:start position:0%
+if i look at my demo vm
+ 
+
+00:02:55.599 --> 00:02:59.990 align:start position:0%
+if i look at my demo vm
+and<00:02:55.760><c> i</c><00:02:55.920><c> look</c><00:02:56.239><c> at</c><00:02:56.640><c> its</c><00:02:57.200><c> particular</c><00:02:57.840><c> tags</c>
+
+00:02:59.990 --> 00:03:00.000 align:start position:0%
+and i look at its particular tags
+ 
+
+00:03:00.000 --> 00:03:02.070 align:start position:0%
+and i look at its particular tags
+well<00:03:00.640><c> here</c>
+
+00:03:02.070 --> 00:03:02.080 align:start position:0%
+well here
+ 
+
+00:03:02.080 --> 00:03:03.750 align:start position:0%
+well here
+let's<00:03:02.319><c> have</c><00:03:02.480><c> a</c><00:03:02.560><c> quick</c><00:03:02.800><c> look</c>
+
+00:03:03.750 --> 00:03:03.760 align:start position:0%
+let's have a quick look
+ 
+
+00:03:03.760 --> 00:03:05.190 align:start position:0%
+let's have a quick look
+you<00:03:03.920><c> can</c><00:03:04.000><c> see</c><00:03:04.159><c> hey</c><00:03:04.319><c> i've</c><00:03:04.400><c> got</c><00:03:04.560><c> the</c><00:03:04.640><c> idea</c><00:03:04.959><c> of</c>
+
+00:03:05.190 --> 00:03:05.200 align:start position:0%
+you can see hey i've got the idea of
+ 
+
+00:03:05.200 --> 00:03:06.869 align:start position:0%
+you can see hey i've got the idea of
+cost<00:03:05.519><c> center</c>
+
+00:03:06.869 --> 00:03:06.879 align:start position:0%
+cost center
+ 
+
+00:03:06.879 --> 00:03:08.070 align:start position:0%
+cost center
+tag<00:03:07.200><c> there</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+tag there
+ 
+
+00:03:08.080 --> 00:03:10.149 align:start position:0%
+tag there
+but<00:03:08.319><c> i</c><00:03:08.480><c> could</c><00:03:08.720><c> go</c><00:03:08.959><c> and</c><00:03:09.200><c> maybe</c><00:03:09.519><c> add</c><00:03:09.760><c> additional</c>
+
+00:03:10.149 --> 00:03:10.159 align:start position:0%
+but i could go and maybe add additional
+ 
+
+00:03:10.159 --> 00:03:11.110 align:start position:0%
+but i could go and maybe add additional
+ones
+
+00:03:11.110 --> 00:03:11.120 align:start position:0%
+ones
+ 
+
+00:03:11.120 --> 00:03:14.309 align:start position:0%
+ones
+maybe<00:03:11.519><c> i</c><00:03:11.680><c> want</c><00:03:11.920><c> things</c><00:03:12.159><c> like</c><00:03:12.480><c> hey</c><00:03:12.800><c> environment</c>
+
+00:03:14.309 --> 00:03:14.319 align:start position:0%
+maybe i want things like hey environment
+ 
+
+00:03:14.319 --> 00:03:15.830 align:start position:0%
+maybe i want things like hey environment
+and<00:03:14.480><c> i</c><00:03:14.560><c> could</c><00:03:14.720><c> go</c><00:03:14.959><c> and</c><00:03:15.120><c> set</c><00:03:15.360><c> a</c><00:03:15.360><c> particular</c>
+
+00:03:15.830 --> 00:03:15.840 align:start position:0%
+and i could go and set a particular
+ 
+
+00:03:15.840 --> 00:03:17.350 align:start position:0%
+and i could go and set a particular
+environment<00:03:16.239><c> maybe</c><00:03:16.480><c> this</c><00:03:16.720><c> is</c><00:03:16.879><c> dev</c><00:03:17.120><c> and</c><00:03:17.280><c> it's</c>
+
+00:03:17.350 --> 00:03:17.360 align:start position:0%
+environment maybe this is dev and it's
+ 
+
+00:03:17.360 --> 00:03:19.430 align:start position:0%
+environment maybe this is dev and it's
+showing<00:03:17.680><c> me</c><00:03:18.319><c> just</c><00:03:18.560><c> from</c><00:03:18.879><c> the</c><00:03:19.040><c> browser</c>
+
+00:03:19.430 --> 00:03:19.440 align:start position:0%
+showing me just from the browser
+ 
+
+00:03:19.440 --> 00:03:21.030 align:start position:0%
+showing me just from the browser
+perspective<00:03:19.840><c> values</c><00:03:20.239><c> i've</c><00:03:20.400><c> used</c><00:03:20.560><c> before</c><00:03:20.879><c> but</c>
+
+00:03:21.030 --> 00:03:21.040 align:start position:0%
+perspective values i've used before but
+ 
+
+00:03:21.040 --> 00:03:24.229 align:start position:0%
+perspective values i've used before but
+it's<00:03:21.280><c> just</c><00:03:21.840><c> key</c><00:03:22.159><c> values</c><00:03:23.120><c> i</c><00:03:23.360><c> might</c><00:03:23.680><c> add</c><00:03:23.920><c> in</c>
+
+00:03:24.229 --> 00:03:24.239 align:start position:0%
+it's just key values i might add in
+ 
+
+00:03:24.239 --> 00:03:26.949 align:start position:0%
+it's just key values i might add in
+something<00:03:24.879><c> like</c><00:03:25.120><c> for</c><00:03:25.360><c> example</c><00:03:25.920><c> owner</c>
+
+00:03:26.949 --> 00:03:26.959 align:start position:0%
+something like for example owner
+ 
+
+00:03:26.959 --> 00:03:30.149 align:start position:0%
+something like for example owner
+well<00:03:27.280><c> i'll</c><00:03:27.519><c> say</c><00:03:27.680><c> that's</c><00:03:28.000><c> me</c>
+
+00:03:30.149 --> 00:03:30.159 align:start position:0%
+well i'll say that's me
+ 
+
+00:03:30.159 --> 00:03:32.070 align:start position:0%
+well i'll say that's me
+and<00:03:30.319><c> i</c><00:03:30.400><c> can</c><00:03:30.560><c> go</c><00:03:30.879><c> through</c><00:03:31.200><c> and</c><00:03:31.360><c> create</c><00:03:31.760><c> these</c>
+
+00:03:32.070 --> 00:03:32.080 align:start position:0%
+and i can go through and create these
+ 
+
+00:03:32.080 --> 00:03:34.949 align:start position:0%
+and i can go through and create these
+things<00:03:32.400><c> that</c><00:03:32.720><c> might</c><00:03:33.120><c> matter</c><00:03:33.519><c> to</c><00:03:33.840><c> me</c>
+
+00:03:34.949 --> 00:03:34.959 align:start position:0%
+things that might matter to me
+ 
+
+00:03:34.959 --> 00:03:36.390 align:start position:0%
+things that might matter to me
+based<00:03:35.360><c> on</c>
+
+00:03:36.390 --> 00:03:36.400 align:start position:0%
+based on
+ 
+
+00:03:36.400 --> 00:03:38.710 align:start position:0%
+based on
+what<00:03:36.640><c> i</c><00:03:36.879><c> think</c><00:03:37.120><c> is</c><00:03:37.280><c> useful</c><00:03:37.760><c> things</c><00:03:38.239><c> i</c><00:03:38.400><c> might</c><00:03:38.560><c> as</c>
+
+00:03:38.710 --> 00:03:38.720 align:start position:0%
+what i think is useful things i might as
+ 
+
+00:03:38.720 --> 00:03:40.070 align:start position:0%
+what i think is useful things i might as
+an<00:03:38.799><c> organization</c><00:03:39.200><c> want</c><00:03:39.360><c> to</c><00:03:39.519><c> search</c><00:03:39.920><c> on</c>
+
+00:03:40.070 --> 00:03:40.080 align:start position:0%
+an organization want to search on
+ 
+
+00:03:40.080 --> 00:03:41.990 align:start position:0%
+an organization want to search on
+because<00:03:40.239><c> i</c><00:03:40.319><c> can</c><00:03:40.560><c> search</c><00:03:40.959><c> on</c><00:03:41.040><c> these</c><00:03:41.280><c> tags</c>
+
+00:03:41.990 --> 00:03:42.000 align:start position:0%
+because i can search on these tags
+ 
+
+00:03:42.000 --> 00:03:43.990 align:start position:0%
+because i can search on these tags
+remember<00:03:42.400><c> i</c><00:03:42.480><c> can</c><00:03:42.640><c> also</c><00:03:42.879><c> do</c><00:03:43.120><c> building</c><00:03:43.599><c> based</c><00:03:43.920><c> on</c>
+
+00:03:43.990 --> 00:03:44.000 align:start position:0%
+remember i can also do building based on
+ 
+
+00:03:44.000 --> 00:03:46.710 align:start position:0%
+remember i can also do building based on
+these<00:03:44.239><c> tags</c><00:03:44.640><c> i</c><00:03:44.799><c> might</c><00:03:45.040><c> have</c><00:03:45.200><c> for</c><00:03:45.360><c> example</c><00:03:45.760><c> os</c>
+
+00:03:46.710 --> 00:03:46.720 align:start position:0%
+these tags i might have for example os
+ 
+
+00:03:46.720 --> 00:03:49.430 align:start position:0%
+these tags i might have for example os
+so<00:03:46.959><c> maybe</c><00:03:47.280><c> i'll</c><00:03:47.440><c> put</c><00:03:47.680><c> in</c><00:03:47.840><c> here</c><00:03:48.159><c> okay</c><00:03:48.560><c> windows</c>
+
+00:03:49.430 --> 00:03:49.440 align:start position:0%
+so maybe i'll put in here okay windows
+ 
+
+00:03:49.440 --> 00:03:50.710 align:start position:0%
+so maybe i'll put in here okay windows
+11.
+
+00:03:50.710 --> 00:03:50.720 align:start position:0%
+11.
+ 
+
+00:03:50.720 --> 00:03:52.390 align:start position:0%
+11.
+so<00:03:50.879><c> i</c><00:03:50.959><c> can</c><00:03:51.120><c> create</c><00:03:51.360><c> all</c><00:03:51.440><c> these</c><00:03:51.680><c> tags</c><00:03:52.080><c> and</c><00:03:52.159><c> then</c>
+
+00:03:52.390 --> 00:03:52.400 align:start position:0%
+so i can create all these tags and then
+ 
+
+00:03:52.400 --> 00:03:53.589 align:start position:0%
+so i can create all these tags and then
+apply
+
+00:03:53.589 --> 00:03:53.599 align:start position:0%
+apply
+ 
+
+00:03:53.599 --> 00:03:56.149 align:start position:0%
+apply
+so<00:03:53.760><c> now</c><00:03:54.000><c> these</c><00:03:54.400><c> tags</c>
+
+00:03:56.149 --> 00:03:56.159 align:start position:0%
+so now these tags
+ 
+
+00:03:56.159 --> 00:03:58.869 align:start position:0%
+so now these tags
+exist<00:03:57.120><c> on</c><00:03:57.280><c> this</c><00:03:57.439><c> particular</c><00:03:58.000><c> resource</c><00:03:58.640><c> so</c>
+
+00:03:58.869 --> 00:03:58.879 align:start position:0%
+exist on this particular resource so
+ 
+
+00:03:58.879 --> 00:04:01.190 align:start position:0%
+exist on this particular resource so
+just<00:03:59.040><c> click</c><00:03:59.280><c> out</c><00:03:59.439><c> that</c><00:04:00.319><c> and</c><00:04:00.480><c> you</c><00:04:00.640><c> can</c><00:04:00.720><c> now</c><00:04:00.959><c> say</c>
+
+00:04:01.190 --> 00:04:01.200 align:start position:0%
+just click out that and you can now say
+ 
+
+00:04:01.200 --> 00:04:03.670 align:start position:0%
+just click out that and you can now say
+hey<00:04:01.439><c> these</c><00:04:01.760><c> tags</c><00:04:02.159><c> exist</c><00:04:03.040><c> and</c><00:04:03.200><c> so</c><00:04:03.360><c> many</c>
+
+00:04:03.670 --> 00:04:03.680 align:start position:0%
+hey these tags exist and so many
+ 
+
+00:04:03.680 --> 00:04:05.830 align:start position:0%
+hey these tags exist and so many
+different<00:04:04.239><c> things</c><00:04:04.560><c> that</c><00:04:04.720><c> i</c><00:04:04.879><c> can</c><00:04:05.120><c> interact</c>
+
+00:04:05.830 --> 00:04:05.840 align:start position:0%
+different things that i can interact
+ 
+
+00:04:05.840 --> 00:04:06.949 align:start position:0%
+different things that i can interact
+with
+
+00:04:06.949 --> 00:04:06.959 align:start position:0%
+with
+ 
+
+00:04:06.959 --> 00:04:09.990 align:start position:0%
+with
+i<00:04:07.200><c> can</c><00:04:07.519><c> actually</c><00:04:07.920><c> go</c><00:04:08.159><c> and</c><00:04:08.480><c> look</c><00:04:08.799><c> and</c><00:04:09.040><c> filter</c><00:04:09.840><c> on</c>
+
+00:04:09.990 --> 00:04:10.000 align:start position:0%
+i can actually go and look and filter on
+ 
+
+00:04:10.000 --> 00:04:11.589 align:start position:0%
+i can actually go and look and filter on
+those<00:04:10.319><c> tags</c><00:04:10.640><c> also</c><00:04:10.879><c> look</c><00:04:10.959><c> at</c><00:04:11.040><c> my</c><00:04:11.280><c> maybe</c>
+
+00:04:11.589 --> 00:04:11.599 align:start position:0%
+those tags also look at my maybe
+ 
+
+00:04:11.599 --> 00:04:12.869 align:start position:0%
+those tags also look at my maybe
+subscriptions
+
+00:04:12.869 --> 00:04:12.879 align:start position:0%
+subscriptions
+ 
+
+00:04:12.879 --> 00:04:15.030 align:start position:0%
+subscriptions
+and<00:04:12.959><c> look</c><00:04:13.200><c> at</c><00:04:13.280><c> my</c><00:04:13.439><c> dev</c><00:04:13.680><c> subscription</c>
+
+00:04:15.030 --> 00:04:15.040 align:start position:0%
+and look at my dev subscription
+ 
+
+00:04:15.040 --> 00:04:17.830 align:start position:0%
+and look at my dev subscription
+and<00:04:15.120><c> then</c><00:04:15.360><c> look</c><00:04:15.519><c> to</c><00:04:15.680><c> all</c><00:04:15.840><c> my</c><00:04:16.160><c> resources</c>
+
+00:04:17.830 --> 00:04:17.840 align:start position:0%
+and then look to all my resources
+ 
+
+00:04:17.840 --> 00:04:19.110 align:start position:0%
+and then look to all my resources
+you<00:04:17.919><c> can</c><00:04:18.000><c> see</c><00:04:18.160><c> there's</c><00:04:18.320><c> just</c><00:04:18.560><c> a</c><00:04:18.720><c> ton</c><00:04:18.959><c> of</c>
+
+00:04:19.110 --> 00:04:19.120 align:start position:0%
+you can see there's just a ton of
+ 
+
+00:04:19.120 --> 00:04:20.789 align:start position:0%
+you can see there's just a ton of
+different<00:04:19.600><c> things</c><00:04:20.000><c> here</c><00:04:20.160><c> but</c><00:04:20.320><c> you</c><00:04:20.400><c> could</c><00:04:20.560><c> add</c>
+
+00:04:20.789 --> 00:04:20.799 align:start position:0%
+different things here but you could add
+ 
+
+00:04:20.799 --> 00:04:22.710 align:start position:0%
+different things here but you could add
+a<00:04:20.959><c> filter</c><00:04:21.359><c> for</c><00:04:21.600><c> example</c>
+
+00:04:22.710 --> 00:04:22.720 align:start position:0%
+a filter for example
+ 
+
+00:04:22.720 --> 00:04:25.749 align:start position:0%
+a filter for example
+and<00:04:22.880><c> i</c><00:04:23.040><c> might</c><00:04:23.280><c> say</c><00:04:23.520><c> hey</c><00:04:23.759><c> a</c><00:04:23.919><c> certain</c><00:04:24.400><c> tag</c>
+
+00:04:25.749 --> 00:04:25.759 align:start position:0%
+and i might say hey a certain tag
+ 
+
+00:04:25.759 --> 00:04:29.510 align:start position:0%
+and i might say hey a certain tag
+i<00:04:26.000><c> only</c><00:04:26.400><c> want</c><00:04:26.639><c> to</c><00:04:26.800><c> see</c><00:04:27.120><c> the</c><00:04:27.440><c> tag</c><00:04:27.840><c> where</c><00:04:28.080><c> the</c><00:04:28.320><c> os</c>
+
+00:04:29.510 --> 00:04:29.520 align:start position:0%
+i only want to see the tag where the os
+ 
+
+00:04:29.520 --> 00:04:30.870 align:start position:0%
+i only want to see the tag where the os
+equals
+
+00:04:30.870 --> 00:04:30.880 align:start position:0%
+equals
+ 
+
+00:04:30.880 --> 00:04:32.310 align:start position:0%
+equals
+i<00:04:30.960><c> could</c><00:04:31.120><c> put</c><00:04:31.360><c> in</c>
+
+00:04:32.310 --> 00:04:32.320 align:start position:0%
+i could put in
+ 
+
+00:04:32.320 --> 00:04:37.670 align:start position:0%
+i could put in
+see<00:04:32.479><c> if</c><00:04:32.639><c> i</c><00:04:33.040><c> get</c><00:04:33.199><c> it</c><00:04:33.280><c> correctly</c><00:04:34.000><c> windows</c><00:04:34.479><c> 11</c>
+
+00:04:37.670 --> 00:04:37.680 align:start position:0%
+ 
+ 
+
+00:04:37.680 --> 00:04:38.710 align:start position:0%
+ 
+apply
+
+00:04:38.710 --> 00:04:38.720 align:start position:0%
+apply
+ 
+
+00:04:38.720 --> 00:04:42.550 align:start position:0%
+apply
+so<00:04:38.880><c> now</c><00:04:39.040><c> i'm</c><00:04:39.360><c> searching</c><00:04:40.000><c> based</c><00:04:40.479><c> on</c><00:04:40.720><c> that</c><00:04:41.120><c> tag</c>
+
+00:04:42.550 --> 00:04:42.560 align:start position:0%
+so now i'm searching based on that tag
+ 
+
+00:04:42.560 --> 00:04:44.950 align:start position:0%
+so now i'm searching based on that tag
+so<00:04:42.720><c> it's</c><00:04:42.960><c> metadata</c><00:04:43.919><c> it's</c><00:04:44.080><c> really</c><00:04:44.479><c> there</c><00:04:44.720><c> for</c>
+
+00:04:44.950 --> 00:04:44.960 align:start position:0%
+so it's metadata it's really there for
+ 
+
+00:04:44.960 --> 00:04:46.790 align:start position:0%
+so it's metadata it's really there for
+our<00:04:45.120><c> management</c><00:04:45.680><c> purposes</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+our management purposes
+ 
+
+00:04:46.800 --> 00:04:49.270 align:start position:0%
+our management purposes
+but<00:04:46.960><c> it's</c><00:04:47.280><c> super</c><00:04:47.600><c> super</c><00:04:48.000><c> powerful</c><00:04:49.040><c> so</c>
+
+00:04:49.270 --> 00:04:49.280 align:start position:0%
+but it's super super powerful so
+ 
+
+00:04:49.280 --> 00:04:52.230 align:start position:0%
+but it's super super powerful so
+definitely<00:04:49.680><c> recommend</c><00:04:50.400><c> have</c><00:04:50.960><c> a</c>
+
+00:04:52.230 --> 00:04:52.240 align:start position:0%
+definitely recommend have a
+ 
+
+00:04:52.240 --> 00:04:54.310 align:start position:0%
+definitely recommend have a
+policy<00:04:53.040><c> in</c><00:04:53.199><c> place</c><00:04:53.440><c> for</c><00:04:53.600><c> your</c><00:04:53.680><c> organization</c><00:04:54.240><c> of</c>
+
+00:04:54.310 --> 00:04:54.320 align:start position:0%
+policy in place for your organization of
+ 
+
+00:04:54.320 --> 00:04:57.030 align:start position:0%
+policy in place for your organization of
+which<00:04:54.639><c> tags</c><00:04:54.960><c> you</c><00:04:55.120><c> want</c><00:04:56.160><c> and</c><00:04:56.400><c> if</c><00:04:56.479><c> they're</c><00:04:56.720><c> super</c>
+
+00:04:57.030 --> 00:04:57.040 align:start position:0%
+which tags you want and if they're super
+ 
+
+00:04:57.040 --> 00:04:59.030 align:start position:0%
+which tags you want and if they're super
+important<00:04:57.440><c> you</c><00:04:57.520><c> can</c><00:04:57.680><c> use</c><00:04:57.919><c> azure</c><00:04:58.240><c> policy</c><00:04:58.800><c> to</c>
+
+00:04:59.030 --> 00:04:59.040 align:start position:0%
+important you can use azure policy to
+ 
+
+00:04:59.040 --> 00:05:00.230 align:start position:0%
+important you can use azure policy to
+enforce
+
+00:05:00.230 --> 00:05:00.240 align:start position:0%
+enforce
+ 
+
+00:05:00.240 --> 00:05:02.629 align:start position:0%
+enforce
+the<00:05:00.560><c> values</c><00:05:01.600><c> that</c><00:05:01.759><c> you</c><00:05:01.919><c> want</c><00:05:02.160><c> them</c><00:05:02.400><c> to</c>
+
+00:05:02.629 --> 00:05:02.639 align:start position:0%
+the values that you want them to
+ 
+
+00:05:02.639 --> 00:05:06.759 align:start position:0%
+the values that you want them to
+actually<00:05:02.960><c> create</c><00:05:03.680><c> and</c><00:05:03.759><c> populate</c>
+

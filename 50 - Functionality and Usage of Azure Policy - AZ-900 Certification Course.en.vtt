@@ -1,0 +1,1960 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.400 --> 00:00:02.990 align:start position:0%
+ 
+in<00:00:01.599><c> this</c><00:00:01.800><c> lesson</c><00:00:02.120><c> I</c><00:00:02.200><c> want</c><00:00:02.320><c> to</c><00:00:02.440><c> talk</c><00:00:02.639><c> about</c><00:00:02.800><c> the</c>
+
+00:00:02.990 --> 00:00:03.000 align:start position:0%
+in this lesson I want to talk about the
+ 
+
+00:00:03.000 --> 00:00:05.749 align:start position:0%
+in this lesson I want to talk about the
+functionality<00:00:03.560><c> and</c><00:00:03.760><c> usage</c><00:00:04.120><c> of</c><00:00:04.400><c> azure</c><00:00:04.920><c> policy</c>
+
+00:00:05.749 --> 00:00:05.759 align:start position:0%
+functionality and usage of azure policy
+ 
+
+00:00:05.759 --> 00:00:07.789 align:start position:0%
+functionality and usage of azure policy
+and<00:00:05.920><c> Azure</c><00:00:06.279><c> policy</c><00:00:06.720><c> becomes</c><00:00:07.040><c> the</c><00:00:07.240><c> answer</c><00:00:07.600><c> to</c>
+
+00:00:07.789 --> 00:00:07.799 align:start position:0%
+and Azure policy becomes the answer to
+ 
+
+00:00:07.799 --> 00:00:10.070 align:start position:0%
+and Azure policy becomes the answer to
+many<00:00:08.400><c> questions</c><00:00:08.960><c> when</c><00:00:09.120><c> we</c><00:00:09.280><c> think</c><00:00:09.559><c> about</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+many questions when we think about
+ 
+
+00:00:10.080 --> 00:00:13.789 align:start position:0%
+many questions when we think about
+governance<00:00:11.080><c> now</c><00:00:11.280><c> in</c><00:00:11.639><c> Ye</c><00:00:11.960><c> Old</c><00:00:12.360><c> Days</c><00:00:13.000><c> in</c><00:00:13.200><c> ye</c><00:00:13.440><c> old</c>
+
+00:00:13.789 --> 00:00:13.799 align:start position:0%
+governance now in Ye Old Days in ye old
+ 
+
+00:00:13.799 --> 00:00:18.269 align:start position:0%
+governance now in Ye Old Days in ye old
+days<00:00:14.679><c> I</c><00:00:14.960><c> was</c><00:00:15.759><c> a</c><00:00:16.000><c> business</c><00:00:16.760><c> user</c><00:00:17.760><c> and</c><00:00:17.880><c> I</c><00:00:18.000><c> wanted</c>
+
+00:00:18.269 --> 00:00:18.279 align:start position:0%
+days I was a business user and I wanted
+ 
+
+00:00:18.279 --> 00:00:21.670 align:start position:0%
+days I was a business user and I wanted
+to<00:00:18.480><c> have</c><00:00:18.720><c> some</c><00:00:19.080><c> resource</c><00:00:19.840><c> created</c><00:00:20.600><c> on</c><00:00:21.039><c> servers</c>
+
+00:00:21.670 --> 00:00:21.680 align:start position:0%
+to have some resource created on servers
+ 
+
+00:00:21.680 --> 00:00:24.910 align:start position:0%
+to have some resource created on servers
+we<00:00:21.880><c> had</c><00:00:22.160><c> in</c><00:00:22.320><c> our</c><00:00:22.680><c> company</c><00:00:23.680><c> now</c><00:00:23.840><c> the</c><00:00:24.039><c> way</c><00:00:24.240><c> we</c><00:00:24.519><c> did</c>
+
+00:00:24.910 --> 00:00:24.920 align:start position:0%
+we had in our company now the way we did
+ 
+
+00:00:24.920 --> 00:00:27.790 align:start position:0%
+we had in our company now the way we did
+that<00:00:25.480><c> is</c><00:00:25.800><c> there</c>
+
+00:00:27.790 --> 00:00:27.800 align:start position:0%
+that is there
+ 
+
+00:00:27.800 --> 00:00:31.669 align:start position:0%
+that is there
+was<00:00:28.800><c> the</c><00:00:29.000><c> ops</c><00:00:29.359><c> manager</c><00:00:30.000><c> the</c><00:00:30.119><c> operation</c><00:00:30.759><c> staff</c>
+
+00:00:31.669 --> 00:00:31.679 align:start position:0%
+was the ops manager the operation staff
+ 
+
+00:00:31.679 --> 00:00:34.830 align:start position:0%
+was the ops manager the operation staff
+so<00:00:31.920><c> I</c><00:00:32.040><c> would</c><00:00:32.360><c> put</c><00:00:32.559><c> in</c><00:00:32.800><c> my</c><00:00:33.399><c> request</c><00:00:34.399><c> maybe</c><00:00:34.680><c> a</c>
+
+00:00:34.830 --> 00:00:34.840 align:start position:0%
+so I would put in my request maybe a
+ 
+
+00:00:34.840 --> 00:00:37.670 align:start position:0%
+so I would put in my request maybe a
+ticket<00:00:35.320><c> an</c><00:00:35.480><c> email</c><00:00:35.920><c> knock</c><00:00:36.120><c> at</c><00:00:36.239><c> the</c><00:00:36.480><c> door</c><00:00:37.480><c> and</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+ticket an email knock at the door and
+ 
+
+00:00:37.680 --> 00:00:40.709 align:start position:0%
+ticket an email knock at the door and
+they<00:00:37.960><c> would</c><00:00:38.200><c> kind</c><00:00:38.360><c> of</c><00:00:38.840><c> evaluate</c><00:00:39.680><c> that</c><00:00:39.920><c> request</c>
+
+00:00:40.709 --> 00:00:40.719 align:start position:0%
+they would kind of evaluate that request
+ 
+
+00:00:40.719 --> 00:00:42.790 align:start position:0%
+they would kind of evaluate that request
+they<00:00:40.840><c> would</c><00:00:41.079><c> make</c><00:00:41.280><c> sure</c><00:00:41.559><c> it</c><00:00:41.760><c> meets</c><00:00:42.200><c> the</c>
+
+00:00:42.790 --> 00:00:42.800 align:start position:0%
+they would make sure it meets the
+ 
+
+00:00:42.800 --> 00:00:45.709 align:start position:0%
+they would make sure it meets the
+criteria<00:00:43.680><c> and</c><00:00:43.920><c> requirements</c><00:00:44.440><c> of</c><00:00:44.559><c> my</c><00:00:44.800><c> company</c>
+
+00:00:45.709 --> 00:00:45.719 align:start position:0%
+criteria and requirements of my company
+ 
+
+00:00:45.719 --> 00:00:49.189 align:start position:0%
+criteria and requirements of my company
+and<00:00:45.879><c> then</c><00:00:46.600><c> they</c><00:00:47.600><c> would</c><00:00:47.879><c> go</c><00:00:48.280><c> and</c><00:00:48.600><c> actually</c>
+
+00:00:49.189 --> 00:00:49.199 align:start position:0%
+and then they would go and actually
+ 
+
+00:00:49.199 --> 00:00:51.470 align:start position:0%
+and then they would go and actually
+provision
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+provision
+ 
+
+00:00:51.480 --> 00:00:54.510 align:start position:0%
+provision
+it<00:00:52.480><c> but</c><00:00:52.719><c> they</c><00:00:52.840><c> were</c><00:00:53.079><c> doing</c><00:00:53.359><c> the</c><00:00:53.520><c> checks</c><00:00:54.399><c> they</c>
+
+00:00:54.510 --> 00:00:54.520 align:start position:0%
+it but they were doing the checks they
+ 
+
+00:00:54.520 --> 00:00:57.790 align:start position:0%
+it but they were doing the checks they
+were<00:00:55.359><c> ensuring</c><00:00:56.359><c> it</c><00:00:56.559><c> met</c><00:00:56.840><c> the</c>
+
+00:00:57.790 --> 00:00:57.800 align:start position:0%
+were ensuring it met the
+ 
+
+00:00:57.800 --> 00:01:01.910 align:start position:0%
+were ensuring it met the
+requirements<00:00:58.800><c> well</c><00:00:58.960><c> now</c><00:00:59.079><c> we</c><00:00:59.199><c> have</c><00:00:59.320><c> the</c><00:00:59.480><c> cloud</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+requirements well now we have the cloud
+ 
+
+00:01:01.920 --> 00:01:03.590 align:start position:0%
+requirements well now we have the cloud
+I<00:01:02.160><c> have</c>
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+I have
+ 
+
+00:01:03.600 --> 00:01:06.870 align:start position:0%
+I have
+Azure<00:01:04.600><c> and</c><00:01:04.879><c> Azure</c><00:01:05.400><c> is</c><00:01:05.600><c> all</c><00:01:05.840><c> about</c><00:01:06.200><c> the</c><00:01:06.439><c> idea</c>
+
+00:01:06.870 --> 00:01:06.880 align:start position:0%
+Azure and Azure is all about the idea
+ 
+
+00:01:06.880 --> 00:01:09.469 align:start position:0%
+Azure and Azure is all about the idea
+that<00:01:07.520><c> well</c><00:01:08.520><c> it's</c>
+
+00:01:09.469 --> 00:01:09.479 align:start position:0%
+that well it's
+ 
+
+00:01:09.479 --> 00:01:12.149 align:start position:0%
+that well it's
+self-service<00:01:10.479><c> I</c><00:01:10.799><c> as</c><00:01:11.080><c> the</c><00:01:11.360><c> user</c><00:01:11.799><c> and</c><00:01:11.960><c> things</c>
+
+00:01:12.149 --> 00:01:12.159 align:start position:0%
+self-service I as the user and things
+ 
+
+00:01:12.159 --> 00:01:14.550 align:start position:0%
+self-service I as the user and things
+like<00:01:12.360><c> devops</c><00:01:12.960><c> and</c><00:01:13.320><c> pipelines</c><00:01:13.920><c> and</c><00:01:14.119><c> continuous</c>
+
+00:01:14.550 --> 00:01:14.560 align:start position:0%
+like devops and pipelines and continuous
+ 
+
+00:01:14.560 --> 00:01:17.230 align:start position:0%
+like devops and pipelines and continuous
+integration<00:01:15.119><c> and</c><00:01:15.320><c> delivery</c><00:01:15.799><c> and</c>
+
+00:01:17.230 --> 00:01:17.240 align:start position:0%
+integration and delivery and
+ 
+
+00:01:17.240 --> 00:01:20.469 align:start position:0%
+integration and delivery and
+deployment<00:01:18.240><c> there's</c><00:01:18.600><c> no</c><00:01:19.240><c> ops</c><00:01:19.640><c> manager</c><00:01:20.200><c> in</c><00:01:20.360><c> the</c>
+
+00:01:20.469 --> 00:01:20.479 align:start position:0%
+deployment there's no ops manager in the
+ 
+
+00:01:20.479 --> 00:01:24.910 align:start position:0%
+deployment there's no ops manager in the
+middle<00:01:20.759><c> of</c><00:01:20.960><c> this</c><00:01:21.600><c> anymore</c>
+
+00:01:24.910 --> 00:01:24.920 align:start position:0%
+ 
+ 
+
+00:01:24.920 --> 00:01:28.429 align:start position:0%
+ 
+instead<00:01:25.920><c> I'm</c><00:01:26.119><c> doing</c><00:01:26.520><c> this</c><00:01:27.240><c> I'm</c><00:01:27.439><c> provisioning</c>
+
+00:01:28.429 --> 00:01:28.439 align:start position:0%
+instead I'm doing this I'm provisioning
+ 
+
+00:01:28.439 --> 00:01:30.710 align:start position:0%
+instead I'm doing this I'm provisioning
+directly<00:01:29.439><c> now</c><00:01:29.600><c> as</c><00:01:29.680><c> a</c>
+
+00:01:30.710 --> 00:01:30.720 align:start position:0%
+directly now as a
+ 
+
+00:01:30.720 --> 00:01:34.469 align:start position:0%
+directly now as a
+company<00:01:31.720><c> I</c><00:01:31.960><c> still</c><00:01:32.600><c> have</c><00:01:33.600><c> requirements</c><00:01:34.280><c> that</c>
+
+00:01:34.469 --> 00:01:34.479 align:start position:0%
+company I still have requirements that
+ 
+
+00:01:34.479 --> 00:01:36.270 align:start position:0%
+company I still have requirements that
+have<00:01:34.600><c> to</c><00:01:34.720><c> be</c><00:01:34.880><c> met</c><00:01:35.399><c> there</c><00:01:35.560><c> might</c><00:01:35.799><c> still</c><00:01:36.000><c> be</c>
+
+00:01:36.270 --> 00:01:36.280 align:start position:0%
+have to be met there might still be
+ 
+
+00:01:36.280 --> 00:01:37.950 align:start position:0%
+have to be met there might still be
+regulatory<00:01:37.000><c> things</c><00:01:37.320><c> that</c><00:01:37.479><c> I</c><00:01:37.600><c> have</c><00:01:37.720><c> to</c><00:01:37.799><c> be</c>
+
+00:01:37.950 --> 00:01:37.960 align:start position:0%
+regulatory things that I have to be
+ 
+
+00:01:37.960 --> 00:01:39.990 align:start position:0%
+regulatory things that I have to be
+careful<00:01:38.240><c> of</c><00:01:38.600><c> where</c><00:01:38.799><c> I</c><00:01:38.960><c> put</c><00:01:39.240><c> data</c><00:01:39.640><c> I</c><00:01:39.720><c> can</c><00:01:39.840><c> only</c>
+
+00:01:39.990 --> 00:01:40.000 align:start position:0%
+careful of where I put data I can only
+ 
+
+00:01:40.000 --> 00:01:42.270 align:start position:0%
+careful of where I put data I can only
+put<00:01:40.119><c> it</c><00:01:40.240><c> in</c><00:01:40.399><c> these</c><00:01:40.680><c> regions</c><00:01:41.680><c> I</c><00:01:41.759><c> have</c><00:01:41.920><c> certain</c>
+
+00:01:42.270 --> 00:01:42.280 align:start position:0%
+put it in these regions I have certain
+ 
+
+00:01:42.280 --> 00:01:44.709 align:start position:0%
+put it in these regions I have certain
+security<00:01:42.920><c> requirements</c><00:01:43.439><c> as</c><00:01:43.640><c> my</c><00:01:43.880><c> company</c><00:01:44.360><c> that</c>
+
+00:01:44.709 --> 00:01:44.719 align:start position:0%
+security requirements as my company that
+ 
+
+00:01:44.719 --> 00:01:46.149 align:start position:0%
+security requirements as my company that
+I<00:01:44.840><c> don't</c><00:01:45.040><c> go</c><00:01:45.159><c> and</c><00:01:45.320><c> stick</c><00:01:45.640><c> things</c><00:01:45.880><c> with</c><00:01:45.960><c> a</c>
+
+00:01:46.149 --> 00:01:46.159 align:start position:0%
+I don't go and stick things with a
+ 
+
+00:01:46.159 --> 00:01:49.109 align:start position:0%
+I don't go and stick things with a
+public<00:01:46.520><c> IP</c><00:01:47.320><c> address</c><00:01:48.320><c> I</c><00:01:48.439><c> maybe</c><00:01:48.719><c> need</c><00:01:48.880><c> to</c><00:01:49.000><c> make</c>
+
+00:01:49.109 --> 00:01:49.119 align:start position:0%
+public IP address I maybe need to make
+ 
+
+00:01:49.119 --> 00:01:51.429 align:start position:0%
+public IP address I maybe need to make
+sure<00:01:49.479><c> data</c><00:01:49.920><c> is</c><00:01:50.079><c> replicated</c><00:01:50.719><c> to</c><00:01:50.920><c> a</c><00:01:51.079><c> paired</c>
+
+00:01:51.429 --> 00:01:51.439 align:start position:0%
+sure data is replicated to a paired
+ 
+
+00:01:51.439 --> 00:01:54.109 align:start position:0%
+sure data is replicated to a paired
+region<00:01:51.759><c> so</c><00:01:51.920><c> I</c><00:01:52.079><c> still</c><00:01:52.479><c> have</c><00:01:52.840><c> those</c><00:01:53.240><c> guard</c>
+
+00:01:54.109 --> 00:01:54.119 align:start position:0%
+region so I still have those guard
+ 
+
+00:01:54.119 --> 00:01:57.950 align:start position:0%
+region so I still have those guard
+rails<00:01:55.119><c> that</c><00:01:55.399><c> I</c><00:01:55.680><c> need</c><00:01:56.439><c> enforced</c><00:01:57.439><c> so</c><00:01:57.600><c> how</c><00:01:57.719><c> do</c><00:01:57.840><c> we</c>
+
+00:01:57.950 --> 00:01:57.960 align:start position:0%
+rails that I need enforced so how do we
+ 
+
+00:01:57.960 --> 00:02:00.429 align:start position:0%
+rails that I need enforced so how do we
+do<00:01:58.200><c> that</c><00:01:59.039><c> remember</c><00:01:59.439><c> every</c><00:01:59.960><c> single</c>
+
+00:02:00.429 --> 00:02:00.439 align:start position:0%
+do that remember every single
+ 
+
+00:02:00.439 --> 00:02:03.830 align:start position:0%
+do that remember every single
+interaction<00:02:01.119><c> with</c><00:02:01.439><c> Azure</c><00:02:01.920><c> is</c><00:02:02.119><c> actually</c><00:02:02.840><c> going</c>
+
+00:02:03.830 --> 00:02:03.840 align:start position:0%
+interaction with Azure is actually going
+ 
+
+00:02:03.840 --> 00:02:08.070 align:start position:0%
+interaction with Azure is actually going
+through<00:02:04.799><c> the</c><00:02:05.119><c> Azure</c><00:02:06.079><c> resource</c><00:02:07.000><c> manager</c><00:02:07.960><c> so</c>
+
+00:02:08.070 --> 00:02:08.080 align:start position:0%
+through the Azure resource manager so
+ 
+
+00:02:08.080 --> 00:02:10.309 align:start position:0%
+through the Azure resource manager so
+when<00:02:08.200><c> I'm</c><00:02:08.360><c> doing</c><00:02:08.640><c> this</c><00:02:09.160><c> provisioning</c><00:02:10.160><c> well</c>
+
+00:02:10.309 --> 00:02:10.319 align:start position:0%
+when I'm doing this provisioning well
+ 
+
+00:02:10.319 --> 00:02:12.190 align:start position:0%
+when I'm doing this provisioning well
+it's<00:02:10.479><c> change</c><00:02:10.759><c> the</c><00:02:11.000><c> arrow</c><00:02:11.480><c> slightly</c><00:02:11.920><c> it's</c><00:02:12.040><c> not</c>
+
+00:02:12.190 --> 00:02:12.200 align:start position:0%
+it's change the arrow slightly it's not
+ 
+
+00:02:12.200 --> 00:02:14.830 align:start position:0%
+it's change the arrow slightly it's not
+going<00:02:12.440><c> straight</c><00:02:12.680><c> to</c><00:02:13.239><c> Azure</c><00:02:13.760><c> as</c><00:02:13.959><c> such</c><00:02:14.680><c> that</c>
+
+00:02:14.830 --> 00:02:14.840 align:start position:0%
+going straight to Azure as such that
+ 
+
+00:02:14.840 --> 00:02:17.350 align:start position:0%
+going straight to Azure as such that
+arrow<00:02:15.200><c> is</c><00:02:15.400><c> provisioning</c><00:02:16.120><c> into</c><00:02:16.519><c> the</c><00:02:16.760><c> Azure</c>
+
+00:02:17.350 --> 00:02:17.360 align:start position:0%
+arrow is provisioning into the Azure
+ 
+
+00:02:17.360 --> 00:02:20.309 align:start position:0%
+arrow is provisioning into the Azure
+resource<00:02:18.120><c> manager</c><00:02:19.120><c> and</c><00:02:19.239><c> so</c><00:02:19.400><c> it's</c><00:02:19.560><c> at</c><00:02:19.879><c> this</c>
+
+00:02:20.309 --> 00:02:20.319 align:start position:0%
+resource manager and so it's at this
+ 
+
+00:02:20.319 --> 00:02:25.030 align:start position:0%
+resource manager and so it's at this
+level<00:02:21.120><c> I</c><00:02:21.239><c> want</c><00:02:21.480><c> to</c><00:02:22.040><c> enforce</c><00:02:23.040><c> my</c><00:02:23.280><c> guard</c><00:02:24.040><c> rails</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+level I want to enforce my guard rails
+ 
+
+00:02:25.040 --> 00:02:28.470 align:start position:0%
+level I want to enforce my guard rails
+the<00:02:25.280><c> things</c><00:02:25.720><c> that</c><00:02:25.920><c> I</c><00:02:26.200><c> need</c><00:02:26.680><c> to</c><00:02:26.959><c> be</c><00:02:27.480><c> enforced</c>
+
+00:02:28.470 --> 00:02:28.480 align:start position:0%
+the things that I need to be enforced
+ 
+
+00:02:28.480 --> 00:02:34.750 align:start position:0%
+the things that I need to be enforced
+and<00:02:28.599><c> the</c><00:02:28.959><c> mechanism</c><00:02:29.599><c> for</c><00:02:29.920><c> for</c><00:02:30.560><c> that</c><00:02:31.560><c> is</c><00:02:32.120><c> azure</c>
+
+00:02:34.750 --> 00:02:34.760 align:start position:0%
+and the mechanism for for that is azure
+ 
+
+00:02:34.760 --> 00:02:38.150 align:start position:0%
+and the mechanism for for that is azure
+policy<00:02:35.760><c> this</c><00:02:36.040><c> enables</c><00:02:36.560><c> me</c><00:02:36.760><c> to</c><00:02:37.160><c> specify</c><00:02:37.879><c> look</c>
+
+00:02:38.150 --> 00:02:38.160 align:start position:0%
+policy this enables me to specify look
+ 
+
+00:02:38.160 --> 00:02:40.390 align:start position:0%
+policy this enables me to specify look
+what<00:02:38.239><c> are</c><00:02:38.400><c> the</c><00:02:38.760><c> requirements</c><00:02:39.760><c> now</c><00:02:39.920><c> I</c><00:02:40.000><c> can</c><00:02:40.159><c> run</c>
+
+00:02:40.390 --> 00:02:40.400 align:start position:0%
+what are the requirements now I can run
+ 
+
+00:02:40.400 --> 00:02:42.790 align:start position:0%
+what are the requirements now I can run
+that<00:02:40.560><c> in</c><00:02:40.760><c> different</c><00:02:41.120><c> modes</c><00:02:41.959><c> but</c><00:02:42.159><c> the</c><00:02:42.360><c> idea</c><00:02:42.640><c> is</c>
+
+00:02:42.790 --> 00:02:42.800 align:start position:0%
+that in different modes but the idea is
+ 
+
+00:02:42.800 --> 00:02:45.470 align:start position:0%
+that in different modes but the idea is
+I<00:02:42.959><c> create</c><00:02:43.360><c> these</c><00:02:44.120><c> policies</c><00:02:45.120><c> that</c><00:02:45.239><c> I'm</c><00:02:45.400><c> going</c>
+
+00:02:45.470 --> 00:02:45.480 align:start position:0%
+I create these policies that I'm going
+ 
+
+00:02:45.480 --> 00:02:46.270 align:start position:0%
+I create these policies that I'm going
+to
+
+00:02:46.270 --> 00:02:46.280 align:start position:0%
+to
+ 
+
+00:02:46.280 --> 00:02:48.670 align:start position:0%
+to
+apply<00:02:47.280><c> now</c><00:02:47.560><c> remember</c><00:02:47.959><c> and</c><00:02:48.080><c> I've</c><00:02:48.200><c> drawn</c><00:02:48.480><c> this</c>
+
+00:02:48.670 --> 00:02:48.680 align:start position:0%
+apply now remember and I've drawn this
+ 
+
+00:02:48.680 --> 00:02:51.750 align:start position:0%
+apply now remember and I've drawn this
+picture<00:02:49.120><c> so</c><00:02:49.400><c> many</c><00:02:49.800><c> times</c><00:02:50.239><c> now</c><00:02:51.080><c> when</c><00:02:51.239><c> I</c><00:02:51.440><c> think</c>
+
+00:02:51.750 --> 00:02:51.760 align:start position:0%
+picture so many times now when I think
+ 
+
+00:02:51.760 --> 00:02:55.110 align:start position:0%
+picture so many times now when I think
+about<00:02:52.319><c> Azure</c><00:02:52.879><c> as</c><00:02:53.000><c> a</c><00:02:53.519><c> hierarchy</c><00:02:54.519><c> remember</c><00:02:54.920><c> we</c>
+
+00:02:55.110 --> 00:02:55.120 align:start position:0%
+about Azure as a hierarchy remember we
+ 
+
+00:02:55.120 --> 00:02:57.470 align:start position:0%
+about Azure as a hierarchy remember we
+had<00:02:55.360><c> that</c><00:02:55.640><c> whole</c><00:02:55.959><c> idea</c><00:02:56.400><c> of</c><00:02:56.840><c> well</c><00:02:57.040><c> AZ</c><00:02:57.319><c> is</c>
+
+00:02:57.470 --> 00:02:57.480 align:start position:0%
+had that whole idea of well AZ is
+ 
+
+00:02:57.480 --> 00:03:00.229 align:start position:0%
+had that whole idea of well AZ is
+actually<00:02:58.000><c> a</c><00:02:58.120><c> bunch</c><00:02:58.319><c> of</c><00:02:58.480><c> management</c><00:02:59.040><c> groups</c>
+
+00:03:00.229 --> 00:03:00.239 align:start position:0%
+actually a bunch of management groups
+ 
+
+00:03:00.239 --> 00:03:02.750 align:start position:0%
+actually a bunch of management groups
+going<00:03:00.360><c> to</c><00:03:00.560><c> get</c><00:03:01.280><c> lazier</c><00:03:01.760><c> and</c><00:03:01.920><c> lazier</c><00:03:02.319><c> as</c><00:03:02.400><c> I</c><00:03:02.519><c> draw</c>
+
+00:03:02.750 --> 00:03:02.760 align:start position:0%
+going to get lazier and lazier as I draw
+ 
+
+00:03:02.760 --> 00:03:06.270 align:start position:0%
+going to get lazier and lazier as I draw
+this<00:03:03.159><c> picture</c><00:03:04.159><c> but</c><00:03:04.319><c> we</c><00:03:04.480><c> have</c><00:03:04.599><c> the</c><00:03:04.760><c> management</c>
+
+00:03:06.270 --> 00:03:06.280 align:start position:0%
+this picture but we have the management
+ 
+
+00:03:06.280 --> 00:03:09.149 align:start position:0%
+this picture but we have the management
+groups<00:03:07.280><c> then</c><00:03:07.440><c> we</c><00:03:07.599><c> have</c><00:03:07.799><c> the</c><00:03:08.000><c> idea</c><00:03:08.319><c> of</c><00:03:08.680><c> under</c>
+
+00:03:09.149 --> 00:03:09.159 align:start position:0%
+groups then we have the idea of under
+ 
+
+00:03:09.159 --> 00:03:13.470 align:start position:0%
+groups then we have the idea of under
+that<00:03:09.440><c> at</c><00:03:09.560><c> a</c><00:03:09.680><c> certain</c><00:03:10.040><c> point</c><00:03:10.440><c> hey</c><00:03:10.640><c> we</c><00:03:10.799><c> have</c><00:03:10.920><c> a</c>
+
+00:03:13.470 --> 00:03:13.480 align:start position:0%
+ 
+ 
+
+00:03:13.480 --> 00:03:15.830 align:start position:0%
+ 
+subscription<00:03:14.480><c> and</c><00:03:14.599><c> then</c><00:03:14.760><c> within</c><00:03:15.280><c> there</c><00:03:15.560><c> I</c>
+
+00:03:15.830 --> 00:03:15.840 align:start position:0%
+subscription and then within there I
+ 
+
+00:03:15.840 --> 00:03:17.750 align:start position:0%
+subscription and then within there I
+have<00:03:16.239><c> resource</c>
+
+00:03:17.750 --> 00:03:17.760 align:start position:0%
+have resource
+ 
+
+00:03:17.760 --> 00:03:21.229 align:start position:0%
+have resource
+groups<00:03:18.760><c> that</c><00:03:19.000><c> actually</c><00:03:19.360><c> contain</c><00:03:20.239><c> my</c>
+
+00:03:21.229 --> 00:03:21.239 align:start position:0%
+groups that actually contain my
+ 
+
+00:03:21.239 --> 00:03:23.190 align:start position:0%
+groups that actually contain my
+resources<00:03:22.239><c> and</c><00:03:22.319><c> if</c><00:03:22.440><c> you</c><00:03:22.560><c> remember</c><00:03:22.959><c> hey</c><00:03:23.120><c> we</c>
+
+00:03:23.190 --> 00:03:23.200 align:start position:0%
+resources and if you remember hey we
+ 
+
+00:03:23.200 --> 00:03:25.630 align:start position:0%
+resources and if you remember hey we
+could<00:03:23.360><c> use</c><00:03:23.599><c> that</c><00:03:23.840><c> for</c><00:03:24.000><c> role</c><00:03:24.239><c> based</c><00:03:24.599><c> Access</c>
+
+00:03:25.630 --> 00:03:25.640 align:start position:0%
+could use that for role based Access
+ 
+
+00:03:25.640 --> 00:03:30.350 align:start position:0%
+could use that for role based Access
+Control<00:03:26.640><c> aure</c><00:03:27.159><c> policy</c><00:03:27.920><c> likewise</c><00:03:28.920><c> I</c><00:03:29.080><c> can</c><00:03:29.360><c> apply</c>
+
+00:03:30.350 --> 00:03:30.360 align:start position:0%
+Control aure policy likewise I can apply
+ 
+
+00:03:30.360 --> 00:03:32.030 align:start position:0%
+Control aure policy likewise I can apply
+to<00:03:30.640><c> all</c><00:03:30.840><c> of</c>
+
+00:03:32.030 --> 00:03:32.040 align:start position:0%
+to all of
+ 
+
+00:03:32.040 --> 00:03:35.509 align:start position:0%
+to all of
+these<00:03:33.040><c> different</c>
+
+00:03:35.509 --> 00:03:35.519 align:start position:0%
+ 
+ 
+
+00:03:35.519 --> 00:03:41.789 align:start position:0%
+ 
+levels<00:03:36.519><c> and</c><00:03:36.879><c> absolutely</c><00:03:37.680><c> again</c><00:03:38.200><c> this</c><00:03:38.480><c> is</c>
+
+00:03:41.789 --> 00:03:41.799 align:start position:0%
+ 
+ 
+
+00:03:41.799 --> 00:03:44.670 align:start position:0%
+ 
+inherited<00:03:42.799><c> so</c><00:03:43.000><c> the</c><00:03:43.200><c> goal</c><00:03:43.439><c> of</c><00:03:43.560><c> an</c><00:03:43.799><c> Azure</c><00:03:44.319><c> policy</c>
+
+00:03:44.670 --> 00:03:44.680 align:start position:0%
+inherited so the goal of an Azure policy
+ 
+
+00:03:44.680 --> 00:03:46.830 align:start position:0%
+inherited so the goal of an Azure policy
+is<00:03:44.799><c> I'm</c><00:03:45.000><c> defining</c><00:03:45.760><c> some</c>
+
+00:03:46.830 --> 00:03:46.840 align:start position:0%
+is I'm defining some
+ 
+
+00:03:46.840 --> 00:03:49.509 align:start position:0%
+is I'm defining some
+requirement<00:03:47.840><c> now</c><00:03:48.400><c> I</c><00:03:48.519><c> might</c><00:03:48.720><c> end</c><00:03:48.920><c> up</c><00:03:49.120><c> with</c><00:03:49.360><c> a</c>
+
+00:03:49.509 --> 00:03:49.519 align:start position:0%
+requirement now I might end up with a
+ 
+
+00:03:49.519 --> 00:03:51.470 align:start position:0%
+requirement now I might end up with a
+lot<00:03:49.680><c> of</c><00:03:49.920><c> different</c><00:03:50.400><c> policies</c><00:03:50.920><c> so</c><00:03:51.120><c> what</c><00:03:51.239><c> we're</c>
+
+00:03:51.470 --> 00:03:51.480 align:start position:0%
+lot of different policies so what we're
+ 
+
+00:03:51.480 --> 00:03:53.910 align:start position:0%
+lot of different policies so what we're
+typically<00:03:51.959><c> going</c><00:03:52.239><c> to</c><00:03:52.560><c> do</c><00:03:53.280><c> is</c><00:03:53.439><c> instead</c><00:03:53.760><c> of</c>
+
+00:03:53.910 --> 00:03:53.920 align:start position:0%
+typically going to do is instead of
+ 
+
+00:03:53.920 --> 00:03:56.750 align:start position:0%
+typically going to do is instead of
+assigning<00:03:54.439><c> an</c><00:03:54.720><c> individual</c><00:03:55.640><c> policy</c><00:03:56.640><c> well</c>
+
+00:03:56.750 --> 00:03:56.760 align:start position:0%
+assigning an individual policy well
+ 
+
+00:03:56.760 --> 00:03:58.350 align:start position:0%
+assigning an individual policy well
+we're<00:03:56.879><c> going</c><00:03:57.000><c> to</c><00:03:57.040><c> have</c><00:03:57.159><c> a</c><00:03:57.319><c> whole</c><00:03:57.640><c> set</c><00:03:57.879><c> of</c><00:03:58.040><c> these</c>
+
+00:03:58.350 --> 00:03:58.360 align:start position:0%
+we're going to have a whole set of these
+ 
+
+00:03:58.360 --> 00:04:00.750 align:start position:0%
+we're going to have a whole set of these
+policies<00:03:59.239><c> what</c><00:03:59.360><c> we</c><00:03:59.439><c> actually</c><00:03:59.920><c> do</c><00:04:00.120><c> is</c><00:04:00.280><c> we</c><00:04:00.519><c> put</c>
+
+00:04:00.750 --> 00:04:00.760 align:start position:0%
+policies what we actually do is we put
+ 
+
+00:04:00.760 --> 00:04:06.830 align:start position:0%
+policies what we actually do is we put
+them<00:04:01.000><c> in</c><00:04:01.159><c> something</c><00:04:01.760><c> called</c><00:04:02.319><c> an</c>
+
+00:04:06.830 --> 00:04:06.840 align:start position:0%
+ 
+ 
+
+00:04:06.840 --> 00:04:08.550 align:start position:0%
+ 
+initiative<00:04:07.840><c> so</c><00:04:07.920><c> I'm</c><00:04:08.000><c> going</c><00:04:08.120><c> to</c><00:04:08.200><c> create</c><00:04:08.400><c> an</c>
+
+00:04:08.550 --> 00:04:08.560 align:start position:0%
+initiative so I'm going to create an
+ 
+
+00:04:08.560 --> 00:04:10.550 align:start position:0%
+initiative so I'm going to create an
+initiative<00:04:09.040><c> and</c><00:04:09.159><c> it's</c><00:04:09.360><c> the</c><00:04:09.560><c> initiative</c><00:04:10.360><c> I</c>
+
+00:04:10.550 --> 00:04:10.560 align:start position:0%
+initiative and it's the initiative I
+ 
+
+00:04:10.560 --> 00:04:13.910 align:start position:0%
+initiative and it's the initiative I
+apply<00:04:11.280><c> so</c><00:04:11.480><c> that</c><00:04:11.840><c> consists</c><00:04:12.400><c> of</c><00:04:12.760><c> n</c><00:04:13.280><c> number</c>
+
+00:04:13.910 --> 00:04:13.920 align:start position:0%
+apply so that consists of n number
+ 
+
+00:04:13.920 --> 00:04:16.310 align:start position:0%
+apply so that consists of n number
+multiple<00:04:14.560><c> policies</c><00:04:15.040><c> go</c><00:04:15.239><c> into</c><00:04:15.439><c> an</c><00:04:15.560><c> initiative</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+multiple policies go into an initiative
+ 
+
+00:04:16.320 --> 00:04:19.229 align:start position:0%
+multiple policies go into an initiative
+so<00:04:16.440><c> it</c><00:04:16.560><c> makes</c><00:04:16.720><c> it</c><00:04:16.919><c> easier</c><00:04:17.320><c> to</c><00:04:17.840><c> assign</c><00:04:18.840><c> but</c><00:04:19.000><c> also</c>
+
+00:04:19.229 --> 00:04:19.239 align:start position:0%
+so it makes it easier to assign but also
+ 
+
+00:04:19.239 --> 00:04:20.749 align:start position:0%
+so it makes it easier to assign but also
+then<00:04:19.359><c> it</c><00:04:19.440><c> makes</c><00:04:19.600><c> it</c><00:04:19.720><c> easier</c><00:04:19.959><c> for</c><00:04:20.040><c> me</c><00:04:20.160><c> to</c><00:04:20.320><c> track</c>
+
+00:04:20.749 --> 00:04:20.759 align:start position:0%
+then it makes it easier for me to track
+ 
+
+00:04:20.759 --> 00:04:22.629 align:start position:0%
+then it makes it easier for me to track
+compliance<00:04:21.759><c> because</c><00:04:21.919><c> I</c><00:04:22.000><c> don't</c><00:04:22.199><c> just</c><00:04:22.320><c> use</c><00:04:22.520><c> this</c>
+
+00:04:22.629 --> 00:04:22.639 align:start position:0%
+compliance because I don't just use this
+ 
+
+00:04:22.639 --> 00:04:25.070 align:start position:0%
+compliance because I don't just use this
+to<00:04:22.840><c> enforce</c><00:04:23.400><c> something</c><00:04:24.400><c> I</c><00:04:24.479><c> might</c><00:04:24.680><c> use</c><00:04:24.800><c> it</c><00:04:24.960><c> just</c>
+
+00:04:25.070 --> 00:04:25.080 align:start position:0%
+to enforce something I might use it just
+ 
+
+00:04:25.080 --> 00:04:26.870 align:start position:0%
+to enforce something I might use it just
+cuz<00:04:25.199><c> I</c><00:04:25.280><c> want</c><00:04:25.360><c> to</c><00:04:25.520><c> know</c><00:04:25.840><c> well</c><00:04:26.000><c> are</c><00:04:26.199><c> they</c><00:04:26.400><c> meeting</c>
+
+00:04:26.870 --> 00:04:26.880 align:start position:0%
+cuz I want to know well are they meeting
+ 
+
+00:04:26.880 --> 00:04:28.830 align:start position:0%
+cuz I want to know well are they meeting
+that<00:04:27.120><c> so</c><00:04:27.280><c> I</c><00:04:27.360><c> can</c><00:04:27.479><c> see</c><00:04:28.120><c> well</c><00:04:28.280><c> what</c><00:04:28.440><c> percentage</c>
+
+00:04:28.830 --> 00:04:28.840 align:start position:0%
+that so I can see well what percentage
+ 
+
+00:04:28.840 --> 00:04:31.110 align:start position:0%
+that so I can see well what percentage
+of<00:04:28.960><c> my</c><00:04:29.160><c> resources</c><00:04:29.800><c> is</c><00:04:30.080><c> actually</c><00:04:30.320><c> are</c><00:04:30.560><c> meeting</c>
+
+00:04:31.110 --> 00:04:31.120 align:start position:0%
+of my resources is actually are meeting
+ 
+
+00:04:31.120 --> 00:04:32.430 align:start position:0%
+of my resources is actually are meeting
+these
+
+00:04:32.430 --> 00:04:32.440 align:start position:0%
+these
+ 
+
+00:04:32.440 --> 00:04:35.029 align:start position:0%
+these
+things<00:04:33.440><c> so</c><00:04:33.600><c> that's</c><00:04:33.759><c> the</c><00:04:33.880><c> idea</c><00:04:34.080><c> of</c><00:04:34.160><c> a</c><00:04:34.360><c> policy</c>
+
+00:04:35.029 --> 00:04:35.039 align:start position:0%
+things so that's the idea of a policy
+ 
+
+00:04:35.039 --> 00:04:37.150 align:start position:0%
+things so that's the idea of a policy
+I'm<00:04:35.160><c> going</c><00:04:35.280><c> to</c><00:04:35.440><c> Define</c><00:04:35.840><c> my</c><00:04:36.080><c> guard</c><00:04:36.360><c> rails</c><00:04:36.919><c> my</c>
+
+00:04:37.150 --> 00:04:37.160 align:start position:0%
+I'm going to Define my guard rails my
+ 
+
+00:04:37.160 --> 00:04:39.670 align:start position:0%
+I'm going to Define my guard rails my
+requirements<00:04:38.039><c> and</c><00:04:38.160><c> then</c><00:04:38.320><c> I'm</c><00:04:38.479><c> going</c><00:04:38.720><c> to</c>
+
+00:04:39.670 --> 00:04:39.680 align:start position:0%
+requirements and then I'm going to
+ 
+
+00:04:39.680 --> 00:04:44.469 align:start position:0%
+requirements and then I'm going to
+assign<00:04:40.199><c> it</c><00:04:40.840><c> to</c><00:04:41.320><c> a</c><00:04:41.520><c> certain</c><00:04:42.360><c> scope</c><00:04:43.360><c> now</c><00:04:43.919><c> for</c>
+
+00:04:44.469 --> 00:04:44.479 align:start position:0%
+assign it to a certain scope now for
+ 
+
+00:04:44.479 --> 00:04:46.350 align:start position:0%
+assign it to a certain scope now for
+those<00:04:44.840><c> different</c><00:04:45.240><c> policies</c><00:04:45.880><c> they</c><00:04:46.080><c> actually</c>
+
+00:04:46.350 --> 00:04:46.360 align:start position:0%
+those different policies they actually
+ 
+
+00:04:46.360 --> 00:04:49.430 align:start position:0%
+those different policies they actually
+can<00:04:46.639><c> have</c><00:04:47.039><c> different</c><00:04:47.880><c> effects</c><00:04:48.880><c> so</c><00:04:49.080><c> I'm</c><00:04:49.199><c> saying</c>
+
+00:04:49.430 --> 00:04:49.440 align:start position:0%
+can have different effects so I'm saying
+ 
+
+00:04:49.440 --> 00:04:51.350 align:start position:0%
+can have different effects so I'm saying
+the<00:04:49.560><c> idea</c><00:04:49.759><c> of</c><00:04:49.960><c> enforcement</c><00:04:50.919><c> I'm</c><00:04:51.039><c> going</c><00:04:51.160><c> to</c>
+
+00:04:51.350 --> 00:04:51.360 align:start position:0%
+the idea of enforcement I'm going to
+ 
+
+00:04:51.360 --> 00:04:53.670 align:start position:0%
+the idea of enforcement I'm going to
+make<00:04:51.600><c> it</c><00:04:51.880><c> do</c><00:04:52.360><c> this</c><00:04:52.639><c> thing</c><00:04:52.960><c> but</c><00:04:53.080><c> it's</c><00:04:53.280><c> actually</c>
+
+00:04:53.670 --> 00:04:53.680 align:start position:0%
+make it do this thing but it's actually
+ 
+
+00:04:53.680 --> 00:04:56.710 align:start position:0%
+make it do this thing but it's actually
+not<00:04:53.960><c> the</c><00:04:54.120><c> only</c><00:04:54.479><c> thing</c><00:04:54.680><c> I</c><00:04:54.800><c> can</c><00:04:55.000><c> do</c><00:04:55.919><c> when</c><00:04:56.080><c> I</c><00:04:56.320><c> think</c>
+
+00:04:56.710 --> 00:04:56.720 align:start position:0%
+not the only thing I can do when I think
+ 
+
+00:04:56.720 --> 00:05:00.350 align:start position:0%
+not the only thing I can do when I think
+about<00:04:57.440><c> this</c><00:04:58.440><c> assignment</c><00:04:59.280><c> of</c><00:04:59.800><c> initiative</c><00:05:00.199><c> or</c>
+
+00:05:00.350 --> 00:05:00.360 align:start position:0%
+about this assignment of initiative or
+ 
+
+00:05:00.360 --> 00:05:02.310 align:start position:0%
+about this assignment of initiative or
+the<00:05:00.520><c> policy</c><00:05:00.880><c> and</c><00:05:00.960><c> it's</c><00:05:01.120><c> the</c><00:05:01.280><c> policy</c><00:05:01.600><c> I</c><00:05:01.800><c> Define</c>
+
+00:05:02.310 --> 00:05:02.320 align:start position:0%
+the policy and it's the policy I Define
+ 
+
+00:05:02.320 --> 00:05:06.830 align:start position:0%
+the policy and it's the policy I Define
+this<00:05:03.240><c> I</c><00:05:03.400><c> have</c><00:05:03.680><c> different</c><00:05:04.199><c> effects</c><00:05:05.199><c> that</c><00:05:05.479><c> I</c><00:05:05.680><c> can</c>
+
+00:05:06.830 --> 00:05:06.840 align:start position:0%
+this I have different effects that I can
+ 
+
+00:05:06.840 --> 00:05:09.550 align:start position:0%
+this I have different effects that I can
+do<00:05:07.840><c> normally</c><00:05:08.199><c> I'm</c><00:05:08.280><c> going</c><00:05:08.400><c> to</c><00:05:08.479><c> start</c><00:05:08.720><c> off</c><00:05:08.880><c> with</c>
+
+00:05:09.550 --> 00:05:09.560 align:start position:0%
+do normally I'm going to start off with
+ 
+
+00:05:09.560 --> 00:05:12.110 align:start position:0%
+do normally I'm going to start off with
+audit<00:05:10.560><c> I</c><00:05:10.639><c> don't</c><00:05:10.840><c> want</c><00:05:10.960><c> to</c><00:05:11.160><c> stop</c><00:05:11.479><c> people</c><00:05:11.759><c> doing</c>
+
+00:05:12.110 --> 00:05:12.120 align:start position:0%
+audit I don't want to stop people doing
+ 
+
+00:05:12.120 --> 00:05:13.990 align:start position:0%
+audit I don't want to stop people doing
+things<00:05:12.520><c> I</c><00:05:12.639><c> might</c><00:05:12.919><c> have</c><00:05:13.080><c> done</c><00:05:13.280><c> the</c><00:05:13.520><c> policy</c>
+
+00:05:13.990 --> 00:05:14.000 align:start position:0%
+things I might have done the policy
+ 
+
+00:05:14.000 --> 00:05:15.990 align:start position:0%
+things I might have done the policy
+poorly<00:05:14.800><c> and</c><00:05:14.919><c> it</c><00:05:15.000><c> would</c><00:05:15.160><c> completely</c><00:05:15.680><c> break</c>
+
+00:05:15.990 --> 00:05:16.000 align:start position:0%
+poorly and it would completely break
+ 
+
+00:05:16.000 --> 00:05:17.710 align:start position:0%
+poorly and it would completely break
+down<00:05:16.199><c> the</c><00:05:16.360><c> ability</c><00:05:16.800><c> for</c><00:05:17.000><c> my</c><00:05:17.160><c> environment</c><00:05:17.560><c> to</c>
+
+00:05:17.710 --> 00:05:17.720 align:start position:0%
+down the ability for my environment to
+ 
+
+00:05:17.720 --> 00:05:19.590 align:start position:0%
+down the ability for my environment to
+function<00:05:18.360><c> so</c><00:05:18.520><c> if</c><00:05:18.560><c> I</c><00:05:18.680><c> start</c><00:05:18.880><c> off</c><00:05:19.000><c> in</c><00:05:19.080><c> an</c><00:05:19.240><c> audit</c>
+
+00:05:19.590 --> 00:05:19.600 align:start position:0%
+function so if I start off in an audit
+ 
+
+00:05:19.600 --> 00:05:22.029 align:start position:0%
+function so if I start off in an audit
+mode<00:05:20.039><c> I</c><00:05:20.120><c> can</c><00:05:20.280><c> see</c><00:05:20.639><c> well</c><00:05:20.919><c> what</c><00:05:21.199><c> percentage</c><00:05:21.720><c> of</c>
+
+00:05:22.029 --> 00:05:22.039 align:start position:0%
+mode I can see well what percentage of
+ 
+
+00:05:22.039 --> 00:05:24.710 align:start position:0%
+mode I can see well what percentage of
+things<00:05:22.600><c> are</c><00:05:22.919><c> not</c><00:05:23.199><c> meeting</c><00:05:23.800><c> this</c><00:05:24.319><c> maybe</c><00:05:24.520><c> there</c>
+
+00:05:24.710 --> 00:05:24.720 align:start position:0%
+things are not meeting this maybe there
+ 
+
+00:05:24.720 --> 00:05:26.670 align:start position:0%
+things are not meeting this maybe there
+better<00:05:25.039><c> communication</c><00:05:25.680><c> I</c><00:05:25.759><c> need</c><00:05:25.919><c> to</c><00:05:26.039><c> do</c><00:05:26.319><c> in</c>
+
+00:05:26.670 --> 00:05:26.680 align:start position:0%
+better communication I need to do in
+ 
+
+00:05:26.680 --> 00:05:30.430 align:start position:0%
+better communication I need to do in
+advance<00:05:27.680><c> I</c><00:05:27.840><c> can</c><00:05:28.000><c> do</c><00:05:28.199><c> things</c><00:05:28.440><c> like</c><00:05:28.639><c> deny</c>
+
+00:05:30.430 --> 00:05:30.440 align:start position:0%
+advance I can do things like deny
+ 
+
+00:05:30.440 --> 00:05:32.070 align:start position:0%
+advance I can do things like deny
+so<00:05:30.680><c> once</c><00:05:30.880><c> I'm</c><00:05:31.120><c> confident</c><00:05:31.560><c> it's</c><00:05:31.720><c> not</c><00:05:31.840><c> going</c><00:05:31.960><c> to</c>
+
+00:05:32.070 --> 00:05:32.080 align:start position:0%
+so once I'm confident it's not going to
+ 
+
+00:05:32.080 --> 00:05:33.990 align:start position:0%
+so once I'm confident it's not going to
+break<00:05:32.360><c> the</c><00:05:32.520><c> world</c><00:05:32.840><c> and</c><00:05:33.000><c> I</c><00:05:33.120><c> need</c><00:05:33.319><c> to</c><00:05:33.720><c> actually</c>
+
+00:05:33.990 --> 00:05:34.000 align:start position:0%
+break the world and I need to actually
+ 
+
+00:05:34.000 --> 00:05:36.749 align:start position:0%
+break the world and I need to actually
+enforce<00:05:34.479><c> this</c><00:05:34.919><c> I</c><00:05:35.000><c> could</c><00:05:35.160><c> do</c><00:05:35.440><c> deny</c><00:05:36.440><c> there</c><00:05:36.560><c> are</c>
+
+00:05:36.749 --> 00:05:36.759 align:start position:0%
+enforce this I could do deny there are
+ 
+
+00:05:36.759 --> 00:05:37.660 align:start position:0%
+enforce this I could do deny there are
+things<00:05:37.039><c> like</c><00:05:37.240><c> a</c>
+
+00:05:37.660 --> 00:05:37.670 align:start position:0%
+things like a
+ 
+
+00:05:37.670 --> 00:05:39.309 align:start position:0%
+things like a
+[Music]
+
+00:05:39.309 --> 00:05:39.319 align:start position:0%
+[Music]
+ 
+
+00:05:39.319 --> 00:05:41.990 align:start position:0%
+[Music]
+pend<00:05:40.319><c> there</c><00:05:40.440><c> are</c><00:05:40.600><c> things</c><00:05:40.800><c> like</c>
+
+00:05:41.990 --> 00:05:42.000 align:start position:0%
+pend there are things like
+ 
+
+00:05:42.000 --> 00:05:44.990 align:start position:0%
+pend there are things like
+modify<00:05:43.000><c> that</c><00:05:43.319><c> tag</c><00:05:43.840><c> addition</c><00:05:44.280><c> for</c><00:05:44.479><c> example</c><00:05:44.840><c> I</c>
+
+00:05:44.990 --> 00:05:45.000 align:start position:0%
+modify that tag addition for example I
+ 
+
+00:05:45.000 --> 00:05:47.710 align:start position:0%
+modify that tag addition for example I
+might<00:05:45.199><c> use</c><00:05:45.400><c> that</c><00:05:45.680><c> hey</c><00:05:45.800><c> if</c><00:05:45.880><c> it's</c><00:05:46.080><c> not</c><00:05:46.720><c> there</c>
+
+00:05:47.710 --> 00:05:47.720 align:start position:0%
+might use that hey if it's not there
+ 
+
+00:05:47.720 --> 00:05:50.309 align:start position:0%
+might use that hey if it's not there
+let's<00:05:48.080><c> append</c><00:05:48.600><c> this</c><00:05:48.800><c> value</c><00:05:49.120><c> to</c><00:05:49.319><c> it</c><00:05:50.199><c> and</c>
+
+00:05:50.309 --> 00:05:50.319 align:start position:0%
+let's append this value to it and
+ 
+
+00:05:50.319 --> 00:05:53.270 align:start position:0%
+let's append this value to it and
+there's<00:05:50.560><c> even</c><00:05:50.880><c> things</c><00:05:51.199><c> like</c><00:05:51.880><c> if</c><00:05:52.080><c> not</c><00:05:52.440><c> exists</c>
+
+00:05:53.270 --> 00:05:53.280 align:start position:0%
+there's even things like if not exists
+ 
+
+00:05:53.280 --> 00:05:55.710 align:start position:0%
+there's even things like if not exists
+so<00:05:53.520><c> there's</c><00:05:53.759><c> deploy</c><00:05:54.120><c> if</c><00:05:54.280><c> not</c><00:05:54.520><c> exists</c><00:05:55.039><c> audit</c><00:05:55.560><c> if</c>
+
+00:05:55.710 --> 00:05:55.720 align:start position:0%
+so there's deploy if not exists audit if
+ 
+
+00:05:55.720 --> 00:05:57.830 align:start position:0%
+so there's deploy if not exists audit if
+not<00:05:55.880><c> exist</c><00:05:56.160><c> so</c><00:05:56.400><c> I</c><00:05:56.479><c> can</c><00:05:56.800><c> actually</c><00:05:57.240><c> help</c>
+
+00:05:57.830 --> 00:05:57.840 align:start position:0%
+not exist so I can actually help
+ 
+
+00:05:57.840 --> 00:06:00.070 align:start position:0%
+not exist so I can actually help
+remediate<00:05:58.840><c> so</c><00:05:59.000><c> I</c><00:05:59.080><c> have</c><00:05:59.199><c> all</c><00:05:59.360><c> these</c><00:05:59.680><c> different</c>
+
+00:06:00.070 --> 00:06:00.080 align:start position:0%
+remediate so I have all these different
+ 
+
+00:06:00.080 --> 00:06:02.469 align:start position:0%
+remediate so I have all these different
+effects<00:06:01.000><c> and</c><00:06:01.120><c> a</c><00:06:01.360><c> policy</c><00:06:01.720><c> is</c><00:06:01.960><c> really</c><00:06:02.199><c> just</c>
+
+00:06:02.469 --> 00:06:02.479 align:start position:0%
+effects and a policy is really just
+ 
+
+00:06:02.479 --> 00:06:05.270 align:start position:0%
+effects and a policy is really just
+based<00:06:02.800><c> around</c><00:06:03.240><c> hey</c><00:06:03.479><c> there's</c><00:06:03.680><c> some</c><00:06:04.280><c> condition</c>
+
+00:06:05.270 --> 00:06:05.280 align:start position:0%
+based around hey there's some condition
+ 
+
+00:06:05.280 --> 00:06:08.070 align:start position:0%
+based around hey there's some condition
+and<00:06:05.479><c> if</c><00:06:05.639><c> it's</c><00:06:05.919><c> met</c><00:06:06.759><c> based</c><00:06:07.000><c> on</c><00:06:07.160><c> the</c><00:06:07.319><c> properties</c>
+
+00:06:08.070 --> 00:06:08.080 align:start position:0%
+and if it's met based on the properties
+ 
+
+00:06:08.080 --> 00:06:10.830 align:start position:0%
+and if it's met based on the properties
+of<00:06:08.400><c> these</c><00:06:08.720><c> things</c><00:06:09.520><c> I</c><00:06:09.639><c> want</c><00:06:09.800><c> you</c><00:06:09.919><c> to</c><00:06:10.160><c> do</c><00:06:10.560><c> this</c>
+
+00:06:10.830 --> 00:06:10.840 align:start position:0%
+of these things I want you to do this
+ 
+
+00:06:10.840 --> 00:06:13.510 align:start position:0%
+of these things I want you to do this
+thing<00:06:11.639><c> I'm</c><00:06:11.759><c> going</c><00:06:11.880><c> to</c><00:06:12.080><c> use</c><00:06:12.479><c> this</c><00:06:12.720><c> particular</c>
+
+00:06:13.510 --> 00:06:13.520 align:start position:0%
+thing I'm going to use this particular
+ 
+
+00:06:13.520 --> 00:06:17.270 align:start position:0%
+thing I'm going to use this particular
+effect<00:06:14.520><c> so</c><00:06:14.720><c> if</c><00:06:14.840><c> we</c><00:06:15.000><c> jump</c><00:06:15.280><c> over</c><00:06:15.599><c> for</c><00:06:15.759><c> a</c><00:06:16.280><c> second</c>
+
+00:06:17.270 --> 00:06:17.280 align:start position:0%
+effect so if we jump over for a second
+ 
+
+00:06:17.280 --> 00:06:19.390 align:start position:0%
+effect so if we jump over for a second
+if<00:06:17.520><c> we</c><00:06:17.800><c> go</c><00:06:18.240><c> here</c><00:06:18.840><c> and</c><00:06:18.960><c> you'll</c><00:06:19.080><c> know</c><00:06:19.240><c> it's</c>
+
+00:06:19.390 --> 00:06:19.400 align:start position:0%
+if we go here and you'll know it's
+ 
+
+00:06:19.400 --> 00:06:20.629 align:start position:0%
+if we go here and you'll know it's
+actually<00:06:19.560><c> why</c><00:06:19.680><c> I'm</c><00:06:19.800><c> here</c><00:06:19.919><c> on</c>
+
+00:06:20.629 --> 00:06:20.639 align:start position:0%
+actually why I'm here on
+ 
+
+00:06:20.639 --> 00:06:23.230 align:start position:0%
+actually why I'm here on
+subscription<00:06:21.639><c> we</c><00:06:21.800><c> have</c><00:06:22.000><c> the</c><00:06:22.199><c> ab</c><00:06:22.680><c> ability</c><00:06:23.080><c> to</c>
+
+00:06:23.230 --> 00:06:23.240 align:start position:0%
+subscription we have the ab ability to
+ 
+
+00:06:23.240 --> 00:06:24.070 align:start position:0%
+subscription we have the ab ability to
+see
+
+00:06:24.070 --> 00:06:24.080 align:start position:0%
+see
+ 
+
+00:06:24.080 --> 00:06:25.909 align:start position:0%
+see
+policies<00:06:25.080><c> so</c><00:06:25.240><c> it's</c><00:06:25.319><c> showing</c><00:06:25.560><c> me</c><00:06:25.720><c> the</c>
+
+00:06:25.909 --> 00:06:25.919 align:start position:0%
+policies so it's showing me the
+ 
+
+00:06:25.919 --> 00:06:27.749 align:start position:0%
+policies so it's showing me the
+compliance<00:06:26.520><c> of</c><00:06:26.680><c> all</c><00:06:26.800><c> the</c><00:06:27.000><c> policies</c><00:06:27.440><c> that</c><00:06:27.560><c> are</c>
+
+00:06:27.749 --> 00:06:27.759 align:start position:0%
+compliance of all the policies that are
+ 
+
+00:06:27.759 --> 00:06:30.270 align:start position:0%
+compliance of all the policies that are
+actually<00:06:28.080><c> in</c><00:06:28.319><c> place</c><00:06:28.720><c> here</c>
+
+00:06:30.270 --> 00:06:30.280 align:start position:0%
+actually in place here
+ 
+
+00:06:30.280 --> 00:06:33.550 align:start position:0%
+actually in place here
+but<00:06:30.919><c> what</c><00:06:31.039><c> we</c><00:06:31.160><c> can</c><00:06:31.360><c> actually</c><00:06:31.639><c> see</c><00:06:31.960><c> as</c><00:06:32.160><c> well</c><00:06:32.639><c> is</c>
+
+00:06:33.550 --> 00:06:33.560 align:start position:0%
+but what we can actually see as well is
+ 
+
+00:06:33.560 --> 00:06:35.670 align:start position:0%
+but what we can actually see as well is
+hey<00:06:33.840><c> assignments</c><00:06:34.520><c> that</c><00:06:34.680><c> I</c><00:06:34.880><c> have</c><00:06:35.240><c> at</c><00:06:35.360><c> the</c>
+
+00:06:35.670 --> 00:06:35.680 align:start position:0%
+hey assignments that I have at the
+ 
+
+00:06:35.680 --> 00:06:38.390 align:start position:0%
+hey assignments that I have at the
+subscription<00:06:36.680><c> level</c><00:06:37.039><c> and</c><00:06:37.199><c> ones</c><00:06:37.400><c> at</c><00:06:37.639><c> child</c>
+
+00:06:38.390 --> 00:06:38.400 align:start position:0%
+subscription level and ones at child
+ 
+
+00:06:38.400 --> 00:06:40.790 align:start position:0%
+subscription level and ones at child
+resources<00:06:39.400><c> notice</c><00:06:39.720><c> I</c><00:06:39.840><c> have</c><00:06:39.960><c> some</c><00:06:40.160><c> initiatives</c>
+
+00:06:40.790 --> 00:06:40.800 align:start position:0%
+resources notice I have some initiatives
+ 
+
+00:06:40.800 --> 00:06:43.790 align:start position:0%
+resources notice I have some initiatives
+as<00:06:41.360><c> well</c><00:06:42.360><c> but</c><00:06:42.560><c> instead</c><00:06:42.960><c> if</c><00:06:43.080><c> I</c><00:06:43.319><c> actually</c><00:06:43.599><c> just</c>
+
+00:06:43.790 --> 00:06:43.800 align:start position:0%
+as well but instead if I actually just
+ 
+
+00:06:43.800 --> 00:06:48.230 align:start position:0%
+as well but instead if I actually just
+jump<00:06:44.160><c> over</c><00:06:45.039><c> and</c><00:06:45.199><c> we'll</c><00:06:45.400><c> look</c><00:06:45.680><c> directly</c><00:06:46.039><c> at</c>
+
+00:06:48.230 --> 00:06:48.240 align:start position:0%
+jump over and we'll look directly at
+ 
+
+00:06:48.240 --> 00:06:51.110 align:start position:0%
+jump over and we'll look directly at
+policy<00:06:49.240><c> so</c><00:06:49.479><c> firstly</c><00:06:49.880><c> we</c><00:06:50.080><c> have</c><00:06:50.280><c> the</c><00:06:50.520><c> definition</c>
+
+00:06:51.110 --> 00:06:51.120 align:start position:0%
+policy so firstly we have the definition
+ 
+
+00:06:51.120 --> 00:06:54.230 align:start position:0%
+policy so firstly we have the definition
+so<00:06:51.400><c> what</c><00:06:51.880><c> are</c><00:06:52.880><c> these</c><00:06:53.120><c> policies</c><00:06:53.840><c> actually</c>
+
+00:06:54.230 --> 00:06:54.240 align:start position:0%
+so what are these policies actually
+ 
+
+00:06:54.240 --> 00:06:58.230 align:start position:0%
+so what are these policies actually
+doing<00:06:54.880><c> and</c><00:06:55.080><c> there's</c><00:06:55.720><c> a</c><00:06:56.199><c> huge</c><00:06:57.039><c> huge</c><00:06:57.520><c> screens</c>
+
+00:06:58.230 --> 00:06:58.240 align:start position:0%
+doing and there's a huge huge screens
+ 
+
+00:06:58.240 --> 00:07:00.749 align:start position:0%
+doing and there's a huge huge screens
+and<00:06:58.520><c> screens</c><00:06:59.720><c> now</c><00:06:59.919><c> I</c><00:07:00.000><c> could</c><00:07:00.160><c> say</c><00:07:00.400><c> hey</c><00:07:00.560><c> actually</c>
+
+00:07:00.749 --> 00:07:00.759 align:start position:0%
+and screens now I could say hey actually
+ 
+
+00:07:00.759 --> 00:07:02.589 align:start position:0%
+and screens now I could say hey actually
+I<00:07:00.800><c> want</c><00:07:00.919><c> to</c><00:07:01.039><c> focus</c><00:07:01.280><c> on</c><00:07:01.400><c> a</c><00:07:01.560><c> certain</c><00:07:02.000><c> category</c><00:07:02.440><c> so</c>
+
+00:07:02.589 --> 00:07:02.599 align:start position:0%
+I want to focus on a certain category so
+ 
+
+00:07:02.599 --> 00:07:04.510 align:start position:0%
+I want to focus on a certain category so
+instead<00:07:02.800><c> of</c><00:07:02.879><c> seeing</c><00:07:03.120><c> all</c><00:07:03.240><c> of</c><00:07:03.360><c> them</c><00:07:04.160><c> maybe</c><00:07:04.400><c> I</c>
+
+00:07:04.510 --> 00:07:04.520 align:start position:0%
+instead of seeing all of them maybe I
+ 
+
+00:07:04.520 --> 00:07:06.270 align:start position:0%
+instead of seeing all of them maybe I
+just<00:07:04.599><c> want</c><00:07:04.720><c> to</c><00:07:04.840><c> look</c><00:07:05.000><c> at</c><00:07:05.160><c> ones</c><00:07:05.360><c> around</c>
+
+00:07:06.270 --> 00:07:06.280 align:start position:0%
+just want to look at ones around
+ 
+
+00:07:06.280 --> 00:07:10.110 align:start position:0%
+just want to look at ones around
+storage<00:07:07.280><c> so</c><00:07:07.599><c> now</c><00:07:07.800><c> with</c>
+
+00:07:10.110 --> 00:07:10.120 align:start position:0%
+ 
+ 
+
+00:07:10.120 --> 00:07:12.150 align:start position:0%
+ 
+storage<00:07:11.120><c> look</c><00:07:11.280><c> I</c><00:07:11.360><c> could</c><00:07:11.520><c> say</c><00:07:11.720><c> hey</c><00:07:11.840><c> look</c><00:07:12.000><c> I</c><00:07:12.080><c> want</c>
+
+00:07:12.150 --> 00:07:12.160 align:start position:0%
+storage look I could say hey look I want
+ 
+
+00:07:12.160 --> 00:07:14.510 align:start position:0%
+storage look I could say hey look I want
+to<00:07:12.319><c> limit</c><00:07:12.800><c> which</c><00:07:13.199><c> skews</c><00:07:13.720><c> of</c><00:07:13.919><c> storage</c><00:07:14.319><c> you're</c>
+
+00:07:14.510 --> 00:07:14.520 align:start position:0%
+to limit which skews of storage you're
+ 
+
+00:07:14.520 --> 00:07:16.350 align:start position:0%
+to limit which skews of storage you're
+allowed<00:07:14.800><c> to</c>
+
+00:07:16.350 --> 00:07:16.360 align:start position:0%
+allowed to
+ 
+
+00:07:16.360 --> 00:07:19.070 align:start position:0%
+allowed to
+use<00:07:17.360><c> so</c><00:07:17.639><c> here</c><00:07:17.840><c> I</c><00:07:17.919><c> can</c><00:07:18.039><c> see</c>
+
+00:07:19.070 --> 00:07:19.080 align:start position:0%
+use so here I can see
+ 
+
+00:07:19.080 --> 00:07:21.869 align:start position:0%
+use so here I can see
+okay<00:07:20.080><c> these</c><00:07:20.199><c> are</c><00:07:20.360><c> the</c><00:07:20.479><c> allowed</c><00:07:20.879><c> SKS</c><00:07:21.479><c> I</c><00:07:21.599><c> can</c>
+
+00:07:21.869 --> 00:07:21.879 align:start position:0%
+okay these are the allowed SKS I can
+ 
+
+00:07:21.879 --> 00:07:25.629 align:start position:0%
+okay these are the allowed SKS I can
+have<00:07:22.280><c> I</c><00:07:22.360><c> can</c><00:07:22.560><c> have</c><00:07:23.240><c> parameters</c><00:07:24.280><c> so</c><00:07:25.280><c> okay</c><00:07:25.479><c> the</c>
+
+00:07:25.629 --> 00:07:25.639 align:start position:0%
+have I can have parameters so okay the
+ 
+
+00:07:25.639 --> 00:07:28.350 align:start position:0%
+have I can have parameters so okay the
+allow<00:07:26.199><c> the</c><00:07:26.400><c> effect</c><00:07:26.759><c> I'm</c><00:07:26.919><c> going</c><00:07:27.000><c> to</c><00:07:27.280><c> have</c><00:07:28.280><c> you</c>
+
+00:07:28.350 --> 00:07:28.360 align:start position:0%
+allow the effect I'm going to have you
+ 
+
+00:07:28.360 --> 00:07:30.270 align:start position:0%
+allow the effect I'm going to have you
+can<00:07:28.520><c> see</c><00:07:28.680><c> I've</c><00:07:28.840><c> actually</c><00:07:29.080><c> got</c><00:07:29.240><c> this</c><00:07:29.639><c> applied</c>
+
+00:07:30.270 --> 00:07:30.280 align:start position:0%
+can see I've actually got this applied
+ 
+
+00:07:30.280 --> 00:07:32.830 align:start position:0%
+can see I've actually got this applied
+to<00:07:30.639><c> my</c><00:07:30.919><c> particular</c><00:07:31.400><c> subscription</c><00:07:32.400><c> and</c><00:07:32.520><c> if</c><00:07:32.639><c> I</c>
+
+00:07:32.830 --> 00:07:32.840 align:start position:0%
+to my particular subscription and if I
+ 
+
+00:07:32.840 --> 00:07:33.950 align:start position:0%
+to my particular subscription and if I
+look<00:07:33.039><c> at</c>
+
+00:07:33.950 --> 00:07:33.960 align:start position:0%
+look at
+ 
+
+00:07:33.960 --> 00:07:35.869 align:start position:0%
+look at
+that<00:07:34.960><c> okay</c><00:07:35.080><c> so</c><00:07:35.240><c> I've</c><00:07:35.360><c> got</c><00:07:35.479><c> the</c><00:07:35.560><c> list</c><00:07:35.759><c> of</c>
+
+00:07:35.869 --> 00:07:35.879 align:start position:0%
+that okay so I've got the list of
+ 
+
+00:07:35.879 --> 00:07:37.550 align:start position:0%
+that okay so I've got the list of
+allowed<00:07:36.199><c> skews</c><00:07:36.599><c> you</c><00:07:36.680><c> can</c><00:07:36.800><c> see</c><00:07:36.960><c> the</c><00:07:37.080><c> parameters</c>
+
+00:07:37.550 --> 00:07:37.560 align:start position:0%
+allowed skews you can see the parameters
+ 
+
+00:07:37.560 --> 00:07:41.150 align:start position:0%
+allowed skews you can see the parameters
+I<00:07:37.879><c> passed</c><00:07:38.879><c> what</c><00:07:39.120><c> are</c><00:07:39.520><c> those</c><00:07:39.840><c> particular</c><00:07:40.319><c> SKS</c>
+
+00:07:41.150 --> 00:07:41.160 align:start position:0%
+I passed what are those particular SKS
+ 
+
+00:07:41.160 --> 00:07:44.230 align:start position:0%
+I passed what are those particular SKS
+that<00:07:41.319><c> I'm</c><00:07:41.520><c> allowing</c><00:07:42.360><c> within</c><00:07:42.759><c> my</c><00:07:43.240><c> subscription</c>
+
+00:07:44.230 --> 00:07:44.240 align:start position:0%
+that I'm allowing within my subscription
+ 
+
+00:07:44.240 --> 00:07:46.189 align:start position:0%
+that I'm allowing within my subscription
+and<00:07:44.360><c> then</c><00:07:44.560><c> my</c><00:07:44.800><c> effect</c><00:07:45.159><c> is</c><00:07:45.280><c> to</c><00:07:45.520><c> deny</c><00:07:45.919><c> so</c><00:07:46.000><c> if</c><00:07:46.080><c> I</c>
+
+00:07:46.189 --> 00:07:46.199 align:start position:0%
+and then my effect is to deny so if I
+ 
+
+00:07:46.199 --> 00:07:47.869 align:start position:0%
+and then my effect is to deny so if I
+try<00:07:46.360><c> and</c><00:07:46.479><c> use</c><00:07:46.599><c> a</c><00:07:46.759><c> skew</c><00:07:47.080><c> that's</c><00:07:47.319><c> not</c><00:07:47.520><c> one</c><00:07:47.680><c> of</c>
+
+00:07:47.869 --> 00:07:47.879 align:start position:0%
+try and use a skew that's not one of
+ 
+
+00:07:47.879 --> 00:07:50.990 align:start position:0%
+try and use a skew that's not one of
+these<00:07:48.479><c> it</c><00:07:48.560><c> will</c><00:07:48.800><c> actually</c><00:07:49.159><c> deny</c><00:07:50.120><c> me</c><00:07:50.400><c> trying</c><00:07:50.680><c> to</c>
+
+00:07:50.990 --> 00:07:51.000 align:start position:0%
+these it will actually deny me trying to
+ 
+
+00:07:51.000 --> 00:07:54.909 align:start position:0%
+these it will actually deny me trying to
+create<00:07:51.520><c> that</c><00:07:52.520><c> so</c><00:07:52.840><c> a</c>
+
+00:07:54.909 --> 00:07:54.919 align:start position:0%
+create that so a
+ 
+
+00:07:54.919 --> 00:07:58.149 align:start position:0%
+create that so a
+definition<00:07:55.919><c> is</c><00:07:56.240><c> really</c><00:07:56.840><c> just</c><00:07:57.720><c> what</c><00:07:57.840><c> am</c><00:07:57.960><c> I</c>
+
+00:07:58.149 --> 00:07:58.159 align:start position:0%
+definition is really just what am I
+ 
+
+00:07:58.159 --> 00:08:00.309 align:start position:0%
+definition is really just what am I
+looking<00:07:58.440><c> at</c><00:07:59.520><c> so</c><00:07:59.680><c> if</c><00:07:59.800><c> I</c><00:07:59.919><c> look</c><00:08:00.039><c> at</c><00:08:00.120><c> the</c>
+
+00:08:00.309 --> 00:08:00.319 align:start position:0%
+looking at so if I look at the
+ 
+
+00:08:00.319 --> 00:08:02.830 align:start position:0%
+looking at so if I look at the
+definition<00:08:00.919><c> what</c><00:08:01.039><c> is</c><00:08:01.199><c> the</c><00:08:01.360><c> rule</c><00:08:01.919><c> down</c>
+
+00:08:02.830 --> 00:08:02.840 align:start position:0%
+definition what is the rule down
+ 
+
+00:08:02.840 --> 00:08:05.749 align:start position:0%
+definition what is the rule down
+here<00:08:03.840><c> well</c><00:08:03.960><c> I</c><00:08:04.039><c> can</c><00:08:04.159><c> see</c><00:08:04.400><c> the</c><00:08:04.560><c> rule</c><00:08:05.280><c> is</c><00:08:05.560><c> I'm</c>
+
+00:08:05.749 --> 00:08:05.759 align:start position:0%
+here well I can see the rule is I'm
+ 
+
+00:08:05.759 --> 00:08:09.070 align:start position:0%
+here well I can see the rule is I'm
+looking<00:08:06.120><c> for</c><00:08:06.319><c> it</c><00:08:06.440><c> to</c><00:08:06.639><c> be</c><00:08:07.039><c> of</c><00:08:07.319><c> type</c><00:08:08.319><c> for</c><00:08:08.479><c> the</c>
+
+00:08:09.070 --> 00:08:09.080 align:start position:0%
+looking for it to be of type for the
+ 
+
+00:08:09.080 --> 00:08:12.550 align:start position:0%
+looking for it to be of type for the
+resource<00:08:10.319><c> of</c><00:08:11.319><c> storage</c><00:08:11.720><c> resource</c><00:08:12.199><c> provider</c>
+
+00:08:12.550 --> 00:08:12.560 align:start position:0%
+resource of storage resource provider
+ 
+
+00:08:12.560 --> 00:08:15.270 align:start position:0%
+resource of storage resource provider
+and<00:08:12.680><c> storage</c><00:08:13.400><c> account</c><00:08:14.400><c> and</c><00:08:14.520><c> I'm</c><00:08:14.680><c> looking</c><00:08:14.960><c> for</c>
+
+00:08:15.270 --> 00:08:15.280 align:start position:0%
+and storage account and I'm looking for
+ 
+
+00:08:15.280 --> 00:08:17.629 align:start position:0%
+and storage account and I'm looking for
+a<00:08:15.520><c> certain</c><00:08:16.000><c> field</c><00:08:16.759><c> so</c><00:08:16.919><c> these</c><00:08:17.039><c> are</c><00:08:17.159><c> defined</c><00:08:17.479><c> as</c>
+
+00:08:17.629 --> 00:08:17.639 align:start position:0%
+a certain field so these are defined as
+ 
+
+00:08:17.639 --> 00:08:19.350 align:start position:0%
+a certain field so these are defined as
+aliases<00:08:18.240><c> but</c><00:08:18.319><c> they're</c><00:08:18.599><c> properties</c><00:08:19.039><c> of</c><00:08:19.199><c> the</c>
+
+00:08:19.350 --> 00:08:19.360 align:start position:0%
+aliases but they're properties of the
+ 
+
+00:08:19.360 --> 00:08:21.710 align:start position:0%
+aliases but they're properties of the
+resource<00:08:20.319><c> so</c><00:08:20.479><c> I'm</c><00:08:20.560><c> looking</c><00:08:20.800><c> at</c><00:08:20.919><c> the</c><00:08:21.039><c> skew</c><00:08:21.479><c> do</c>
+
+00:08:21.710 --> 00:08:21.720 align:start position:0%
+resource so I'm looking at the skew do
+ 
+
+00:08:21.720 --> 00:08:24.749 align:start position:0%
+resource so I'm looking at the skew do
+name<00:08:22.120><c> property</c><00:08:22.720><c> of</c><00:08:22.840><c> the</c><00:08:22.919><c> storage</c><00:08:23.520><c> account</c><00:08:24.520><c> and</c>
+
+00:08:24.749 --> 00:08:24.759 align:start position:0%
+name property of the storage account and
+ 
+
+00:08:24.759 --> 00:08:28.390 align:start position:0%
+name property of the storage account and
+it's<00:08:25.159><c> not</c><00:08:25.720><c> in</c><00:08:25.879><c> the</c><00:08:26.080><c> list</c><00:08:26.400><c> of</c><00:08:26.680><c> allowed</c><00:08:27.240><c> SKS</c><00:08:28.120><c> so</c>
+
+00:08:28.390 --> 00:08:28.400 align:start position:0%
+it's not in the list of allowed SKS so
+ 
+
+00:08:28.400 --> 00:08:30.830 align:start position:0%
+it's not in the list of allowed SKS so
+if<00:08:28.520><c> the</c><00:08:28.680><c> resource</c><00:08:29.159><c> is</c><00:08:29.280><c> a</c><00:08:29.520><c> storage</c><00:08:29.919><c> account</c><00:08:30.720><c> and</c>
+
+00:08:30.830 --> 00:08:30.840 align:start position:0%
+if the resource is a storage account and
+ 
+
+00:08:30.840 --> 00:08:33.149 align:start position:0%
+if the resource is a storage account and
+it's<00:08:31.000><c> a</c><00:08:31.159><c> skew</c><00:08:31.520><c> that's</c><00:08:31.800><c> not</c><00:08:32.039><c> in</c><00:08:32.240><c> the</c><00:08:32.599><c> allowed</c>
+
+00:08:33.149 --> 00:08:33.159 align:start position:0%
+it's a skew that's not in the allowed
+ 
+
+00:08:33.159 --> 00:08:36.149 align:start position:0%
+it's a skew that's not in the allowed
+list<00:08:33.839><c> this</c><00:08:34.000><c> would</c><00:08:34.240><c> apply</c><00:08:35.200><c> and</c><00:08:35.440><c> then</c><00:08:35.800><c> it</c><00:08:35.919><c> will</c>
+
+00:08:36.149 --> 00:08:36.159 align:start position:0%
+list this would apply and then it will
+ 
+
+00:08:36.159 --> 00:08:39.269 align:start position:0%
+list this would apply and then it will
+trigger<00:08:36.760><c> the</c><00:08:37.000><c> effect</c><00:08:37.919><c> which</c><00:08:38.080><c> in</c><00:08:38.240><c> my</c><00:08:38.519><c> case</c><00:08:38.919><c> was</c>
+
+00:08:39.269 --> 00:08:39.279 align:start position:0%
+trigger the effect which in my case was
+ 
+
+00:08:39.279 --> 00:08:41.469 align:start position:0%
+trigger the effect which in my case was
+deny<00:08:39.839><c> but</c><00:08:40.000><c> again</c><00:08:40.159><c> could</c><00:08:40.320><c> be</c><00:08:40.440><c> audit</c><00:08:40.880><c> or</c><00:08:41.159><c> other</c>
+
+00:08:41.469 --> 00:08:41.479 align:start position:0%
+deny but again could be audit or other
+ 
+
+00:08:41.479 --> 00:08:44.389 align:start position:0%
+deny but again could be audit or other
+things<00:08:41.959><c> so</c><00:08:42.120><c> that's</c><00:08:42.320><c> all</c><00:08:42.479><c> a</c><00:08:42.719><c> policy</c><00:08:43.120><c> is</c><00:08:44.080><c> it's</c>
+
+00:08:44.389 --> 00:08:44.399 align:start position:0%
+things so that's all a policy is it's
+ 
+
+00:08:44.399 --> 00:08:46.230 align:start position:0%
+things so that's all a policy is it's
+hey<00:08:44.560><c> what</c><00:08:44.680><c> is</c><00:08:44.800><c> it</c><00:08:44.959><c> applying</c><00:08:45.279><c> to</c><00:08:45.760><c> and</c><00:08:45.920><c> then</c><00:08:46.080><c> what</c>
+
+00:08:46.230 --> 00:08:46.240 align:start position:0%
+hey what is it applying to and then what
+ 
+
+00:08:46.240 --> 00:08:48.190 align:start position:0%
+hey what is it applying to and then what
+do<00:08:46.399><c> I</c><00:08:46.519><c> want</c><00:08:46.720><c> to</c>
+
+00:08:48.190 --> 00:08:48.200 align:start position:0%
+do I want to
+ 
+
+00:08:48.200 --> 00:08:52.030 align:start position:0%
+do I want to
+do<00:08:49.200><c> but</c><00:08:49.440><c> very</c><00:08:50.120><c> often</c><00:08:51.120><c> again</c><00:08:51.680><c> I</c><00:08:51.760><c> might</c><00:08:51.920><c> be</c>
+
+00:08:52.030 --> 00:08:52.040 align:start position:0%
+do but very often again I might be
+ 
+
+00:08:52.040 --> 00:08:53.630 align:start position:0%
+do but very often again I might be
+trying<00:08:52.240><c> to</c><00:08:52.320><c> meet</c><00:08:52.519><c> certain</c><00:08:52.800><c> regulatory</c>
+
+00:08:53.630 --> 00:08:53.640 align:start position:0%
+trying to meet certain regulatory
+ 
+
+00:08:53.640 --> 00:08:55.470 align:start position:0%
+trying to meet certain regulatory
+requirements<00:08:54.640><c> so</c><00:08:54.800><c> instead</c><00:08:55.040><c> of</c><00:08:55.120><c> having</c><00:08:55.320><c> to</c>
+
+00:08:55.470 --> 00:08:55.480 align:start position:0%
+requirements so instead of having to
+ 
+
+00:08:55.480 --> 00:08:57.790 align:start position:0%
+requirements so instead of having to
+Define<00:08:55.920><c> individual</c><00:08:56.839><c> policies</c><00:08:57.240><c> and</c><00:08:57.399><c> applying</c>
+
+00:08:57.790 --> 00:08:57.800 align:start position:0%
+Define individual policies and applying
+ 
+
+00:08:57.800 --> 00:09:00.150 align:start position:0%
+Define individual policies and applying
+it<00:08:58.320><c> 100</c><00:08:58.640><c> different</c><00:08:58.959><c> policies</c><00:08:59.480><c> is</c><00:08:59.959><c> I</c><00:09:00.040><c> can</c>
+
+00:09:00.150 --> 00:09:00.160 align:start position:0%
+it 100 different policies is I can
+ 
+
+00:09:00.160 --> 00:09:02.509 align:start position:0%
+it 100 different policies is I can
+create<00:09:00.399><c> an</c><00:09:00.760><c> initiative</c><00:09:01.760><c> so</c><00:09:01.959><c> here</c><00:09:02.200><c> I'm</c><00:09:02.320><c> looking</c>
+
+00:09:02.509 --> 00:09:02.519 align:start position:0%
+create an initiative so here I'm looking
+ 
+
+00:09:02.519 --> 00:09:03.790 align:start position:0%
+create an initiative so here I'm looking
+at<00:09:02.720><c> initiatives</c><00:09:03.200><c> and</c><00:09:03.320><c> we</c><00:09:03.399><c> can</c><00:09:03.440><c> see</c><00:09:03.560><c> there's</c><00:09:03.680><c> a</c>
+
+00:09:03.790 --> 00:09:03.800 align:start position:0%
+at initiatives and we can see there's a
+ 
+
+00:09:03.800 --> 00:09:06.430 align:start position:0%
+at initiatives and we can see there's a
+whole<00:09:03.959><c> bunch</c><00:09:04.120><c> of</c><00:09:04.240><c> these</c><00:09:04.399><c> buil</c><00:09:04.680><c> in</c><00:09:05.120><c> again</c><00:09:06.120><c> about</c>
+
+00:09:06.430 --> 00:09:06.440 align:start position:0%
+whole bunch of these buil in again about
+ 
+
+00:09:06.440 --> 00:09:07.470 align:start position:0%
+whole bunch of these buil in again about
+things<00:09:06.640><c> like</c>
+
+00:09:07.470 --> 00:09:07.480 align:start position:0%
+things like
+ 
+
+00:09:07.480 --> 00:09:12.150 align:start position:0%
+things like
+hipper<00:09:08.480><c> um</c><00:09:08.760><c> cmmc</c><00:09:09.760><c> level</c><00:09:10.160><c> three</c><00:09:10.800><c> nist</c>
+
+00:09:12.150 --> 00:09:12.160 align:start position:0%
+hipper um cmmc level three nist
+ 
+
+00:09:12.160 --> 00:09:15.550 align:start position:0%
+hipper um cmmc level three nist
+sp800<00:09:13.160><c> consisting</c><00:09:13.560><c> of</c>
+
+00:09:15.550 --> 00:09:15.560 align:start position:0%
+sp800 consisting of
+ 
+
+00:09:15.560 --> 00:09:17.630 align:start position:0%
+sp800 consisting of
+989<00:09:16.560><c> different</c>
+
+00:09:17.630 --> 00:09:17.640 align:start position:0%
+989 different
+ 
+
+00:09:17.640 --> 00:09:19.949 align:start position:0%
+989 different
+policies<00:09:18.640><c> and</c><00:09:18.800><c> the</c><00:09:18.959><c> whole</c><00:09:19.200><c> goal</c><00:09:19.480><c> here</c><00:09:19.640><c> is</c><00:09:19.880><c> I</c>
+
+00:09:19.949 --> 00:09:19.959 align:start position:0%
+policies and the whole goal here is I
+ 
+
+00:09:19.959 --> 00:09:21.870 align:start position:0%
+policies and the whole goal here is I
+can<00:09:20.120><c> just</c><00:09:20.440><c> apply</c><00:09:20.959><c> this</c>
+
+00:09:21.870 --> 00:09:21.880 align:start position:0%
+can just apply this
+ 
+
+00:09:21.880 --> 00:09:25.030 align:start position:0%
+can just apply this
+initiative<00:09:22.880><c> and</c><00:09:23.120><c> all</c><00:09:23.399><c> of</c><00:09:23.640><c> these</c><00:09:23.839><c> will</c><00:09:24.079><c> then</c><00:09:24.320><c> be</c>
+
+00:09:25.030 --> 00:09:25.040 align:start position:0%
+initiative and all of these will then be
+ 
+
+00:09:25.040 --> 00:09:27.190 align:start position:0%
+initiative and all of these will then be
+applied<00:09:26.040><c> and</c><00:09:26.200><c> I</c><00:09:26.279><c> can</c><00:09:26.440><c> then</c><00:09:26.600><c> track</c><00:09:26.959><c> the</c>
+
+00:09:27.190 --> 00:09:27.200 align:start position:0%
+applied and I can then track the
+ 
+
+00:09:27.200 --> 00:09:30.990 align:start position:0%
+applied and I can then track the
+compliance<00:09:27.800><c> of</c><00:09:28.120><c> all</c><00:09:28.279><c> of</c><00:09:28.600><c> these</c><00:09:29.720><c> together</c><00:09:30.720><c> and</c>
+
+00:09:30.990 --> 00:09:31.000 align:start position:0%
+compliance of all of these together and
+ 
+
+00:09:31.000 --> 00:09:33.310 align:start position:0%
+compliance of all of these together and
+aure<00:09:31.399><c> uses</c><00:09:31.760><c> this</c><00:09:31.959><c> for</c><00:09:32.200><c> the</c><00:09:32.399><c> security</c><00:09:32.880><c> Center</c>
+
+00:09:33.310 --> 00:09:33.320 align:start position:0%
+aure uses this for the security Center
+ 
+
+00:09:33.320 --> 00:09:36.670 align:start position:0%
+aure uses this for the security Center
+so<00:09:33.600><c> aure</c><00:09:34.120><c> security</c><00:09:34.920><c> or</c><00:09:35.320><c> Defender</c><00:09:35.839><c> for</c><00:09:36.160><c> cloud</c>
+
+00:09:36.670 --> 00:09:36.680 align:start position:0%
+so aure security or Defender for cloud
+ 
+
+00:09:36.680 --> 00:09:39.509 align:start position:0%
+so aure security or Defender for cloud
+as<00:09:36.800><c> we</c><00:09:36.959><c> now</c><00:09:37.240><c> call</c><00:09:37.600><c> it</c><00:09:38.600><c> has</c><00:09:38.880><c> that</c><00:09:39.120><c> Azure</c>
+
+00:09:39.509 --> 00:09:39.519 align:start position:0%
+as we now call it has that Azure
+ 
+
+00:09:39.519 --> 00:09:42.069 align:start position:0%
+as we now call it has that Azure
+security<00:09:40.000><c> Benchmark</c><00:09:41.000><c> which</c><00:09:41.120><c> is</c><00:09:41.240><c> an</c>
+
+00:09:42.069 --> 00:09:42.079 align:start position:0%
+security Benchmark which is an
+ 
+
+00:09:42.079 --> 00:09:45.150 align:start position:0%
+security Benchmark which is an
+initiative<00:09:43.079><c> which</c><00:09:43.279><c> just</c><00:09:43.480><c> has</c><00:09:43.680><c> 206</c><00:09:44.560><c> policies</c>
+
+00:09:45.150 --> 00:09:45.160 align:start position:0%
+initiative which just has 206 policies
+ 
+
+00:09:45.160 --> 00:09:49.069 align:start position:0%
+initiative which just has 206 policies
+and<00:09:45.519><c> that</c><00:09:45.760><c> is</c><00:09:46.240><c> actually</c><00:09:47.360><c> how</c><00:09:48.360><c> as</c><00:09:48.720><c> security</c>
+
+00:09:49.069 --> 00:09:49.079 align:start position:0%
+and that is actually how as security
+ 
+
+00:09:49.079 --> 00:09:51.069 align:start position:0%
+and that is actually how as security
+Center<00:09:49.480><c> or</c><00:09:49.680><c> Microsoft</c><00:09:50.079><c> defender</c><00:09:50.360><c> of</c><00:09:50.560><c> cloud</c>
+
+00:09:51.069 --> 00:09:51.079 align:start position:0%
+Center or Microsoft defender of cloud
+ 
+
+00:09:51.079 --> 00:09:53.350 align:start position:0%
+Center or Microsoft defender of cloud
+works<00:09:51.920><c> it</c><00:09:52.079><c> has</c><00:09:52.279><c> all</c><00:09:52.399><c> of</c><00:09:52.560><c> these</c><00:09:52.760><c> policies</c><00:09:53.160><c> that</c>
+
+00:09:53.350 --> 00:09:53.360 align:start position:0%
+works it has all of these policies that
+ 
+
+00:09:53.360 --> 00:09:55.710 align:start position:0%
+works it has all of these policies that
+goes<00:09:53.560><c> and</c><00:09:53.720><c> looks</c><00:09:53.959><c> at</c><00:09:54.200><c> things</c><00:09:55.160><c> and</c><00:09:55.279><c> then</c><00:09:55.480><c> that's</c>
+
+00:09:55.710 --> 00:09:55.720 align:start position:0%
+goes and looks at things and then that's
+ 
+
+00:09:55.720 --> 00:09:57.670 align:start position:0%
+goes and looks at things and then that's
+how<00:09:55.880><c> we</c><00:09:56.040><c> track</c><00:09:56.360><c> the</c><00:09:56.560><c> compliance</c><00:09:57.240><c> and</c><00:09:57.360><c> we</c><00:09:57.480><c> get</c>
+
+00:09:57.670 --> 00:09:57.680 align:start position:0%
+how we track the compliance and we get
+ 
+
+00:09:57.680 --> 00:09:59.790 align:start position:0%
+how we track the compliance and we get
+those<00:09:57.880><c> various</c><00:09:58.240><c> scores</c><00:09:59.000><c> as</c><00:09:59.160><c> we</c><00:09:59.560><c> all</c><00:09:59.680><c> it's</c>
+
+00:09:59.790 --> 00:09:59.800 align:start position:0%
+those various scores as we all it's
+ 
+
+00:09:59.800 --> 00:10:01.350 align:start position:0%
+those various scores as we all it's
+doing<00:10:00.040><c> and</c><00:10:00.160><c> this</c><00:10:00.240><c> is</c><00:10:00.399><c> huge</c><00:10:00.800><c> it's</c><00:10:00.959><c> going</c><00:10:01.040><c> to</c>
+
+00:10:01.350 --> 00:10:01.360 align:start position:0%
+doing and this is huge it's going to
+ 
+
+00:10:01.360 --> 00:10:02.710 align:start position:0%
+doing and this is huge it's going to
+take<00:10:01.560><c> a</c><00:10:01.680><c> while</c><00:10:01.920><c> probably</c><00:10:02.120><c> longer</c><00:10:02.360><c> than</c><00:10:02.440><c> I</c><00:10:02.560><c> want</c>
+
+00:10:02.710 --> 00:10:02.720 align:start position:0%
+take a while probably longer than I want
+ 
+
+00:10:02.720 --> 00:10:06.230 align:start position:0%
+take a while probably longer than I want
+to<00:10:02.920><c> wait</c><00:10:03.839><c> but</c><00:10:04.079><c> this</c><00:10:04.240><c> is</c><00:10:04.640><c> how</c><00:10:05.640><c> that</c><00:10:05.920><c> actually</c>
+
+00:10:06.230 --> 00:10:06.240 align:start position:0%
+to wait but this is how that actually
+ 
+
+00:10:06.240 --> 00:10:08.790 align:start position:0%
+to wait but this is how that actually
+works<00:10:06.560><c> it's</c><00:10:06.760><c> using</c><00:10:07.120><c> this</c><00:10:07.519><c> initiative</c><00:10:08.519><c> and</c>
+
+00:10:08.790 --> 00:10:08.800 align:start position:0%
+works it's using this initiative and
+ 
+
+00:10:08.800 --> 00:10:11.350 align:start position:0%
+works it's using this initiative and
+from<00:10:09.200><c> this</c><00:10:09.440><c> as</c><00:10:09.640><c> well</c><00:10:10.440><c> I</c><00:10:10.560><c> can</c><00:10:10.760><c> look</c><00:10:10.959><c> at</c><00:10:11.120><c> the</c>
+
+00:10:11.350 --> 00:10:11.360 align:start position:0%
+from this as well I can look at the
+ 
+
+00:10:11.360 --> 00:10:13.790 align:start position:0%
+from this as well I can look at the
+compliance<00:10:12.120><c> of</c><00:10:12.399><c> all</c><00:10:12.760><c> these</c><00:10:13.279><c> various</c>
+
+00:10:13.790 --> 00:10:13.800 align:start position:0%
+compliance of all these various
+ 
+
+00:10:13.800 --> 00:10:15.750 align:start position:0%
+compliance of all these various
+different<00:10:14.320><c> things</c><00:10:15.160><c> so</c><00:10:15.440><c> here</c><00:10:15.560><c> I'm</c><00:10:15.640><c> just</c>
+
+00:10:15.750 --> 00:10:15.760 align:start position:0%
+different things so here I'm just
+ 
+
+00:10:15.760 --> 00:10:18.150 align:start position:0%
+different things so here I'm just
+looking<00:10:16.000><c> at</c><00:10:16.279><c> compliance</c><00:10:17.279><c> and</c><00:10:17.519><c> here</c><00:10:17.720><c> I</c><00:10:17.800><c> can</c><00:10:17.920><c> see</c>
+
+00:10:18.150 --> 00:10:18.160 align:start position:0%
+looking at compliance and here I can see
+ 
+
+00:10:18.160 --> 00:10:19.509 align:start position:0%
+looking at compliance and here I can see
+all<00:10:18.360><c> those</c><00:10:18.560><c> different</c><00:10:18.760><c> things</c><00:10:18.959><c> that</c><00:10:19.079><c> are</c>
+
+00:10:19.509 --> 00:10:19.519 align:start position:0%
+all those different things that are
+ 
+
+00:10:19.519 --> 00:10:22.310 align:start position:0%
+all those different things that are
+applied<00:10:20.519><c> some</c><00:10:20.680><c> of</c><00:10:20.839><c> them</c><00:10:21.000><c> are</c><00:10:21.320><c> initiatives</c>
+
+00:10:22.310 --> 00:10:22.320 align:start position:0%
+applied some of them are initiatives
+ 
+
+00:10:22.320 --> 00:10:25.509 align:start position:0%
+applied some of them are initiatives
+some<00:10:22.480><c> of</c><00:10:22.640><c> them</c><00:10:22.800><c> are</c><00:10:23.360><c> individual</c><00:10:24.399><c> policies</c><00:10:25.399><c> but</c>
+
+00:10:25.509 --> 00:10:25.519 align:start position:0%
+some of them are individual policies but
+ 
+
+00:10:25.519 --> 00:10:28.110 align:start position:0%
+some of them are individual policies but
+I<00:10:25.640><c> can</c><00:10:25.720><c> see</c><00:10:25.920><c> that</c><00:10:26.120><c> compliance</c><00:10:26.920><c> state</c><00:10:27.640><c> of</c><00:10:27.920><c> all</c>
+
+00:10:28.110 --> 00:10:28.120 align:start position:0%
+I can see that compliance state of all
+ 
+
+00:10:28.120 --> 00:10:30.870 align:start position:0%
+I can see that compliance state of all
+of<00:10:28.320><c> them</c><00:10:29.320><c> so</c><00:10:29.440><c> the</c><00:10:29.600><c> key</c><00:10:29.839><c> Point</c><00:10:30.200><c> here</c><00:10:30.480><c> really</c>
+
+00:10:30.870 --> 00:10:30.880 align:start position:0%
+of them so the key Point here really
+ 
+
+00:10:30.880 --> 00:10:33.389 align:start position:0%
+of them so the key Point here really
+just<00:10:31.120><c> is</c><00:10:31.480><c> the</c><00:10:31.680><c> point</c><00:10:31.880><c> of</c><00:10:32.000><c> a</c><00:10:32.279><c> policy</c><00:10:32.839><c> is</c><00:10:32.959><c> it</c><00:10:33.120><c> lets</c>
+
+00:10:33.389 --> 00:10:33.399 align:start position:0%
+just is the point of a policy is it lets
+ 
+
+00:10:33.399 --> 00:10:37.110 align:start position:0%
+just is the point of a policy is it lets
+me<00:10:33.760><c> Define</c><00:10:34.519><c> those</c><00:10:34.880><c> things</c><00:10:35.200><c> that</c><00:10:35.480><c> I</c><00:10:35.880><c> need</c><00:10:36.880><c> at</c>
+
+00:10:37.110 --> 00:10:37.120 align:start position:0%
+me Define those things that I need at
+ 
+
+00:10:37.120 --> 00:10:39.150 align:start position:0%
+me Define those things that I need at
+different<00:10:37.519><c> Scopes</c><00:10:38.360><c> if</c><00:10:38.480><c> I</c><00:10:38.600><c> apply</c><00:10:38.920><c> to</c><00:10:39.040><c> a</c>
+
+00:10:39.150 --> 00:10:39.160 align:start position:0%
+different Scopes if I apply to a
+ 
+
+00:10:39.160 --> 00:10:40.750 align:start position:0%
+different Scopes if I apply to a
+Management<00:10:39.560><c> Group</c><00:10:39.880><c> fairly</c><00:10:40.279><c> High</c><00:10:40.480><c> I</c><00:10:40.560><c> want</c><00:10:40.680><c> to</c>
+
+00:10:40.750 --> 00:10:40.760 align:start position:0%
+Management Group fairly High I want to
+ 
+
+00:10:40.760 --> 00:10:42.990 align:start position:0%
+Management Group fairly High I want to
+be<00:10:40.880><c> fairly</c><00:10:41.240><c> generic</c><00:10:41.959><c> with</c><00:10:42.200><c> those</c><00:10:42.560><c> set</c><00:10:42.760><c> of</c>
+
+00:10:42.990 --> 00:10:43.000 align:start position:0%
+be fairly generic with those set of
+ 
+
+00:10:43.000 --> 00:10:45.509 align:start position:0%
+be fairly generic with those set of
+policies<00:10:43.720><c> and</c><00:10:43.800><c> then</c><00:10:43.920><c> I</c><00:10:44.079><c> get</c><00:10:44.240><c> more</c><00:10:44.600><c> specific</c><00:10:45.399><c> as</c>
+
+00:10:45.509 --> 00:10:45.519 align:start position:0%
+policies and then I get more specific as
+ 
+
+00:10:45.519 --> 00:10:48.110 align:start position:0%
+policies and then I get more specific as
+I<00:10:45.680><c> drill</c><00:10:46.200><c> down</c><00:10:46.560><c> closer</c><00:10:46.920><c> and</c><00:10:47.160><c> closer</c><00:10:47.760><c> to</c><00:10:48.000><c> the</c>
+
+00:10:48.110 --> 00:10:48.120 align:start position:0%
+I drill down closer and closer to the
+ 
+
+00:10:48.120 --> 00:10:51.120 align:start position:0%
+I drill down closer and closer to the
+resource
+
