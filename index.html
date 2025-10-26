@@ -49,6 +49,46 @@
             align-items: center;
         }
 
+        .topic-selector {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-right: 15px;
+        }
+
+        .topic-selector label {
+            font-size: 0.9rem;
+            color: #2c3e50;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+
+        .topic-selector select {
+            padding: 8px 12px;
+            border: 2px solid #bdc3c7;
+            border-radius: 8px;
+            background: white;
+            color: #2c3e50;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-width: 180px;
+        }
+
+        .topic-selector select:hover {
+            border-color: #3498db;
+        }
+
+        .topic-selector select:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+        }
+
+        .topic-selector select option {
+            padding: 8px;
+        }
+
         .header-text {
             text-align: center;
             flex: 1;
@@ -696,6 +736,28 @@
                 margin-bottom: 15px;
             }
 
+            .header-controls {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .topic-selector {
+                flex-direction: column;
+                align-items: stretch;
+                margin-right: 0;
+                margin-bottom: 10px;
+            }
+
+            .topic-selector label {
+                text-align: center;
+                margin-bottom: 5px;
+            }
+
+            .topic-selector select {
+                min-width: auto;
+                width: 100%;
+            }
+
             .header h1 {
                 font-size: 1.5rem;
                 margin-bottom: 10px;
@@ -1123,6 +1185,25 @@
             color: #3498db;
         }
 
+        body.dark-mode .topic-selector label {
+            color: #ecf0f1;
+        }
+
+        body.dark-mode .topic-selector select {
+            background: #2c3e50;
+            color: #ecf0f1;
+            border-color: #34495e;
+        }
+
+        body.dark-mode .topic-selector select:hover {
+            border-color: #27ae60;
+        }
+
+        body.dark-mode .topic-selector select:focus {
+            border-color: #27ae60;
+            box-shadow: 0 0 0 3px rgba(39, 174, 96, 0.1);
+        }
+
         body.dark-mode .completion-message p {
             color: #bdc3c7;
         }
@@ -1205,14 +1286,25 @@
                 <p>Master Azure Fundamentals with interactive flashcards</p>
                 <small style="color: #666; font-size: 0.9em;">✨ Questions are automatically randomized for better learning</small>
             </div>
-            <div class="header-controls">
-                <button class="sound-toggle" id="soundToggle" onclick="toggleSound()" title="Toggle Sound Effects">
-                    <span class="sound-icon">🔊</span>
-                </button>
-                <button class="dark-mode-toggle" id="darkModeToggle" onclick="toggleDarkMode()" title="Toggle Dark Mode">
-                    <span class="dark-mode-icon">🌙</span>
-                </button>
+        <div class="header-controls">
+            <div class="topic-selector">
+                <label for="topicFilter">📚 Study by Topic:</label>
+                <select id="topicFilter" onchange="filterByTopic()">
+                    <option value="all">All Topics</option>
+                    <option value="Cloud Concepts">Cloud Concepts</option>
+                    <option value="Azure Architecture and Services">Azure Architecture & Services</option>
+                    <option value="Azure Management and Governance">Management & Governance</option>
+                    <option value="Security, Privacy, and Compliance">Security & Compliance</option>
+                    <option value="Azure Pricing and Support">Pricing & Support</option>
+                </select>
             </div>
+            <button class="sound-toggle" id="soundToggle" onclick="toggleSound()" title="Toggle Sound Effects">
+                <span class="sound-icon">🔊</span>
+            </button>
+            <button class="dark-mode-toggle" id="darkModeToggle" onclick="toggleDarkMode()" title="Toggle Dark Mode">
+                <span class="dark-mode-icon">🌙</span>
+            </button>
+        </div>
             </div>
         </div>
 
@@ -1755,8 +1847,11 @@
         // Load flashcards from JSON file
         async function loadFlashcards() {
             try {
-                // Try to load challenging flashcards first (harder to distinguish wrong answers), then fallback to others
-                let response = await fetch('azure-900-challenging-flashcards.json');
+                // Try to load Udemy-enhanced flashcards first (includes Udemy course materials), then fallback to others
+                let response = await fetch('azure-900-udemy-enhanced-flashcards.json');
+                if (!response.ok) {
+                    response = await fetch('azure-900-challenging-flashcards.json');
+                }
                 if (!response.ok) {
                     response = await fetch('azure-900-refined-flashcards.json');
                 }
@@ -1779,9 +1874,14 @@
                     response = await fetch('azure-900-flashcards.json');
                 }
                 flashcards = await response.json();
+                allFlashcards = [...flashcards]; // Store all flashcards for filtering
+                filteredFlashcards = [...flashcards]; // Initialize filtered flashcards
                 
                 // Randomize the flashcards array every time
                 shuffleArray(flashcards);
+                
+                // Initialize topic info
+                showTopicInfo('all');
                 
                 startNewSession();
                 loadQuestion();
@@ -2085,6 +2185,71 @@
                 li.textContent = recommendation;
                 recommendationsList.appendChild(li);
             });
+        }
+
+        }
+
+        // Topic filtering functionality
+        let allFlashcards = [];
+        let filteredFlashcards = [];
+
+        function filterByTopic() {
+            const selectedTopic = document.getElementById('topicFilter').value;
+            
+            if (selectedTopic === 'all') {
+                filteredFlashcards = [...allFlashcards];
+            } else {
+                filteredFlashcards = allFlashcards.filter(card => card.category === selectedTopic);
+            }
+            
+            // Update the global flashcards array
+            flashcards = [...filteredFlashcards];
+            
+            // Reset quiz state
+            currentQuestionIndex = 0;
+            correctAnswers = 0;
+            incorrectAnswers = 0;
+            answeredQuestions.clear();
+            
+            // Shuffle the filtered flashcards
+            shuffleArray(flashcards);
+            
+            // Update UI
+            updateQuestionCounter();
+            updateProgress();
+            updateStats();
+            
+            // Load the first question
+            if (flashcards.length > 0) {
+                loadQuestion();
+            } else {
+                document.getElementById('flashcardContent').innerHTML = 
+                    '<div class="no-cards-message"><h3>No cards found for this topic</h3><p>Try selecting a different topic or "All Topics"</p></div>';
+            }
+            
+            // Show topic info
+            showTopicInfo(selectedTopic);
+        }
+
+        function showTopicInfo(selectedTopic) {
+            const topicInfo = document.getElementById('topicInfo') || createTopicInfoElement();
+            
+            if (selectedTopic === 'all') {
+                topicInfo.textContent = `📚 Studying all topics (${flashcards.length} cards)`;
+            } else {
+                topicInfo.textContent = `📚 Studying ${selectedTopic} (${flashcards.length} cards)`;
+            }
+        }
+
+        function createTopicInfoElement() {
+            const topicInfo = document.createElement('div');
+            topicInfo.id = 'topicInfo';
+            topicInfo.style.cssText = 'text-align: center; margin: 10px 0; color: #7f8c8d; font-size: 0.9rem;';
+            
+            const progressBar = document.querySelector('.progress-bar');
+            progressBar.parentNode.insertBefore(topicInfo, progressBar);
+            
+            return topicInfo;
         }
 
         function updateProgress() {
