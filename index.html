@@ -991,10 +991,11 @@
     <div class="container">
         <div class="header">
             <div class="header-content">
-                <div class="header-text">
-                    <h1>Azure 900 Study Flashcards</h1>
-                    <p>Master Azure Fundamentals with interactive flashcards</p>
-                </div>
+            <div class="header-text">
+                <h1>Azure 900 Study Flashcards</h1>
+                <p>Master Azure Fundamentals with interactive flashcards</p>
+                <small style="color: #666; font-size: 0.9em;">✨ Questions are automatically randomized for better learning</small>
+            </div>
                 <button class="dark-mode-toggle" id="darkModeToggle" onclick="toggleDarkMode()" title="Toggle Dark Mode">
                     <span class="dark-mode-icon">🌙</span>
                 </button>
@@ -1030,7 +1031,7 @@
                 <button class="btn" id="nextBtn" onclick="nextQuestion()" disabled style="display: none;">Next</button>
                 <button class="btn btn-secondary" id="restartBtn" onclick="restartQuiz()" style="display: none;">Restart Quiz</button>
                 <button class="btn btn-secondary" id="progressBtn" onclick="showProgressDashboard()">View Progress</button>
-                <button class="btn btn-secondary" id="shuffleBtn" onclick="shuffleQuestions()">Shuffle Questions</button>
+                <button class="btn btn-secondary" id="shuffleBtn" onclick="shuffleQuestions()">Reshuffle Questions</button>
             </div>
 
             <div class="stats">
@@ -1181,6 +1182,11 @@
         }
 
         function startNewSession() {
+            // Randomize flashcards every time we start a new session
+            if (flashcards.length > 0) {
+                shuffleArray(flashcards);
+            }
+            
             sessionStartTime = new Date();
             currentSession = {
                 id: Date.now(),
@@ -1357,7 +1363,7 @@
                 }
                 flashcards = await response.json();
                 
-                // Randomize the flashcards array
+                // Randomize the flashcards array every time
                 shuffleArray(flashcards);
                 
                 startNewSession();
