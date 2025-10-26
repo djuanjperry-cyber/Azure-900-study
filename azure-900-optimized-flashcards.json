@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "What is cloud computing?",
+    "options": [
+      "A) The delivery of computing services over the internet",
+      "B) A type of database management system",
+      "C) A desktop operating system",
+      "D) A web browser technology"
+    ],
+    "answer": "A",
+    "explanation": "Cloud computing is the delivery of computing services including servers, storage, databases, networking, software, analytics, and intelligence over the internet.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 2,
+    "question": "What is the shared responsibility model in cloud computing?",
+    "options": [
+      "A) A model that defines which security tasks are handled by the cloud provider and which are handled by the customer",
+      "B) A model for sharing cloud resources between organizations",
+      "C) A model for distributing cloud costs among users",
+      "D) A model for managing cloud subscriptions"
+    ],
+    "answer": "A",
+    "explanation": "The shared responsibility model defines which security tasks are handled by the cloud provider and which are handled by the customer, varying by service type (IaaS, PaaS, SaaS).",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 3,
+    "question": "What are the three main cloud deployment models?",
+    "options": [
+      "A) Public, Private, Hybrid",
+      "B) IaaS, PaaS, SaaS",
+      "C) Compute, Storage, Network",
+      "D) Azure, AWS, Google Cloud"
+    ],
+    "answer": "A",
+    "explanation": "The three main cloud deployment models are Public cloud (shared infrastructure), Private cloud (dedicated infrastructure), and Hybrid cloud (combination of both).",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 4,
+    "question": "What is a public cloud?",
+    "options": [
+      "A) Cloud services provided over the internet and shared across multiple organizations",
+      "B) Cloud services dedicated to a single organization",
+      "C) A combination of public and private cloud",
+      "D) Cloud services provided by the government"
+    ],
+    "answer": "A",
+    "explanation": "A public cloud provides cloud services over the internet and is shared across multiple organizations. Examples include Azure, AWS, and Google Cloud.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 5,
+    "question": "What is a private cloud?",
+    "options": [
+      "A) Cloud services dedicated to a single organization",
+      "B) Cloud services provided over the internet and shared across multiple organizations",
+      "C) A combination of public and private cloud",
+      "D) Cloud services provided by the government"
+    ],
+    "answer": "A",
+    "explanation": "A private cloud provides cloud services dedicated to a single organization, either on-premises or hosted by a third party.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 6,
+    "question": "What is a hybrid cloud?",
+    "options": [
+      "A) A combination of public and private cloud with data and applications shared between them",
+      "B) Cloud services dedicated to a single organization",
+      "C) Cloud services provided over the internet and shared across multiple organizations",
+      "D) Cloud services provided by the government"
+    ],
+    "answer": "A",
+    "explanation": "A hybrid cloud combines public and private cloud, allowing data and applications to be shared between them for greater flexibility and optimization.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 7,
+    "question": "What is the consumption-based model in cloud computing?",
+    "options": [
+      "A) A pricing model where you pay only for the resources you use",
+      "B) A model for sharing cloud resources between organizations",
+      "C) A model for distributing cloud costs among users",
+      "D) A model for managing cloud subscriptions"
+    ],
+    "answer": "A",
+    "explanation": "The consumption-based model is a pricing model where you pay only for the resources you use, allowing for cost optimization and scalability.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 8,
+    "question": "What is serverless computing?",
+    "options": [
+      "A) A cloud computing model where the cloud provider manages the infrastructure",
+      "B) Computing without any servers",
+      "C) A type of database management system",
+      "D) A desktop operating system"
+    ],
+    "answer": "A",
+    "explanation": "Serverless computing is a cloud computing model where the cloud provider manages the infrastructure, allowing developers to focus on code without managing servers.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 9,
+    "question": "What are Azure regions?",
+    "options": [
+      "A) Geographic locations where Azure has data centers",
+      "B) Virtual networks in Azure",
+      "C) Azure subscription types",
+      "D) Azure service categories"
+    ],
+    "answer": "A",
+    "explanation": "Azure regions are geographic locations around the world where Azure has data centers, providing low-latency access to services.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 10,
+    "question": "What are Availability Zones in Azure?",
+    "options": [
+      "A) Physically separate data centers within a region",
+      "B) Different Azure subscriptions",
+      "C) Azure service tiers",
+      "D) Network security groups"
+    ],
+    "answer": "A",
+    "explanation": "Availability Zones are physically separate data centers within an Azure region, each with independent power, cooling, and networking for high availability.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 11,
+    "question": "What is an Azure Resource Group?",
+    "options": [
+      "A) A container that holds related Azure resources",
+      "B) A group of Azure subscriptions",
+      "C) A type of Azure storage account",
+      "D) An Azure virtual network"
+    ],
+    "answer": "A",
+    "explanation": "A Resource Group is a container that holds related Azure resources for the same solution, application, or environment.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 12,
+    "question": "What is an Azure subscription?",
+    "options": [
+      "A) A logical container for Azure resources and billing",
+      "B) A type of Azure storage account",
+      "C) An Azure virtual machine",
+      "D) A network security group"
+    ],
+    "answer": "A",
+    "explanation": "An Azure subscription is a logical container for Azure resources and billing, providing access to Azure services and resources.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 13,
+    "question": "What are Azure Management Groups?",
+    "options": [
+      "A) Containers that help organize subscriptions and apply governance policies",
+      "B) Azure storage services",
+      "C) Azure networking services",
+      "D) Azure database services"
+    ],
+    "answer": "A",
+    "explanation": "Azure Management Groups are containers that help organize subscriptions and apply governance policies across multiple subscriptions.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 14,
+    "question": "What is Azure Resource Manager (ARM)?",
+    "options": [
+      "A) A deployment and management service for Azure resources",
+      "B) A type of Azure storage account",
+      "C) An Azure virtual machine",
+      "D) A network security group"
+    ],
+    "answer": "A",
+    "explanation": "Azure Resource Manager is the deployment and management service for Azure, providing a consistent management layer for resources.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 15,
+    "question": "What are ARM Templates?",
+    "options": [
+      "A) JSON files that define Azure resources and their configuration",
+      "B) Azure storage templates",
+      "C) Azure network templates",
+      "D) Azure database templates"
+    ],
+    "answer": "A",
+    "explanation": "ARM Templates are JSON files that define Azure resources and their configuration, enabling Infrastructure as Code (IaC).",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 16,
+    "question": "What are Azure Virtual Machines?",
+    "options": [
+      "A) On-demand, scalable computing resources",
+      "B) Azure storage services",
+      "C) Azure networking services",
+      "D) Azure database services"
+    ],
+    "answer": "A",
+    "explanation": "Azure Virtual Machines provide on-demand, scalable computing resources that you can create and manage in the cloud.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 17,
+    "question": "What are Azure Containers?",
+    "options": [
+      "A) Lightweight, portable units for deploying applications",
+      "B) Azure storage services",
+      "C) Azure networking services",
+      "D) Azure database services"
+    ],
+    "answer": "A",
+    "explanation": "Azure Containers are lightweight, portable units for deploying applications, providing consistent deployment across different environments.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 18,
+    "question": "What is Azure Functions?",
+    "options": [
+      "A) A serverless compute service for running event-driven code",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Functions is a serverless compute service that lets you run event-driven code without managing infrastructure.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 19,
+    "question": "What is Azure Virtual Network?",
+    "options": [
+      "A) A service that provides secure communication between Azure resources",
+      "B) An Azure storage service",
+      "C) An Azure compute service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Virtual Network provides secure communication between Azure resources, on-premises networks, and the internet.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 20,
+    "question": "What are Azure subnets?",
+    "options": [
+      "A) Segments of a virtual network that help organize and secure resources",
+      "B) Azure storage services",
+      "C) Azure compute services",
+      "D) Azure database services"
+    ],
+    "answer": "A",
+    "explanation": "Azure subnets are segments of a virtual network that help organize and secure resources by creating logical boundaries.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 21,
+    "question": "What is Azure DNS?",
+    "options": [
+      "A) A service that provides domain name resolution",
+      "B) An Azure storage service",
+      "C) An Azure compute service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure DNS is a service that provides domain name resolution for Azure resources and external domains.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 22,
+    "question": "What is Azure Storage Account?",
+    "options": [
+      "A) A service that provides scalable cloud storage",
+      "B) An Azure virtual machine",
+      "C) An Azure database",
+      "D) An Azure network service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Storage Account provides scalable cloud storage for data objects including blobs, files, queues, and tables.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 23,
+    "question": "What are Azure storage redundancy options?",
+    "options": [
+      "A) LRS, GRS, ZRS, GZRS",
+      "B) IaaS, PaaS, SaaS",
+      "C) Public, Private, Hybrid",
+      "D) Compute, Storage, Network"
+    ],
+    "answer": "A",
+    "explanation": "Azure storage redundancy options include Locally Redundant Storage (LRS), Geo-Redundant Storage (GRS), Zone-Redundant Storage (ZRS), and Geo-Zone-Redundant Storage (GZRS).",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 24,
+    "question": "What are Azure storage tiers?",
+    "options": [
+      "A) Hot, Cool, Archive",
+      "B) IaaS, PaaS, SaaS",
+      "C) Public, Private, Hybrid",
+      "D) Compute, Storage, Network"
+    ],
+    "answer": "A",
+    "explanation": "Azure storage tiers include Hot (frequently accessed), Cool (infrequently accessed), and Archive (rarely accessed) tiers for cost optimization.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 25,
+    "question": "What is Microsoft Entra ID?",
+    "options": [
+      "A) Microsoft's cloud-based identity and access management service",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Microsoft Entra ID (formerly Azure Active Directory) is Microsoft's cloud-based identity and access management service.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 26,
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      "A) A method of regulating access to resources based on roles",
+      "B) An Azure storage method",
+      "C) An Azure networking method",
+      "D) An Azure database method"
+    ],
+    "answer": "A",
+    "explanation": "Role-Based Access Control (RBAC) is a method of regulating access to resources based on the roles of individual users.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 27,
+    "question": "What factors affect Azure costs?",
+    "options": [
+      "A) Resource type, size, region, and usage patterns",
+      "B) Only resource type and size",
+      "C) Only region and usage patterns",
+      "D) Only resource type and region"
+    ],
+    "answer": "A",
+    "explanation": "Azure costs are affected by resource type, size, region, usage patterns, and other factors like availability and redundancy options.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 28,
+    "question": "What is the Azure Pricing Calculator?",
+    "options": [
+      "A) A tool that helps estimate Azure costs",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "The Azure Pricing Calculator is a tool that helps estimate Azure costs for different services and configurations.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 29,
+    "question": "What is Azure Cost Management?",
+    "options": [
+      "A) A service that helps monitor and optimize Azure spending",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Cost Management is a service that helps monitor and optimize Azure spending through cost analysis and budgeting.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 30,
+    "question": "What is the purpose of Azure Tags?",
+    "options": [
+      "A) To organize and manage Azure resources for billing and governance",
+      "B) To secure Azure resources",
+      "C) To monitor Azure resources",
+      "D) To backup Azure resources"
+    ],
+    "answer": "A",
+    "explanation": "Azure Tags are key-value pairs that help organize and manage Azure resources for billing, management, and governance purposes.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 31,
+    "question": "What is Microsoft Purview?",
+    "options": [
+      "A) A unified data governance service",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Microsoft Purview is a unified data governance service that helps manage and govern data across on-premises, multi-cloud, and SaaS.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 32,
+    "question": "What is Azure Policy?",
+    "options": [
+      "A) A service that helps enforce organizational standards and assess compliance",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Policy helps enforce organizational standards and assess compliance at-scale for Azure resources.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 33,
+    "question": "What is the Azure Portal?",
+    "options": [
+      "A) A web-based interface for managing Azure resources",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "The Azure Portal is a web-based interface for managing Azure resources, providing a graphical user interface for Azure services.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 34,
+    "question": "What is Azure CLI?",
+    "options": [
+      "A) A command-line interface for managing Azure resources",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure CLI is a command-line interface for managing Azure resources, providing cross-platform command-line tools.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 35,
+    "question": "What is Azure PowerShell?",
+    "options": [
+      "A) A PowerShell module for managing Azure resources",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure PowerShell is a PowerShell module for managing Azure resources, providing cmdlets for Azure service management.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 36,
+    "question": "What is Azure Advisor?",
+    "options": [
+      "A) A service that provides recommendations to optimize Azure resources",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Advisor analyzes your Azure usage and configurations to provide personalized recommendations for cost optimization, security, performance, and reliability.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 37,
+    "question": "What is Azure Service Health?",
+    "options": [
+      "A) A service that provides information about Azure service status",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Service Health provides information about Azure service status, planned maintenance, and service issues.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 38,
+    "question": "What is Azure Monitor?",
+    "options": [
+      "A) A service that provides monitoring and diagnostics for Azure resources",
+      "B) An Azure storage service",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "A",
+    "explanation": "Azure Monitor provides comprehensive monitoring for applications, infrastructure, and network, collecting and analyzing telemetry data.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 39,
+    "question": "What is Infrastructure as a Service (IaaS)?",
+    "options": [
+      "A) Provides virtualized computing resources over the internet",
+      "B) Provides software applications over the internet",
+      "C) Provides development platforms over the internet",
+      "D) Provides database services over the internet"
+    ],
+    "answer": "A",
+    "explanation": "IaaS provides virtualized computing resources including virtual machines, storage, and networking over the internet. You manage the OS and applications.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 40,
+    "question": "What is Platform as a Service (PaaS)?",
+    "options": [
+      "A) Provides hardware and software tools for application development over the internet",
+      "B) Provides virtualized computing resources over the internet",
+      "C) Provides software applications over the internet",
+      "D) Provides database services over the internet"
+    ],
+    "answer": "A",
+    "explanation": "PaaS provides hardware and software tools for application development over the internet. The cloud provider manages the infrastructure and OS.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 41,
+    "question": "What is Software as a Service (SaaS)?",
+    "options": [
+      "A) Delivers software applications over the internet on a subscription basis",
+      "B) Provides virtualized computing resources over the internet",
+      "C) Provides development platforms over the internet",
+      "D) Provides database services over the internet"
+    ],
+    "answer": "A",
+    "explanation": "SaaS delivers software applications over the internet on a subscription basis. The cloud provider manages everything including the application.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 42,
+    "question": "What are the benefits of cloud computing?",
+    "options": [
+      "A) High availability, scalability, elasticity, and fault tolerance",
+      "B) Only high availability and scalability",
+      "C) Only elasticity and fault tolerance",
+      "D) Only scalability and elasticity"
+    ],
+    "answer": "A",
+    "explanation": "Cloud computing provides high availability, scalability, elasticity, fault tolerance, disaster recovery, and economies of scale.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 43,
+    "question": "What is high availability in cloud computing?",
+    "options": [
+      "A) The ability of a system to remain operational for extended periods",
+      "B) The ability to scale resources up and down",
+      "C) The ability to recover from disasters",
+      "D) The ability to share resources between organizations"
+    ],
+    "answer": "A",
+    "explanation": "High availability is the ability of a system to remain operational for extended periods, minimizing downtime and ensuring continuous service.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 44,
+    "question": "What is scalability in cloud computing?",
+    "options": [
+      "A) The ability to increase or decrease resources to meet demand",
+      "B) The ability to remain operational for extended periods",
+      "C) The ability to recover from disasters",
+      "D) The ability to share resources between organizations"
+    ],
+    "answer": "A",
+    "explanation": "Scalability is the ability to increase or decrease resources to meet demand, allowing systems to handle varying workloads efficiently.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 45,
+    "question": "What is elasticity in cloud computing?",
+    "options": [
+      "A) The ability to automatically scale resources in response to demand",
+      "B) The ability to remain operational for extended periods",
+      "C) The ability to recover from disasters",
+      "D) The ability to share resources between organizations"
+    ],
+    "answer": "A",
+    "explanation": "Elasticity is the ability to automatically scale resources in response to demand, providing dynamic resource allocation based on current needs.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 46,
+    "question": "What is fault tolerance in cloud computing?",
+    "options": [
+      "A) The ability to continue operating despite failures",
+      "B) The ability to remain operational for extended periods",
+      "C) The ability to scale resources up and down",
+      "D) The ability to share resources between organizations"
+    ],
+    "answer": "A",
+    "explanation": "Fault tolerance is the ability to continue operating despite failures, ensuring system reliability through redundancy and failover mechanisms.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 47,
+    "question": "What is disaster recovery in cloud computing?",
+    "options": [
+      "A) The process of recovering data and systems after a disaster",
+      "B) The ability to remain operational for extended periods",
+      "C) The ability to scale resources up and down",
+      "D) The ability to share resources between organizations"
+    ],
+    "answer": "A",
+    "explanation": "Disaster recovery is the process of recovering data and systems after a disaster, ensuring business continuity and data protection.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 48,
+    "question": "What are economies of scale in cloud computing?",
+    "options": [
+      "A) Cost advantages achieved through large-scale operations",
+      "B) The ability to remain operational for extended periods",
+      "C) The ability to scale resources up and down",
+      "D) The ability to share resources between organizations"
+    ],
+    "answer": "A",
+    "explanation": "Economies of scale are cost advantages achieved through large-scale operations, allowing cloud providers to offer services at lower costs.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 49,
+    "question": "What is Capital Expenditure (CapEx)?",
+    "options": [
+      "A) Upfront spending on physical infrastructure",
+      "B) Ongoing operational costs",
+      "C) Cloud service costs",
+      "D) Software licensing costs"
+    ],
+    "answer": "A",
+    "explanation": "Capital Expenditure (CapEx) refers to upfront spending on physical infrastructure, such as servers, storage, and networking equipment.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 50,
+    "question": "What is Operational Expenditure (OpEx)?",
+    "options": [
+      "A) Ongoing operational costs for services",
+      "B) Upfront spending on physical infrastructure",
+      "C) Cloud service costs",
+      "D) Software licensing costs"
+    ],
+    "answer": "A",
+    "explanation": "Operational Expenditure (OpEx) refers to ongoing operational costs for services, such as cloud services, maintenance, and support.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  }
+]

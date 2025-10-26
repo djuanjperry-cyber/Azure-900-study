@@ -1335,8 +1335,11 @@
         // Load flashcards from JSON file
         async function loadFlashcards() {
             try {
-                // Try to load enhanced flashcards first, then fallback to others
-                let response = await fetch('azure-900-enhanced-flashcards.json');
+                // Try to load optimized flashcards first, then fallback to others
+                let response = await fetch('azure-900-optimized-flashcards.json');
+                if (!response.ok) {
+                    response = await fetch('azure-900-enhanced-flashcards.json');
+                }
                 if (!response.ok) {
                     response = await fetch('azure-900-savill-flashcards.json');
                 }
