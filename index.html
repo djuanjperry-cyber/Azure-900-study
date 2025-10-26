@@ -1913,6 +1913,10 @@
         }
 
 
+        function getCurrentSessionData() {
+            return currentSession;
+        }
+
         function loadQuestion() {
             if (flashcards.length === 0) return;
 
@@ -2026,6 +2030,17 @@
 
             const question = flashcards[currentQuestionIndex];
             const isCorrect = selectedAnswer.startsWith(question.answer + ')');
+            
+            // Save answer to session data
+            if (!currentSession.answers) {
+                currentSession.answers = [];
+            }
+            currentSession.answers[currentQuestionIndex] = {
+                answer: selectedAnswer,
+                isCorrect: isCorrect,
+                questionId: question.id,
+                timestamp: new Date().toISOString()
+            };
             
             // Update counters
             if (isCorrect) {
