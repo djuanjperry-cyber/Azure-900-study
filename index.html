@@ -1985,7 +1985,10 @@
             } else {
                 // Reset state for unanswered questions
                 selectedAnswer = null;
-                document.getElementById('feedback').classList.remove('show', 'correct', 'incorrect');
+                const feedback = document.getElementById('feedback');
+                feedback.classList.remove('show', 'correct', 'incorrect');
+                feedback.innerHTML = ''; // Clear feedback content
+                document.getElementById('feedbackText').innerHTML = ''; // Clear feedback text
                 document.getElementById('submitBtn').disabled = true;
                 document.getElementById('submitBtn').style.display = 'inline-block';
                 document.getElementById('nextBtn').disabled = true;
@@ -2064,8 +2067,12 @@
             feedbackText.innerHTML = '';
             
             // Set the feedback content with proper formatting
-            feedbackText.innerHTML = `<strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>${question.explanation}`;
+            const feedbackContent = `<strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>${question.explanation}`;
+            feedbackText.innerHTML = feedbackContent;
             feedback.classList.add('show', isCorrect ? 'correct' : 'incorrect');
+            
+            // Ensure feedback is visible
+            feedback.style.display = 'block';
 
             // Highlight correct/incorrect options with enhanced visual feedback
             document.querySelectorAll('.option').forEach((option, index) => {
