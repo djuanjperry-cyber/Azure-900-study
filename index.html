@@ -1031,7 +1031,6 @@
                 <button class="btn" id="nextBtn" onclick="nextQuestion()" disabled style="display: none;">Next</button>
                 <button class="btn btn-secondary" id="restartBtn" onclick="restartQuiz()" style="display: none;">Restart Quiz</button>
                 <button class="btn btn-secondary" id="progressBtn" onclick="showProgressDashboard()">View Progress</button>
-                <button class="btn btn-secondary" id="shuffleBtn" onclick="shuffleQuestions()">Reshuffle Questions</button>
             </div>
 
             <div class="stats">
@@ -1383,41 +1382,6 @@
             }
         }
 
-        // Shuffle questions during study session
-        function shuffleQuestions() {
-            if (flashcards.length === 0) return;
-            
-            // Save current progress
-            const currentCorrect = correctAnswers;
-            const currentIncorrect = incorrectAnswers;
-            const currentAnswered = new Set(answeredQuestions);
-            
-            // Shuffle the flashcards array
-            shuffleArray(flashcards);
-            
-            // Reset to first question
-            currentQuestionIndex = 0;
-            selectedAnswer = null;
-            
-            // Clear answered questions set since order changed
-            answeredQuestions.clear();
-            
-            // Load the first question
-            loadQuestion();
-            updateProgress();
-            
-            // Show confirmation message
-            const feedback = document.getElementById('feedback');
-            const feedbackText = document.getElementById('feedbackText');
-            feedbackText.textContent = 'Questions have been shuffled! Starting from question 1.';
-            feedback.classList.add('show');
-            feedback.classList.remove('correct', 'incorrect');
-            
-            // Hide feedback after 3 seconds
-            setTimeout(() => {
-                feedback.classList.remove('show');
-            }, 3000);
-        }
 
         function loadQuestion() {
             if (flashcards.length === 0) return;
