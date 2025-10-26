@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "question": "What is Microsoft Azure?",
+    "options": [
+      "A) Microsoft's cloud computing platform",
+      "B) Microsoft's on-premises server solution",
+      "C) Microsoft's hybrid cloud management tool",
+      "D) Microsoft's edge computing platform"
+    ],
+    "answer": "A",
+    "explanation": "Microsoft Azure is Microsoft's cloud computing platform that provides a wide range of cloud services including computing, storage, networking, and more.",
+    "category": "Cloud Concepts",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 2,
+    "question": "What is cloud computing?",
+    "options": [
+      "A) Computing services delivered over a private network",
+      "B) Computing services delivered over the internet",
+      "C) Computing services delivered via satellite",
+      "D) Computing services delivered through fiber optic cables"
+    ],
+    "answer": "B",
+    "explanation": "Cloud computing is the delivery of computing services including servers, storage, databases, networking, software, analytics, and intelligence over the internet.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 3,
+    "question": "What is the shared responsibility model in cloud computing?",
+    "options": [
+      "A) A model for sharing cloud resources between organizations",
+      "B) A model for distributing cloud costs among users",
+      "C) A security model defining provider vs customer responsibilities",
+      "D) A model for managing cloud subscriptions across teams"
+    ],
+    "answer": "C",
+    "explanation": "The shared responsibility model defines which security tasks are handled by the cloud provider and which are handled by the customer, varying by service type (IaaS, PaaS, SaaS).",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 4,
+    "question": "What are the benefits of high availability and scalability in the cloud?",
+    "options": [
+      "A) Automatic scaling based on demand",
+      "B) Built-in redundancy and fault tolerance",
+      "C) Global distribution of resources",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Cloud computing provides automatic scaling, built-in redundancy, fault tolerance, and global distribution of resources for high availability and scalability.",
+    "category": "Cloud Concepts",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 5,
+    "question": "What is the difference between CapEx and OpEx?",
+    "options": [
+      "A) CapEx is operational expenditure, OpEx is capital expenditure",
+      "B) CapEx is upfront costs, OpEx is ongoing costs",
+      "C) Both are the same thing",
+      "D) CapEx is for software, OpEx is for hardware"
+    ],
+    "answer": "B",
+    "explanation": "CapEx (Capital Expenditure) refers to upfront costs for physical assets, while OpEx (Operational Expenditure) refers to ongoing operational costs. Cloud computing shifts from CapEx to OpEx.",
+    "category": "Cloud Concepts",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 6,
+    "question": "What are the three main cloud service models?",
+    "options": [
+      "A) Public, Private, Hybrid",
+      "B) IaaS, PaaS, SaaS",
+      "C) Compute, Storage, Network",
+      "D) Azure, AWS, Google Cloud"
+    ],
+    "answer": "B",
+    "explanation": "The three main cloud service models are Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).",
+    "category": "Cloud Concepts",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 7,
+    "question": "What is Infrastructure as a Service (IaaS)?",
+    "options": [
+      "A) Provides software applications over the internet",
+      "B) Provides development platforms over the internet",
+      "C) Provides virtualized computing resources over the internet",
+      "D) Provides database services over the internet"
+    ],
+    "answer": "C",
+    "explanation": "IaaS provides virtualized computing resources including virtual machines, storage, and networking over the internet. You manage the OS and applications.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 8,
+    "question": "What is Platform as a Service (PaaS)?",
+    "options": [
+      "A) Provides hardware and software tools for application development",
+      "B) Provides virtualized computing resources over the internet",
+      "C) Provides software applications over the internet",
+      "D) Provides database services over the internet"
+    ],
+    "answer": "A",
+    "explanation": "PaaS provides hardware and software tools for application development over the internet. The cloud provider manages the infrastructure and OS.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 9,
+    "question": "What is Software as a Service (SaaS)?",
+    "options": [
+      "A) Provides virtualized computing resources over the internet",
+      "B) Provides development platforms over the internet",
+      "C) Delivers software applications over the internet on a subscription basis",
+      "D) Provides database services over the internet"
+    ],
+    "answer": "C",
+    "explanation": "SaaS delivers software applications over the internet on a subscription basis. The cloud provider manages everything including the application.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 10,
+    "question": "What are the different types of cloud computing deployments?",
+    "options": [
+      "A) Public cloud",
+      "B) Private cloud",
+      "C) Hybrid cloud",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Cloud computing can be deployed as public cloud (shared infrastructure), private cloud (dedicated infrastructure), or hybrid cloud (combination of both).",
+    "category": "Cloud Concepts",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 11,
+    "question": "What is a public cloud?",
+    "options": [
+      "A) Cloud services dedicated to a single organization",
+      "B) Cloud services shared across multiple organizations",
+      "C) A combination of public and private cloud",
+      "D) Cloud services provided by the government"
+    ],
+    "answer": "B",
+    "explanation": "A public cloud provides cloud services over the internet and is shared across multiple organizations. Examples include Azure, AWS, and Google Cloud.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 12,
+    "question": "What is a private cloud?",
+    "options": [
+      "A) Cloud services shared across multiple organizations",
+      "B) Cloud services dedicated to a single organization",
+      "C) A combination of public and private cloud",
+      "D) Cloud services provided by the government"
+    ],
+    "answer": "B",
+    "explanation": "A private cloud provides cloud services dedicated to a single organization, either on-premises or hosted by a third party.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 13,
+    "question": "What is a hybrid cloud?",
+    "options": [
+      "A) Cloud services dedicated to a single organization",
+      "B) Cloud services shared across multiple organizations",
+      "C) A combination of public and private cloud",
+      "D) Cloud services provided by the government"
+    ],
+    "answer": "C",
+    "explanation": "A hybrid cloud combines public and private cloud, allowing data and applications to be shared between them for greater flexibility and optimization.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 14,
+    "question": "What is the consumption-based model in cloud computing?",
+    "options": [
+      "A) A model for sharing cloud resources between organizations",
+      "B) A pricing model where you pay only for resources you use",
+      "C) A model for distributing cloud costs among users",
+      "D) A model for managing cloud subscriptions"
+    ],
+    "answer": "B",
+    "explanation": "The consumption-based model is a pricing model where you pay only for the resources you use, allowing for cost optimization and scalability.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 15,
+    "question": "What is serverless computing?",
+    "options": [
+      "A) Computing without any servers",
+      "B) A cloud computing model where the cloud provider manages infrastructure",
+      "C) A type of database management system",
+      "D) A desktop operating system"
+    ],
+    "answer": "B",
+    "explanation": "Serverless computing is a cloud computing model where the cloud provider manages the infrastructure, allowing developers to focus on code without managing servers.",
+    "category": "Cloud Concepts",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 16,
+    "question": "What are Azure Regions?",
+    "options": [
+      "A) Virtual networks in Azure",
+      "B) Geographic locations where Azure has data centers",
+      "C) Azure subscription types",
+      "D) Azure service categories"
+    ],
+    "answer": "B",
+    "explanation": "Azure Regions are geographic locations around the world where Azure has data centers, providing low-latency access to services.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 17,
+    "question": "What are Availability Zones in Azure?",
+    "options": [
+      "A) Different Azure subscriptions",
+      "B) Azure service tiers",
+      "C) Physically separate data centers within a region",
+      "D) Network security groups"
+    ],
+    "answer": "C",
+    "explanation": "Availability Zones are physically separate data centers within an Azure region, each with independent power, cooling, and networking for high availability.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 18,
+    "question": "What is an Azure Resource Group?",
+    "options": [
+      "A) A group of Azure subscriptions",
+      "B) A container that holds related Azure resources",
+      "C) A type of Azure storage account",
+      "D) An Azure virtual network"
+    ],
+    "answer": "B",
+    "explanation": "A Resource Group is a container that holds related Azure resources for the same solution, application, or environment.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 19,
+    "question": "What is an Azure subscription?",
+    "options": [
+      "A) A type of Azure storage account",
+      "B) A logical container for Azure resources and billing",
+      "C) An Azure virtual machine",
+      "D) A network security group"
+    ],
+    "answer": "B",
+    "explanation": "An Azure subscription is a logical container for Azure resources and billing, providing access to Azure services and resources.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 20,
+    "question": "What are Azure Management Groups?",
+    "options": [
+      "A) Azure storage services",
+      "B) Azure networking services",
+      "C) Containers that help organize subscriptions and apply governance policies",
+      "D) Azure database services"
+    ],
+    "answer": "C",
+    "explanation": "Azure Management Groups are containers that help organize subscriptions and apply governance policies across multiple subscriptions.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 21,
+    "question": "What is Azure Resource Manager (ARM)?",
+    "options": [
+      "A) A type of Azure storage account",
+      "B) A deployment and management service for Azure resources",
+      "C) An Azure virtual machine",
+      "D) A network security group"
+    ],
+    "answer": "B",
+    "explanation": "Azure Resource Manager is the deployment and management service for Azure, providing a consistent management layer for resources.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 22,
+    "question": "What are ARM Templates?",
+    "options": [
+      "A) Azure storage templates",
+      "B) JSON files that define Azure resources and their configuration",
+      "C) Azure network templates",
+      "D) Azure database templates"
+    ],
+    "answer": "B",
+    "explanation": "ARM Templates are JSON files that define Azure resources and their configuration, enabling Infrastructure as Code (IaC).",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 23,
+    "question": "What is Azure Arc?",
+    "options": [
+      "A) An Azure storage service",
+      "B) A service for managing resources across on-premises, multi-cloud, and edge",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "B",
+    "explanation": "Azure Arc extends Azure management and services to any infrastructure, including on-premises, multi-cloud, and edge environments.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 24,
+    "question": "What are Azure Virtual Machines?",
+    "options": [
+      "A) Azure storage services",
+      "B) On-demand, scalable computing resources",
+      "C) Azure networking services",
+      "D) Azure database services"
+    ],
+    "answer": "B",
+    "explanation": "Azure Virtual Machines provide on-demand, scalable computing resources that you can create and manage in the cloud.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 25,
+    "question": "What are Azure Containers?",
+    "options": [
+      "A) Azure storage services",
+      "B) Azure networking services",
+      "C) Lightweight, portable units for deploying applications",
+      "D) Azure database services"
+    ],
+    "answer": "C",
+    "explanation": "Azure Containers are lightweight, portable units for deploying applications, providing consistent deployment across different environments.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 26,
+    "question": "What is Azure Functions?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A serverless compute service for running event-driven code",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Functions is a serverless compute service that lets you run event-driven code without managing infrastructure.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 27,
+    "question": "What is Azure App Service?",
+    "options": [
+      "A) An Azure storage service",
+      "B) A platform for building, deploying, and scaling web apps",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "B",
+    "explanation": "Azure App Service is a platform for building, deploying, and scaling web apps, mobile backends, and RESTful APIs.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 28,
+    "question": "What is Azure Virtual Network?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure compute service",
+      "C) A service that provides secure communication between Azure resources",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Virtual Network provides secure communication between Azure resources, on-premises networks, and the internet.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 29,
+    "question": "What are Azure subnets?",
+    "options": [
+      "A) Azure storage services",
+      "B) Segments of a virtual network that help organize and secure resources",
+      "C) Azure compute services",
+      "D) Azure database services"
+    ],
+    "answer": "B",
+    "explanation": "Azure subnets are segments of a virtual network that help organize and secure resources by creating logical boundaries.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 30,
+    "question": "What is Azure DNS?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure compute service",
+      "C) A service that provides domain name resolution",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure DNS is a service that provides domain name resolution for Azure resources and external domains.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 31,
+    "question": "What is Azure Load Balancer?",
+    "options": [
+      "A) An Azure storage service",
+      "B) A service that distributes incoming traffic across multiple resources",
+      "C) An Azure compute service",
+      "D) An Azure database service"
+    ],
+    "answer": "B",
+    "explanation": "Azure Load Balancer distributes incoming traffic across multiple resources to ensure high availability and performance.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 32,
+    "question": "What is Azure Application Gateway?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure compute service",
+      "C) A web traffic load balancer that provides application-level routing",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Application Gateway is a web traffic load balancer that provides application-level routing and SSL termination.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 33,
+    "question": "What is Azure Storage Account?",
+    "options": [
+      "A) An Azure virtual machine",
+      "B) A service that provides scalable cloud storage",
+      "C) An Azure database",
+      "D) An Azure network service"
+    ],
+    "answer": "B",
+    "explanation": "Azure Storage Account provides scalable cloud storage for data objects including blobs, files, queues, and tables.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 34,
+    "question": "What are Azure storage redundancy options?",
+    "options": [
+      "A) IaaS, PaaS, SaaS",
+      "B) LRS, GRS, ZRS, GZRS",
+      "C) Public, Private, Hybrid",
+      "D) Compute, Storage, Network"
+    ],
+    "answer": "B",
+    "explanation": "Azure storage redundancy options include Locally Redundant Storage (LRS), Geo-Redundant Storage (GRS), Zone-Redundant Storage (ZRS), and Geo-Zone-Redundant Storage (GZRS).",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 35,
+    "question": "What are Azure storage tiers?",
+    "options": [
+      "A) IaaS, PaaS, SaaS",
+      "B) Public, Private, Hybrid",
+      "C) Hot, Cool, Archive",
+      "D) Compute, Storage, Network"
+    ],
+    "answer": "C",
+    "explanation": "Azure storage tiers include Hot (frequently accessed), Cool (infrequently accessed), and Archive (rarely accessed) tiers for cost optimization.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 36,
+    "question": "What is Azure Blob Storage?",
+    "options": [
+      "A) An Azure compute service",
+      "B) A service for storing large amounts of unstructured data",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "B",
+    "explanation": "Azure Blob Storage is a service for storing large amounts of unstructured data such as text, images, videos, and documents.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 37,
+    "question": "What is Azure File Storage?",
+    "options": [
+      "A) An Azure compute service",
+      "B) An Azure networking service",
+      "C) A service that provides managed file shares in the cloud",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure File Storage provides managed file shares in the cloud accessible via the SMB protocol.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 38,
+    "question": "What is Azure Queue Storage?",
+    "options": [
+      "A) An Azure compute service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service for storing large numbers of messages"
+    ],
+    "answer": "D",
+    "explanation": "Azure Queue Storage is a service for storing large numbers of messages that can be accessed from anywhere via HTTP or HTTPS.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 39,
+    "question": "What is Azure Table Storage?",
+    "options": [
+      "A) An Azure compute service",
+      "B) An Azure networking service",
+      "C) A NoSQL data store for structured data",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Table Storage is a NoSQL data store for structured data that can scale to billions of rows.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 40,
+    "question": "What is Azure SQL Database?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A fully managed relational database service",
+      "D) An Azure compute service"
+    ],
+    "answer": "C",
+    "explanation": "Azure SQL Database is a fully managed relational database service that provides high availability, scalability, and security.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 41,
+    "question": "What is Azure Cosmos DB?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure compute service",
+      "D) A globally distributed, multi-model database service"
+    ],
+    "answer": "D",
+    "explanation": "Azure Cosmos DB is a globally distributed, multi-model database service designed for high availability and low latency.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 42,
+    "question": "What is Azure Database for MySQL?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A fully managed MySQL database service",
+      "D) An Azure compute service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Database for MySQL is a fully managed MySQL database service with high availability and automatic backups.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 43,
+    "question": "What is Microsoft Entra ID?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) Microsoft's cloud-based identity and access management service"
+    ],
+    "answer": "D",
+    "explanation": "Microsoft Entra ID (formerly Azure Active Directory) is Microsoft's cloud-based identity and access management service.",
+    "category": "Azure Architecture and Services",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 44,
+    "question": "What is Role-Based Access Control (RBAC)?",
+    "options": [
+      "A) An Azure storage method",
+      "B) A method of regulating access to resources based on roles",
+      "C) An Azure networking method",
+      "D) An Azure database method"
+    ],
+    "answer": "B",
+    "explanation": "Role-Based Access Control (RBAC) is a method of regulating access to resources based on the roles of individual users.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 45,
+    "question": "What is Azure Marketplace?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An online store for Azure applications and services",
+      "D) An Azure compute service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Marketplace is an online store for Azure applications and services from Microsoft and third-party vendors.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 46,
+    "question": "What are Azure IoT Services?",
+    "options": [
+      "A) Azure storage services",
+      "B) Azure networking services",
+      "C) Services for connecting and managing IoT devices",
+      "D) Azure database services"
+    ],
+    "answer": "C",
+    "explanation": "Azure IoT Services provide capabilities for connecting, monitoring, and managing Internet of Things (IoT) devices and data.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 47,
+    "question": "What are Azure AI Services?",
+    "options": [
+      "A) Azure storage services",
+      "B) Pre-built AI capabilities and APIs",
+      "C) Azure networking services",
+      "D) Azure database services"
+    ],
+    "answer": "B",
+    "explanation": "Azure AI Services provide pre-built AI capabilities and APIs for vision, speech, language, and decision-making applications.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 48,
+    "question": "What is Azure Machine Learning?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A cloud-based platform for building and deploying machine learning models"
+    ],
+    "answer": "D",
+    "explanation": "Azure Machine Learning is a cloud-based platform for building, training, and deploying machine learning models.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 49,
+    "question": "What are serverless technologies in Azure?",
+    "options": [
+      "A) Azure Functions",
+      "B) Azure Logic Apps",
+      "C) Azure Event Grid",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Serverless technologies in Azure include Azure Functions, Azure Logic Apps, Azure Event Grid, and other serverless services.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 50,
+    "question": "What is Azure Logic Apps?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service for creating automated workflows"
+    ],
+    "answer": "D",
+    "explanation": "Azure Logic Apps is a service for creating automated workflows that integrate apps, data, and services.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 51,
+    "question": "What is Azure Event Grid?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A service for event-driven architectures",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Event Grid is a service for event-driven architectures that enables reactive programming.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 52,
+    "question": "What are DevOps technologies in Azure?",
+    "options": [
+      "A) Azure DevOps",
+      "B) Azure Pipelines",
+      "C) Azure Artifacts",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "DevOps technologies in Azure include Azure DevOps, Azure Pipelines, Azure Artifacts, and other DevOps services.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 53,
+    "question": "What is Azure DevOps?",
+    "options": [
+      "A) An Azure storage service",
+      "B) A set of development tools for software teams",
+      "C) An Azure networking service",
+      "D) An Azure database service"
+    ],
+    "answer": "B",
+    "explanation": "Azure DevOps is a set of development tools for software teams including Azure Repos, Azure Pipelines, Azure Boards, and Azure Artifacts.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 54,
+    "question": "What is Azure Pipelines?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A service for continuous integration and continuous deployment (CI/CD)",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Pipelines is a service for continuous integration and continuous deployment (CI/CD) of applications.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 55,
+    "question": "What is Azure Artifacts?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service for hosting and sharing packages"
+    ],
+    "answer": "D",
+    "explanation": "Azure Artifacts is a service for hosting and sharing packages like NuGet, npm, and Maven packages.",
+    "category": "Azure Architecture and Services",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 56,
+    "question": "What factors affect Azure costs?",
+    "options": [
+      "A) Only resource type and size",
+      "B) Only region and usage patterns",
+      "C) Resource type, size, region, and usage patterns",
+      "D) Only resource type and region"
+    ],
+    "answer": "C",
+    "explanation": "Azure costs are affected by resource type, size, region, usage patterns, and other factors like availability and redundancy options.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 57,
+    "question": "What is the Azure Pricing Calculator?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A tool that helps estimate Azure costs"
+    ],
+    "answer": "D",
+    "explanation": "The Azure Pricing Calculator is a tool that helps estimate Azure costs for different services and configurations.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 58,
+    "question": "What is Azure Cost Management?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A service that helps monitor and optimize Azure spending",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Cost Management is a service that helps monitor and optimize Azure spending through cost analysis and budgeting.",
+    "category": "Azure Management and Governance",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 59,
+    "question": "What is the purpose of Azure Tags?",
+    "options": [
+      "A) To secure Azure resources",
+      "B) To organize and manage Azure resources for billing and governance",
+      "C) To monitor Azure resources",
+      "D) To backup Azure resources"
+    ],
+    "answer": "B",
+    "explanation": "Azure Tags are key-value pairs that help organize and manage Azure resources for billing, management, and governance purposes.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 60,
+    "question": "What is Microsoft Purview?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A unified data governance service"
+    ],
+    "answer": "D",
+    "explanation": "Microsoft Purview is a unified data governance service that helps manage and govern data across on-premises, multi-cloud, and SaaS.",
+    "category": "Azure Management and Governance",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 61,
+    "question": "What is Azure Policy?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A service that helps enforce organizational standards and assess compliance",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure Policy helps enforce organizational standards and assess compliance at-scale for Azure resources.",
+    "category": "Azure Management and Governance",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 62,
+    "question": "What is the Azure Portal?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A web-based interface for managing Azure resources"
+    ],
+    "answer": "D",
+    "explanation": "The Azure Portal is a web-based interface for managing Azure resources, providing a graphical user interface for Azure services.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 63,
+    "question": "What is Azure CLI?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) A command-line interface for managing Azure resources",
+      "D) An Azure database service"
+    ],
+    "answer": "C",
+    "explanation": "Azure CLI is a command-line interface for managing Azure resources, providing cross-platform command-line tools.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 64,
+    "question": "What is Azure PowerShell?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A PowerShell module for managing Azure resources"
+    ],
+    "answer": "D",
+    "explanation": "Azure PowerShell is a PowerShell module for managing Azure resources, providing cmdlets for Azure service management.",
+    "category": "Azure Management and Governance",
+    "source": "Microsoft Learn AZ-900 Practice Assessment"
+  },
+  {
+    "id": 65,
+    "question": "What is Azure Advisor?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service that provides recommendations to optimize Azure resources"
+    ],
+    "answer": "D",
+    "explanation": "Azure Advisor analyzes your Azure usage and configurations to provide personalized recommendations for cost optimization, security, performance, and reliability.",
+    "category": "Azure Management and Governance",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 66,
+    "question": "What is Azure Service Health?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service that provides information about Azure service status"
+    ],
+    "answer": "D",
+    "explanation": "Azure Service Health provides information about Azure service status, planned maintenance, and service issues.",
+    "category": "Azure Management and Governance",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 67,
+    "question": "What is Azure Monitor?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service that provides monitoring and diagnostics for Azure resources"
+    ],
+    "answer": "D",
+    "explanation": "Azure Monitor provides comprehensive monitoring for applications, infrastructure, and network, collecting and analyzing telemetry data.",
+    "category": "Azure Management and Governance",
+    "source": "John Savill's AZ-900 Course + Microsoft Learn"
+  },
+  {
+    "id": 68,
+    "question": "What is Microsoft Defender for Cloud?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A security service that provides threat protection and security recommendations"
+    ],
+    "answer": "D",
+    "explanation": "Microsoft Defender for Cloud is a security service that provides threat protection and security recommendations for Azure resources.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 69,
+    "question": "What is Azure Key Vault?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service for securely storing and accessing secrets"
+    ],
+    "answer": "D",
+    "explanation": "Azure Key Vault is a cloud service for securely storing and accessing secrets like API keys, passwords, certificates, and cryptographic keys.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 70,
+    "question": "What is Microsoft Sentinel?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A cloud-native security information and event management (SIEM) service"
+    ],
+    "answer": "D",
+    "explanation": "Microsoft Sentinel is a cloud-native security information and event management (SIEM) service that provides security analytics and threat intelligence.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 71,
+    "question": "What is Defense in Depth?",
+    "options": [
+      "A) An Azure storage strategy",
+      "B) An Azure networking strategy",
+      "C) An Azure database strategy",
+      "D) A security strategy that uses multiple layers of security controls"
+    ],
+    "answer": "D",
+    "explanation": "Defense in Depth is a security strategy that uses multiple layers of security controls to protect against various types of threats.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 72,
+    "question": "What is Zero Trust?",
+    "options": [
+      "A) An Azure storage model",
+      "B) An Azure networking model",
+      "C) An Azure database model",
+      "D) A security model that assumes no implicit trust"
+    ],
+    "answer": "D",
+    "explanation": "Zero Trust is a security model that assumes no implicit trust and requires verification for every access request.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 73,
+    "question": "What are Network Security Groups (NSGs)?",
+    "options": [
+      "A) Azure storage security groups",
+      "B) Azure database security groups",
+      "C) Security rules that control network traffic to Azure resources",
+      "D) Azure compute security groups"
+    ],
+    "answer": "C",
+    "explanation": "Network Security Groups (NSGs) contain security rules that control network traffic to Azure resources.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 74,
+    "question": "What is Azure Firewall?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure database service",
+      "C) An Azure compute service",
+      "D) A managed cloud-based network security service"
+    ],
+    "answer": "D",
+    "explanation": "Azure Firewall is a managed cloud-based network security service that protects Azure Virtual Network resources.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 75,
+    "question": "What is Azure DDoS Protection?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service that protects against distributed denial-of-service attacks"
+    ],
+    "answer": "D",
+    "explanation": "Azure DDoS Protection is a service that protects against distributed denial-of-service (DDoS) attacks.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 76,
+    "question": "What is the difference between Authentication and Authorization?",
+    "options": [
+      "A) Authentication controls access, Authorization verifies identity",
+      "B) Both are the same thing",
+      "C) Authentication verifies identity, Authorization controls access",
+      "D) Authentication is for users, Authorization is for services"
+    ],
+    "answer": "C",
+    "explanation": "Authentication verifies who you are, while Authorization controls what you can access and do.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 77,
+    "question": "What are Resource Locks in Azure?",
+    "options": [
+      "A) An Azure storage feature",
+      "B) An Azure networking feature",
+      "C) An Azure database feature",
+      "D) A feature that prevents accidental deletion or modification of resources"
+    ],
+    "answer": "D",
+    "explanation": "Resource Locks prevent accidental deletion or modification of Azure resources by applying a lock to the resource.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 78,
+    "question": "What are Azure Blueprints?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service for creating repeatable sets of Azure resources"
+    ],
+    "answer": "D",
+    "explanation": "Azure Blueprints is a service for creating repeatable sets of Azure resources that implement and adhere to an organization's standards, patterns, and requirements.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 79,
+    "question": "What is Azure Government Cloud?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A separate instance of Azure designed for U.S. government agencies"
+    ],
+    "answer": "D",
+    "explanation": "Azure Government Cloud is a separate instance of Azure designed to meet the specific compliance requirements of U.S. government agencies.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 80,
+    "question": "What is Azure Germany?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) Azure services tailored for European Union data protection requirements"
+    ],
+    "answer": "D",
+    "explanation": "Azure Germany is tailored to meet the stringent data protection and compliance needs of the European Union.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 81,
+    "question": "What is Azure China 21Vianet?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) Azure services operated by 21Vianet to comply with Chinese regulations"
+    ],
+    "answer": "D",
+    "explanation": "Azure China is operated by 21Vianet to comply with Chinese regulations and is physically separated from the global Azure cloud.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 82,
+    "question": "What is Azure Backup?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service that provides backup and recovery capabilities"
+    ],
+    "answer": "D",
+    "explanation": "Azure Backup is a service that provides backup and recovery capabilities for Azure and on-premises workloads.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 83,
+    "question": "What is Azure Site Recovery?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) A service that provides disaster recovery capabilities"
+    ],
+    "answer": "D",
+    "explanation": "Azure Site Recovery is a service that provides disaster recovery capabilities for on-premises and Azure workloads.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 84,
+    "question": "What factors can help reduce costs in Azure?",
+    "options": [
+      "A) Using Reserved Instances",
+      "B) Right-sizing resources",
+      "C) Using Spot Instances",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Costs can be reduced by using Reserved Instances, right-sizing resources, using Spot Instances, and other cost optimization strategies.",
+    "category": "Azure Pricing and Support",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 85,
+    "question": "What are Reserved Instances in Azure?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) Pre-purchased compute capacity for significant cost savings"
+    ],
+    "answer": "D",
+    "explanation": "Reserved Instances are pre-purchased compute capacity that provides significant cost savings compared to pay-as-you-go pricing.",
+    "category": "Azure Pricing and Support",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 86,
+    "question": "What are Spot Instances in Azure?",
+    "options": [
+      "A) An Azure storage service",
+      "B) An Azure networking service",
+      "C) An Azure database service",
+      "D) Compute capacity available at significantly reduced prices"
+    ],
+    "answer": "D",
+    "explanation": "Spot Instances are compute capacity available at significantly reduced prices, but can be interrupted when Azure needs the capacity back.",
+    "category": "Azure Pricing and Support",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 87,
+    "question": "What are Pricing and TCO Calculators?",
+    "options": [
+      "A) Azure storage tools",
+      "B) Azure networking tools",
+      "C) Azure database tools",
+      "D) Tools that help estimate Azure costs and total cost of ownership"
+    ],
+    "answer": "D",
+    "explanation": "Pricing and TCO Calculators are tools that help estimate Azure costs and total cost of ownership for cloud solutions.",
+    "category": "Azure Pricing and Support",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 88,
+    "question": "What is a Service Level Agreement (SLA)?",
+    "options": [
+      "A) An Azure storage agreement",
+      "B) An Azure networking agreement",
+      "C) An Azure database agreement",
+      "D) A commitment between a service provider and a customer"
+    ],
+    "answer": "D",
+    "explanation": "A Service Level Agreement (SLA) is a commitment between a service provider and a customer regarding the level of service to be provided.",
+    "category": "Azure Pricing and Support",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 89,
+    "question": "What is the Azure service lifecycle?",
+    "options": [
+      "A) Azure storage lifecycle",
+      "B) Azure networking lifecycle",
+      "C) Azure database lifecycle",
+      "D) The stages from preview to general availability to retirement"
+    ],
+    "answer": "D",
+    "explanation": "The Azure service lifecycle includes stages from preview to general availability to retirement, with different support levels at each stage.",
+    "category": "Azure Pricing and Support",
+    "source": "John Savill's AZ-900 Course"
+  },
+  {
+    "id": 90,
+    "question": "What is the Cloud Adoption Framework?",
+    "options": [
+      "A) An Azure storage framework",
+      "B) An Azure networking framework",
+      "C) An Azure database framework",
+      "D) Microsoft's guidance for adopting cloud technologies"
+    ],
+    "answer": "D",
+    "explanation": "The Cloud Adoption Framework is Microsoft's guidance for adopting cloud technologies and transforming business processes.",
+    "category": "Azure Pricing and Support",
+    "source": "John Savill's AZ-900 Course"
+  }
+]
