@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "Which Azure service provides a fully managed relational database with automatic scaling and built-in security?",
+    "options": [
+      "A) Azure SQL Database",
+      "B) Azure Cosmos DB",
+      "C) Azure Database for MySQL",
+      "D) Azure Table Storage"
+    ],
+    "answer": "A",
+    "explanation": "Azure SQL Database is a fully managed relational database service that provides automatic scaling, built-in security, and high availability without requiring infrastructure management.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary benefit of using Azure Reserved Instances?",
+    "options": [
+      "A) Higher performance compared to pay-as-you-go",
+      "B) Significant cost savings for predictable workloads",
+      "C) Better security than standard instances",
+      "D) Automatic backup and disaster recovery"
+    ],
+    "answer": "B",
+    "explanation": "Azure Reserved Instances provide significant cost savings (up to 72%) for predictable workloads by committing to 1-3 year terms, making them ideal for steady-state applications.",
+    "category": "Azure Pricing and Support",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 3,
+    "question": "Which Azure service is best suited for storing large amounts of unstructured data like images and videos?",
+    "options": [
+      "A) Azure SQL Database",
+      "B) Azure Blob Storage",
+      "C) Azure Table Storage",
+      "D) Azure File Storage"
+    ],
+    "answer": "B",
+    "explanation": "Azure Blob Storage is specifically designed for storing large amounts of unstructured data such as text, images, videos, documents, and other binary data.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 4,
+    "question": "What is the main difference between Azure Load Balancer and Azure Application Gateway?",
+    "options": [
+      "A) Load Balancer works at Layer 4, Application Gateway works at Layer 7",
+      "B) Load Balancer is more expensive than Application Gateway",
+      "C) Application Gateway only works with Windows applications",
+      "D) Load Balancer requires more configuration than Application Gateway"
+    ],
+    "answer": "A",
+    "explanation": "Azure Load Balancer operates at Layer 4 (transport layer) for TCP/UDP traffic, while Azure Application Gateway operates at Layer 7 (application layer) for HTTP/HTTPS traffic with advanced routing capabilities.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 5,
+    "question": "Which Azure service provides identity and access management for cloud applications?",
+    "options": [
+      "A) Azure Key Vault",
+      "B) Microsoft Entra ID",
+      "C) Azure Security Center",
+      "D) Azure Active Directory B2C"
+    ],
+    "answer": "B",
+    "explanation": "Microsoft Entra ID (formerly Azure Active Directory) is Microsoft's cloud-based identity and access management service that provides authentication and authorization for Azure resources and applications.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 6,
+    "question": "What is the primary purpose of Azure Resource Groups?",
+    "options": [
+      "A) To organize Azure subscriptions",
+      "B) To group related resources for management and billing",
+      "C) To provide network security",
+      "D) To manage user permissions"
+    ],
+    "answer": "B",
+    "explanation": "Azure Resource Groups are logical containers that group related Azure resources together for easier management, billing, and governance purposes.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 7,
+    "question": "Which Azure service provides serverless compute for event-driven applications?",
+    "options": [
+      "A) Azure Virtual Machines",
+      "B) Azure App Service",
+      "C) Azure Functions",
+      "D) Azure Container Instances"
+    ],
+    "answer": "C",
+    "explanation": "Azure Functions is a serverless compute service that allows you to run event-driven code without managing infrastructure, perfect for microservices and event processing.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 8,
+    "question": "What is the main advantage of using Azure Availability Zones?",
+    "options": [
+      "A) Lower costs compared to single-region deployment",
+      "B) Protection against data center failures",
+      "C) Better performance than single-zone deployment",
+      "D) Simplified management compared to multi-region"
+    ],
+    "answer": "B",
+    "explanation": "Azure Availability Zones provide protection against data center failures by distributing resources across physically separate data centers within the same region.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 9,
+    "question": "Which Azure service provides comprehensive monitoring and diagnostics for applications and infrastructure?",
+    "options": [
+      "A) Azure Service Health",
+      "B) Azure Monitor",
+      "C) Azure Advisor",
+      "D) Azure Security Center"
+    ],
+    "answer": "B",
+    "explanation": "Azure Monitor provides comprehensive monitoring and diagnostics for applications, infrastructure, and network, collecting and analyzing telemetry data from various sources.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 10,
+    "question": "What is the primary benefit of Infrastructure as a Service (IaaS)?",
+    "options": [
+      "A) Complete application management by the provider",
+      "B) Maximum control over the operating system and applications",
+      "C) Automatic scaling without configuration",
+      "D) Built-in security and compliance features"
+    ],
+    "answer": "B",
+    "explanation": "IaaS provides maximum control over the operating system and applications while the cloud provider manages the physical infrastructure, networking, and virtualization.",
+    "category": "Cloud Concepts",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 11,
+    "question": "Which Azure storage redundancy option provides the highest durability?",
+    "options": [
+      "A) Locally Redundant Storage (LRS)",
+      "B) Geo-Redundant Storage (GRS)",
+      "C) Zone-Redundant Storage (ZRS)",
+      "D) Geo-Zone-Redundant Storage (GZRS)"
+    ],
+    "answer": "D",
+    "explanation": "Geo-Zone-Redundant Storage (GZRS) provides the highest durability by combining zone-redundant storage within a region with geo-replication to a secondary region.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 12,
+    "question": "What is the main purpose of Azure Policy?",
+    "options": [
+      "A) To monitor Azure resource performance",
+      "B) To enforce organizational standards and compliance",
+      "C) To provide cost optimization recommendations",
+      "D) To manage user access to Azure resources"
+    ],
+    "answer": "B",
+    "explanation": "Azure Policy helps enforce organizational standards and assess compliance at-scale for Azure resources by creating, assigning, and managing policy definitions.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 13,
+    "question": "Which Azure service provides secure storage for secrets, keys, and certificates?",
+    "options": [
+      "A) Azure Storage Account",
+      "B) Azure Key Vault",
+      "C) Azure Security Center",
+      "D) Microsoft Entra ID"
+    ],
+    "answer": "B",
+    "explanation": "Azure Key Vault is a cloud service for securely storing and accessing secrets like API keys, passwords, certificates, and cryptographic keys.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 14,
+    "question": "What is the primary advantage of Platform as a Service (PaaS)?",
+    "options": [
+      "A) Complete control over the operating system",
+      "B) Focus on application development without infrastructure management",
+      "C) Lower costs than Infrastructure as a Service",
+      "D) Better performance than Software as a Service"
+    ],
+    "answer": "B",
+    "explanation": "PaaS allows developers to focus on application development and deployment without managing the underlying infrastructure, operating system, or middleware.",
+    "category": "Cloud Concepts",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 15,
+    "question": "Which Azure service provides automated workflows and business process integration?",
+    "options": [
+      "A) Azure Functions",
+      "B) Azure Logic Apps",
+      "C) Azure Event Grid",
+      "D) Azure Service Bus"
+    ],
+    "answer": "B",
+    "explanation": "Azure Logic Apps is a cloud service that helps you schedule, automate, and orchestrate tasks, business processes, and workflows when you need to integrate apps, data, systems, and services.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 16,
+    "question": "What is the main benefit of using Azure Spot Instances?",
+    "options": [
+      "A) Guaranteed availability for critical workloads",
+      "B) Significant cost savings for flexible workloads",
+      "C) Better performance than standard instances",
+      "D) Automatic backup and disaster recovery"
+    ],
+    "answer": "B",
+    "explanation": "Azure Spot Instances provide significant cost savings (up to 90%) for flexible workloads that can tolerate interruptions, making them ideal for batch processing and development workloads.",
+    "category": "Azure Pricing and Support",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 17,
+    "question": "Which Azure service provides global distribution and multi-model database capabilities?",
+    "options": [
+      "A) Azure SQL Database",
+      "B) Azure Cosmos DB",
+      "C) Azure Database for PostgreSQL",
+      "D) Azure Table Storage"
+    ],
+    "answer": "B",
+    "explanation": "Azure Cosmos DB is a globally distributed, multi-model database service designed for high availability and low latency with support for multiple data models including document, key-value, graph, and column-family.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 18,
+    "question": "What is the primary purpose of Azure Management Groups?",
+    "options": [
+      "A) To organize Azure subscriptions hierarchically",
+      "B) To provide network connectivity between regions",
+      "C) To manage user access to resources",
+      "D) To monitor resource performance"
+    ],
+    "answer": "A",
+    "explanation": "Azure Management Groups provide a level of scope above subscriptions, allowing you to organize subscriptions hierarchically and apply governance policies across multiple subscriptions.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 19,
+    "question": "Which Azure service provides threat protection and security recommendations?",
+    "options": [
+      "A) Azure Security Center",
+      "B) Microsoft Defender for Cloud",
+      "C) Azure Key Vault",
+      "D) Azure Firewall"
+    ],
+    "answer": "B",
+    "explanation": "Microsoft Defender for Cloud (formerly Azure Security Center) provides threat protection and security recommendations for Azure resources, helping to strengthen security posture.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 20,
+    "question": "What is the main advantage of Software as a Service (SaaS)?",
+    "options": [
+      "A) Complete control over the application",
+      "B) No need to manage infrastructure or applications",
+      "C) Lower costs than Platform as a Service",
+      "D) Better performance than Infrastructure as a Service"
+    ],
+    "answer": "B",
+    "explanation": "SaaS eliminates the need to manage infrastructure, operating systems, or applications, allowing users to focus on using the software rather than maintaining it.",
+    "category": "Cloud Concepts",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 21,
+    "question": "Which Azure service provides event-driven architecture capabilities?",
+    "options": [
+      "A) Azure Service Bus",
+      "B) Azure Event Grid",
+      "C) Azure Logic Apps",
+      "D) Azure Functions"
+    ],
+    "answer": "B",
+    "explanation": "Azure Event Grid is a fully managed event routing service that enables event-driven architectures by connecting event sources with event handlers.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 22,
+    "question": "What is the primary benefit of using Azure Tags?",
+    "options": [
+      "A) To improve resource performance",
+      "B) To organize resources for billing and management",
+      "C) To provide network security",
+      "D) To enable automatic scaling"
+    ],
+    "answer": "B",
+    "explanation": "Azure Tags are key-value pairs that help organize and manage Azure resources for billing, management, and governance purposes.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 23,
+    "question": "Which Azure service provides CI/CD capabilities for application deployment?",
+    "options": [
+      "A) Azure DevOps",
+      "B) Azure Pipelines",
+      "C) Azure Artifacts",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Azure DevOps includes Azure Pipelines for CI/CD, Azure Artifacts for package management, and other DevOps services, providing comprehensive application deployment capabilities.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 24,
+    "question": "What is the main purpose of Azure Advisor?",
+    "options": [
+      "A) To monitor Azure service health",
+      "B) To provide personalized recommendations for optimization",
+      "C) To manage user access to resources",
+      "D) To provide cost estimates for new resources"
+    ],
+    "answer": "B",
+    "explanation": "Azure Advisor analyzes your Azure usage and configurations to provide personalized recommendations for cost optimization, security, performance, and reliability.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 25,
+    "question": "Which Azure service provides managed file shares accessible via SMB protocol?",
+    "options": [
+      "A) Azure Blob Storage",
+      "B) Azure File Storage",
+      "C) Azure Table Storage",
+      "D) Azure Queue Storage"
+    ],
+    "answer": "B",
+    "explanation": "Azure File Storage provides managed file shares in the cloud accessible via the SMB protocol, making it easy to migrate on-premises file shares to Azure.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 26,
+    "question": "What is the primary benefit of using Azure Resource Manager (ARM) templates?",
+    "options": [
+      "A) To improve resource performance",
+      "B) To enable Infrastructure as Code (IaC)",
+      "C) To provide network security",
+      "D) To enable automatic scaling"
+    ],
+    "answer": "B",
+    "explanation": "ARM Templates enable Infrastructure as Code (IaC) by defining Azure resources and their configuration in JSON format, allowing for consistent and repeatable deployments.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 27,
+    "question": "Which Azure service provides comprehensive data governance capabilities?",
+    "options": [
+      "A) Azure Data Factory",
+      "B) Microsoft Purview",
+      "C) Azure Synapse Analytics",
+      "D) Azure Data Lake"
+    ],
+    "answer": "B",
+    "explanation": "Microsoft Purview is a unified data governance service that helps manage and govern data across on-premises, multi-cloud, and SaaS environments.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 28,
+    "question": "What is the main advantage of using Azure Virtual Network?",
+    "options": [
+      "A) To improve application performance",
+      "B) To provide secure communication between Azure resources",
+      "C) To enable automatic scaling",
+      "D) To provide managed database services"
+    ],
+    "answer": "B",
+    "explanation": "Azure Virtual Network provides secure communication between Azure resources, on-premises networks, and the internet, enabling network isolation and security.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 29,
+    "question": "Which Azure service provides backup and disaster recovery capabilities?",
+    "options": [
+      "A) Azure Backup",
+      "B) Azure Site Recovery",
+      "C) Both A and B",
+      "D) Azure Storage Account"
+    ],
+    "answer": "C",
+    "explanation": "Azure Backup provides backup capabilities for Azure and on-premises workloads, while Azure Site Recovery provides disaster recovery capabilities for on-premises and Azure workloads.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 30,
+    "question": "What is the primary purpose of Azure DNS?",
+    "options": [
+      "A) To provide network security",
+      "B) To provide domain name resolution",
+      "C) To improve application performance",
+      "D) To enable automatic scaling"
+    ],
+    "answer": "B",
+    "explanation": "Azure DNS is a service that provides domain name resolution for Azure resources and external domains, enabling reliable DNS hosting.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 31,
+    "question": "Which Azure service provides AI capabilities through pre-built APIs?",
+    "options": [
+      "A) Azure Machine Learning",
+      "B) Azure AI Services",
+      "C) Azure Cognitive Services",
+      "D) Both B and C"
+    ],
+    "answer": "D",
+    "explanation": "Azure AI Services (formerly Azure Cognitive Services) provide pre-built AI capabilities and APIs for vision, speech, language, and decision-making applications.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 32,
+    "question": "What is the main benefit of using Azure Container Instances?",
+    "options": [
+      "A) To provide managed Kubernetes clusters",
+      "B) To run containers without managing infrastructure",
+      "C) To improve container performance",
+      "D) To provide container security"
+    ],
+    "answer": "B",
+    "explanation": "Azure Container Instances allows you to run containers without managing infrastructure, providing a simple way to run containers in Azure without managing virtual machines or container orchestrators.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 33,
+    "question": "Which Azure service provides SIEM (Security Information and Event Management) capabilities?",
+    "options": [
+      "A) Azure Security Center",
+      "B) Microsoft Sentinel",
+      "C) Azure Key Vault",
+      "D) Azure Firewall"
+    ],
+    "answer": "B",
+    "explanation": "Microsoft Sentinel is a cloud-native security information and event management (SIEM) service that provides security analytics and threat intelligence.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 34,
+    "question": "What is the primary advantage of using Azure App Service?",
+    "options": [
+      "A) To provide managed database services",
+      "B) To build, deploy, and scale web apps and APIs",
+      "C) To provide network security",
+      "D) To enable automatic backup"
+    ],
+    "answer": "B",
+    "explanation": "Azure App Service is a platform for building, deploying, and scaling web apps, mobile backends, and RESTful APIs without managing infrastructure.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 35,
+    "question": "Which Azure service provides DDoS protection for Azure resources?",
+    "options": [
+      "A) Azure Firewall",
+      "B) Azure DDoS Protection",
+      "C) Network Security Groups",
+      "D) Azure Security Center"
+    ],
+    "answer": "B",
+    "explanation": "Azure DDoS Protection is a service that protects against distributed denial-of-service (DDoS) attacks, providing always-on monitoring and automatic mitigation.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 36,
+    "question": "What is the main purpose of Azure Service Health?",
+    "options": [
+      "A) To monitor application performance",
+      "B) To provide information about Azure service status",
+      "C) To manage user access to resources",
+      "D) To provide cost optimization recommendations"
+    ],
+    "answer": "B",
+    "explanation": "Azure Service Health provides information about Azure service status, planned maintenance, and service issues, helping you stay informed about service availability.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 37,
+    "question": "Which Azure service provides IoT device connectivity and management?",
+    "options": [
+      "A) Azure IoT Hub",
+      "B) Azure IoT Central",
+      "C) Azure IoT Edge",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Azure IoT Services include IoT Hub for device connectivity, IoT Central for application development, and IoT Edge for edge computing, providing comprehensive IoT capabilities.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 38,
+    "question": "What is the primary benefit of using Azure Arc?",
+    "options": [
+      "A) To improve Azure resource performance",
+      "B) To extend Azure management to any infrastructure",
+      "C) To provide network security",
+      "D) To enable automatic scaling"
+    ],
+    "answer": "B",
+    "explanation": "Azure Arc extends Azure management and services to any infrastructure, including on-premises, multi-cloud, and edge environments, providing unified management capabilities.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 39,
+    "question": "Which Azure service provides cost estimation and optimization tools?",
+    "options": [
+      "A) Azure Pricing Calculator",
+      "B) Azure Cost Management",
+      "C) Azure Advisor",
+      "D) All of the above"
+    ],
+    "answer": "D",
+    "explanation": "Azure provides multiple cost management tools: Pricing Calculator for estimates, Cost Management for monitoring and optimization, and Advisor for cost recommendations.",
+    "category": "Azure Pricing and Support",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 40,
+    "question": "What is the main advantage of using Azure Marketplace?",
+    "options": [
+      "A) To provide managed database services",
+      "B) To access pre-built solutions and applications",
+      "C) To improve application performance",
+      "D) To provide network security"
+    ],
+    "answer": "B",
+    "explanation": "Azure Marketplace is an online store for Azure applications and services from Microsoft and third-party vendors, providing access to pre-built solutions and applications.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 41,
+    "question": "Which Azure service provides role-based access control (RBAC) for resources?",
+    "options": [
+      "A) Azure Key Vault",
+      "B) Microsoft Entra ID",
+      "C) Azure Policy",
+      "D) Azure Resource Manager"
+    ],
+    "answer": "D",
+    "explanation": "Azure Resource Manager provides role-based access control (RBAC) for Azure resources, allowing you to control access to resources based on user roles.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 42,
+    "question": "What is the primary purpose of Azure Blueprints?",
+    "options": [
+      "A) To monitor resource performance",
+      "B) To create repeatable sets of Azure resources",
+      "C) To provide network security",
+      "D) To enable automatic scaling"
+    ],
+    "answer": "B",
+    "explanation": "Azure Blueprints is a service for creating repeatable sets of Azure resources that implement and adhere to an organization's standards, patterns, and requirements.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 43,
+    "question": "Which Azure service provides command-line interface for resource management?",
+    "options": [
+      "A) Azure PowerShell",
+      "B) Azure CLI",
+      "C) Azure Portal",
+      "D) Both A and B"
+    ],
+    "answer": "D",
+    "explanation": "Both Azure PowerShell and Azure CLI provide command-line interfaces for managing Azure resources, with PowerShell using cmdlets and CLI using commands.",
+    "category": "Azure Management and Governance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 44,
+    "question": "What is the main benefit of using Azure Storage tiers?",
+    "options": [
+      "A) To improve storage performance",
+      "B) To optimize costs based on access patterns",
+      "C) To provide better security",
+      "D) To enable automatic backup"
+    ],
+    "answer": "B",
+    "explanation": "Azure Storage tiers (Hot, Cool, Archive) optimize costs based on access patterns, with Hot for frequently accessed data and Archive for rarely accessed data.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 45,
+    "question": "Which Azure service provides managed Kubernetes clusters?",
+    "options": [
+      "A) Azure Container Instances",
+      "B) Azure Kubernetes Service (AKS)",
+      "C) Azure Container Registry",
+      "D) Azure Service Fabric"
+    ],
+    "answer": "B",
+    "explanation": "Azure Kubernetes Service (AKS) provides managed Kubernetes clusters, simplifying the deployment, management, and operations of Kubernetes applications.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 46,
+    "question": "What is the primary advantage of using Azure Table Storage?",
+    "options": [
+      "A) To store relational data",
+      "B) To store structured NoSQL data at scale",
+      "C) To improve query performance",
+      "D) To provide automatic backup"
+    ],
+    "answer": "B",
+    "explanation": "Azure Table Storage is a NoSQL data store for structured data that can scale to billions of rows, making it ideal for storing large amounts of structured data.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 47,
+    "question": "Which Azure service provides message queuing capabilities?",
+    "options": [
+      "A) Azure Service Bus",
+      "B) Azure Queue Storage",
+      "C) Azure Event Grid",
+      "D) Both A and B"
+    ],
+    "answer": "D",
+    "explanation": "Both Azure Service Bus and Azure Queue Storage provide message queuing capabilities, with Service Bus offering advanced messaging features and Queue Storage providing simple message queuing.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 48,
+    "question": "What is the main purpose of Azure Resource Locks?",
+    "options": [
+      "A) To improve resource performance",
+      "B) To prevent accidental deletion or modification",
+      "C) To provide network security",
+      "D) To enable automatic scaling"
+    ],
+    "answer": "B",
+    "explanation": "Azure Resource Locks prevent accidental deletion or modification of Azure resources by applying a lock to the resource, helping protect critical resources.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 49,
+    "question": "Which Azure service provides cloud-based machine learning platform?",
+    "options": [
+      "A) Azure AI Services",
+      "B) Azure Machine Learning",
+      "C) Azure Cognitive Services",
+      "D) Azure Bot Service"
+    ],
+    "answer": "B",
+    "explanation": "Azure Machine Learning is a cloud-based platform for building, training, and deploying machine learning models, providing tools for data scientists and developers.",
+    "category": "Azure Architecture and Services",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  },
+  {
+    "id": 50,
+    "question": "What is the primary benefit of using Azure Government Cloud?",
+    "options": [
+      "A) Lower costs than commercial Azure",
+      "B) Compliance with U.S. government requirements",
+      "C) Better performance than commercial Azure",
+      "D) Simplified management compared to commercial Azure"
+    ],
+    "answer": "B",
+    "explanation": "Azure Government Cloud is a separate instance of Azure designed to meet the specific compliance requirements of U.S. government agencies and their partners.",
+    "category": "Security, Privacy, and Compliance",
+    "source": "Udemy AZ-900 Practice Test + Microsoft Learn + John Savill"
+  }
+]

@@ -1847,8 +1847,11 @@
         // Load flashcards from JSON file
         async function loadFlashcards() {
             try {
-                // Try to load tricky distractors first (much harder to distinguish wrong answers), then fallback to others
-                let response = await fetch('azure-900-tricky-distractors.json');
+                // Try to load Udemy practice test flashcards first (real exam-style questions with tricky distractors), then fallback to others
+                let response = await fetch('azure-900-udemy-practice-test-flashcards.json');
+                if (!response.ok) {
+                    response = await fetch('azure-900-tricky-distractors.json');
+                }
                 if (!response.ok) {
                     response = await fetch('azure-900-udemy-enhanced-flashcards.json');
                 }
