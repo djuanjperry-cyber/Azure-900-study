@@ -2282,6 +2282,12 @@
         function filterByTopic() {
             const selectedTopic = document.getElementById('topicFilter').value;
             
+            // Safety check - ensure allFlashcards is loaded
+            if (!allFlashcards || allFlashcards.length === 0) {
+                console.log('Flashcards not loaded yet, please wait...');
+                return;
+            }
+            
             if (selectedTopic === 'all') {
                 filteredFlashcards = [...allFlashcards];
             } else {
