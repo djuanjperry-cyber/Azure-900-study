@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flashcard Test</title>
+</head>
+<body>
+    <h1>Flashcard Loading Test</h1>
+    <div id="status">Loading...</div>
+    <div id="questionText"></div>
+    <div id="categoryTag"></div>
+    <ul id="optionsList"></ul>
+    
+    <script>
+        let flashcards = [];
+        let currentQuestionIndex = 0;
+        
+        async function loadFlashcards() {
+            try {
+                console.log('Starting to load flashcards...');
+                const response = await fetch('azure-900-flashcards.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                flashcards = await response.json();
+                console.log('Flashcards loaded:', flashcards.length);
+                
+                document.getElementById('status').textContent = `Loaded ${flashcards.length} flashcards successfully!`;
+                
+                if (flashcards.length > 0) {
+                    loadQuestion();
+                }
+            } catch (error) {
+                console.error('Error loading flashcards:', error);
+                document.getElementById('status').textContent = `Error: ${error.message}`;
+            }
+        }
+        
+        function loadQuestion() {
+            if (flashcards.length === 0) {
+                console.log('No flashcards available');
+                return;
+            }
+            
+            const question = flashcards[currentQuestionIndex];
+            console.log('Loading question:', question);
+            
+            document.getElementById('questionText').textContent = question.question;
+            document.getElementById('categoryTag').textContent = question.category;
+            
+            const optionsList = document.getElementById('optionsList');
+            optionsList.innerHTML = '';
+            
+            question.options.forEach((option, index) => {
+                const li = document.createElement('li');
+                li.textContent = option;
+                optionsList.appendChild(li);
+            });
+        }
+        
+        // Start loading
+        loadFlashcards();
+    </script>
+</body>
+</html>
