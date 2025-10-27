@@ -346,10 +346,13 @@
                 const li = document.createElement('li');
                 li.className = 'option';
                 li.textContent = option;
-                li.onclick = () => {
-                    console.log('Option clicked:', option);
+                
+                // Remove any existing event listeners and add new one
+                li.onclick = function() {
+                    console.log('Option clicked:', option, 'Index:', index);
                     selectAnswer(option, index);
                 };
+                
                 optionsList.appendChild(li);
             });
             
@@ -357,13 +360,14 @@
             selectedAnswer = null;
             document.getElementById('feedback').style.display = 'none';
             document.getElementById('submitBtn').disabled = true;
+            document.getElementById('submitBtn').style.display = 'inline-block';
             document.getElementById('nextBtn').style.display = 'none';
             document.getElementById('prevBtn').disabled = currentQuestionIndex === 0;
             
             // Update question counter
             document.getElementById('questionCounter').textContent = currentQuestionIndex + 1;
             
-            console.log('Question loaded successfully');
+            console.log('Question loaded successfully, options created:', document.querySelectorAll('.option').length);
         }
 
         function selectAnswer(option, index) {
