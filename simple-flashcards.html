@@ -387,8 +387,7 @@
 
         // Load flashcards when page loads
         document.addEventListener('DOMContentLoaded', function() {
-            initializeDarkMode();
-            initializeSound();
+            console.log('Page loaded, starting flashcard loading...');
             loadFlashcards();
         });
 
@@ -430,7 +429,9 @@
                 // Shuffle flashcards
                 shuffleArray(flashcards);
                 
-                // Start new session
+                // Initialize features after flashcards are loaded
+                initializeDarkMode();
+                initializeSound();
                 startNewSession();
                 
                 // Load first question
