@@ -36,34 +36,7 @@
 
         .header h1 {
             font-size: 2.5rem;
-            margin-bottom: 20px;
-        }
-
-        .topic-filter {
-            margin-bottom: 20px;
-        }
-
-        .topic-filter label {
-            display: block;
-            margin-bottom: 8px;
-            font-size: 1rem;
-            opacity: 0.9;
-        }
-
-        .topic-filter select {
-            background: rgba(255, 255, 255, 0.2);
-            color: white;
-            border: 2px solid rgba(255, 255, 255, 0.3);
-            border-radius: 8px;
-            padding: 10px 15px;
-            font-size: 1rem;
-            width: 100%;
-            max-width: 300px;
-        }
-
-        .topic-filter select option {
-            background: #667eea;
-            color: white;
+            margin-bottom: 10px;
         }
 
         .stats {
@@ -238,14 +211,6 @@
     <div class="container">
         <div class="header">
             <h1>Azure 900 Flashcards</h1>
-            
-            <div class="topic-filter">
-                <label for="topicSelect">Filter by Topic:</label>
-                <select id="topicSelect" onchange="filterByTopic()">
-                    <option value="all">All Topics</option>
-                </select>
-            </div>
-            
             <div class="stats">
                 <div class="stat">
                     <span class="stat-number" id="questionCounter">1</span>
@@ -288,7 +253,6 @@
 
     <script>
         let flashcards = [];
-        let allFlashcards = [];
         let currentQuestionIndex = 0;
         let selectedAnswer = null;
         let correctAnswers = 0;
@@ -329,12 +293,6 @@
                 if (!loaded) {
                     throw new Error('No flashcard files could be loaded');
                 }
-                
-                // Store all flashcards for filtering
-                allFlashcards = [...flashcards];
-                
-                // Populate topic filter
-                populateTopicFilter();
                 
                 // Hide loading message and show content
                 document.getElementById('loadingMessage').style.display = 'none';
@@ -464,41 +422,6 @@
                 currentQuestionIndex--;
                 loadQuestion();
             }
-        }
-
-        function populateTopicFilter() {
-            const topicSelect = document.getElementById('topicSelect');
-            const categories = [...new Set(allFlashcards.map(card => card.category))];
-            
-            // Clear existing options except "All Topics"
-            topicSelect.innerHTML = '<option value="all">All Topics</option>';
-            
-            // Add category options
-            categories.forEach(category => {
-                const option = document.createElement('option');
-                option.value = category;
-                option.textContent = category;
-                topicSelect.appendChild(option);
-            });
-        }
-
-        function filterByTopic() {
-            const selectedTopic = document.getElementById('topicSelect').value;
-            
-            if (selectedTopic === 'all') {
-                flashcards = [...allFlashcards];
-            } else {
-                flashcards = allFlashcards.filter(card => card.category === selectedTopic);
-            }
-            
-            // Reset to first question
-            currentQuestionIndex = 0;
-            
-            // Shuffle the filtered flashcards
-            shuffleArray(flashcards);
-            
-            // Load the first question
-            loadQuestion();
         }
     </script>
 </body>
