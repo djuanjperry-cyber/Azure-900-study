@@ -13,7 +13,7 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
             min-height: 100vh;
             padding: 20px;
         }
@@ -21,52 +21,23 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background: white;
+            background: #2c3e50;
+            color: #ecf0f1;
             border-radius: 15px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
             overflow: hidden;
         }
 
         .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
             color: white;
             padding: 30px;
             text-align: center;
         }
 
-        .header-controls {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
-        }
-
         .header h1 {
             font-size: 2.5rem;
-            margin: 0;
-        }
-
-        .dark-mode-toggle {
-            background: rgba(255, 255, 255, 0.2);
-            border: 2px solid rgba(255, 255, 255, 0.3);
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-        }
-
-        .dark-mode-toggle:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: scale(1.1);
-        }
-
-        .dark-mode-icon {
-            font-size: 1.5rem;
-            transition: transform 0.3s ease;
+            margin-bottom: 10px;
         }
 
         .stats {
@@ -92,18 +63,19 @@
 
         .flashcard {
             padding: 40px;
+            background: #2c3e50;
         }
 
         .question {
             font-size: 1.3rem;
             margin-bottom: 30px;
             line-height: 1.6;
-            color: #333;
+            color: #ecf0f1;
         }
 
         .category {
-            background: #f8f9fa;
-            color: #6c757d;
+            background: #34495e;
+            color: #bdc3c7;
             padding: 8px 16px;
             border-radius: 20px;
             font-size: 0.9rem;
@@ -116,65 +88,67 @@
         }
 
         .option {
-            background: #f8f9fa;
-            border: 2px solid #e9ecef;
+            background: #34495e;
+            border: 2px solid #4a6741;
             border-radius: 10px;
             padding: 15px 20px;
             margin-bottom: 15px;
             cursor: pointer;
             transition: all 0.3s ease;
+            color: #ecf0f1;
         }
 
         .option:hover {
-            background: #e9ecef;
-            border-color: #667eea;
+            background: #4a6741;
+            border-color: #5a6fd8;
         }
 
         .option.selected {
-            background: #667eea;
+            background: #5a6fd8;
             color: white;
-            border-color: #667eea;
+            border-color: #5a6fd8;
         }
 
         .option.correct {
-            background: #28a745;
+            background: #27ae60;
             color: white;
-            border-color: #28a745;
+            border-color: #27ae60;
         }
 
         .option.incorrect {
-            background: #dc3545;
+            background: #e74c3c;
             color: white;
-            border-color: #dc3545;
+            border-color: #e74c3c;
         }
 
         .feedback {
-            background: #f8f9fa;
+            background: #34495e;
             border-radius: 10px;
             padding: 20px;
             margin-top: 20px;
-            border-left: 4px solid #667eea;
+            border-left: 4px solid #5a6fd8;
+            color: #ecf0f1;
         }
 
         .feedback.correct {
-            border-left-color: #28a745;
-            background: #d4edda;
+            border-left-color: #27ae60;
+            background: #27ae60;
         }
 
         .feedback.incorrect {
-            border-left-color: #dc3545;
-            background: #f8d7da;
+            border-left-color: #e74c3c;
+            background: #e74c3c;
         }
 
         .controls {
             display: flex;
             justify-content: space-between;
             padding: 20px 40px;
-            background: #f8f9fa;
+            background: #34495e;
         }
 
         .btn {
-            background: #667eea;
+            background: #5a6fd8;
             color: white;
             border: none;
             padding: 12px 24px;
@@ -185,124 +159,42 @@
         }
 
         .btn:hover {
-            background: #5a6fd8;
+            background: #667eea;
         }
 
         .btn:disabled {
-            background: #ccc;
+            background: #7f8c8d;
             cursor: not-allowed;
             opacity: 0.6;
         }
 
         .btn:disabled:hover {
-            background: #ccc;
+            background: #7f8c8d;
             transform: none;
         }
 
         .btn.submit {
-            background: #28a745;
+            background: #27ae60;
         }
 
         .btn.submit:hover {
-            background: #218838;
+            background: #2ecc71;
         }
 
         .loading {
             text-align: center;
             padding: 40px;
             font-size: 1.2rem;
-            color: #6c757d;
+            color: #bdc3c7;
         }
 
         .error {
             text-align: center;
             padding: 40px;
-            color: #dc3545;
-            background: #f8d7da;
+            color: white;
+            background: #e74c3c;
             margin: 20px;
             border-radius: 10px;
-        }
-
-        /* Dark Mode Styles */
-        body.dark-mode {
-            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-        }
-
-        body.dark-mode .container {
-            background: #2c3e50;
-            color: #ecf0f1;
-        }
-
-        body.dark-mode .header {
-            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-        }
-
-        body.dark-mode .flashcard {
-            background: #2c3e50;
-        }
-
-        body.dark-mode .question {
-            color: #ecf0f1;
-        }
-
-        body.dark-mode .category {
-            background: #34495e;
-            color: #bdc3c7;
-        }
-
-        body.dark-mode .option {
-            background: #34495e;
-            border-color: #4a6741;
-            color: #ecf0f1;
-        }
-
-        body.dark-mode .option:hover {
-            background: #4a6741;
-            border-color: #5a6fd8;
-        }
-
-        body.dark-mode .feedback {
-            background: #34495e;
-            border-left-color: #5a6fd8;
-        }
-
-        body.dark-mode .feedback.correct {
-            background: #27ae60;
-            border-left-color: #2ecc71;
-        }
-
-        body.dark-mode .feedback.incorrect {
-            background: #e74c3c;
-            border-left-color: #c0392b;
-        }
-
-        body.dark-mode .controls {
-            background: #34495e;
-        }
-
-        body.dark-mode .btn {
-            background: #5a6fd8;
-        }
-
-        body.dark-mode .btn:hover {
-            background: #667eea;
-        }
-
-        body.dark-mode .btn.submit {
-            background: #27ae60;
-        }
-
-        body.dark-mode .btn.submit:hover {
-            background: #2ecc71;
-        }
-
-        body.dark-mode .loading {
-            color: #bdc3c7;
-        }
-
-        body.dark-mode .error {
-            background: #e74c3c;
-            color: white;
         }
 
         @media (max-width: 600px) {
@@ -328,12 +220,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <div class="header-controls">
-                <h1>Azure 900 Flashcards</h1>
-                <button class="dark-mode-toggle" id="darkModeToggle" onclick="toggleDarkMode()">
-                    <span class="dark-mode-icon">🌙</span>
-                </button>
-            </div>
+            <h1>Azure 900 Flashcards</h1>
             <div class="stats">
                 <div class="stat">
                     <span class="stat-number" id="questionCounter">1</span>
@@ -430,7 +317,6 @@
                 shuffleArray(flashcards);
                 
                 // Initialize features after flashcards are loaded
-                initializeDarkMode();
                 initializeSound();
                 startNewSession();
                 
@@ -640,31 +526,6 @@
                 currentQuestionIndex--;
                 loadQuestion();
             }
-        }
-
-        // Dark Mode Functions
-        function initializeDarkMode() {
-            const savedMode = localStorage.getItem('darkMode');
-            const body = document.body;
-            const darkModeToggle = document.getElementById('darkModeToggle');
-            const darkModeIcon = darkModeToggle.querySelector('.dark-mode-icon');
-
-            if (savedMode === 'true') {
-                body.classList.add('dark-mode');
-                darkModeIcon.textContent = '☀️';
-            }
-        }
-
-        function toggleDarkMode() {
-            const body = document.body;
-            const darkModeToggle = document.getElementById('darkModeToggle');
-            const darkModeIcon = darkModeToggle.querySelector('.dark-mode-icon');
-
-            body.classList.toggle('dark-mode');
-            const isDarkMode = body.classList.contains('dark-mode');
-            
-            localStorage.setItem('darkMode', isDarkMode);
-            darkModeIcon.textContent = isDarkMode ? '☀️' : '🌙';
         }
 
         // Sound Functions
