@@ -1888,6 +1888,7 @@
                 flashcards = await response.json();
                 allFlashcards = [...flashcards]; // Store all flashcards for filtering
                 filteredFlashcards = [...flashcards]; // Initialize filtered flashcards
+                flashcardsLoaded = true; // Mark flashcards as loaded
                 
                 // Randomize the flashcards array every time
                 shuffleArray(flashcards);
@@ -2278,12 +2279,13 @@
         // Topic filtering functionality
         let allFlashcards = [];
         let filteredFlashcards = [];
+        let flashcardsLoaded = false;
 
         function filterByTopic() {
             const selectedTopic = document.getElementById('topicFilter').value;
             
             // Safety check - ensure allFlashcards is loaded
-            if (!allFlashcards || allFlashcards.length === 0) {
+            if (!flashcardsLoaded || !allFlashcards || allFlashcards.length === 0) {
                 console.log('Flashcards not loaded yet, please wait...');
                 return;
             }
