@@ -448,6 +448,7 @@
             if (flashcards.length === 0) return;
             
             const question = flashcards[currentQuestionIndex];
+            const isAnswered = answeredQuestions.has(currentQuestionIndex);
             
             // Update question text and category
             document.getElementById('questionText').textContent = question.question;
@@ -462,15 +463,68 @@
                 const li = document.createElement('li');
                 li.className = 'option';
                 li.textContent = option;
-                li.onclick = () => selectAnswer(option, index);
+                
+                if (!isAnswered) {
+                    li.onclick = () => selectAnswer(option, index);
+                } else {
+                    li.onclick = null; // Disable clicks for answered questions
+                }
+                
                 optionsList.appendChild(li);
             });
             
-            // Reset state
-            selectedAnswer = null;
-            document.getElementById('feedback').style.display = 'none';
-            document.getElementById('submitBtn').disabled = true;
-            document.getElementById('nextBtn').style.display = 'none';
+            // If question is already answered, show the previous answer and results
+            if (isAnswered) {
+                // Find the previous answer from session data
+                let previousAnswer = null;
+                let wasCorrect = false;
+                
+                if (currentSession && currentSession.answers && currentSession.answers[currentQuestionIndex]) {
+                    previousAnswer = currentSession.answers[currentQuestionIndex].answer;
+                    wasCorrect = currentSession.answers[currentQuestionIndex].isCorrect;
+                }
+                
+                // Highlight the correct/incorrect options
+                document.querySelectorAll('.option').forEach((option, index) => {
+                    const optionText = option.textContent;
+                    
+                    if (optionText.startsWith(question.answer + ')')) {
+                        // This is the correct answer
+                        option.classList.add('correct');
+                    } else if (previousAnswer && optionText === previousAnswer && !wasCorrect) {
+                        // This is the user's incorrect selection
+                        option.classList.add('incorrect');
+                    } else if (previousAnswer && optionText === previousAnswer && wasCorrect) {
+                        // User selected the correct answer
+                        option.classList.add('user-selected', 'correct');
+                    }
+                });
+                
+                // Show feedback
+                const feedback = document.getElementById('feedback');
+                feedback.innerHTML = `<strong>${wasCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>${question.explanation}`;
+                feedback.className = `feedback ${wasCorrect ? 'correct' : 'incorrect'} show`;
+                feedback.style.display = 'block';
+                
+                // Hide submit button and show next button
+                document.getElementById('submitBtn').style.display = 'none';
+                document.getElementById('nextBtn').style.display = 'inline-block';
+                document.getElementById('nextBtn').disabled = false;
+                
+                selectedAnswer = previousAnswer;
+            } else {
+                // Reset state for unanswered questions
+                selectedAnswer = null;
+                const feedback = document.getElementById('feedback');
+                feedback.classList.remove('show', 'correct', 'incorrect');
+                feedback.style.display = 'none';
+                feedback.innerHTML = '';
+                document.getElementById('submitBtn').disabled = true;
+                document.getElementById('submitBtn').style.display = 'inline-block';
+                document.getElementById('nextBtn').disabled = true;
+                document.getElementById('nextBtn').style.display = 'none';
+            }
+            
             document.getElementById('prevBtn').disabled = currentQuestionIndex === 0;
             
             // Update question counter
