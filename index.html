@@ -2332,12 +2332,16 @@
         }
 
         function showTopicInfo(selectedTopic) {
-            const topicInfo = document.getElementById('topicInfo') || createTopicInfoElement();
-            
-            if (selectedTopic === 'all') {
-                topicInfo.textContent = `📚 Studying all topics (${flashcards.length} cards)`;
-            } else {
-                topicInfo.textContent = `📚 Studying ${selectedTopic} (${flashcards.length} cards)`;
+            try {
+                const topicInfo = document.getElementById('topicInfo') || createTopicInfoElement();
+                
+                if (selectedTopic === 'all') {
+                    topicInfo.textContent = `📚 Studying all topics (${flashcards.length} cards)`;
+                } else {
+                    topicInfo.textContent = `📚 Studying ${selectedTopic} (${flashcards.length} cards)`;
+                }
+            } catch (error) {
+                console.error('Error in showTopicInfo:', error);
             }
         }
 
@@ -2347,7 +2351,13 @@
             topicInfo.style.cssText = 'text-align: center; margin: 10px 0; color: #7f8c8d; font-size: 0.9rem;';
             
             const progressBar = document.querySelector('.progress-bar');
-            progressBar.parentNode.insertBefore(topicInfo, progressBar);
+            if (progressBar && progressBar.parentNode) {
+                progressBar.parentNode.insertBefore(topicInfo, progressBar);
+            } else {
+                // Fallback: append to the main container
+                const mainContainer = document.querySelector('.flashcard-container') || document.body;
+                mainContainer.insertBefore(topicInfo, mainContainer.firstChild);
+            }
             
             return topicInfo;
         }
