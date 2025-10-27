@@ -1847,48 +1847,47 @@
         // Load flashcards from JSON file
         async function loadFlashcards() {
             try {
-                // Try to load smallest file first to test if it's a size issue
-                let response = await fetch('azure-900-flashcards.json');
-                if (!response.ok) {
-                    response = await fetch('azure-900-savill-flashcards.json');
+                // List of flashcard files in order of preference (smallest to largest)
+                const flashcardFiles = [
+                    'azure-900-flashcards.json',
+                    'azure-900-savill-flashcards.json', 
+                    'azure-900-optimized-flashcards.json',
+                    'azure-900-enhanced-flashcards.json',
+                    'azure-900-udemy-practice-test-flashcards.json',
+                    'azure-900-tricky-distractors.json',
+                    'azure-900-udemy-enhanced-flashcards.json',
+                    'azure-900-challenging-flashcards.json',
+                    'azure-900-refined-flashcards.json',
+                    'azure-900-improved-flashcards.json',
+                    'azure-900-comprehensive-flashcards.json',
+                    'azure-900-final-flashcards.json',
+                    'azure-900-randomized-answers-flashcards.json',
+                    'azure-900-ultimate-comprehensive-flashcards.json'
+                ];
+                
+                let response;
+                let fileLoaded = false;
+                
+                // Try each file until one loads successfully
+                for (const filename of flashcardFiles) {
+                    try {
+                        response = await fetch(filename);
+                        if (response.ok) {
+                            flashcards = await response.json();
+                            fileLoaded = true;
+                            console.log(`Successfully loaded flashcards from: ${filename}`);
+                            break;
+                        }
+                    } catch (error) {
+                        console.log(`Failed to load ${filename}:`, error.message);
+                        continue;
+                    }
                 }
-                if (!response.ok) {
-                    response = await fetch('azure-900-optimized-flashcards.json');
+                
+                if (!fileLoaded) {
+                    throw new Error('No flashcard files could be loaded');
                 }
-                if (!response.ok) {
-                    response = await fetch('azure-900-udemy-practice-test-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-ultimate-comprehensive-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-udemy-enhanced-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-challenging-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-refined-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-improved-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-comprehensive-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-optimized-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-enhanced-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-savill-flashcards.json');
-                }
-                if (!response.ok) {
-                    response = await fetch('azure-900-flashcards.json');
-                }
-                flashcards = await response.json();
+                
                 allFlashcards = [...flashcards]; // Store all flashcards for filtering
                 filteredFlashcards = [...flashcards]; // Initialize filtered flashcards
                 flashcardsLoaded = true; // Mark flashcards as loaded
