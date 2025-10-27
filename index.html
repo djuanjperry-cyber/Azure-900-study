@@ -1847,16 +1847,19 @@
         // Load flashcards from JSON file
         async function loadFlashcards() {
             try {
-                // Try to load ultimate comprehensive flashcards first (known working), then fallback to others
-                let response = await fetch('azure-900-ultimate-comprehensive-flashcards.json');
+                // Try to load smallest file first to test if it's a size issue
+                let response = await fetch('azure-900-flashcards.json');
                 if (!response.ok) {
-                    response = await fetch('azure-900-randomized-answers-flashcards.json');
+                    response = await fetch('azure-900-savill-flashcards.json');
+                }
+                if (!response.ok) {
+                    response = await fetch('azure-900-optimized-flashcards.json');
                 }
                 if (!response.ok) {
                     response = await fetch('azure-900-udemy-practice-test-flashcards.json');
                 }
                 if (!response.ok) {
-                    response = await fetch('azure-900-tricky-distractors.json');
+                    response = await fetch('azure-900-ultimate-comprehensive-flashcards.json');
                 }
                 if (!response.ok) {
                     response = await fetch('azure-900-udemy-enhanced-flashcards.json');
