@@ -399,6 +399,8 @@
             const isCorrect = selectedAnswer.startsWith(question.answer + ')');
             
             console.log('Answer is correct:', isCorrect);
+            console.log('Current question index:', currentQuestionIndex);
+            console.log('Total flashcards:', flashcards.length);
             
             // Update counters
             if (isCorrect) {
@@ -435,17 +437,23 @@
             // Show next button
             document.getElementById('submitBtn').style.display = 'none';
             document.getElementById('nextBtn').style.display = 'inline-block';
+            document.getElementById('nextBtn').disabled = false;
             
             console.log('Answer submitted successfully');
+            console.log('Next button should now be visible and enabled');
         }
 
         function nextQuestion() {
             console.log('Moving to next question');
+            console.log('Current index:', currentQuestionIndex);
+            console.log('Flashcards length:', flashcards.length);
             
             if (currentQuestionIndex < flashcards.length - 1) {
                 currentQuestionIndex++;
+                console.log('Moving to question index:', currentQuestionIndex);
                 loadQuestion();
             } else {
+                console.log('Quiz complete!');
                 // Quiz complete
                 const totalAnswered = correctAnswers + incorrectAnswers;
                 const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
