@@ -2381,10 +2381,12 @@
             document.getElementById('accuracy').textContent = accuracy + '%';
         }
 
-        // Initialize the app
-        initializeDarkMode();
-        initializeSound();
-        loadFlashcards();
+        // Initialize the app when DOM is ready
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeDarkMode();
+            initializeSound();
+            loadFlashcards();
+        });
     </script>
 </body>
 </html>
