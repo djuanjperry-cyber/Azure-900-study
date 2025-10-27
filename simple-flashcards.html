@@ -35,44 +35,9 @@
             text-align: center;
         }
 
-        .header-controls {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
-        }
-
         .header h1 {
             font-size: 2.5rem;
-            margin: 0;
-        }
-
-        .sound-toggle {
-            background: rgba(255, 255, 255, 0.2);
-            border: 2px solid rgba(255, 255, 255, 0.3);
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-        }
-
-        .sound-toggle:hover {
-            background: rgba(255, 255, 255, 0.3);
-            transform: scale(1.1);
-        }
-
-        .sound-toggle.muted {
-            opacity: 0.5;
-            background: rgba(255, 255, 255, 0.1);
-        }
-
-        .sound-icon {
-            font-size: 1.5rem;
-            transition: transform 0.3s ease;
+            margin-bottom: 10px;
         }
 
         .stats {
@@ -255,12 +220,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <div class="header-controls">
-                <h1>Azure 900 Flashcards</h1>
-                <button class="sound-toggle" id="soundToggle" onclick="toggleSound()">
-                    <span class="sound-icon">🔊</span>
-                </button>
-            </div>
+            <h1>Azure 900 Flashcards</h1>
             <div class="stats">
                 <div class="stat">
                     <span class="stat-number" id="questionCounter">1</span>
@@ -570,38 +530,8 @@
 
         // Sound Functions
         function initializeSound() {
-            const savedSound = localStorage.getItem('soundEnabled');
-            if (savedSound !== null) {
-                soundEnabled = savedSound === 'true';
-            }
-            
-            // Update sound toggle button appearance
-            const soundToggle = document.getElementById('soundToggle');
-            const soundIcon = soundToggle.querySelector('.sound-icon');
-            
-            if (soundEnabled) {
-                soundToggle.classList.remove('muted');
-                soundIcon.textContent = '🔊';
-            } else {
-                soundToggle.classList.add('muted');
-                soundIcon.textContent = '🔇';
-            }
-        }
-
-        function toggleSound() {
-            soundEnabled = !soundEnabled;
-            localStorage.setItem('soundEnabled', soundEnabled);
-            
-            const soundToggle = document.getElementById('soundToggle');
-            const soundIcon = soundToggle.querySelector('.sound-icon');
-            
-            if (soundEnabled) {
-                soundToggle.classList.remove('muted');
-                soundIcon.textContent = '🔊';
-            } else {
-                soundToggle.classList.add('muted');
-                soundIcon.textContent = '🔇';
-            }
+            // Sounds are always enabled
+            soundEnabled = true;
         }
 
         function playSuccessSound() {
