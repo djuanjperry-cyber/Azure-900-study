@@ -2310,11 +2310,8 @@
             // Update the global flashcards array
             flashcards = [...filteredFlashcards];
             
-            // Reset quiz state
+            // Reset only question index, not the entire quiz state
             currentQuestionIndex = 0;
-            correctAnswers = 0;
-            incorrectAnswers = 0;
-            answeredQuestions.clear();
             
             // Shuffle the filtered flashcards
             shuffleArray(flashcards);
@@ -2322,7 +2319,6 @@
             // Update UI
             updateQuestionCounter();
             updateProgress();
-            updateStats();
             
             // Load the first question
             if (flashcards.length > 0) {
