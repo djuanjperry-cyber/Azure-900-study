@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary benefit of cloud computing's consumption-based model?",
+    "options": [
+      "A) Pay only for what you use, when you use it",
+      "B) Requires long-term contracts",
+      "C) Higher upfront capital investment",
+      "D) Fixed monthly costs regardless of usage"
+    ],
+    "answer": "A",
+    "explanation": "Consumption-based pricing means you pay only for the resources you actually consume, providing cost flexibility and eliminating waste. This is a core advantage of cloud computing over traditional CapEx models.",
+    "category": "Cloud Concepts"
+  },
+  {
+    "id": 2,
+    "question": "Which Azure service provides the highest level of availability and fault tolerance?",
+    "options": [
+      "A) Multi-region deployment with region pairs",
+      "B) Single region deployment",
+      "C) On-premises data center",
+      "D) Single Availability Zone deployment"
+    ],
+    "answer": "A",
+    "explanation": "Multi-region deployment with region pairs provides the highest availability by distributing resources across geographically separated regions, ensuring business continuity even during regional disasters.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary purpose of Azure Resource Manager (ARM)?",
+    "options": [
+      "A) Managing individual virtual machines",
+      "B) Monitoring network traffic",
+      "C) Providing a unified management layer for Azure resources",
+      "D) Storing application data"
+    ],
+    "answer": "C",
+    "explanation": "ARM provides a unified management layer that enables you to deploy, manage, and monitor Azure resources as a group rather than individually, simplifying resource organization and management.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 4,
+    "question": "Which Azure service is best for hosting a web application that needs to scale automatically based on demand?",
+    "options": [
+      "A) Azure App Service",
+      "B) Azure Virtual Machines",
+      "C) Azure SQL Database",
+      "D) Azure Storage Account"
+    ],
+    "answer": "A",
+    "explanation": "Azure App Service is a Platform-as-a-Service (PaaS) offering that provides automatic scaling, built-in load balancing, and managed infrastructure, making it ideal for web applications that need to handle variable traffic.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 5,
+    "question": "What is the main advantage of using Azure Availability Zones?",
+    "options": [
+      "A) Lower cost compared to single region deployment",
+      "B) Simplified management interface",
+      "C) Faster data transfer speeds",
+      "D) Protection against data center failures within a region"
+    ],
+    "answer": "D",
+    "explanation": "Availability Zones are physically separate data centers within a region that provide protection against data center failures, power outages, and network issues while maintaining low latency.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 6,
+    "question": "Which Azure service provides centralized identity and access management?",
+    "options": [
+      "A) Azure Key Vault",
+      "B) Azure Security Center",
+      "C) Azure Monitor",
+      "D) Azure Active Directory"
+    ],
+    "answer": "D",
+    "explanation": "Azure Active Directory (now Microsoft Entra ID) provides centralized identity and access management, including single sign-on, multi-factor authentication, and conditional access policies.",
+    "category": "Security"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary benefit of Infrastructure as a Service (IaaS)?",
+    "options": [
+      "A) No need for IT expertise",
+      "B) Complete application management",
+      "C) Full control over the operating system and infrastructure",
+      "D) Automatic scaling without configuration"
+    ],
+    "answer": "C",
+    "explanation": "IaaS provides the highest level of control, allowing you to manage the operating system, middleware, and applications while Azure manages the physical infrastructure.",
+    "category": "Cloud Concepts"
+  },
+  {
+    "id": 8,
+    "question": "Which Azure service is used for storing and managing secrets, keys, and certificates?",
+    "options": [
+      "A) Azure Monitor",
+      "B) Azure Key Vault",
+      "C) Azure Security Center",
+      "D) Azure Storage Account"
+    ],
+    "answer": "B",
+    "explanation": "Azure Key Vault is a cloud service for securely storing and accessing secrets, encryption keys, and certificates, providing centralized secret management with access logging and monitoring.",
+    "category": "Security"
+  },
+  {
+    "id": 9,
+    "question": "What is the main purpose of Azure Resource Groups?",
+    "options": [
+      "A) Organizing resources for billing purposes",
+      "B) Providing logical grouping and management of Azure resources",
+      "C) Creating virtual networks",
+      "D) Managing user permissions"
+    ],
+    "answer": "B",
+    "explanation": "Resource Groups provide logical containers for Azure resources, enabling you to group related resources together for easier management, deployment, and monitoring.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 10,
+    "question": "Which Azure service provides real-time monitoring and alerting capabilities?",
+    "options": [
+      "A) Azure Security Center",
+      "B) Azure Advisor",
+      "C) Azure Monitor",
+      "D) Azure Service Health"
+    ],
+    "answer": "C",
+    "explanation": "Azure Monitor provides comprehensive monitoring, alerting, and analytics for Azure resources and applications, enabling proactive issue detection and performance optimization.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 11,
+    "question": "What is the primary advantage of Platform as a Service (PaaS)?",
+    "options": [
+      "A) Lowest cost option",
+      "B) Full control over the operating system",
+      "C) Complete customization of hardware",
+      "D) Focus on application development without infrastructure management"
+    ],
+    "answer": "D",
+    "explanation": "PaaS allows developers to focus on application development and deployment without worrying about underlying infrastructure management, operating systems, or middleware.",
+    "category": "Cloud Concepts"
+  },
+  {
+    "id": 12,
+    "question": "Which Azure service provides DDoS protection for web applications?",
+    "options": [
+      "A) Azure Firewall",
+      "B) Azure Security Center",
+      "C) Network Security Groups (NSGs)",
+      "D) Azure DDoS Protection"
+    ],
+    "answer": "D",
+    "explanation": "Azure DDoS Protection provides protection against Distributed Denial of Service attacks, automatically mitigating attacks and providing detailed attack analytics.",
+    "category": "Security"
+  },
+  {
+    "id": 13,
+    "question": "What is the main benefit of using Azure Functions?",
+    "options": [
+      "A) Event-driven, serverless compute execution",
+      "B) Persistent server management",
+      "C) Complete control over runtime environment",
+      "D) Fixed pricing regardless of usage"
+    ],
+    "answer": "A",
+    "explanation": "Azure Functions provide event-driven, serverless compute that automatically scales and charges only for execution time, eliminating the need for server management.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 14,
+    "question": "Which Azure service provides centralized policy management and compliance monitoring?",
+    "options": [
+      "A) Azure Advisor",
+      "B) Azure Policy",
+      "C) Azure Monitor",
+      "D) Azure Resource Manager"
+    ],
+    "answer": "B",
+    "explanation": "Azure Policy enables you to create, assign, and manage policies that enforce organizational standards and compliance requirements across Azure resources.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 15,
+    "question": "What is the primary purpose of Azure Arc?",
+    "options": [
+      "A) Managing on-premises resources from Azure",
+      "B) Creating virtual networks",
+      "C) Monitoring network performance",
+      "D) Storing application data"
+    ],
+    "answer": "A",
+    "explanation": "Azure Arc extends Azure management capabilities to on-premises and multi-cloud environments, providing unified governance and management across hybrid infrastructure.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 16,
+    "question": "Which Azure service provides automated security recommendations and threat protection?",
+    "options": [
+      "A) Microsoft Defender for Cloud",
+      "B) Azure Monitor",
+      "C) Azure Key Vault",
+      "D) Azure Security Center"
+    ],
+    "answer": "A",
+    "explanation": "Microsoft Defender for Cloud (formerly Azure Security Center) provides unified security management, threat protection, and security recommendations across hybrid cloud workloads.",
+    "category": "Security"
+  },
+  {
+    "id": 17,
+    "question": "What is the main advantage of using Azure Blob Storage for data archiving?",
+    "options": [
+      "A) Cost-effective long-term storage with tiered access",
+      "B) Interactive data analytics",
+      "C) High-performance computing",
+      "D) Real-time data processing"
+    ],
+    "answer": "A",
+    "explanation": "Azure Blob Storage offers cost-effective archival storage with access tiers (Hot, Cool, Archive) that optimize costs based on access frequency and retention requirements.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 18,
+    "question": "Which Azure service provides centralized logging and log analytics?",
+    "options": [
+      "A) Azure Storage Account",
+      "B) Azure Key Vault",
+      "C) Azure Resource Manager",
+      "D) Azure Monitor Logs"
+    ],
+    "answer": "D",
+    "explanation": "Azure Monitor Logs (Log Analytics) provides centralized logging, log analytics, and querying capabilities for Azure and hybrid cloud environments.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 19,
+    "question": "What is the primary benefit of using Azure Virtual Network (VNet)?",
+    "options": [
+      "A) Data encryption at rest",
+      "B) Secure communication between Azure resources",
+      "C) User authentication and authorization",
+      "D) Automatic scaling of applications"
+    ],
+    "answer": "B",
+    "explanation": "Azure Virtual Network provides secure, isolated network environments for Azure resources, enabling private communication and network segmentation.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 20,
+    "question": "Which Azure service provides automated cost optimization recommendations?",
+    "options": [
+      "A) Azure Monitor",
+      "B) Azure Resource Manager",
+      "C) Azure Cost Management",
+      "D) Azure Advisor"
+    ],
+    "answer": "D",
+    "explanation": "Azure Advisor analyzes your Azure usage and provides personalized recommendations to optimize costs, security, performance, and reliability.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 21,
+    "question": "What is the main purpose of Azure Service Level Agreements (SLAs)?",
+    "options": [
+      "A) Defining pricing structures",
+      "B) Creating resource groups",
+      "C) Guaranteeing service availability and performance",
+      "D) Managing user permissions"
+    ],
+    "answer": "C",
+    "explanation": "SLAs define Microsoft's commitment to service availability, performance, and support, providing guarantees and remedies when services don't meet specified levels.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 22,
+    "question": "Which Azure service provides managed database services with automatic scaling?",
+    "options": [
+      "A) Azure App Service",
+      "B) Azure Storage Account",
+      "C) Azure Virtual Machines",
+      "D) Azure SQL Database"
+    ],
+    "answer": "D",
+    "explanation": "Azure SQL Database is a fully managed relational database service that provides automatic scaling, high availability, and built-in security features.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 23,
+    "question": "What is the primary advantage of using Azure Container Instances?",
+    "options": [
+      "A) Complex container networking",
+      "B) Persistent storage management",
+      "C) Long-running container management",
+      "D) Quick container deployment without orchestration"
+    ],
+    "answer": "D",
+    "explanation": "Azure Container Instances provide the fastest way to run containers in Azure without managing virtual machines or orchestration platforms, ideal for simple containerized applications.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 24,
+    "question": "Which Azure service provides centralized security policy management and compliance monitoring?",
+    "options": [
+      "A) Azure Policy",
+      "B) Azure Key Vault",
+      "C) Azure Monitor",
+      "D) Azure Security Center"
+    ],
+    "answer": "A",
+    "explanation": "Azure Policy enables organizations to create, assign, and manage policies that enforce compliance standards and organizational requirements across Azure resources.",
+    "category": "Security"
+  },
+  {
+    "id": 25,
+    "question": "What is the main benefit of using Azure ExpressRoute?",
+    "options": [
+      "A) Public internet connectivity",
+      "B) Automatic load balancing",
+      "C) Private, dedicated connection to Azure",
+      "D) Real-time data processing"
+    ],
+    "answer": "C",
+    "explanation": "Azure ExpressRoute provides private, dedicated connections to Azure datacenters, offering higher security, reliability, and performance compared to internet-based connections.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 26,
+    "question": "Which Azure service provides automated backup and disaster recovery for virtual machines?",
+    "options": [
+      "A) Azure Monitor",
+      "B) Azure Site Recovery",
+      "C) Azure Backup",
+      "D) Azure Storage Account"
+    ],
+    "answer": "C",
+    "explanation": "Azure Backup provides automated backup services for Azure VMs, on-premises servers, and Azure file shares, ensuring data protection and recovery capabilities.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 27,
+    "question": "What is the primary purpose of Azure Resource Locks?",
+    "options": [
+      "A) Creating resource groups",
+      "B) Preventing accidental deletion or modification of resources",
+      "C) Monitoring resource performance",
+      "D) Managing user access"
+    ],
+    "answer": "B",
+    "explanation": "Resource Locks prevent accidental deletion or modification of critical Azure resources, providing an additional layer of protection beyond RBAC permissions.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 28,
+    "question": "Which Azure service provides AI-powered threat detection and response?",
+    "options": [
+      "A) Microsoft Sentinel",
+      "B) Azure Monitor",
+      "C) Azure Key Vault",
+      "D) Azure Security Center"
+    ],
+    "answer": "A",
+    "explanation": "Microsoft Sentinel is a cloud-native Security Information and Event Management (SIEM) solution that provides AI-powered threat detection, investigation, and response capabilities.",
+    "category": "Security"
+  },
+  {
+    "id": 29,
+    "question": "What is the main advantage of using Azure DevOps?",
+    "options": [
+      "A) Database management",
+      "B) Network security",
+      "C) Storage optimization",
+      "D) Integrated development and deployment pipeline"
+    ],
+    "answer": "D",
+    "explanation": "Azure DevOps provides integrated tools for planning, developing, testing, and deploying applications, enabling continuous integration and continuous deployment (CI/CD) pipelines.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 30,
+    "question": "Which Azure service provides centralized identity management for external users?",
+    "options": [
+      "A) Azure Monitor",
+      "B) Azure Security Center",
+      "C) Azure Key Vault",
+      "D) Azure Active Directory B2C"
+    ],
+    "answer": "D",
+    "explanation": "Azure Active Directory B2C provides identity and access management for customer-facing applications, enabling secure authentication and authorization for external users.",
+    "category": "Security"
+  },
+  {
+    "id": 31,
+    "question": "What is the primary benefit of using Azure Load Balancer?",
+    "options": [
+      "A) Data encryption",
+      "B) Distributing incoming traffic across multiple resources",
+      "C) Backup management",
+      "D) User authentication"
+    ],
+    "answer": "B",
+    "explanation": "Azure Load Balancer distributes incoming traffic across multiple backend resources, ensuring high availability and improved performance for applications.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 32,
+    "question": "Which Azure service provides automated compliance reporting and governance?",
+    "options": [
+      "A) Azure Resource Manager",
+      "B) Azure Monitor",
+      "C) Azure Policy",
+      "D) Azure Blueprints"
+    ],
+    "answer": "D",
+    "explanation": "Azure Blueprints enable organizations to define and deploy compliant environments with pre-configured resources, policies, and governance controls.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 33,
+    "question": "What is the main purpose of Azure Application Gateway?",
+    "options": [
+      "A) User authentication",
+      "B) Database management",
+      "C) Data encryption",
+      "D) Web application load balancing with SSL termination"
+    ],
+    "answer": "D",
+    "explanation": "Azure Application Gateway provides web application load balancing with SSL termination, URL-based routing, and web application firewall capabilities.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 34,
+    "question": "Which Azure service provides centralized monitoring and alerting for hybrid environments?",
+    "options": [
+      "A) Azure Monitor",
+      "B) Azure Key Vault",
+      "C) Azure Security Center",
+      "D) Azure Resource Manager"
+    ],
+    "answer": "A",
+    "explanation": "Azure Monitor provides comprehensive monitoring, alerting, and analytics for Azure and hybrid cloud environments, enabling proactive issue detection and performance optimization.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 35,
+    "question": "What is the primary advantage of using Azure Cosmos DB?",
+    "options": [
+      "A) Globally distributed, multi-model database with automatic scaling",
+      "B) Fixed pricing model",
+      "C) Single region availability",
+      "D) On-premises deployment only"
+    ],
+    "answer": "A",
+    "explanation": "Azure Cosmos DB is a globally distributed, multi-model database service that provides automatic scaling, low latency, and high availability across multiple regions.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 36,
+    "question": "Which Azure service provides automated security posture management?",
+    "options": [
+      "A) Azure Resource Manager",
+      "B) Microsoft Defender for Cloud",
+      "C) Azure Key Vault",
+      "D) Azure Monitor"
+    ],
+    "answer": "B",
+    "explanation": "Microsoft Defender for Cloud provides continuous security posture management, threat protection, and security recommendations across hybrid cloud workloads.",
+    "category": "Security"
+  },
+  {
+    "id": 37,
+    "question": "What is the main benefit of using Azure Traffic Manager?",
+    "options": [
+      "A) Global traffic distribution and failover",
+      "B) Local load balancing",
+      "C) Database optimization",
+      "D) User authentication"
+    ],
+    "answer": "A",
+    "explanation": "Azure Traffic Manager provides global traffic distribution and automatic failover across multiple Azure regions, ensuring high availability and optimal performance for global applications.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 38,
+    "question": "Which Azure service provides centralized secret management with access logging?",
+    "options": [
+      "A) Azure Storage Account",
+      "B) Azure Monitor",
+      "C) Azure Security Center",
+      "D) Azure Key Vault"
+    ],
+    "answer": "D",
+    "explanation": "Azure Key Vault provides centralized secret management with comprehensive access logging, monitoring, and audit capabilities for keys, secrets, and certificates.",
+    "category": "Security"
+  },
+  {
+    "id": 39,
+    "question": "What is the primary purpose of Azure Service Health?",
+    "options": [
+      "A) Managing user permissions",
+      "B) Monitoring Azure service status and outages",
+      "C) Data encryption",
+      "D) Creating resource groups"
+    ],
+    "answer": "B",
+    "explanation": "Azure Service Health provides personalized information about Azure service status, planned maintenance, and service outages that may affect your resources.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 40,
+    "question": "Which Azure service provides automated cost management and optimization?",
+    "options": [
+      "A) Azure Resource Manager",
+      "B) Azure Monitor",
+      "C) Azure Cost Management",
+      "D) Azure Advisor"
+    ],
+    "answer": "C",
+    "explanation": "Azure Cost Management provides tools for monitoring, analyzing, and optimizing Azure spending, including budget alerts and cost allocation capabilities.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 41,
+    "question": "What is the main advantage of using Azure Virtual Machine Scale Sets?",
+    "options": [
+      "A) Manual scaling only",
+      "B) Fixed capacity management",
+      "C) Single VM deployment",
+      "D) Automatic scaling of identical virtual machines"
+    ],
+    "answer": "D",
+    "explanation": "Virtual Machine Scale Sets provide automatic scaling of identical VMs based on demand, ensuring optimal performance and cost efficiency for applications.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 42,
+    "question": "Which Azure service provides centralized logging and log analytics for hybrid environments?",
+    "options": [
+      "A) Azure Key Vault",
+      "B) Azure Storage Account",
+      "C) Azure Monitor Logs",
+      "D) Azure Resource Manager"
+    ],
+    "answer": "C",
+    "explanation": "Azure Monitor Logs (Log Analytics) provides centralized logging and log analytics capabilities for Azure and hybrid cloud environments, enabling comprehensive monitoring and troubleshooting.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 43,
+    "question": "What is the primary benefit of using Azure Front Door?",
+    "options": [
+      "A) Global content delivery and acceleration",
+      "B) Data encryption",
+      "C) Database management",
+      "D) User authentication"
+    ],
+    "answer": "A",
+    "explanation": "Azure Front Door provides global content delivery network (CDN) capabilities with intelligent routing, SSL termination, and DDoS protection for web applications.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 44,
+    "question": "Which Azure service provides automated compliance and governance across environments?",
+    "options": [
+      "A) Azure Blueprints",
+      "B) Azure Monitor",
+      "C) Azure Resource Manager",
+      "D) Azure Policy"
+    ],
+    "answer": "D",
+    "explanation": "Azure Policy enables organizations to create, assign, and manage policies that enforce compliance standards and organizational requirements across Azure resources.",
+    "category": "Azure Management"
+  },
+  {
+    "id": 45,
+    "question": "What is the main purpose of Azure Dedicated Hosts?",
+    "options": [
+      "A) Database management",
+      "B) Public cloud services",
+      "C) Shared hosting environment",
+      "D) Physical server dedicated to your organization"
+    ],
+    "answer": "D",
+    "explanation": "Azure Dedicated Hosts provide physical servers dedicated to your organization, enabling compliance with regulatory requirements and complete control over the server infrastructure.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 46,
+    "question": "Which Azure service provides centralized identity and access management for organizations?",
+    "options": [
+      "A) Azure Active Directory",
+      "B) Azure Monitor",
+      "C) Azure Security Center",
+      "D) Azure Key Vault"
+    ],
+    "answer": "A",
+    "explanation": "Azure Active Directory (Microsoft Entra ID) provides centralized identity and access management, including single sign-on, multi-factor authentication, and conditional access policies.",
+    "category": "Security"
+  },
+  {
+    "id": 47,
+    "question": "What is the primary advantage of using Azure Container Apps?",
+    "options": [
+      "A) On-premises deployment only",
+      "B) Serverless container platform with automatic scaling",
+      "C) Fixed pricing regardless of usage",
+      "D) Manual container orchestration"
+    ],
+    "answer": "B",
+    "explanation": "Azure Container Apps provides a serverless container platform that automatically scales based on demand, eliminating the need for container orchestration management.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 48,
+    "question": "Which Azure service provides automated security recommendations and threat protection?",
+    "options": [
+      "A) Microsoft Defender for Cloud",
+      "B) Azure Resource Manager",
+      "C) Azure Key Vault",
+      "D) Azure Monitor"
+    ],
+    "answer": "A",
+    "explanation": "Microsoft Defender for Cloud provides unified security management, threat protection, and automated security recommendations across hybrid cloud workloads.",
+    "category": "Security"
+  },
+  {
+    "id": 49,
+    "question": "What is the main benefit of using Azure Event Grid?",
+    "options": [
+      "A) Data encryption",
+      "B) User authentication",
+      "C) Event-driven architecture with serverless event routing",
+      "D) Database management"
+    ],
+    "answer": "C",
+    "explanation": "Azure Event Grid provides event-driven architecture capabilities with serverless event routing, enabling reactive applications and microservices communication.",
+    "category": "Core Azure Services"
+  },
+  {
+    "id": 50,
+    "question": "Which Azure service provides centralized policy management and compliance monitoring?",
+    "options": [
+      "A) Azure Policy",
+      "B) Azure Resource Manager",
+      "C) Azure Monitor",
+      "D) Azure Advisor"
+    ],
+    "answer": "A",
+    "explanation": "Azure Policy enables organizations to create, assign, and manage policies that enforce compliance standards and organizational requirements across Azure resources.",
+    "category": "Azure Management"
+  }
+]
