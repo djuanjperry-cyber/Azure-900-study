@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azure 900 Flashcards - Simple Version</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        .flashcard {
+            padding: 40px;
+        }
+
+        .question {
+            font-size: 1.3rem;
+            margin-bottom: 30px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .category {
+            background: #f8f9fa;
+            color: #6c757d;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        .options {
+            list-style: none;
+        }
+
+        .option {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            padding: 15px 20px;
+            margin-bottom: 15px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .option:hover {
+            background: #e9ecef;
+            border-color: #667eea;
+        }
+
+        .option.selected {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .option.correct {
+            background: #28a745;
+            color: white;
+            border-color: #28a745;
+        }
+
+        .option.incorrect {
+            background: #dc3545;
+            color: white;
+            border-color: #dc3545;
+        }
+
+        .feedback {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            border-left: 4px solid #667eea;
+        }
+
+        .feedback.correct {
+            border-left-color: #28a745;
+            background: #d4edda;
+        }
+
+        .feedback.incorrect {
+            border-left-color: #dc3545;
+            background: #f8d7da;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px 40px;
+            background: #f8f9fa;
+        }
+
+        .btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.3s ease;
+        }
+
+        .btn:hover {
+            background: #5a6fd8;
+        }
+
+        .btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        .btn.submit {
+            background: #28a745;
+        }
+
+        .btn.submit:hover {
+            background: #218838;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2rem;
+            color: #6c757d;
+        }
+
+        .error {
+            text-align: center;
+            padding: 40px;
+            color: #dc3545;
+            background: #f8d7da;
+            margin: 20px;
+            border-radius: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .flashcard {
+                padding: 20px;
+            }
+            
+            .question {
+                font-size: 1.1rem;
+            }
+            
+            .controls {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Azure 900 Flashcards</h1>
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number" id="questionCounter">1</span>
+                    <span class="stat-label">Question</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="correctCount">0</span>
+                    <span class="stat-label">Correct</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="incorrectCount">0</span>
+                    <span class="stat-label">Incorrect</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="loadingMessage" class="loading">
+            Loading flashcards...
+        </div>
+
+        <div id="errorMessage" class="error" style="display: none;">
+            Error loading flashcards. Please refresh the page.
+        </div>
+
+        <div id="flashcardContent" style="display: none;">
+            <div class="flashcard">
+                <div class="category" id="categoryTag">Category</div>
+                <div class="question" id="questionText">Question will appear here</div>
+                <ul class="options" id="optionsList"></ul>
+                <div class="feedback" id="feedback" style="display: none;"></div>
+            </div>
+            
+            <div class="controls">
+                <button class="btn" id="prevBtn" onclick="previousQuestion()">← Previous</button>
+                <button class="btn submit" id="submitBtn" onclick="submitAnswer()" disabled>Submit Answer</button>
+                <button class="btn" id="nextBtn" onclick="nextQuestion()" style="display: none;">Next →</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let flashcards = [];
+        let currentQuestionIndex = 0;
+        let selectedAnswer = null;
+        let correctAnswers = 0;
+        let incorrectAnswers = 0;
+
+        // Load flashcards when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            loadFlashcards();
+        });
+
+        async function loadFlashcards() {
+            try {
+                console.log('Loading flashcards...');
+                
+                // Try to load the smallest file first
+                const files = [
+                    'azure-900-flashcards.json',
+                    'azure-900-savill-flashcards.json',
+                    'azure-900-optimized-flashcards.json',
+                    'azure-900-enhanced-flashcards.json'
+                ];
+                
+                let loaded = false;
+                for (const file of files) {
+                    try {
+                        const response = await fetch(file);
+                        if (response.ok) {
+                            flashcards = await response.json();
+                            console.log(`Loaded ${flashcards.length} flashcards from ${file}`);
+                            loaded = true;
+                            break;
+                        }
+                    } catch (error) {
+                        console.log(`Failed to load ${file}:`, error.message);
+                    }
+                }
+                
+                if (!loaded) {
+                    throw new Error('No flashcard files could be loaded');
+                }
+                
+                // Hide loading message and show content
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('flashcardContent').style.display = 'block';
+                
+                // Shuffle flashcards
+                shuffleArray(flashcards);
+                
+                // Load first question
+                loadQuestion();
+                
+            } catch (error) {
+                console.error('Error loading flashcards:', error);
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('errorMessage').style.display = 'block';
+            }
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        function loadQuestion() {
+            if (flashcards.length === 0) return;
+            
+            const question = flashcards[currentQuestionIndex];
+            
+            // Update question text and category
+            document.getElementById('questionText').textContent = question.question;
+            document.getElementById('categoryTag').textContent = question.category;
+            
+            // Clear previous options
+            const optionsList = document.getElementById('optionsList');
+            optionsList.innerHTML = '';
+            
+            // Create option elements
+            question.options.forEach((option, index) => {
+                const li = document.createElement('li');
+                li.className = 'option';
+                li.textContent = option;
+                li.onclick = () => selectAnswer(option, index);
+                optionsList.appendChild(li);
+            });
+            
+            // Reset state
+            selectedAnswer = null;
+            document.getElementById('feedback').style.display = 'none';
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('nextBtn').style.display = 'none';
+            document.getElementById('prevBtn').disabled = currentQuestionIndex === 0;
+            
+            // Update question counter
+            document.getElementById('questionCounter').textContent = currentQuestionIndex + 1;
+        }
+
+        function selectAnswer(option, index) {
+            // Remove previous selection
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.classList.remove('selected');
+            });
+            
+            // Add selection to clicked option
+            document.querySelectorAll('.option')[index].classList.add('selected');
+            
+            selectedAnswer = option;
+            document.getElementById('submitBtn').disabled = false;
+        }
+
+        function submitAnswer() {
+            if (!selectedAnswer) return;
+            
+            const question = flashcards[currentQuestionIndex];
+            const isCorrect = selectedAnswer.startsWith(question.answer + ')');
+            
+            // Update counters
+            if (isCorrect) {
+                correctAnswers++;
+            } else {
+                incorrectAnswers++;
+            }
+            
+            // Show feedback
+            const feedback = document.getElementById('feedback');
+            feedback.innerHTML = `
+                <strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>
+                ${question.explanation}
+            `;
+            feedback.className = `feedback ${isCorrect ? 'correct' : 'incorrect'}`;
+            feedback.style.display = 'block';
+            
+            // Highlight correct/incorrect options
+            document.querySelectorAll('.option').forEach((option, index) => {
+                const optionText = option.textContent;
+                option.onclick = null; // Disable further clicks
+                
+                if (optionText.startsWith(question.answer + ')')) {
+                    option.classList.add('correct');
+                } else if (optionText === selectedAnswer && !isCorrect) {
+                    option.classList.add('incorrect');
+                }
+            });
+            
+            // Update stats
+            document.getElementById('correctCount').textContent = correctAnswers;
+            document.getElementById('incorrectCount').textContent = incorrectAnswers;
+            
+            // Show next button
+            document.getElementById('submitBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+        }
+
+        function nextQuestion() {
+            if (currentQuestionIndex < flashcards.length - 1) {
+                currentQuestionIndex++;
+                loadQuestion();
+            } else {
+                // Quiz complete
+                alert(`Quiz Complete!\n\nCorrect: ${correctAnswers}\nIncorrect: ${incorrectAnswers}\n\nAccuracy: ${Math.round((correctAnswers / (correctAnswers + incorrectAnswers)) * 100)}%`);
+            }
+        }
+
+        function previousQuestion() {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                loadQuestion();
+            }
+        }
+    </script>
+</body>
+</html>
