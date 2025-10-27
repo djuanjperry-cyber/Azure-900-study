@@ -1289,7 +1289,7 @@
         <div class="header-controls">
             <div class="topic-selector">
                 <label for="topicFilter">📚 Study by Topic:</label>
-                <select id="topicFilter">
+                <select id="topicFilter" disabled>
                     <option value="all">All Topics</option>
                     <option value="Cloud Concepts">Cloud Concepts</option>
                     <option value="Azure Architecture and Services">Azure Architecture & Services</option>
@@ -1890,8 +1890,14 @@
                 filteredFlashcards = [...flashcards]; // Initialize filtered flashcards
                 flashcardsLoaded = true; // Mark flashcards as loaded
                 
-                // Add event listener for topic filter now that flashcards are loaded
-                document.getElementById('topicFilter').addEventListener('change', filterByTopic);
+                // Enable topic filter and add event listener now that flashcards are loaded
+                const topicFilter = document.getElementById('topicFilter');
+                if (topicFilter) {
+                    topicFilter.disabled = false; // Enable the dropdown
+                    topicFilter.addEventListener('change', filterByTopic);
+                } else {
+                    console.error('Topic filter element not found');
+                }
                 
                 // Randomize the flashcards array every time
                 shuffleArray(flashcards);
