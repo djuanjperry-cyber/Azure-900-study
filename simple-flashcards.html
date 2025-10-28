@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azure 900 Flashcards - Simple Version</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #2c3e50;
+            color: #ecf0f1;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        .flashcard {
+            padding: 40px;
+            background: #2c3e50;
+        }
+
+        .question {
+            font-size: 1.3rem;
+            margin-bottom: 30px;
+            line-height: 1.6;
+            color: #ecf0f1;
+        }
+
+        .category {
+            background: #34495e;
+            color: #bdc3c7;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        .options {
+            list-style: none;
+        }
+
+        .option {
+            background: #34495e;
+            border: 2px solid #4a6741;
+            border-radius: 10px;
+            padding: 15px 20px;
+            margin-bottom: 15px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            color: #ecf0f1;
+            touch-action: manipulation;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .option:hover {
+            background: #4a6741;
+            border-color: #5a6fd8;
+        }
+
+        .option.selected {
+            background: #5a6fd8;
+            color: white;
+            border-color: #5a6fd8;
+        }
+
+        .option.correct {
+            background: #27ae60;
+            color: white;
+            border-color: #27ae60;
+        }
+
+        .option.incorrect {
+            background: #e74c3c;
+            color: white;
+            border-color: #e74c3c;
+        }
+
+        .feedback {
+            background: #34495e;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            border-left: 4px solid #5a6fd8;
+            color: #ecf0f1;
+        }
+
+        .feedback.correct {
+            border-left-color: #27ae60;
+            background: #27ae60;
+        }
+
+        .feedback.incorrect {
+            border-left-color: #e74c3c;
+            background: #e74c3c;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px 40px;
+            background: #34495e;
+        }
+
+        .btn {
+            background: #5a6fd8;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.3s ease;
+            touch-action: manipulation;
+            -webkit-tap-highlight-color: transparent;
+            min-height: 44px;
+        }
+
+        .btn:hover {
+            background: #667eea;
+        }
+
+        .btn:disabled {
+            background: #7f8c8d;
+            cursor: not-allowed;
+            opacity: 0.6;
+        }
+
+        .btn:disabled:hover {
+            background: #7f8c8d;
+            transform: none;
+        }
+
+        .btn.submit {
+            background: #27ae60;
+        }
+
+        .btn.submit:hover {
+            background: #2ecc71;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2rem;
+            color: #bdc3c7;
+        }
+
+        .error {
+            text-align: center;
+            padding: 40px;
+            color: white;
+            background: #e74c3c;
+            margin: 20px;
+            border-radius: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            
+            .header h1 {
+                font-size: 1.8rem;
+                margin-bottom: 15px;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 10px;
+                margin-bottom: 20px;
+            }
+            
+            .stat {
+                padding: 8px 12px;
+                min-width: 60px;
+            }
+            
+            .stat-number {
+                font-size: 1.5rem;
+            }
+            
+            .stat-label {
+                font-size: 0.8rem;
+            }
+            
+            .flashcard {
+                padding: 20px 15px;
+                margin: 10px 0;
+            }
+            
+            .question {
+                font-size: 1.1rem;
+                line-height: 1.5;
+                margin-bottom: 25px;
+            }
+            
+            .category {
+                font-size: 0.8rem;
+                padding: 6px 12px;
+                margin-bottom: 20px;
+            }
+            
+            .options {
+                gap: 12px;
+            }
+            
+            .option {
+                padding: 15px 12px;
+                font-size: 0.95rem;
+                min-height: 50px;
+                display: flex;
+                align-items: center;
+            }
+            
+            .controls {
+                flex-direction: column;
+                gap: 12px;
+                margin-top: 25px;
+            }
+            
+            .btn {
+                padding: 12px 20px;
+                font-size: 1rem;
+                min-height: 48px;
+                width: 100%;
+            }
+            
+            .feedback {
+                padding: 15px;
+                margin: 15px 0;
+                font-size: 0.95rem;
+                line-height: 1.5;
+            }
+            
+            .completion-message {
+                padding: 20px 15px;
+            }
+            
+            .completion-message h2 {
+                font-size: 1.5rem;
+            }
+            
+            .performance-stats {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+            
+            .performance-category {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Azure 900 Flashcards</h1>
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number" id="questionCounter">1</span>
+                    <span class="stat-label">Current</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="answeredCount">0</span>
+                    <span class="stat-label">Answered</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="remainingCount">0</span>
+                    <span class="stat-label">Remaining</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="accuracyPercent">0%</span>
+                    <span class="stat-label">Accuracy</span>
+                </div>
+            </div>
+        </div>
+
+        <div id="loadingMessage" class="loading">
+            Loading flashcards...
+        </div>
+
+        <div id="errorMessage" class="error" style="display: none;">
+            Error loading flashcards. Please refresh the page.
+        </div>
+
+        <div id="flashcardContent" style="display: none;">
+            <div class="flashcard">
+                <div class="category" id="categoryTag">Category</div>
+                <div class="question" id="questionText">Question will appear here</div>
+                <ul class="options" id="optionsList"></ul>
+                <div class="feedback" id="feedback" style="display: none;"></div>
+            </div>
+            
+            <div class="controls">
+                <button class="btn" id="prevBtn">← Previous</button>
+                <button class="btn submit" id="submitBtn" disabled>Submit Answer</button>
+                <button class="btn" id="nextBtn" style="display: none;">Next →</button>
+                <button class="btn btn-secondary" id="randomizeBtn" onclick="randomizeQuestions()">🎲 Randomize</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let flashcards = [];
+        let currentQuestionIndex = 0;
+        let selectedAnswer = null;
+        let correctAnswers = 0;
+        let incorrectAnswers = 0;
+        let answeredQuestions = new Set();
+        let sessionStartTime = null;
+        let currentSession = null;
+        let soundEnabled = true;
+        let allFlashcards = []; // Store all 90 questions
+        let currentFlashcards = []; // Current 45 questions being used
+
+        // Randomize questions - select 45 random questions from the full pool
+        function randomizeQuestions() {
+            if (allFlashcards.length === 0) {
+                console.log('No flashcards loaded yet');
+                return;
+            }
+            
+            // Shuffle all flashcards and take first 45
+            const shuffled = [...allFlashcards];
+            for (let i = shuffled.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+            }
+            
+            currentFlashcards = shuffled.slice(0, 45);
+            flashcards = currentFlashcards; // Update the global flashcards array
+            
+            // Reset to first question
+            currentQuestionIndex = 0;
+            correctAnswers = 0;
+            incorrectAnswers = 0;
+            answeredQuestions.clear();
+            
+            // Reset UI
+            document.getElementById('feedback').style.display = 'none';
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('nextBtn').style.display = 'none';
+            
+            loadQuestion();
+            updateStats();
+            
+            // Show confirmation
+            const randomizeBtn = document.getElementById('randomizeBtn');
+            const originalText = randomizeBtn.textContent;
+            randomizeBtn.textContent = '✓ Randomized!';
+            randomizeBtn.style.background = '#28a745';
+            
+            setTimeout(() => {
+                randomizeBtn.textContent = originalText;
+                randomizeBtn.style.background = '#666';
+            }, 1500);
+        }
+
+        // Load flashcards when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('Page loaded, starting flashcard loading...');
+            loadFlashcards();
+        });
+
+        async function loadFlashcards() {
+            try {
+                console.log('Loading flashcards...');
+                
+                // Try to load the 90-question file first
+                const files = [
+                    'azure-900-ultimate-randomized.json',
+                    'azure-900-set1-45questions.json',
+                    'azure-900-set2-45questions.json',
+                    'azure-900-randomized-comprehensive.json',
+                    'azure-900-all-materials-comprehensive.json',
+                    'azure-900-ultimate-comprehensive-flashcards.json',
+                    'azure-900-randomized-answers-flashcards.json',
+                    'azure-900-comprehensive-flashcards.json',
+                    'azure-900-enhanced-flashcards.json',
+                    'azure-900-savill-flashcards.json',
+                    'azure-900-flashcards.json'
+                ];
+                
+                let loaded = false;
+                for (const file of files) {
+                    try {
+                        const response = await fetch(file);
+                        if (response.ok) {
+                            allFlashcards = await response.json();
+                            console.log(`Loaded ${allFlashcards.length} flashcards from ${file}`);
+                            
+                            // Randomly select 45 questions from the full pool
+                            const shuffled = [...allFlashcards];
+                            for (let i = shuffled.length - 1; i > 0; i--) {
+                                const j = Math.floor(Math.random() * (i + 1));
+                                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+                            }
+                            
+                            flashcards = shuffled.slice(0, 45);
+                            currentFlashcards = flashcards;
+                            console.log(`Selected 45 random questions from ${allFlashcards.length} total`);
+                            loaded = true;
+                            break;
+                        }
+                    } catch (error) {
+                        console.log(`Failed to load ${file}:`, error.message);
+                    }
+                }
+                
+                if (!loaded) {
+                    throw new Error('No flashcard files could be loaded');
+                }
+                
+                // Hide loading message and show content
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('flashcardContent').style.display = 'block';
+                
+                // Shuffle flashcards
+                shuffleArray(flashcards);
+                
+                // Initialize features after flashcards are loaded
+                initializeSound();
+                startNewSession();
+                
+                // Load first question
+                loadQuestion();
+                
+                // Add click event listeners to buttons
+                document.getElementById('nextBtn').addEventListener('click', function() {
+                    nextQuestion();
+                });
+                
+                document.getElementById('prevBtn').addEventListener('click', function() {
+                    previousQuestion();
+                });
+                
+                document.getElementById('submitBtn').addEventListener('click', function() {
+                    submitAnswer();
+                });
+                
+            } catch (error) {
+                console.error('Error loading flashcards:', error);
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('errorMessage').style.display = 'block';
+            }
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        function loadQuestion() {
+            if (flashcards.length === 0) return;
+            
+            const question = flashcards[currentQuestionIndex];
+            const isAnswered = answeredQuestions.has(currentQuestionIndex);
+            
+            // Update question text and category
+            document.getElementById('questionText').textContent = question.question;
+            document.getElementById('categoryTag').textContent = question.category;
+            
+            // Clear previous options
+            const optionsList = document.getElementById('optionsList');
+            optionsList.innerHTML = '';
+            
+            // Create option elements
+            question.options.forEach((option, index) => {
+                const li = document.createElement('li');
+                li.className = 'option';
+                li.textContent = option;
+                
+                if (!isAnswered) {
+                    li.onclick = function() {
+                        selectAnswer(option, index);
+                    };
+                } else {
+                    li.onclick = null; // Disable clicks for answered questions
+                }
+                
+                optionsList.appendChild(li);
+            });
+            
+            // If question is already answered, show the previous answer and results
+            if (isAnswered) {
+                // Find the previous answer from session data
+                let previousAnswer = null;
+                let wasCorrect = false;
+                
+                if (currentSession && currentSession.answers && currentSession.answers[currentQuestionIndex]) {
+                    previousAnswer = currentSession.answers[currentQuestionIndex].answer;
+                    wasCorrect = currentSession.answers[currentQuestionIndex].isCorrect;
+                }
+                
+                // Highlight the correct/incorrect options
+                document.querySelectorAll('.option').forEach((option, index) => {
+                    const optionText = option.textContent;
+                    
+                    if (optionText.startsWith(question.answer + ')')) {
+                        // This is the correct answer
+                        option.classList.add('correct');
+                    } else if (previousAnswer && optionText === previousAnswer && !wasCorrect) {
+                        // This is the user's incorrect selection
+                        option.classList.add('incorrect');
+                    } else if (previousAnswer && optionText === previousAnswer && wasCorrect) {
+                        // User selected the correct answer
+                        option.classList.add('user-selected', 'correct');
+                    }
+                });
+                
+                // Show feedback
+                const feedback = document.getElementById('feedback');
+                feedback.innerHTML = `<strong>${wasCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>${question.explanation}`;
+                feedback.className = `feedback ${wasCorrect ? 'correct' : 'incorrect'} show`;
+                feedback.style.display = 'block';
+                
+                // Hide submit button and show next button
+                document.getElementById('submitBtn').style.display = 'none';
+                document.getElementById('nextBtn').style.display = 'inline-block';
+                document.getElementById('nextBtn').disabled = false;
+                
+                selectedAnswer = previousAnswer;
+            } else {
+                // Reset state for unanswered questions
+                selectedAnswer = null;
+                const feedback = document.getElementById('feedback');
+                feedback.classList.remove('show', 'correct', 'incorrect');
+                feedback.style.display = 'none';
+                feedback.innerHTML = '';
+                document.getElementById('submitBtn').disabled = true;
+                document.getElementById('submitBtn').style.display = 'inline-block';
+                document.getElementById('nextBtn').disabled = true;
+                document.getElementById('nextBtn').style.display = 'none';
+            }
+            
+            document.getElementById('prevBtn').disabled = currentQuestionIndex === 0;
+            
+            // Update question counter and progress stats
+            document.getElementById('questionCounter').textContent = currentQuestionIndex + 1;
+            updateProgressStats();
+        }
+
+        function selectAnswer(option, index) {
+            // Remove previous selection
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.classList.remove('selected');
+            });
+            
+            // Add selection to clicked option
+            document.querySelectorAll('.option')[index].classList.add('selected');
+            
+            selectedAnswer = option;
+            document.getElementById('submitBtn').disabled = false;
+        }
+
+        function submitAnswer() {
+            if (!selectedAnswer || answeredQuestions.has(currentQuestionIndex)) return;
+            
+            const question = flashcards[currentQuestionIndex];
+            const isCorrect = selectedAnswer.startsWith(question.answer + ')');
+            
+            // Mark question as answered
+            answeredQuestions.add(currentQuestionIndex);
+            
+            // Update counters
+            if (isCorrect) {
+                correctAnswers++;
+                playSuccessSound();
+            } else {
+                incorrectAnswers++;
+                playIncorrectSound();
+            }
+            
+            // Save answer to session
+            if (!currentSession.answers) {
+                currentSession.answers = [];
+            }
+            currentSession.answers[currentQuestionIndex] = {
+                answer: selectedAnswer,
+                isCorrect: isCorrect,
+                questionId: question.id,
+                timestamp: new Date().toISOString()
+            };
+            
+            // Show feedback
+            const feedback = document.getElementById('feedback');
+            feedback.innerHTML = `
+                <strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>
+                ${question.explanation}
+            `;
+            feedback.className = `feedback ${isCorrect ? 'correct' : 'incorrect'}`;
+            feedback.style.display = 'block';
+            
+            // Highlight correct/incorrect options
+            document.querySelectorAll('.option').forEach((option, index) => {
+                const optionText = option.textContent;
+                option.onclick = null; // Disable further clicks
+                
+                if (optionText.startsWith(question.answer + ')')) {
+                    option.classList.add('correct');
+                } else if (optionText === selectedAnswer && !isCorrect) {
+                    option.classList.add('incorrect');
+                }
+            });
+            
+            // Update stats
+            updateProgressStats();
+            
+            // Show next button
+            document.getElementById('submitBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+            document.getElementById('nextBtn').disabled = false;
+        }
+
+        function updateProgressStats() {
+            const totalQuestions = flashcards.length;
+            const answeredCount = answeredQuestions.size;
+            const remainingQuestions = totalQuestions - answeredCount;
+            const accuracy = answeredCount > 0 ? Math.round((correctAnswers / answeredCount) * 100) : 0;
+            
+            document.getElementById('answeredCount').textContent = answeredCount;
+            document.getElementById('remainingCount').textContent = remainingQuestions;
+            document.getElementById('accuracyPercent').textContent = accuracy + '%';
+        }
+
+        function nextQuestion() {
+            if (currentQuestionIndex < flashcards.length - 1) {
+                currentQuestionIndex++;
+                loadQuestion();
+            } else {
+                // Quiz complete - show performance analysis
+                showPerformanceAnalysis();
+            }
+        }
+
+        function previousQuestion() {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                loadQuestion();
+            }
+        }
+
+        // Sound Functions
+        function initializeSound() {
+            // Sounds are always enabled
+            soundEnabled = true;
+        }
+
+        function playSuccessSound() {
+            if (!soundEnabled) return;
+            
+            try {
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
+                oscillator.frequency.setValueAtTime(1000, audioContext.currentTime + 0.1);
+                oscillator.frequency.setValueAtTime(1200, audioContext.currentTime + 0.2);
+                
+                gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+                gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.3);
+                
+                oscillator.start(audioContext.currentTime);
+                oscillator.stop(audioContext.currentTime + 0.3);
+                
+            } catch (error) {
+                console.log('Web Audio API not available for success sound');
+            }
+        }
+
+        function playIncorrectSound() {
+            if (!soundEnabled) return;
+            
+            try {
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                oscillator.frequency.setValueAtTime(200, audioContext.currentTime);
+                oscillator.frequency.setValueAtTime(150, audioContext.currentTime + 0.1);
+                oscillator.frequency.setValueAtTime(100, audioContext.currentTime + 0.2);
+                
+                gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+                gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.4);
+                
+                oscillator.start(audioContext.currentTime);
+                oscillator.stop(audioContext.currentTime + 0.4);
+                
+            } catch (error) {
+                console.log('Web Audio API not available for incorrect sound');
+            }
+        }
+
+        // Session Management
+        function startNewSession() {
+            sessionStartTime = new Date();
+            currentSession = {
+                id: Date.now(),
+                startTime: sessionStartTime.toISOString(),
+                endTime: null,
+                totalQuestions: flashcards.length,
+                correctAnswers: 0,
+                incorrectAnswers: 0,
+                answers: []
+            };
+            updateProgressStats();
+        }
+
+        // Performance Analysis
+        function showPerformanceAnalysis() {
+            const totalAnswered = correctAnswers + incorrectAnswers;
+            const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
+            const timeSpent = Math.round((new Date() - sessionStartTime) / 1000 / 60); // minutes
+            
+            // Calculate category performance
+            const categoryStats = {};
+            currentSession.answers.forEach(answer => {
+                const question = flashcards.find(q => q.id === answer.questionId);
+                if (question) {
+                    if (!categoryStats[question.category]) {
+                        categoryStats[question.category] = { correct: 0, total: 0 };
+                    }
+                    categoryStats[question.category].total++;
+                    if (answer.isCorrect) {
+                        categoryStats[question.category].correct++;
+                    }
+                }
+            });
+
+            // Generate strengths and weaknesses
+            const strengths = [];
+            const weaknesses = [];
+            
+            Object.entries(categoryStats).forEach(([category, stats]) => {
+                const categoryAccuracy = Math.round((stats.correct / stats.total) * 100);
+                if (categoryAccuracy >= 80) {
+                    strengths.push(`${category}: ${categoryAccuracy}%`);
+                } else if (categoryAccuracy < 70) {
+                    weaknesses.push(`${category}: ${categoryAccuracy}%`);
+                }
+            });
+
+            // Create performance analysis HTML
+            const analysisHTML = `
+                <div style="text-align: center; padding: 40px; background: #f8f9fa; border-radius: 15px; margin: 20px;">
+                    <h2 style="color: #667eea; margin-bottom: 30px;">🎉 Quiz Complete!</h2>
+                    
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px;">
+                        <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                            <h3 style="color: #28a745; margin: 0;">Correct</h3>
+                            <div style="font-size: 2rem; font-weight: bold; color: #28a745;">${correctAnswers}</div>
+                        </div>
+                        <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                            <h3 style="color: #dc3545; margin: 0;">Incorrect</h3>
+                            <div style="font-size: 2rem; font-weight: bold; color: #dc3545;">${incorrectAnswers}</div>
+                        </div>
+                        <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                            <h3 style="color: #667eea; margin: 0;">Accuracy</h3>
+                            <div style="font-size: 2rem; font-weight: bold; color: #667eea;">${accuracy}%</div>
+                        </div>
+                        <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
+                            <h3 style="color: #6c757d; margin: 0;">Time</h3>
+                            <div style="font-size: 2rem; font-weight: bold; color: #6c757d;">${timeSpent}m</div>
+                        </div>
+                    </div>
+                    
+                    ${strengths.length > 0 ? `
+                        <div style="background: #d4edda; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+                            <h3 style="color: #155724; margin-top: 0;">💪 Strengths</h3>
+                            <ul style="text-align: left; color: #155724;">
+                                ${strengths.map(strength => `<li>${strength}</li>`).join('')}
+                            </ul>
+                        </div>
+                    ` : ''}
+                    
+                    ${weaknesses.length > 0 ? `
+                        <div style="background: #f8d7da; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+                            <h3 style="color: #721c24; margin-top: 0;">📚 Areas to Study</h3>
+                            <ul style="text-align: left; color: #721c24;">
+                                ${weaknesses.map(weakness => `<li>${weakness}</li>`).join('')}
+                            </ul>
+                        </div>
+                    ` : ''}
+                    
+                    <button onclick="location.reload()" style="background: #667eea; color: white; border: none; padding: 15px 30px; border-radius: 8px; font-size: 1.1rem; cursor: pointer; margin-top: 20px;">
+                        🔄 Start New Quiz
+                    </button>
+                </div>
+            `;
+
+            // Replace the flashcard content with analysis
+            document.getElementById('flashcardContent').innerHTML = analysisHTML;
+        }
+    </script>
+</body>
+</html>
