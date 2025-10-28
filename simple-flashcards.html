@@ -5,6 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Azure 900 Flashcards - Simple Version</title>
     <style>
+        :root {
+            --bg-primary: #2c3e50;
+            --bg-secondary: #34495e;
+            --bg-gradient: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            --text-primary: #ecf0f1;
+            --text-secondary: #bdc3c7;
+            --card-bg: #2c3e50;
+            --button-bg: #3498db;
+            --button-hover: #2980b9;
+            --button-secondary: #666;
+            --button-secondary-hover: #555;
+            --success-color: #27ae60;
+            --error-color: #e74c3c;
+            --border-color: #34495e;
+        }
+
+        body.light-mode {
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8f9fa;
+            --bg-gradient: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+            --text-primary: #2c3e50;
+            --text-secondary: #6c757d;
+            --card-bg: #ffffff;
+            --button-bg: #007bff;
+            --button-hover: #0056b3;
+            --button-secondary: #6c757d;
+            --button-secondary-hover: #5a6268;
+            --success-color: #28a745;
+            --error-color: #dc3545;
+            --border-color: #dee2e6;
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -13,24 +45,27 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            background: var(--bg-gradient);
             min-height: 100vh;
             padding: 20px;
+            color: var(--text-primary);
+            transition: all 0.3s ease;
         }
 
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background: #2c3e50;
-            color: #ecf0f1;
+            background: var(--card-bg);
+            color: var(--text-primary);
             border-radius: 15px;
             box-shadow: 0 20px 40px rgba(0,0,0,0.3);
             overflow: hidden;
+            transition: all 0.3s ease;
         }
 
         .header {
-            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-            color: white;
+            background: var(--bg-gradient);
+            color: var(--text-primary);
             padding: 30px;
             text-align: center;
         }
@@ -150,7 +185,7 @@
         }
 
         .btn {
-            background: #5a6fd8;
+            background: var(--button-bg);
             color: white;
             border: none;
             padding: 12px 24px;
@@ -164,7 +199,7 @@
         }
 
         .btn:hover {
-            background: #667eea;
+            background: var(--button-hover);
         }
 
         .btn:disabled {
@@ -184,6 +219,14 @@
 
         .btn.submit:hover {
             background: #2ecc71;
+        }
+
+        .btn-secondary {
+            background: var(--button-secondary);
+        }
+
+        .btn-secondary:hover {
+            background: var(--button-secondary-hover);
         }
 
         .loading {
@@ -344,6 +387,8 @@
                 <button class="btn submit" id="submitBtn" disabled>Submit Answer</button>
                 <button class="btn" id="nextBtn" style="display: none;">Next →</button>
                 <button class="btn btn-secondary" id="randomizeBtn" onclick="randomizeQuestions()">🎲 Randomize</button>
+                <button class="btn btn-secondary" id="soundToggleBtn" onclick="toggleSound()">🔊 Sound</button>
+                <button class="btn btn-secondary" id="themeToggleBtn" onclick="toggleTheme()">🌙 Dark</button>
             </div>
         </div>
     </div>
@@ -360,6 +405,69 @@
         let soundEnabled = true;
         let allFlashcards = []; // Store all 90 questions
         let currentFlashcards = []; // Current 45 questions being used
+        let isDarkMode = true; // Track theme state
+
+        // Initialize theme and sound settings
+        function initializeSettings() {
+            // Load saved theme preference
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme === 'light') {
+                document.body.classList.add('light-mode');
+                isDarkMode = false;
+                updateThemeButton();
+            }
+            
+            // Load saved sound preference
+            const savedSound = localStorage.getItem('soundEnabled');
+            if (savedSound === 'false') {
+                soundEnabled = false;
+                updateSoundButton();
+            }
+        }
+
+        // Toggle sound on/off
+        function toggleSound() {
+            soundEnabled = !soundEnabled;
+            localStorage.setItem('soundEnabled', soundEnabled.toString());
+            updateSoundButton();
+        }
+
+        // Update sound button appearance
+        function updateSoundButton() {
+            const soundBtn = document.getElementById('soundToggleBtn');
+            if (soundEnabled) {
+                soundBtn.textContent = '🔊 Sound';
+                soundBtn.style.background = 'var(--button-secondary)';
+            } else {
+                soundBtn.textContent = '🔇 Muted';
+                soundBtn.style.background = 'var(--error-color)';
+            }
+        }
+
+        // Toggle theme between dark and light
+        function toggleTheme() {
+            isDarkMode = !isDarkMode;
+            if (isDarkMode) {
+                document.body.classList.remove('light-mode');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                document.body.classList.add('light-mode');
+                localStorage.setItem('theme', 'light');
+            }
+            updateThemeButton();
+        }
+
+        // Update theme button appearance
+        function updateThemeButton() {
+            const themeBtn = document.getElementById('themeToggleBtn');
+            if (isDarkMode) {
+                themeBtn.textContent = '🌙 Dark';
+                themeBtn.style.background = 'var(--button-secondary)';
+            } else {
+                themeBtn.textContent = '☀️ Light';
+                themeBtn.style.background = 'var(--button-secondary)';
+            }
+        }
 
         // Randomize questions - select 45 random questions from the full pool
         function randomizeQuestions() {
@@ -407,6 +515,7 @@
         // Load flashcards when page loads
         document.addEventListener('DOMContentLoaded', function() {
             console.log('Page loaded, starting flashcard loading...');
+            initializeSettings();
             loadFlashcards();
         });
 
