@@ -626,28 +626,15 @@
             const optionsList = document.getElementById('optionsList');
             optionsList.innerHTML = '';
             
-            // Randomize answer positions each time
-            const shuffledOptions = [...question.options];
-            shuffleArray(shuffledOptions);
-            
-            // Find the new correct answer position after shuffling
-            const originalCorrectAnswer = question.answer;
-            const originalCorrectText = question.options.find(opt => opt.startsWith(originalCorrectAnswer + ')'));
-            const newCorrectIndex = shuffledOptions.findIndex(opt => opt === originalCorrectText);
-            const newCorrectAnswer = String.fromCharCode(65 + newCorrectIndex); // A, B, C, or D
-            
-            // Store the randomized correct answer for this question
-            question.randomizedCorrectAnswer = newCorrectAnswer;
-            
-            // Create option elements with shuffled positions
-            shuffledOptions.forEach((option, index) => {
+            // Create option elements (no randomization for now to ensure consistency)
+            question.options.forEach((option, index) => {
                 const li = document.createElement('li');
                 li.className = 'option';
                 li.textContent = option;
                 
                 if (!isAnswered) {
                     li.onclick = function() {
-                        selectAnswer(option, index, newCorrectAnswer);
+                        selectAnswer(option, index, question.answer);
                     };
                 } else {
                     li.onclick = null; // Disable clicks for answered questions
@@ -655,6 +642,9 @@
                 
                 optionsList.appendChild(li);
             });
+            
+            // Store the original correct answer
+            question.randomizedCorrectAnswer = question.answer;
             
             // If question is already answered, show the previous answer and results
             if (isAnswered) {
