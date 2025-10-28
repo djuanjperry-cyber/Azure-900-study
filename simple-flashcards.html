@@ -625,15 +625,28 @@
             const optionsList = document.getElementById('optionsList');
             optionsList.innerHTML = '';
             
-            // Create option elements
-            question.options.forEach((option, index) => {
+            // Randomize answer positions each time
+            const shuffledOptions = [...question.options];
+            shuffleArray(shuffledOptions);
+            
+            // Find the new correct answer position after shuffling
+            const originalCorrectAnswer = question.answer;
+            const originalCorrectText = question.options.find(opt => opt.startsWith(originalCorrectAnswer + ')'));
+            const newCorrectIndex = shuffledOptions.findIndex(opt => opt === originalCorrectText);
+            const newCorrectAnswer = String.fromCharCode(65 + newCorrectIndex); // A, B, C, or D
+            
+            // Store the randomized correct answer for this question
+            question.randomizedCorrectAnswer = newCorrectAnswer;
+            
+            // Create option elements with shuffled positions
+            shuffledOptions.forEach((option, index) => {
                 const li = document.createElement('li');
                 li.className = 'option';
                 li.textContent = option;
                 
                 if (!isAnswered) {
                     li.onclick = function() {
-                        selectAnswer(option, index);
+                        selectAnswer(option, index, newCorrectAnswer);
                     };
                 } else {
                     li.onclick = null; // Disable clicks for answered questions
@@ -657,7 +670,7 @@
                 document.querySelectorAll('.option').forEach((option, index) => {
                     const optionText = option.textContent;
                     
-                    if (optionText.startsWith(question.answer + ')')) {
+                    if (optionText.startsWith(question.randomizedCorrectAnswer + ')')) {
                         // This is the correct answer
                         option.classList.add('correct');
                     } else if (previousAnswer && optionText === previousAnswer && !wasCorrect) {
@@ -701,7 +714,7 @@
             updateProgressStats();
         }
 
-        function selectAnswer(option, index) {
+        function selectAnswer(option, index, correctAnswer) {
             // Remove previous selection
             document.querySelectorAll('.option').forEach(opt => {
                 opt.classList.remove('selected');
@@ -718,7 +731,7 @@
             if (!selectedAnswer || answeredQuestions.has(currentQuestionIndex)) return;
             
             const question = flashcards[currentQuestionIndex];
-            const isCorrect = selectedAnswer.startsWith(question.answer + ')');
+            const isCorrect = selectedAnswer.startsWith(question.randomizedCorrectAnswer + ')');
             
             // Mark question as answered
             answeredQuestions.add(currentQuestionIndex);
@@ -757,7 +770,7 @@
                 const optionText = option.textContent;
                 option.onclick = null; // Disable further clicks
                 
-                if (optionText.startsWith(question.answer + ')')) {
+                if (optionText.startsWith(question.randomizedCorrectAnswer + ')')) {
                     option.classList.add('correct');
                 } else if (optionText === selectedAnswer && !isCorrect) {
                     option.classList.add('incorrect');
