@@ -327,14 +327,6 @@
                     <span class="stat-number" id="totalCards">0</span>
                     <span class="stat-label">Total</span>
                 </div>
-                <div class="stat">
-                    <span class="stat-number" id="correctCount">0</span>
-                    <span class="stat-label">Correct</span>
-                </div>
-                <div class="stat">
-                    <span class="stat-number" id="accuracyPercent">0%</span>
-                    <span class="stat-label">Accuracy</span>
-                </div>
             </div>
         </div>
 
@@ -366,14 +358,6 @@
                     <h3>Total Cards</h3>
                     <div class="number" id="finalTotalCards">0</div>
                 </div>
-                <div class="completion-stat">
-                    <h3>Correct Answers</h3>
-                    <div class="number" id="finalCorrectCount">0</div>
-                </div>
-                <div class="completion-stat">
-                    <h3>Accuracy</h3>
-                    <div class="number" id="finalAccuracy">0%</div>
-                </div>
             </div>
             <button class="btn" onclick="restartQuiz()">Start Over</button>
         </div>
@@ -381,8 +365,6 @@
         <div class="controls" id="controls" style="display: none;">
             <button class="btn btn-secondary" id="prevBtn" onclick="previousCard()">← Previous</button>
             <button class="btn" id="showAnswerBtn" onclick="showAnswer()">Show Answer</button>
-            <button class="btn" id="correctBtn" onclick="markCorrect()" style="display: none;">✓ Correct</button>
-            <button class="btn" id="incorrectBtn" onclick="markIncorrect()" style="display: none;">✗ Incorrect</button>
             <button class="btn" id="nextBtn" onclick="nextCard()" style="display: none;">Next →</button>
             <button class="btn btn-secondary" id="shuffleBtn" onclick="shuffleCards()">🔀 Shuffle</button>
         </div>
@@ -391,9 +373,6 @@
     <script>
         let flashcards = [];
         let currentCardIndex = 0;
-        let correctAnswers = 0;
-        let totalAnswered = 0;
-        let answeredCards = new Set();
 
         // Interview prep flashcards data
         const interviewFlashcards = [
@@ -672,8 +651,6 @@
             
             // Reset button states
             document.getElementById('showAnswerBtn').style.display = 'inline-block';
-            document.getElementById('correctBtn').style.display = 'none';
-            document.getElementById('incorrectBtn').style.display = 'none';
             document.getElementById('nextBtn').style.display = 'none';
             
             updateStats();
@@ -682,35 +659,30 @@
         function showAnswer() {
             document.getElementById('answer').classList.add('show');
             document.getElementById('showAnswerBtn').style.display = 'none';
-            document.getElementById('correctBtn').style.display = 'inline-block';
-            document.getElementById('incorrectBtn').style.display = 'inline-block';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+            playCardFlipSound();
         }
 
-        function markCorrect() {
-            if (!answeredCards.has(currentCardIndex)) {
-                correctAnswers++;
-                totalAnswered++;
-                answeredCards.add(currentCardIndex);
+        function playCardFlipSound() {
+            try {
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
+                oscillator.frequency.exponentialRampToValueAtTime(400, audioContext.currentTime + 0.1);
+                
+                gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+                gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.1);
+                
+                oscillator.start(audioContext.currentTime);
+                oscillator.stop(audioContext.currentTime + 0.1);
+            } catch (error) {
+                console.log('Audio not supported');
             }
-            
-            document.getElementById('correctBtn').style.display = 'none';
-            document.getElementById('incorrectBtn').style.display = 'none';
-            document.getElementById('nextBtn').style.display = 'inline-block';
-            
-            updateStats();
-        }
-
-        function markIncorrect() {
-            if (!answeredCards.has(currentCardIndex)) {
-                totalAnswered++;
-                answeredCards.add(currentCardIndex);
-            }
-            
-            document.getElementById('correctBtn').style.display = 'none';
-            document.getElementById('incorrectBtn').style.display = 'none';
-            document.getElementById('nextBtn').style.display = 'inline-block';
-            
-            updateStats();
         }
 
         function nextCard() {
@@ -728,10 +700,6 @@
         function updateStats() {
             document.getElementById('currentCard').textContent = currentCardIndex + 1;
             document.getElementById('totalCards').textContent = flashcards.length;
-            document.getElementById('correctCount').textContent = correctAnswers;
-            
-            const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
-            document.getElementById('accuracyPercent').textContent = accuracy + '%';
             
             const progress = ((currentCardIndex + 1) / flashcards.length) * 100;
             document.getElementById('progressFill').style.width = progress + '%';
@@ -745,10 +713,6 @@
             document.getElementById('completionMessage').style.display = 'block';
             
             document.getElementById('finalTotalCards').textContent = flashcards.length;
-            document.getElementById('finalCorrectCount').textContent = correctAnswers;
-            
-            const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
-            document.getElementById('finalAccuracy').textContent = accuracy + '%';
         }
 
         function shuffleCards() {
@@ -761,8 +725,6 @@
             // Reset answer display
             document.getElementById('answer').classList.remove('show');
             document.getElementById('showAnswerBtn').style.display = 'inline-block';
-            document.getElementById('correctBtn').style.display = 'none';
-            document.getElementById('incorrectBtn').style.display = 'none';
             document.getElementById('nextBtn').style.display = 'none';
             
             // Load the first card
@@ -782,9 +744,6 @@
 
         function restartQuiz() {
             currentCardIndex = 0;
-            correctAnswers = 0;
-            totalAnswered = 0;
-            answeredCards.clear();
             
             shuffleArray(flashcards);
             
