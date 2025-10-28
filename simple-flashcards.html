@@ -523,8 +523,9 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // Try to load the final expanded flashcard file first
+                // Try to load the cleaned flashcard file first (no "All of the above")
                 const files = [
+                    'azure-900-no-all-of-above.json',
                     'azure-900-final-expanded.json',
                     'azure-900-expanded-flashcards.json',
                     'azure-900-ultimate-randomized.json',
