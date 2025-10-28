@@ -343,7 +343,7 @@
                 <button class="btn" id="prevBtn">← Previous</button>
                 <button class="btn submit" id="submitBtn" disabled>Submit Answer</button>
                 <button class="btn" id="nextBtn" style="display: none;">Next →</button>
-                <button class="btn btn-secondary" id="setToggleBtn" onclick="toggleQuestionSet()">🔄 Switch Set</button>
+                <button class="btn btn-secondary" id="randomizeBtn" onclick="randomizeQuestions()">🎲 Randomize</button>
             </div>
         </div>
     </div>
@@ -358,46 +358,50 @@
         let sessionStartTime = null;
         let currentSession = null;
         let soundEnabled = true;
-        let currentSet = 1; // Track which set we're using
+        let allFlashcards = []; // Store all 90 questions
+        let currentFlashcards = []; // Current 45 questions being used
 
-        // Toggle between question sets
-        async function toggleQuestionSet() {
-            currentSet = currentSet === 1 ? 2 : 1;
-            const setFile = `azure-900-set${currentSet}-45questions.json`;
-            
-            try {
-                const response = await fetch(setFile);
-                if (response.ok) {
-                    flashcards = await response.json();
-                    currentQuestionIndex = 0;
-                    correctAnswers = 0;
-                    incorrectAnswers = 0;
-                    answeredQuestions.clear();
-                    
-                    // Reset UI
-                    document.getElementById('feedback').style.display = 'none';
-                    document.getElementById('submitBtn').disabled = true;
-                    document.getElementById('nextBtn').style.display = 'none';
-                    
-                    loadQuestion();
-                    updateStats();
-                    
-                    // Show confirmation
-                    const toggleBtn = document.getElementById('setToggleBtn');
-                    const originalText = toggleBtn.textContent;
-                    toggleBtn.textContent = `✓ Set ${currentSet} Loaded!`;
-                    toggleBtn.style.background = '#28a745';
-                    
-                    setTimeout(() => {
-                        toggleBtn.textContent = originalText;
-                        toggleBtn.style.background = '#666';
-                    }, 1500);
-                } else {
-                    console.error('Failed to load question set');
-                }
-            } catch (error) {
-                console.error('Error loading question set:', error);
+        // Randomize questions - select 45 random questions from the full pool
+        function randomizeQuestions() {
+            if (allFlashcards.length === 0) {
+                console.log('No flashcards loaded yet');
+                return;
             }
+            
+            // Shuffle all flashcards and take first 45
+            const shuffled = [...allFlashcards];
+            for (let i = shuffled.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+            }
+            
+            currentFlashcards = shuffled.slice(0, 45);
+            flashcards = currentFlashcards; // Update the global flashcards array
+            
+            // Reset to first question
+            currentQuestionIndex = 0;
+            correctAnswers = 0;
+            incorrectAnswers = 0;
+            answeredQuestions.clear();
+            
+            // Reset UI
+            document.getElementById('feedback').style.display = 'none';
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('nextBtn').style.display = 'none';
+            
+            loadQuestion();
+            updateStats();
+            
+            // Show confirmation
+            const randomizeBtn = document.getElementById('randomizeBtn');
+            const originalText = randomizeBtn.textContent;
+            randomizeBtn.textContent = '✓ Randomized!';
+            randomizeBtn.style.background = '#28a745';
+            
+            setTimeout(() => {
+                randomizeBtn.textContent = originalText;
+                randomizeBtn.style.background = '#666';
+            }, 1500);
         }
 
         // Load flashcards when page loads
@@ -410,11 +414,11 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // Try to load the 45-question sets first
+                // Try to load the 90-question file first
                 const files = [
+                    'azure-900-ultimate-randomized.json',
                     'azure-900-set1-45questions.json',
                     'azure-900-set2-45questions.json',
-                    'azure-900-ultimate-randomized.json',
                     'azure-900-randomized-comprehensive.json',
                     'azure-900-all-materials-comprehensive.json',
                     'azure-900-ultimate-comprehensive-flashcards.json',
@@ -430,8 +434,19 @@
                     try {
                         const response = await fetch(file);
                         if (response.ok) {
-                            flashcards = await response.json();
-                            console.log(`Loaded ${flashcards.length} flashcards from ${file}`);
+                            allFlashcards = await response.json();
+                            console.log(`Loaded ${allFlashcards.length} flashcards from ${file}`);
+                            
+                            // Randomly select 45 questions from the full pool
+                            const shuffled = [...allFlashcards];
+                            for (let i = shuffled.length - 1; i > 0; i--) {
+                                const j = Math.floor(Math.random() * (i + 1));
+                                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+                            }
+                            
+                            flashcards = shuffled.slice(0, 45);
+                            currentFlashcards = flashcards;
+                            console.log(`Selected 45 random questions from ${allFlashcards.length} total`);
                             loaded = true;
                             break;
                         }
