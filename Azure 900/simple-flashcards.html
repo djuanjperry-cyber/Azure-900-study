@@ -343,6 +343,7 @@
                 <button class="btn" id="prevBtn">← Previous</button>
                 <button class="btn submit" id="submitBtn" disabled>Submit Answer</button>
                 <button class="btn" id="nextBtn" style="display: none;">Next →</button>
+                <button class="btn btn-secondary" id="setToggleBtn" onclick="toggleQuestionSet()">🔄 Switch Set</button>
             </div>
         </div>
     </div>
@@ -357,6 +358,47 @@
         let sessionStartTime = null;
         let currentSession = null;
         let soundEnabled = true;
+        let currentSet = 1; // Track which set we're using
+
+        // Toggle between question sets
+        async function toggleQuestionSet() {
+            currentSet = currentSet === 1 ? 2 : 1;
+            const setFile = `azure-900-set${currentSet}-45questions.json`;
+            
+            try {
+                const response = await fetch(setFile);
+                if (response.ok) {
+                    flashcards = await response.json();
+                    currentQuestionIndex = 0;
+                    correctAnswers = 0;
+                    incorrectAnswers = 0;
+                    answeredQuestions.clear();
+                    
+                    // Reset UI
+                    document.getElementById('feedback').style.display = 'none';
+                    document.getElementById('submitBtn').disabled = true;
+                    document.getElementById('nextBtn').style.display = 'none';
+                    
+                    loadQuestion();
+                    updateStats();
+                    
+                    // Show confirmation
+                    const toggleBtn = document.getElementById('setToggleBtn');
+                    const originalText = toggleBtn.textContent;
+                    toggleBtn.textContent = `✓ Set ${currentSet} Loaded!`;
+                    toggleBtn.style.background = '#28a745';
+                    
+                    setTimeout(() => {
+                        toggleBtn.textContent = originalText;
+                        toggleBtn.style.background = '#666';
+                    }, 1500);
+                } else {
+                    console.error('Failed to load question set');
+                }
+            } catch (error) {
+                console.error('Error loading question set:', error);
+            }
+        }
 
         // Load flashcards when page loads
         document.addEventListener('DOMContentLoaded', function() {
@@ -368,8 +410,10 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // Try to load the smallest file first
+                // Try to load the 45-question sets first
                 const files = [
+                    'azure-900-set1-45questions.json',
+                    'azure-900-set2-45questions.json',
                     'azure-900-ultimate-randomized.json',
                     'azure-900-randomized-comprehensive.json',
                     'azure-900-all-materials-comprehensive.json',
