@@ -546,7 +546,7 @@
                         const response = await fetch(file);
                         if (response.ok) {
                             allFlashcards = await response.json();
-                            console.log(`Loaded ${allFlashcards.length} flashcards from ${file}`);
+                            console.log(`✅ Loaded ${allFlashcards.length} flashcards from ${file}`);
                             
                             // Randomly select 45 questions from the full pool
                             const shuffled = [...allFlashcards];
@@ -557,7 +557,7 @@
                             
                             flashcards = shuffled.slice(0, 45);
                             currentFlashcards = flashcards;
-                            console.log(`Selected 45 random questions from ${allFlashcards.length} total`);
+                            console.log(`🎯 Selected 45 random questions from ${allFlashcards.length} total`);
                             loaded = true;
                             break;
                         }
