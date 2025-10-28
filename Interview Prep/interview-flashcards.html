@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Prep Flashcards</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1a1a1a;
+            color: #e0e0e0;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #2c2c2c;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .header h1 {
+            color: #4a9eff;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+            padding: 15px 20px;
+            background: #333;
+            border-radius: 10px;
+            min-width: 80px;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #4a9eff;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin-top: 5px;
+        }
+
+        .flashcard {
+            background: #2c2c2c;
+            border-radius: 15px;
+            padding: 40px;
+            margin: 20px 0;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+            border: 2px solid #404040;
+            min-height: 300px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .flashcard:hover {
+            border-color: #4a9eff;
+            transform: translateY(-2px);
+        }
+
+        .category {
+            background: #4a9eff;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        .question {
+            font-size: 1.4rem;
+            margin-bottom: 30px;
+            line-height: 1.6;
+            color: #f0f0f0;
+            font-weight: 500;
+        }
+
+        .answer {
+            font-size: 1.2rem;
+            line-height: 1.7;
+            color: #d0d0d0;
+            background: #333;
+            padding: 25px;
+            border-radius: 10px;
+            border-left: 4px solid #4a9eff;
+            display: none;
+        }
+
+        .answer.show {
+            display: block;
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 30px;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            background: #4a9eff;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            min-height: 50px;
+            touch-action: manipulation;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .btn:hover {
+            background: #357abd;
+            transform: translateY(-2px);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn:disabled {
+            background: #666;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-secondary {
+            background: #666;
+        }
+
+        .btn-secondary:hover {
+            background: #555;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #333;
+            border-radius: 4px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4a9eff, #357abd);
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: #4a9eff;
+        }
+
+        .error {
+            background: #d32f2f;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .completion-message {
+            text-align: center;
+            padding: 40px;
+            background: #2c2c2c;
+            border-radius: 15px;
+            margin: 20px 0;
+        }
+
+        .completion-message h2 {
+            color: #4a9eff;
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        .completion-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .completion-stat {
+            background: #333;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .completion-stat h3 {
+            color: #4a9eff;
+            margin-bottom: 10px;
+        }
+
+        .completion-stat .number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #4a9eff;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+                margin-bottom: 15px;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 10px;
+                margin-bottom: 20px;
+            }
+            
+            .stat {
+                padding: 10px 15px;
+                min-width: 60px;
+            }
+            
+            .stat-number {
+                font-size: 1.5rem;
+            }
+            
+            .stat-label {
+                font-size: 0.8rem;
+            }
+            
+            .flashcard {
+                padding: 25px 20px;
+                margin: 15px 0;
+                min-height: 250px;
+            }
+            
+            .question {
+                font-size: 1.2rem;
+                line-height: 1.5;
+                margin-bottom: 25px;
+            }
+            
+            .answer {
+                font-size: 1.1rem;
+                padding: 20px;
+                margin-top: 20px;
+            }
+            
+            .controls {
+                flex-direction: column;
+                gap: 12px;
+                margin-top: 25px;
+            }
+            
+            .btn {
+                padding: 15px 25px;
+                font-size: 1rem;
+                min-height: 48px;
+                width: 100%;
+            }
+            
+            .completion-stats {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Interview Prep Flashcards</h1>
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number" id="currentCard">1</span>
+                    <span class="stat-label">Current</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="totalCards">0</span>
+                    <span class="stat-label">Total</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="correctCount">0</span>
+                    <span class="stat-label">Correct</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="accuracyPercent">0%</span>
+                    <span class="stat-label">Accuracy</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+
+        <div id="loadingMessage" class="loading">
+            Loading flashcards...
+        </div>
+
+        <div id="errorMessage" class="error" style="display: none;">
+            Error loading flashcards. Please refresh the page.
+        </div>
+
+        <div id="flashcardContainer" style="display: none;">
+            <div class="flashcard">
+                <div class="category" id="category"></div>
+                <div class="question" id="question"></div>
+                <div class="answer" id="answer"></div>
+            </div>
+        </div>
+
+        <div id="completionMessage" class="completion-message" style="display: none;">
+            <h2>🎉 Study Session Complete!</h2>
+            <p>Great job! You've completed all the flashcards.</p>
+            <div class="completion-stats">
+                <div class="completion-stat">
+                    <h3>Total Cards</h3>
+                    <div class="number" id="finalTotalCards">0</div>
+                </div>
+                <div class="completion-stat">
+                    <h3>Correct Answers</h3>
+                    <div class="number" id="finalCorrectCount">0</div>
+                </div>
+                <div class="completion-stat">
+                    <h3>Accuracy</h3>
+                    <div class="number" id="finalAccuracy">0%</div>
+                </div>
+            </div>
+            <button class="btn" onclick="restartQuiz()">Start Over</button>
+        </div>
+
+        <div class="controls" id="controls" style="display: none;">
+            <button class="btn btn-secondary" id="prevBtn" onclick="previousCard()">← Previous</button>
+            <button class="btn" id="showAnswerBtn" onclick="showAnswer()">Show Answer</button>
+            <button class="btn" id="correctBtn" onclick="markCorrect()" style="display: none;">✓ Correct</button>
+            <button class="btn" id="incorrectBtn" onclick="markIncorrect()" style="display: none;">✗ Incorrect</button>
+            <button class="btn" id="nextBtn" onclick="nextCard()" style="display: none;">Next →</button>
+        </div>
+    </div>
+
+    <script>
+        let flashcards = [];
+        let currentCardIndex = 0;
+        let correctAnswers = 0;
+        let totalAnswered = 0;
+        let answeredCards = new Set();
+
+        // Interview prep flashcards data
+        const interviewFlashcards = [
+            // OSI Model
+            {
+                question: "What are the 7 layers of the OSI model from top to bottom?",
+                answer: "Application (L7), Presentation (L6), Session (L5), Transport (L4), Network (L3), Data Link (L2), Physical (L1)",
+                category: "OSI Model"
+            },
+            {
+                question: "Which OSI layer handles FTP, HTTP, email, DNS, and DHCP?",
+                answer: "Application Layer (L7) - where the data lives",
+                category: "OSI Model"
+            },
+            {
+                question: "What operates at the Transport Layer (L4) and what are the main protocols?",
+                answer: "Logical end-to-end communication between two objects. TCP and UDP operate here with segments and port numbers. TCP is reliable, UDP is unreliable.",
+                category: "OSI Model"
+            },
+            {
+                question: "Which layer do routers operate at and what addressing do they use?",
+                answer: "Network Layer (L3) - routers work using IP addressing and ICMP (ping & trace). They handle packets and IP addressing.",
+                category: "OSI Model"
+            },
+            {
+                question: "What operates at the Data Link Layer (L2) and what addressing is used?",
+                answer: "Switches operate here using MAC addresses (L2, burned-in, physical address). They handle frames and MAC addressing.",
+                category: "OSI Model"
+            },
+            {
+                question: "What is handled at the Physical Layer (L1)?",
+                answer: "Anything dealing with network cable or the standards in use, including pins. Handles bits.",
+                category: "OSI Model"
+            },
+
+            // Frame Forwarding
+            {
+                question: "What happens when a switch receives a frame?",
+                answer: "1. Switch receives frame 2. Reviews source MAC information 3. Switch now reviews destination MAC-address 4. If MAC is not in table, floods out all ports except receiving port 5. If MAC is known, forwards out designated port",
+                category: "Frame Forwarding"
+            },
+            {
+                question: "What happens after a flooded frame is received by the appropriate host?",
+                answer: "Once flooded frame is received by appropriate host, host responds to message. Switch receives frame and forwards out appropriate port to original host.",
+                category: "Frame Forwarding"
+            },
+            {
+                question: "How are broadcast frames handled by switches?",
+                answer: "Broadcast frames have an address of all F's and are treated as flooded frames.",
+                category: "Frame Forwarding"
+            },
+            {
+                question: "How long do dynamically learned frames stay in the MAC address table?",
+                answer: "Dynamically learned frames stay in the MAC address table for 5 minutes by default.",
+                category: "Frame Forwarding"
+            },
+
+            // TCP & UDP
+            {
+                question: "What are the key characteristics of TCP?",
+                answer: "TCP (port 6): Connection oriented, sequencing and reliable delivery, used for file sharing and downloading.",
+                category: "TCP & UDP"
+            },
+            {
+                question: "What are the key characteristics of UDP?",
+                answer: "UDP (port 17): Connectionless, no sequencing, used for VOIP and streaming video.",
+                category: "TCP & UDP"
+            },
+            {
+                question: "What is the TCP 3-way handshake process?",
+                answer: "1. SYN Package - requests permission to send data 2. SYN/ACK - acknowledges initial SYN request and requests permission to send data 3. ACK - initial sender acknowledges SYN request. Data transfer begins.",
+                category: "TCP & UDP"
+            },
+            {
+                question: "What is window size in TCP and what does it control?",
+                answer: "Window size defines how much data can be sent before an ACK has to be sent. It's used for flow control.",
+                category: "TCP & UDP"
+            },
+            {
+                question: "What is ARP and what does it do?",
+                answer: "Address Resolution Protocol - maps IP addresses to MAC addresses within a LAN.",
+                category: "TCP & UDP"
+            },
+
+            // Spanning Tree Protocol
+            {
+                question: "What is Spanning Tree Protocol and what problems does it solve?",
+                answer: "Spanning-Tree Protocol helps reduce redundancy within switched networks, prevents switching loops and broadcast storms in the layer 2 network.",
+                category: "Spanning Tree"
+            },
+            {
+                question: "What is a Bridge ID and how is it used?",
+                answer: "Bridge ID is a combination of the bridge priority and MAC address. Used in the STP root bridge election as tie-breaker.",
+                category: "Spanning Tree"
+            },
+            {
+                question: "What is the Root Bridge and how is it elected?",
+                answer: "Root Bridge is the base of the STP tree, elected based on BID (Bridge ID).",
+                category: "Spanning Tree"
+            },
+            {
+                question: "What is Bridge Priority and what are the default values?",
+                answer: "Bridge Priority default value is 32768, can be set in multiples of 4096. Lowest value will become root bridge. Ties are broken by the lowest MAC address.",
+                category: "Spanning Tree"
+            },
+            {
+                question: "What are the 5 STP port states?",
+                answer: "1. Disabled Mode - port administratively shut down 2. Blocking Mode - no frame forwarding/receiving, no MAC learning 3. Listening Mode - listening for BPDUs, can send BPDUs 4. Learning Mode - not forwarding frames but can learn MAC addresses 5. Forwarding Mode - allows port to forward/receive frames and learn MAC addresses",
+                category: "Spanning Tree"
+            },
+
+            // Layer 3 Fundamentals
+            {
+                question: "What is Administrative Distance and how is it used?",
+                answer: "Administrative Distance is used to determine the best pathway when multiple routes are available to the same destination. The protocol with the lowest administrative distance will be selected as the best route.",
+                category: "Layer 3"
+            },
+            {
+                question: "What are the Administrative Distance values for common routing protocols?",
+                answer: "Connected - 0, Static - 1, External BGP - 20, EIGRP Internal - 90, OSPF - 110, RIP - 120, BGP Internal - 200",
+                category: "Layer 3"
+            },
+            {
+                question: "What is the Longest Match Rule?",
+                answer: "The most specific route is preferable to a less specific route in the routing table.",
+                category: "Layer 3"
+            },
+            {
+                question: "What is a Distance Vector Protocol and which protocols use it?",
+                answer: "Distance Vector Protocol calculates best route on hop count (number of routers). EIGRP and RIP use this method.",
+                category: "Layer 3"
+            },
+            {
+                question: "What is a Link-State Protocol and which protocol uses it?",
+                answer: "Link-State Protocol calculates best route based on routing map of network. OSPF uses this method.",
+                category: "Layer 3"
+            },
+            {
+                question: "What is Path-Vector and which protocol uses it?",
+                answer: "Path-Vector allows you to see the entire path. BGP uses this method and calculates best route by number of AS hops.",
+                category: "Layer 3"
+            },
+            {
+                question: "What does IP Helper Address do?",
+                answer: "IP Helper Address forwards UDP broadcasts to a specific address.",
+                category: "Layer 3"
+            },
+
+            // IP Addressing
+            {
+                question: "What is a Public IP Address?",
+                answer: "A routable IP address that can be routed outside the private network. Public IPs are normally provided by Internet Service Provider. ISPs are assigned Public IP from Regional Internet Registrar.",
+                category: "IP Addressing"
+            },
+            {
+                question: "What is a Private IP Address?",
+                answer: "A non-routable IP address on public networks (the internet) or between organizations. Will be blocked by edge router, can be routed on a private network, also called reserved addresses. NAT or proxy servers can resolve private addresses into public to become routable.",
+                category: "IP Addressing"
+            },
+            {
+                question: "What are the Private IP Address ranges?",
+                answer: "Class A: anything starting with 10, Class B: 172.16 - 172.31, Class C: 192.168",
+                category: "IP Addressing"
+            },
+            {
+                question: "What is the difference between Unicast, Broadcast, and Multicast?",
+                answer: "Unicast - message sent to one host, Broadcast - message sent to all hosts on a network except the sender, Multicast - message sent to multiple hosts",
+                category: "IP Addressing"
+            },
+
+            // OSPF
+            {
+                question: "What is OSPFv2 and what are its key characteristics?",
+                answer: "OSPFv2 is an open standard link-state protocol where every router has the network map. It dynamically determines best/most efficient path using Dijkstra shortest path algorithm. Admin distance is 110, port number 89.",
+                category: "OSPF"
+            },
+            {
+                question: "What is OSPF Neighborship?",
+                answer: "Routers reside on the same network link and exchange hello messages.",
+                category: "OSPF"
+            },
+            {
+                question: "What are OSPF Adjacencies?",
+                answer: "Neighbors that exchange information to build link state database. Only formed with the Designated Routers and Backup Designated Routers. Full adjacency requires hello and dead timers (default 10 hello and 40 dead timers), area ID, and subnet all match.",
+                category: "OSPF"
+            },
+            {
+                question: "What is Router ID (RID) in OSPF?",
+                answer: "32-bit number that identifies a router in an OSPF network. RID can be manually assigned within OSPF or automatically assigned. Auto assign is the largest loopback or any IP interface. Highest priority value becomes the DR and BDR. Tie breaker goes to the highest RID.",
+                category: "OSPF"
+            },
+            {
+                question: "What multicast addresses does OSPF use?",
+                answer: "All OSPF routers use multicast address 224.0.0.5, and DRs use 224.0.0.6",
+                category: "OSPF"
+            },
+            {
+                question: "What are the OSPF Adjacency Process states?",
+                answer: "1. Down State - interface down, no hello packets 2. Attempt State - router starts sending hello packets 3. Init State - router receives packets from neighbors 4. 2-way State - bidirectional communication established 5. Exstart State - DR and BDR election begins 6. Loading State - LSAs processed and added to routing table 7. Full State - all LSAs processed and routing table updated",
+                category: "OSPF"
+            },
+
+            // BGP
+            {
+                question: "What is BGP and what are its key characteristics?",
+                answer: "Border Gateway Protocol (BGP) is a path vector protocol that is highly scalable inter-domain routing protocol, port number 179. It's the routing protocol of the internet.",
+                category: "BGP"
+            },
+            {
+                question: "How does BGP select the best path?",
+                answer: "BGP protocol selects the path with the most desirable combination of attributes, more than likely selecting the path that traverses the least amount of Autonomous Systems (AS_PATH) if other local weights are not present.",
+                category: "BGP"
+            },
+            {
+                question: "What is the difference between iBGP and eBGP?",
+                answer: "iBGP - when neighbors share the same AS numbers (AD 200), eBGP - when neighbors have different AS numbers (AD 20)",
+                category: "BGP"
+            },
+
+            // Security & Protocols
+            {
+                question: "What does AAA stand for and what does each component do?",
+                answer: "AAA stands for Authentication, Authorization, and Accounting. Authentication - provides user access to the system, Authorization - users are granted access to certain areas of a network or system, Accounting - tracks and logs user activity while logged into a system.",
+                category: "Security"
+            },
+            {
+                question: "What is SSH and what does it require for configuration?",
+                answer: "SSH is a networking protocol that allows two computers to communicate securely over an unsecured network. SSH requires a configured hostname, domain name, generated RSA key pair, username and password, and enabled access on VTY lines.",
+                category: "Security"
+            },
+            {
+                question: "What are the common TCP port numbers?",
+                answer: "FTP 20,21, SSH 22, Telnet 23, SMTP 25, HTTP 80, HTTPS 443",
+                category: "Ports"
+            },
+            {
+                question: "What are the common UDP port numbers?",
+                answer: "DNS 53, DHCP 67,68, TFTP 69, NTP 123, SNMP 161,162",
+                category: "Ports"
+            },
+            {
+                question: "What is NAT and PAT?",
+                answer: "Network Address Translation & Port Address Translation - translate private IP addresses to public routable IP addresses.",
+                category: "Security"
+            }
+        ];
+
+        function initializeFlashcards() {
+            flashcards = [...interviewFlashcards];
+            shuffleArray(flashcards);
+            updateStats();
+            loadCard();
+            document.getElementById('loadingMessage').style.display = 'none';
+            document.getElementById('flashcardContainer').style.display = 'block';
+            document.getElementById('controls').style.display = 'flex';
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        function loadCard() {
+            if (currentCardIndex >= flashcards.length) {
+                showCompletion();
+                return;
+            }
+
+            const card = flashcards[currentCardIndex];
+            document.getElementById('category').textContent = card.category;
+            document.getElementById('question').textContent = card.question;
+            document.getElementById('answer').textContent = card.answer;
+            document.getElementById('answer').classList.remove('show');
+            
+            // Reset button states
+            document.getElementById('showAnswerBtn').style.display = 'inline-block';
+            document.getElementById('correctBtn').style.display = 'none';
+            document.getElementById('incorrectBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'none';
+            
+            updateStats();
+        }
+
+        function showAnswer() {
+            document.getElementById('answer').classList.add('show');
+            document.getElementById('showAnswerBtn').style.display = 'none';
+            document.getElementById('correctBtn').style.display = 'inline-block';
+            document.getElementById('incorrectBtn').style.display = 'inline-block';
+        }
+
+        function markCorrect() {
+            if (!answeredCards.has(currentCardIndex)) {
+                correctAnswers++;
+                totalAnswered++;
+                answeredCards.add(currentCardIndex);
+            }
+            
+            document.getElementById('correctBtn').style.display = 'none';
+            document.getElementById('incorrectBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+            
+            updateStats();
+        }
+
+        function markIncorrect() {
+            if (!answeredCards.has(currentCardIndex)) {
+                totalAnswered++;
+                answeredCards.add(currentCardIndex);
+            }
+            
+            document.getElementById('correctBtn').style.display = 'none';
+            document.getElementById('incorrectBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+            
+            updateStats();
+        }
+
+        function nextCard() {
+            currentCardIndex++;
+            loadCard();
+        }
+
+        function previousCard() {
+            if (currentCardIndex > 0) {
+                currentCardIndex--;
+                loadCard();
+            }
+        }
+
+        function updateStats() {
+            document.getElementById('currentCard').textContent = currentCardIndex + 1;
+            document.getElementById('totalCards').textContent = flashcards.length;
+            document.getElementById('correctCount').textContent = correctAnswers;
+            
+            const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
+            document.getElementById('accuracyPercent').textContent = accuracy + '%';
+            
+            const progress = ((currentCardIndex + 1) / flashcards.length) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+            
+            document.getElementById('prevBtn').disabled = currentCardIndex === 0;
+        }
+
+        function showCompletion() {
+            document.getElementById('flashcardContainer').style.display = 'none';
+            document.getElementById('controls').style.display = 'none';
+            document.getElementById('completionMessage').style.display = 'block';
+            
+            document.getElementById('finalTotalCards').textContent = flashcards.length;
+            document.getElementById('finalCorrectCount').textContent = correctAnswers;
+            
+            const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
+            document.getElementById('finalAccuracy').textContent = accuracy + '%';
+        }
+
+        function restartQuiz() {
+            currentCardIndex = 0;
+            correctAnswers = 0;
+            totalAnswered = 0;
+            answeredCards.clear();
+            
+            shuffleArray(flashcards);
+            
+            document.getElementById('completionMessage').style.display = 'none';
+            document.getElementById('flashcardContainer').style.display = 'block';
+            document.getElementById('controls').style.display = 'flex';
+            
+            loadCard();
+        }
+
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeFlashcards();
+        });
+    </script>
+</body>
+</html>
