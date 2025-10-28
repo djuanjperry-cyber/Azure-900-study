@@ -384,6 +384,7 @@
             <button class="btn" id="correctBtn" onclick="markCorrect()" style="display: none;">✓ Correct</button>
             <button class="btn" id="incorrectBtn" onclick="markIncorrect()" style="display: none;">✗ Incorrect</button>
             <button class="btn" id="nextBtn" onclick="nextCard()" style="display: none;">Next →</button>
+            <button class="btn btn-secondary" id="shuffleBtn" onclick="shuffleCards()">🔀 Shuffle</button>
         </div>
     </div>
 
@@ -748,6 +749,35 @@
             
             const accuracy = totalAnswered > 0 ? Math.round((correctAnswers / totalAnswered) * 100) : 0;
             document.getElementById('finalAccuracy').textContent = accuracy + '%';
+        }
+
+        function shuffleCards() {
+            // Shuffle the flashcards array
+            shuffleArray(flashcards);
+            
+            // Reset to first card
+            currentCardIndex = 0;
+            
+            // Reset answer display
+            document.getElementById('answer').classList.remove('show');
+            document.getElementById('showAnswerBtn').style.display = 'inline-block';
+            document.getElementById('correctBtn').style.display = 'none';
+            document.getElementById('incorrectBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'none';
+            
+            // Load the first card
+            loadCard();
+            
+            // Show a brief confirmation
+            const shuffleBtn = document.getElementById('shuffleBtn');
+            const originalText = shuffleBtn.textContent;
+            shuffleBtn.textContent = '✓ Shuffled!';
+            shuffleBtn.style.background = '#28a745';
+            
+            setTimeout(() => {
+                shuffleBtn.textContent = originalText;
+                shuffleBtn.style.background = '#666';
+            }, 1000);
         }
 
         function restartQuiz() {
