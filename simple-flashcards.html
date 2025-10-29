@@ -523,8 +523,9 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // EMERGENCY: Load the emergency fix file first - ANOTHER mismatch found!
+                // FINAL: Load the final test-ready file first - force fresh load!
                 const files = [
+                    'azure-900-final-test-ready.json?v=' + Date.now(),
                     'azure-900-emergency-fix.json?v=' + Date.now(),
                     'azure-900-critical-fix.json?v=' + Date.now(),
                     'azure-900-urgent-fix.json?v=' + Date.now(),
