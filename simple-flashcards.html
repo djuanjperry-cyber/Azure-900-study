@@ -523,11 +523,11 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // MINIMAL: Load only the top 3 files to eliminate ALL 404s
+                // SIMPLE: Load files without cache busting to fix 404s
                 const files = [
-                    'azure-900-final-test-ready.json?v=' + Date.now(),
-                    'azure-900-emergency-fix.json?v=' + Date.now(),
-                    'azure-900-critical-fix.json?v=' + Date.now()
+                    'azure-900-final-test-ready.json',
+                    'azure-900-emergency-fix.json',
+                    'azure-900-critical-fix.json'
                 ];
                 
                 let loaded = false;
