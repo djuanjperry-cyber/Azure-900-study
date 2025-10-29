@@ -523,8 +523,9 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // CRITICAL: Load the critical fix file first - cache busted for immediate updates!
+                // EMERGENCY: Load the emergency fix file first - ANOTHER mismatch found!
                 const files = [
+                    'azure-900-emergency-fix.json?v=' + Date.now(),
                     'azure-900-critical-fix.json?v=' + Date.now(),
                     'azure-900-urgent-fix.json?v=' + Date.now(),
                     'azure-900-fully-corrected.json?v=' + Date.now(),
