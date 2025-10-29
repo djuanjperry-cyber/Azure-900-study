@@ -523,28 +523,28 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // CRITICAL: Load the critical fix file first - another answer mismatch found!
+                // CRITICAL: Load the critical fix file first - cache busted for immediate updates!
                 const files = [
-                    'azure-900-critical-fix.json',
-                    'azure-900-urgent-fix.json',
-                    'azure-900-fully-corrected.json',
-                    'azure-900-corrected.json',
-                    'azure-900-final-clean.json',
-                    'azure-900-accuracy-fixed.json',
-                    'azure-900-no-all-of-above.json',
-                    'azure-900-final-expanded.json',
-                    'azure-900-expanded-flashcards.json',
-                    'azure-900-ultimate-randomized.json',
-                    'azure-900-set1-45questions.json',
-                    'azure-900-set2-45questions.json',
-                    'azure-900-randomized-comprehensive.json',
-                    'azure-900-all-materials-comprehensive.json',
-                    'azure-900-ultimate-comprehensive-flashcards.json',
-                    'azure-900-randomized-answers-flashcards.json',
-                    'azure-900-comprehensive-flashcards.json',
-                    'azure-900-enhanced-flashcards.json',
-                    'azure-900-savill-flashcards.json',
-                    'azure-900-flashcards.json'
+                    'azure-900-critical-fix.json?v=' + Date.now(),
+                    'azure-900-urgent-fix.json?v=' + Date.now(),
+                    'azure-900-fully-corrected.json?v=' + Date.now(),
+                    'azure-900-corrected.json?v=' + Date.now(),
+                    'azure-900-final-clean.json?v=' + Date.now(),
+                    'azure-900-accuracy-fixed.json?v=' + Date.now(),
+                    'azure-900-no-all-of-above.json?v=' + Date.now(),
+                    'azure-900-final-expanded.json?v=' + Date.now(),
+                    'azure-900-expanded-flashcards.json?v=' + Date.now(),
+                    'azure-900-ultimate-randomized.json?v=' + Date.now(),
+                    'azure-900-set1-45questions.json?v=' + Date.now(),
+                    'azure-900-set2-45questions.json?v=' + Date.now(),
+                    'azure-900-randomized-comprehensive.json?v=' + Date.now(),
+                    'azure-900-all-materials-comprehensive.json?v=' + Date.now(),
+                    'azure-900-ultimate-comprehensive-flashcards.json?v=' + Date.now(),
+                    'azure-900-randomized-answers-flashcards.json?v=' + Date.now(),
+                    'azure-900-comprehensive-flashcards.json?v=' + Date.now(),
+                    'azure-900-enhanced-flashcards.json?v=' + Date.now(),
+                    'azure-900-savill-flashcards.json?v=' + Date.now(),
+                    'azure-900-flashcards.json?v=' + Date.now()
                 ];
                 
                 let loaded = false;
