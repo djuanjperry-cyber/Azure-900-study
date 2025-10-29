@@ -523,7 +523,7 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // FINAL: Load only the files that actually exist on GitHub Pages
+                // FINAL: Load only the files that are actually committed to GitHub
                 const files = [
                     'azure-900-final-test-ready.json?v=' + Date.now(),
                     'azure-900-emergency-fix.json?v=' + Date.now(),
@@ -537,10 +537,9 @@
                     'azure-900-final-expanded.json?v=' + Date.now(),
                     'azure-900-expanded-flashcards.json?v=' + Date.now(),
                     'azure-900-all-materials-comprehensive.json?v=' + Date.now(),
-                    'azure-900-comprehensive-flashcards.json?v=' + Date.now(),
-                    'azure-900-enhanced-flashcards.json?v=' + Date.now(),
-                    'azure-900-savill-flashcards.json?v=' + Date.now(),
-                    'azure-900-flashcards.json?v=' + Date.now()
+                    'azure-900-set1-45questions.json?v=' + Date.now(),
+                    'azure-900-set2-45questions.json?v=' + Date.now(),
+                    'azure-900-ultimate-randomized.json?v=' + Date.now()
                 ];
                 
                 let loaded = false;
