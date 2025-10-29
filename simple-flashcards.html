@@ -523,23 +523,11 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // FINAL: Load only the files that are actually committed to GitHub
+                // MINIMAL: Load only the top 3 files to eliminate ALL 404s
                 const files = [
                     'azure-900-final-test-ready.json?v=' + Date.now(),
                     'azure-900-emergency-fix.json?v=' + Date.now(),
-                    'azure-900-critical-fix.json?v=' + Date.now(),
-                    'azure-900-urgent-fix.json?v=' + Date.now(),
-                    'azure-900-fully-corrected.json?v=' + Date.now(),
-                    'azure-900-corrected.json?v=' + Date.now(),
-                    'azure-900-final-clean.json?v=' + Date.now(),
-                    'azure-900-accuracy-fixed.json?v=' + Date.now(),
-                    'azure-900-no-all-of-above.json?v=' + Date.now(),
-                    'azure-900-final-expanded.json?v=' + Date.now(),
-                    'azure-900-expanded-flashcards.json?v=' + Date.now(),
-                    'azure-900-all-materials-comprehensive.json?v=' + Date.now(),
-                    'azure-900-set1-45questions.json?v=' + Date.now(),
-                    'azure-900-set2-45questions.json?v=' + Date.now(),
-                    'azure-900-ultimate-randomized.json?v=' + Date.now()
+                    'azure-900-critical-fix.json?v=' + Date.now()
                 ];
                 
                 let loaded = false;
