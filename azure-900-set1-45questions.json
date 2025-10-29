@@ -330,7 +330,7 @@
       "C) Microsoft Sentinel",
       "D) Azure Security Center"
     ],
-    "answer": "A",
+    "answer": "B",
     "explanation": "Microsoft Defender for Cloud provides unified security management, Azure Security Center offers security posture management, and Microsoft Sentinel provides security analytics, together offering comprehensive application security and vulnerability management.",
     "category": "Security, Privacy, and Compliance",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
