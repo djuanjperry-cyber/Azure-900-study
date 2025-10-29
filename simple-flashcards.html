@@ -523,17 +523,20 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // EMERGENCY: Use a file that definitely works
+                // EMERGENCY: Use a file that definitely works with cache busting
                 const files = [
-                    'azure-900-all-materials-comprehensive.json',
-                    'azure-900-set1-45questions.json',
-                    'azure-900-set2-45questions.json'
+                    'azure-900-all-materials-comprehensive.json?v=' + Date.now(),
+                    'azure-900-set1-45questions.json?v=' + Date.now(),
+                    'azure-900-set2-45questions.json?v=' + Date.now()
                 ];
                 
                 let loaded = false;
                 for (const file of files) {
                     try {
+                        console.log(`🔄 Attempting to load: ${file}`);
                         const response = await fetch(file);
+                        console.log(`📡 Response status: ${response.status} for ${file}`);
+                        
                         if (response.ok) {
                             allFlashcards = await response.json();
                             console.log(`✅ Loaded ${allFlashcards.length} flashcards from ${file}`);
