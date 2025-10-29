@@ -550,9 +550,11 @@
                             console.log(`🎯 Selected 45 random questions from ${allFlashcards.length} total`);
                             loaded = true;
                             break;
+                        } else {
+                            console.log(`⚠️ ${file} returned ${response.status} - trying next file`);
                         }
                     } catch (error) {
-                        console.log(`Failed to load ${file}:`, error.message);
+                        console.log(`⚠️ Failed to load ${file}:`, error.message);
                     }
                 }
                 
