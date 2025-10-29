@@ -523,11 +523,9 @@
             try {
                 console.log('Loading flashcards...');
                 
-                // EMERGENCY: Use a file that definitely works with cache busting
+                // SIMPLE: Just use one file that definitely works
                 const files = [
-                    'azure-900-all-materials-comprehensive.json?v=' + Date.now(),
-                    'azure-900-set1-45questions.json?v=' + Date.now(),
-                    'azure-900-set2-45questions.json?v=' + Date.now()
+                    'azure-900-set1-45questions.json'
                 ];
                 
                 let loaded = false;
