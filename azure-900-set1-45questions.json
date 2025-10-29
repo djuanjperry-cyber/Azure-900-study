@@ -19,10 +19,9 @@
     "options": [
       "A) Azure DDoS Protection",
       "B) Azure Firewall",
-      "C) All of the above",
       "D) Network Security Groups"
     ],
-    "answer": "C",
+    "answer": "A",
     "explanation": "Azure Firewall provides network security and traffic filtering, Network Security Groups offer subnet and network interface security, and Azure DDoS Protection protects against attacks, together offering comprehensive network security.",
     "category": "Security, Privacy, and Compliance",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
@@ -75,10 +74,9 @@
     "options": [
       "A) Azure Synapse Analytics",
       "B) Power BI",
-      "C) All of the above",
       "D) Azure Data Factory"
     ],
-    "answer": "C",
+    "answer": "A",
     "explanation": "Azure Synapse Analytics provides data warehousing and analytics, Power BI offers business intelligence and visualization, and Azure Data Factory provides data integration, together offering comprehensive data analytics and business intelligence.",
     "category": "Azure Architecture and Services",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
@@ -116,11 +114,10 @@
     "question": "Which Azure service provides comprehensive hybrid cloud backup and disaster recovery solutions?",
     "options": [
       "A) Azure Backup",
-      "B) All of the above",
       "C) Azure Archive Storage",
       "D) Azure Site Recovery"
     ],
-    "answer": "B",
+    "answer": "A",
     "explanation": "Azure Backup provides backup capabilities for hybrid environments, Azure Site Recovery offers disaster recovery, and Azure Archive Storage provides long-term retention, together offering comprehensive hybrid cloud backup and disaster recovery.",
     "category": "Security, Privacy, and Compliance",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
@@ -243,10 +240,9 @@
     "options": [
       "A) Microsoft Sentinel",
       "B) Azure Security Center",
-      "C) Microsoft Defender for Cloud",
-      "D) All of the above"
+      "C) Microsoft Defender for Cloud"
     ],
-    "answer": "D",
+    "answer": "A",
     "explanation": "Microsoft Defender for Cloud provides unified security management, Azure Security Center offers security posture management, and Microsoft Sentinel provides security analytics, together offering comprehensive application security and vulnerability assessment.",
     "category": "Security, Privacy, and Compliance",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
@@ -256,11 +252,10 @@
     "question": "Which Azure service provides comprehensive data analytics and business intelligence solutions?",
     "options": [
       "A) Power BI",
-      "B) All of the above",
       "C) Azure Data Factory",
       "D) Azure Synapse Analytics"
     ],
-    "answer": "B",
+    "answer": "A",
     "explanation": "Azure Synapse Analytics provides data warehousing and analytics, Power BI offers business intelligence and visualization, and Azure Data Factory provides data integration, together offering comprehensive data analytics and business intelligence solutions.",
     "category": "Azure Architecture and Services",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
@@ -325,12 +320,11 @@
     "id": 67,
     "question": "Which Azure service provides comprehensive application security and vulnerability management?",
     "options": [
-      "A) All of the above",
       "B) Microsoft Defender for Cloud",
       "C) Microsoft Sentinel",
       "D) Azure Security Center"
     ],
-    "answer": "B",
+    "answer": "A",
     "explanation": "Microsoft Defender for Cloud provides unified security management, Azure Security Center offers security posture management, and Microsoft Sentinel provides security analytics, together offering comprehensive application security and vulnerability management.",
     "category": "Security, Privacy, and Compliance",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
@@ -367,7 +361,6 @@
     "id": 77,
     "question": "Which Azure service provides comprehensive data governance and compliance management?",
     "options": [
-      "A) All of the above",
       "B) Azure Policy",
       "C) Azure Information Protection",
       "D) Microsoft Purview"
@@ -424,11 +417,10 @@
     "question": "Which Azure service provides comprehensive network security and traffic management?",
     "options": [
       "A) Azure Firewall",
-      "B) All of the above",
       "C) Azure DDoS Protection",
       "D) Network Security Groups"
     ],
-    "answer": "B",
+    "answer": "A",
     "explanation": "Azure Firewall provides network security and traffic filtering, Network Security Groups offer subnet and network interface security, and Azure DDoS Protection protects against attacks, together offering comprehensive network security and traffic management.",
     "category": "Security, Privacy, and Compliance",
     "source": "Udemy Practice Test + Microsoft Learn + John Savill + Quizlet"
@@ -437,7 +429,6 @@
     "id": 59,
     "question": "Which Azure service provides comprehensive compliance management and reporting capabilities?",
     "options": [
-      "A) All of the above",
       "B) Azure Blueprints",
       "C) Microsoft Compliance Manager",
       "D) Azure Policy"
