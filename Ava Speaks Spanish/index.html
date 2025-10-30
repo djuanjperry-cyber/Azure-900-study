@@ -140,6 +140,18 @@
             font-style: italic;
         }
 
+        .voice-indicator {
+            font-size: 0.8rem;
+            color: #666;
+            margin-top: 5px;
+            text-align: center;
+        }
+
+        .voice-indicator .voice-name {
+            color: #4ecdc4;
+            font-weight: bold;
+        }
+
         .options {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -466,6 +478,7 @@
                 <div class="question" id="question"></div>
                 <div class="spanish-word" id="spanishWord" onclick="speakSpanish()"></div>
                 <div class="pronunciation-hint" id="pronunciationHint"></div>
+                <div class="voice-indicator" id="voiceIndicator"></div>
                 <div class="options" id="options"></div>
                 <div class="answer-feedback" id="answerFeedback"></div>
             </div>
@@ -941,23 +954,47 @@
             const spanishWord = document.getElementById('spanishWord').textContent;
             
             if ('speechSynthesis' in window) {
+                // Reload voices in case they weren't loaded yet
+                loadVoices();
+                
                 const utterance = new SpeechSynthesisUtterance(spanishWord);
                 utterance.lang = 'es-ES';
-                utterance.rate = 0.8;
-                utterance.pitch = 1.0;
-                utterance.volume = 0.8;
+                utterance.rate = 0.7; // Slower for better clarity and more natural sound
+                utterance.pitch = 1.0; // Natural pitch
+                utterance.volume = 0.9; // High volume for clarity
                 
-                // Try to use Spanish voice if available
-                const voices = speechSynthesis.getVoices();
-                const spanishVoice = voices.find(voice => 
-                    voice.lang.startsWith('es') || 
-                    voice.name.includes('Spanish') ||
-                    voice.name.includes('Español')
-                );
-                
-                if (spanishVoice) {
-                    utterance.voice = spanishVoice;
+                // Use the pre-selected high-quality voice
+                if (selectedVoice) {
+                    utterance.voice = selectedVoice;
+                    console.log('Speaking with:', selectedVoice.name);
+                } else {
+                    // Fallback: try to find any Spanish voice
+                    const voices = speechSynthesis.getVoices();
+                    const spanishVoice = voices.find(voice => voice.lang.startsWith('es'));
+                    if (spanishVoice) {
+                        utterance.voice = spanishVoice;
+                        console.log('Using fallback voice:', spanishVoice.name);
+                    }
                 }
+                
+                // Enhance pronunciation with natural pauses
+                utterance.text = spanishWord
+                    .replace(/\?/g, '? ') // Add pause after question marks
+                    .replace(/\s+/g, ' ... ') // Add pauses between words
+                    .replace(/\.\.\.\s*\.\.\./g, ' ... '); // Clean up multiple pauses
+                
+                // Add event listeners for better user experience
+                utterance.onstart = function() {
+                    console.log('Started speaking:', spanishWord);
+                };
+                
+                utterance.onend = function() {
+                    console.log('Finished speaking:', spanishWord);
+                };
+                
+                utterance.onerror = function(event) {
+                    console.log('Speech error:', event.error);
+                };
                 
                 speechSynthesis.speak(utterance);
                 playClickSound();
@@ -1102,15 +1139,69 @@
             loadCard();
         }
 
+        // Voice management
+        let availableVoices = [];
+        let selectedVoice = null;
+
+        function loadVoices() {
+            availableVoices = speechSynthesis.getVoices();
+            
+            // Filter and sort Spanish voices by quality
+            const spanishVoices = availableVoices.filter(voice => 
+                voice.lang.startsWith('es') || 
+                voice.name.includes('Spanish') ||
+                voice.name.includes('Español') ||
+                voice.name.includes('Mexico') ||
+                voice.name.includes('Spain') ||
+                voice.name.includes('Latin')
+            );
+            
+            // Sort by quality (Google/Microsoft voices first, then female voices)
+            spanishVoices.sort((a, b) => {
+                const aQuality = (a.name.includes('Google') || a.name.includes('Microsoft') || a.name.includes('Enhanced') || a.name.includes('Neural')) ? 2 : 0;
+                const bQuality = (b.name.includes('Google') || b.name.includes('Microsoft') || b.name.includes('Enhanced') || b.name.includes('Neural')) ? 2 : 0;
+                
+                if (aQuality !== bQuality) return bQuality - aQuality;
+                
+                const aFemale = (a.name.includes('Female') || a.name.includes('Woman') || a.name.includes('Mujer')) ? 1 : 0;
+                const bFemale = (b.name.includes('Female') || b.name.includes('Woman') || b.name.includes('Mujer')) ? 1 : 0;
+                
+                return bFemale - aFemale;
+            });
+            
+            // Select the best voice
+            if (spanishVoices.length > 0) {
+                selectedVoice = spanishVoices[0];
+                console.log('Selected voice:', selectedVoice.name, 'Language:', selectedVoice.lang);
+                
+                // Update voice indicator in UI
+                const voiceIndicator = document.getElementById('voiceIndicator');
+                if (voiceIndicator) {
+                    voiceIndicator.innerHTML = `🎤 Using: <span class="voice-name">${selectedVoice.name}</span>`;
+                }
+            } else {
+                console.log('No Spanish voices found, using default');
+                const voiceIndicator = document.getElementById('voiceIndicator');
+                if (voiceIndicator) {
+                    voiceIndicator.innerHTML = '🎤 Using: Default voice';
+                }
+            }
+        }
+
         // Initialize when page loads
         document.addEventListener('DOMContentLoaded', function() {
             // Load voices for speech synthesis
             if ('speechSynthesis' in window) {
-                speechSynthesis.getVoices();
+                // Load voices immediately
+                loadVoices();
+                
                 // Some browsers need this event to load voices
                 speechSynthesis.addEventListener('voiceschanged', function() {
-                    speechSynthesis.getVoices();
+                    loadVoices();
                 });
+                
+                // Also try loading voices after a short delay
+                setTimeout(loadVoices, 1000);
             }
             
             initializeFlashcards();
