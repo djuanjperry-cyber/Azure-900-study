@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ava Speaks Spanish - Flashcards</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #1a1a1a;
+            color: #e0e0e0;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #2c2c2c;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .header h1 {
+            color: #ff6b6b;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #a0a0a0;
+            font-size: 1.1rem;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+            padding: 15px 20px;
+            background: #333;
+            border-radius: 10px;
+            min-width: 80px;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #ff6b6b;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+            margin-top: 5px;
+        }
+
+        .flashcard {
+            background: #2c2c2c;
+            border-radius: 15px;
+            padding: 40px;
+            margin: 20px 0;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+            border: 2px solid #404040;
+            min-height: 400px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+
+        .flashcard:hover {
+            border-color: #ff6b6b;
+            transform: translateY(-2px);
+        }
+
+        .category {
+            background: #ff6b6b;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+
+        .question {
+            font-size: 1.8rem;
+            margin-bottom: 30px;
+            line-height: 1.6;
+            color: #f0f0f0;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        .spanish-word {
+            color: #4ecdc4;
+            font-size: 2.2rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            padding: 10px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+
+        .spanish-word:hover {
+            background: #333;
+            transform: scale(1.05);
+        }
+
+        .spanish-word:active {
+            transform: scale(0.95);
+        }
+
+        .pronunciation-hint {
+            font-size: 0.9rem;
+            color: #888;
+            margin-top: 10px;
+            font-style: italic;
+        }
+
+        .options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin: 30px 0;
+        }
+
+        .option {
+            background: #333;
+            border: 2px solid #555;
+            border-radius: 10px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+            font-size: 1.1rem;
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .option:hover {
+            border-color: #ff6b6b;
+            background: #444;
+            transform: translateY(-2px);
+        }
+
+        .option.selected {
+            border-color: #4ecdc4;
+            background: #2a4a4a;
+        }
+
+        .option.correct {
+            border-color: #4caf50;
+            background: #2a4a2a;
+            color: #4caf50;
+        }
+
+        .option.incorrect {
+            border-color: #f44336;
+            background: #4a2a2a;
+            color: #f44336;
+        }
+
+        .option.disabled {
+            pointer-events: none;
+            opacity: 0.6;
+        }
+
+        .answer-feedback {
+            text-align: center;
+            margin: 20px 0;
+            font-size: 1.2rem;
+            font-weight: bold;
+            min-height: 30px;
+        }
+
+        .correct-feedback {
+            color: #4caf50;
+        }
+
+        .incorrect-feedback {
+            color: #f44336;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 30px;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            background: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            min-height: 50px;
+            touch-action: manipulation;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .btn:hover {
+            background: #ff5252;
+            transform: translateY(-2px);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn:disabled {
+            background: #666;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-secondary {
+            background: #666;
+        }
+
+        .btn-secondary:hover {
+            background: #555;
+        }
+
+        .btn-success {
+            background: #4caf50;
+        }
+
+        .btn-success:hover {
+            background: #45a049;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #333;
+            border-radius: 4px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #ff6b6b, #ff5252);
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 1.2rem;
+            color: #ff6b6b;
+        }
+
+        .error {
+            background: #d32f2f;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .completion-message {
+            text-align: center;
+            padding: 40px;
+            background: #2c2c2c;
+            border-radius: 15px;
+            margin: 20px 0;
+        }
+
+        .completion-message h2 {
+            color: #ff6b6b;
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        .completion-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .completion-stat {
+            background: #333;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .completion-stat h3 {
+            color: #ff6b6b;
+            margin-bottom: 10px;
+        }
+
+        .completion-stat .number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #ff6b6b;
+        }
+
+        .score-display {
+            background: #333;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .score-display .score {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #4ecdc4;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+                margin-bottom: 15px;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 10px;
+                margin-bottom: 20px;
+            }
+            
+            .stat {
+                padding: 10px 15px;
+                min-width: 60px;
+            }
+            
+            .stat-number {
+                font-size: 1.5rem;
+            }
+            
+            .stat-label {
+                font-size: 0.8rem;
+            }
+            
+            .flashcard {
+                padding: 25px 20px;
+                margin: 15px 0;
+                min-height: 350px;
+            }
+            
+            .question {
+                font-size: 1.4rem;
+                line-height: 1.5;
+                margin-bottom: 25px;
+            }
+
+            .spanish-word {
+                font-size: 1.8rem;
+            }
+            
+            .options {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+            
+            .option {
+                padding: 15px;
+                font-size: 1rem;
+                min-height: 50px;
+            }
+            
+            .controls {
+                flex-direction: column;
+                gap: 12px;
+                margin-top: 25px;
+            }
+            
+            .btn {
+                padding: 15px 25px;
+                font-size: 1rem;
+                min-height: 48px;
+                width: 100%;
+            }
+            
+            .completion-stats {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🇪🇸 Ava Speaks Spanish</h1>
+            <p>Tap the Spanish word to hear pronunciation!</p>
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-number" id="currentCard">1</span>
+                    <span class="stat-label">Current</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="totalCards">0</span>
+                    <span class="stat-label">Total</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number" id="correctAnswers">0</span>
+                    <span class="stat-label">Correct</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+
+        <div class="score-display">
+            <div class="score">Score: <span id="score">0</span>%</div>
+        </div>
+
+        <div id="loadingMessage" class="loading">
+            Loading Spanish flashcards...
+        </div>
+
+        <div id="errorMessage" class="error" style="display: none;">
+            Error loading flashcards. Please refresh the page.
+        </div>
+
+        <div id="flashcardContainer" style="display: none;">
+            <div class="flashcard">
+                <div class="category" id="category"></div>
+                <div class="question" id="question"></div>
+                <div class="spanish-word" id="spanishWord" onclick="speakSpanish()"></div>
+                <div class="pronunciation-hint" id="pronunciationHint"></div>
+                <div class="options" id="options"></div>
+                <div class="answer-feedback" id="answerFeedback"></div>
+            </div>
+        </div>
+
+        <div id="completionMessage" class="completion-message" style="display: none;">
+            <h2>🎉 ¡Excelente! Study Session Complete!</h2>
+            <p>Great job! You've completed all the Spanish flashcards.</p>
+            <div class="completion-stats">
+                <div class="completion-stat">
+                    <h3>Total Cards</h3>
+                    <div class="number" id="finalTotalCards">0</div>
+                </div>
+                <div class="completion-stat">
+                    <h3>Correct Answers</h3>
+                    <div class="number" id="finalCorrectAnswers">0</div>
+                </div>
+                <div class="completion-stat">
+                    <h3>Final Score</h3>
+                    <div class="number" id="finalScore">0</div>
+                </div>
+            </div>
+            <button class="btn" onclick="restartQuiz()">Start Over</button>
+        </div>
+
+        <div class="controls" id="controls" style="display: none;">
+            <button class="btn btn-secondary" id="prevBtn" onclick="previousCard()">← Previous</button>
+            <button class="btn" id="nextBtn" onclick="nextCard()" style="display: none;">Next →</button>
+            <button class="btn btn-secondary" id="shuffleBtn" onclick="shuffleCards()">🔀 Shuffle</button>
+        </div>
+    </div>
+
+    <script>
+        let flashcards = [];
+        let currentCardIndex = 0;
+        let correctAnswers = 0;
+        let selectedAnswer = null;
+        let answerRevealed = false;
+
+        // Spanish flashcards data - Ava's Spanish Study Materials
+        const spanishFlashcards = [
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Cuál es tu nombre?",
+                pronunciation: "KWAL ehs too NOHM-breh",
+                options: ["What is your name?", "What time is it?", "What are you doing?", "What do you want?"],
+                correctAnswer: 0,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué hora es?",
+                pronunciation: "KEH OH-rah ehs",
+                options: ["What is your name?", "What time is it?", "What are you doing?", "What do you want?"],
+                correctAnswer: 1,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué estás haciendo?",
+                pronunciation: "KEH ehs-TAHS ah-see-EHN-doh",
+                options: ["What is your name?", "What time is it?", "What are you doing?", "What do you want?"],
+                correctAnswer: 2,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué quieres?",
+                pronunciation: "KEH kee-EH-rehs",
+                options: ["What is your name?", "What time is it?", "What are you doing?", "What do you want?"],
+                correctAnswer: 3,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué pasó?",
+                pronunciation: "KEH pah-SOH",
+                options: ["What happened?", "What is this?", "What do you mean?", "What's the problem?"],
+                correctAnswer: 0,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué es esto?",
+                pronunciation: "KEH ehs EHS-toh",
+                options: ["What happened?", "What is this?", "What do you mean?", "What's the problem?"],
+                correctAnswer: 1,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué quieres decir?",
+                pronunciation: "KEH kee-EH-rehs deh-SEER",
+                options: ["What happened?", "What is this?", "What do you mean?", "What's the problem?"],
+                correctAnswer: 2,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Cuál es el problema?",
+                pronunciation: "KWAL ehs ehl proh-BLEH-mah",
+                options: ["What happened?", "What is this?", "What do you mean?", "What's the problem?"],
+                correctAnswer: 3,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué te gusta?",
+                pronunciation: "KEH teh GOOS-tah",
+                options: ["What do you like?", "What did you say?", "What should I do?", "What are you thinking about?"],
+                correctAnswer: 0,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué dijiste?",
+                pronunciation: "KEH dee-HEES-teh",
+                options: ["What do you like?", "What did you say?", "What should I do?", "What are you thinking about?"],
+                correctAnswer: 1,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué deberías hacer?",
+                pronunciation: "KEH deh-beh-REE-ahs ah-SEHR",
+                options: ["What do you like?", "What did you say?", "What should I do?", "What are you thinking about?"],
+                correctAnswer: 2,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿En qué estás pensando?",
+                pronunciation: "ehn KEH ehs-TAHS pehn-SAHN-doh",
+                options: ["What do you like?", "What did you say?", "What should I do?", "What are you thinking about?"],
+                correctAnswer: 3,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué está pasando?",
+                pronunciation: "KEH ehs-TAH pah-SAHN-doh",
+                options: ["What's going on?", "What can I do for you?", "What are you talking about?", "What do you need?"],
+                correctAnswer: 0,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué puedo hacer por ti?",
+                pronunciation: "KEH PWEH-doh ah-SEHR pohr tee",
+                options: ["What's going on?", "What can I do for you?", "What are you talking about?", "What do you need?"],
+                correctAnswer: 1,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿De qué estás hablando?",
+                pronunciation: "deh KEH ehs-TAHS ah-BLAHN-doh",
+                options: ["What's going on?", "What can I do for you?", "What are you talking about?", "What do you need?"],
+                correctAnswer: 2,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué necesitas?",
+                pronunciation: "KEH neh-seh-SEE-tahs",
+                options: ["What's going on?", "What can I do for you?", "What are you talking about?", "What do you need?"],
+                correctAnswer: 3,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué crees?",
+                pronunciation: "KEH KREH-ehs",
+                options: ["What do you believe?", "What do you see?", "What is your name?", "What time is it?"],
+                correctAnswer: 0,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué ves?",
+                pronunciation: "KEH vehs",
+                options: ["What do you believe?", "What do you see?", "What is your name?", "What time is it?"],
+                correctAnswer: 1,
+                category: "Questions"
+            },
+            // Greetings and Farewells
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Buenos días",
+                pronunciation: "BWEH-nohs DEE-ahs",
+                options: ["Good morning!", "Good afternoon!", "Good evening!", "Good night!"],
+                correctAnswer: 0,
+                category: "Greetings"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Buenas tardes",
+                pronunciation: "BWEH-nahs TAHR-dehs",
+                options: ["Good morning!", "Good afternoon!", "Good evening!", "Good night!"],
+                correctAnswer: 1,
+                category: "Greetings"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Buenas noches",
+                pronunciation: "BWEH-nahs NOH-chehs",
+                options: ["Good morning!", "Good afternoon!", "Good evening!", "Good night!"],
+                correctAnswer: 2,
+                category: "Greetings"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Hasta luego",
+                pronunciation: "AHS-tah LWEH-goh",
+                options: ["See you later!", "See you soon!", "See you tomorrow!", "Bye!"],
+                correctAnswer: 0,
+                category: "Greetings"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Hasta pronto",
+                pronunciation: "AHS-tah PROHN-toh",
+                options: ["See you later!", "See you soon!", "See you tomorrow!", "Bye!"],
+                correctAnswer: 1,
+                category: "Greetings"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Hasta mañana",
+                pronunciation: "AHS-tah mah-NYAH-nah",
+                options: ["See you later!", "See you soon!", "See you tomorrow!", "Bye!"],
+                correctAnswer: 2,
+                category: "Greetings"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Adiós",
+                pronunciation: "ah-DYOHS",
+                options: ["See you later!", "See you soon!", "See you tomorrow!", "Bye!"],
+                correctAnswer: 3,
+                category: "Greetings"
+            },
+            // Gratitude and Responses
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Gracias",
+                pronunciation: "GRAH-see-ahs",
+                options: ["Thanks", "Thank you", "Thank you very much", "You're welcome"],
+                correctAnswer: 0,
+                category: "Polite Expressions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Muchas gracias",
+                pronunciation: "MOO-chahs GRAH-see-ahs",
+                options: ["Thanks", "Thank you", "Thank you very much", "You're welcome"],
+                correctAnswer: 2,
+                category: "Polite Expressions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Muchísimas gracias",
+                pronunciation: "moo-CHEE-see-mahs GRAH-see-ahs",
+                options: ["Thank you very much", "Thanks a lot", "Thank you very much, indeed!", "You're welcome"],
+                correctAnswer: 2,
+                category: "Polite Expressions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "De nada",
+                pronunciation: "deh NAH-dah",
+                options: ["Thanks", "Thank you", "Thank you very much", "You're welcome"],
+                correctAnswer: 3,
+                category: "Polite Expressions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "No hay de qué",
+                pronunciation: "noh eye deh KEH",
+                options: ["You're welcome", "Don't mention it!", "Thanks", "Thank you"],
+                correctAnswer: 1,
+                category: "Polite Expressions"
+            },
+            // Polite Phrases and Apologies
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Por favor",
+                pronunciation: "pohr fah-VOHR",
+                options: ["Please", "Excuse me", "Sorry", "I'm sorry"],
+                correctAnswer: 0,
+                category: "Polite Expressions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Perdón",
+                pronunciation: "pehr-DOHN",
+                options: ["Please", "Excuse me", "Sorry", "I'm sorry"],
+                correctAnswer: 1,
+                category: "Polite Expressions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Disculpa",
+                pronunciation: "dees-KOOL-pah",
+                options: ["Please", "Excuse me", "Sorry", "I'm sorry"],
+                correctAnswer: 2,
+                category: "Polite Expressions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "Lo siento",
+                pronunciation: "loh see-EHN-toh",
+                options: ["Please", "Excuse me", "Sorry", "I'm sorry"],
+                correctAnswer: 3,
+                category: "Polite Expressions"
+            },
+            // Additional What Questions
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Cuáles son tus planes?",
+                pronunciation: "KWAH-lehs sohn toos PLAH-nehs",
+                options: ["What are your plans?", "What did you do yesterday?", "What do you think?", "What's the matter?"],
+                correctAnswer: 0,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué hiciste ayer?",
+                pronunciation: "KEH ee-SEES-teh ah-YEHR",
+                options: ["What are your plans?", "What did you do yesterday?", "What do you think?", "What's the matter?"],
+                correctAnswer: 1,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué piensas?",
+                pronunciation: "KEH pee-EHN-sahs",
+                options: ["What are your plans?", "What did you do yesterday?", "What do you think?", "What's the matter?"],
+                correctAnswer: 2,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Cuál es el problema?",
+                pronunciation: "KWAL ehs ehl proh-BLEH-mah",
+                options: ["What are your plans?", "What did you do yesterday?", "What do you think?", "What's the matter?"],
+                correctAnswer: 3,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué quieres decir con eso?",
+                pronunciation: "KEH kee-EH-rehs deh-SEER kohn EHS-oh",
+                options: ["What do you mean by that?", "What do you want to eat?", "What are you wearing?", "What are your plans?"],
+                correctAnswer: 0,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué quieres comer?",
+                pronunciation: "KEH kee-EH-rehs koh-MEHR",
+                options: ["What do you mean by that?", "What do you want to eat?", "What are you wearing?", "What are your plans?"],
+                correctAnswer: 1,
+                category: "Questions"
+            },
+            {
+                question: "How do you say this in Spanish?",
+                spanishWord: "¿Qué llevas puesto?",
+                pronunciation: "KEH YEH-vahs PWEHS-toh",
+                options: ["What do you mean by that?", "What do you want to eat?", "What are you wearing?", "What are your plans?"],
+                correctAnswer: 2,
+                category: "Questions"
+            }
+        ];
+
+        function initializeFlashcards() {
+            flashcards = [...spanishFlashcards];
+            shuffleArray(flashcards);
+            updateStats();
+            loadCard();
+            document.getElementById('loadingMessage').style.display = 'none';
+            document.getElementById('flashcardContainer').style.display = 'block';
+            document.getElementById('controls').style.display = 'flex';
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        function loadCard() {
+            if (currentCardIndex >= flashcards.length) {
+                showCompletion();
+                return;
+            }
+
+            const card = flashcards[currentCardIndex];
+            document.getElementById('category').textContent = card.category;
+            document.getElementById('question').textContent = card.question;
+            document.getElementById('spanishWord').textContent = card.spanishWord;
+            document.getElementById('pronunciationHint').textContent = `Pronunciation: ${card.pronunciation}`;
+            
+            // Clear previous options
+            const optionsContainer = document.getElementById('options');
+            optionsContainer.innerHTML = '';
+            
+            // Create option buttons
+            card.options.forEach((option, index) => {
+                const optionElement = document.createElement('div');
+                optionElement.className = 'option';
+                optionElement.textContent = option;
+                optionElement.onclick = () => selectAnswer(index);
+                optionsContainer.appendChild(optionElement);
+            });
+            
+            // Reset states
+            selectedAnswer = null;
+            answerRevealed = false;
+            document.getElementById('answerFeedback').textContent = '';
+            document.getElementById('nextBtn').style.display = 'none';
+            
+            updateStats();
+        }
+
+        function selectAnswer(optionIndex) {
+            if (answerRevealed) return;
+            
+            selectedAnswer = optionIndex;
+            const card = flashcards[currentCardIndex];
+            
+            // Remove previous selections
+            document.querySelectorAll('.option').forEach(option => {
+                option.classList.remove('selected');
+            });
+            
+            // Highlight selected option
+            document.querySelectorAll('.option')[optionIndex].classList.add('selected');
+            
+            // Check if correct
+            const isCorrect = optionIndex === card.correctAnswer;
+            
+            // Show feedback
+            const feedbackElement = document.getElementById('answerFeedback');
+            if (isCorrect) {
+                feedbackElement.textContent = '¡Correcto! 🎉';
+                feedbackElement.className = 'answer-feedback correct-feedback';
+                correctAnswers++;
+                playCorrectSound();
+            } else {
+                feedbackElement.textContent = 'Incorrecto. The correct answer is: ' + card.options[card.correctAnswer];
+                feedbackElement.className = 'answer-feedback incorrect-feedback';
+                playIncorrectSound();
+            }
+            
+            // Show correct answer
+            document.querySelectorAll('.option').forEach((option, index) => {
+                option.classList.add('disabled');
+                if (index === card.correctAnswer) {
+                    option.classList.add('correct');
+                } else if (index === optionIndex && !isCorrect) {
+                    option.classList.add('incorrect');
+                }
+            });
+            
+            answerRevealed = true;
+            document.getElementById('nextBtn').style.display = 'inline-block';
+            updateStats();
+        }
+
+        function speakSpanish() {
+            const spanishWord = document.getElementById('spanishWord').textContent;
+            
+            if ('speechSynthesis' in window) {
+                const utterance = new SpeechSynthesisUtterance(spanishWord);
+                utterance.lang = 'es-ES';
+                utterance.rate = 0.8;
+                utterance.pitch = 1.0;
+                utterance.volume = 0.8;
+                
+                // Try to use Spanish voice if available
+                const voices = speechSynthesis.getVoices();
+                const spanishVoice = voices.find(voice => 
+                    voice.lang.startsWith('es') || 
+                    voice.name.includes('Spanish') ||
+                    voice.name.includes('Español')
+                );
+                
+                if (spanishVoice) {
+                    utterance.voice = spanishVoice;
+                }
+                
+                speechSynthesis.speak(utterance);
+                playClickSound();
+            } else {
+                alert('Speech synthesis not supported in this browser');
+            }
+        }
+
+        function playCorrectSound() {
+            try {
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                // Play a pleasant ascending tone
+                oscillator.frequency.setValueAtTime(523.25, audioContext.currentTime); // C5
+                oscillator.frequency.setValueAtTime(659.25, audioContext.currentTime + 0.1); // E5
+                oscillator.frequency.setValueAtTime(783.99, audioContext.currentTime + 0.2); // G5
+                
+                gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+                gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.3);
+                
+                oscillator.start(audioContext.currentTime);
+                oscillator.stop(audioContext.currentTime + 0.3);
+            } catch (error) {
+                console.log('Audio not supported');
+            }
+        }
+
+        function playIncorrectSound() {
+            try {
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                // Play a descending tone
+                oscillator.frequency.setValueAtTime(400, audioContext.currentTime);
+                oscillator.frequency.exponentialRampToValueAtTime(200, audioContext.currentTime + 0.2);
+                
+                gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+                gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.2);
+                
+                oscillator.start(audioContext.currentTime);
+                oscillator.stop(audioContext.currentTime + 0.2);
+            } catch (error) {
+                console.log('Audio not supported');
+            }
+        }
+
+        function playClickSound() {
+            try {
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
+                oscillator.frequency.exponentialRampToValueAtTime(400, audioContext.currentTime + 0.1);
+                
+                gainNode.gain.setValueAtTime(0.2, audioContext.currentTime);
+                gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.1);
+                
+                oscillator.start(audioContext.currentTime);
+                oscillator.stop(audioContext.currentTime + 0.1);
+            } catch (error) {
+                console.log('Audio not supported');
+            }
+        }
+
+        function nextCard() {
+            currentCardIndex++;
+            loadCard();
+        }
+
+        function previousCard() {
+            if (currentCardIndex > 0) {
+                currentCardIndex--;
+                loadCard();
+            }
+        }
+
+        function updateStats() {
+            document.getElementById('currentCard').textContent = currentCardIndex + 1;
+            document.getElementById('totalCards').textContent = flashcards.length;
+            document.getElementById('correctAnswers').textContent = correctAnswers;
+            
+            const progress = ((currentCardIndex + 1) / flashcards.length) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+            
+            const score = flashcards.length > 0 ? Math.round((correctAnswers / flashcards.length) * 100) : 0;
+            document.getElementById('score').textContent = score;
+            
+            document.getElementById('prevBtn').disabled = currentCardIndex === 0;
+        }
+
+        function showCompletion() {
+            document.getElementById('flashcardContainer').style.display = 'none';
+            document.getElementById('controls').style.display = 'none';
+            document.getElementById('completionMessage').style.display = 'block';
+            
+            const finalScore = Math.round((correctAnswers / flashcards.length) * 100);
+            document.getElementById('finalTotalCards').textContent = flashcards.length;
+            document.getElementById('finalCorrectAnswers').textContent = correctAnswers;
+            document.getElementById('finalScore').textContent = finalScore + '%';
+        }
+
+        function shuffleCards() {
+            shuffleArray(flashcards);
+            currentCardIndex = 0;
+            correctAnswers = 0;
+            loadCard();
+            
+            const shuffleBtn = document.getElementById('shuffleBtn');
+            const originalText = shuffleBtn.textContent;
+            shuffleBtn.textContent = '✓ Shuffled!';
+            shuffleBtn.style.background = '#4caf50';
+            
+            setTimeout(() => {
+                shuffleBtn.textContent = originalText;
+                shuffleBtn.style.background = '#666';
+            }, 1000);
+        }
+
+        function restartQuiz() {
+            currentCardIndex = 0;
+            correctAnswers = 0;
+            
+            shuffleArray(flashcards);
+            
+            document.getElementById('completionMessage').style.display = 'none';
+            document.getElementById('flashcardContainer').style.display = 'block';
+            document.getElementById('controls').style.display = 'flex';
+            
+            loadCard();
+        }
+
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load voices for speech synthesis
+            if ('speechSynthesis' in window) {
+                speechSynthesis.getVoices();
+                // Some browsers need this event to load voices
+                speechSynthesis.addEventListener('voiceschanged', function() {
+                    speechSynthesis.getVoices();
+                });
+            }
+            
+            initializeFlashcards();
+        });
+    </script>
+</body>
+</html>
