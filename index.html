@@ -1849,20 +1849,22 @@
             try {
                 // List of flashcard files in order of preference (smallest to largest)
                 const flashcardFiles = [
-                    'azure-900-flashcards.json',
-                    'azure-900-savill-flashcards.json', 
-                    'azure-900-optimized-flashcards.json',
-                    'azure-900-enhanced-flashcards.json',
-                    'azure-900-udemy-practice-test-flashcards.json',
-                    'azure-900-tricky-distractors.json',
-                    'azure-900-udemy-enhanced-flashcards.json',
-                    'azure-900-challenging-flashcards.json',
-                    'azure-900-refined-flashcards.json',
-                    'azure-900-improved-flashcards.json',
-                    'azure-900-comprehensive-flashcards.json',
-                    'azure-900-final-flashcards.json',
-                    'azure-900-randomized-answers-flashcards.json',
-                    'azure-900-ultimate-comprehensive-flashcards.json'
+                    'Azure 900/azure-900-set1-45questions.json',
+                    'Azure 900/azure-900-set2-45questions.json',
+                    'Azure 900/azure-900-flashcards.json',
+                    'Azure 900/azure-900-savill-flashcards.json', 
+                    'Azure 900/azure-900-optimized-flashcards.json',
+                    'Azure 900/azure-900-enhanced-flashcards.json',
+                    'Azure 900/azure-900-udemy-practice-test-flashcards.json',
+                    'Azure 900/azure-900-tricky-distractors.json',
+                    'Azure 900/azure-900-udemy-enhanced-flashcards.json',
+                    'Azure 900/azure-900-challenging-flashcards.json',
+                    'Azure 900/azure-900-refined-flashcards.json',
+                    'Azure 900/azure-900-improved-flashcards.json',
+                    'Azure 900/azure-900-comprehensive-flashcards.json',
+                    'Azure 900/azure-900-final-flashcards.json',
+                    'Azure 900/azure-900-randomized-answers-flashcards.json',
+                    'Azure 900/azure-900-ultimate-comprehensive-flashcards.json'
                 ];
                 
                 let response;
@@ -1935,8 +1937,17 @@
             const question = flashcards[currentQuestionIndex];
             const isAnswered = answeredQuestions.has(currentQuestionIndex);
             
-            document.getElementById('questionText').textContent = question.question;
-            document.getElementById('categoryTag').textContent = question.category;
+            // Check if DOM elements exist before trying to access them
+            const questionTextElement = document.getElementById('questionText');
+            const categoryTagElement = document.getElementById('categoryTag');
+            
+            if (!questionTextElement || !categoryTagElement) {
+                console.error('Required DOM elements not found');
+                return;
+            }
+            
+            questionTextElement.textContent = question.question;
+            categoryTagElement.textContent = question.category;
 
             const optionsList = document.getElementById('optionsList');
             optionsList.innerHTML = '';
@@ -1998,9 +2009,14 @@
                 // Reset state for unanswered questions
                 selectedAnswer = null;
                 const feedback = document.getElementById('feedback');
-                feedback.classList.remove('show', 'correct', 'incorrect');
-                feedback.innerHTML = ''; // Clear feedback content
-                document.getElementById('feedbackText').innerHTML = ''; // Clear feedback text
+                const feedbackText = document.getElementById('feedbackText');
+                if (feedback) {
+                    feedback.classList.remove('show', 'correct', 'incorrect');
+                    feedback.innerHTML = ''; // Clear feedback content
+                }
+                if (feedbackText) {
+                    feedbackText.innerHTML = ''; // Clear feedback text
+                }
                 document.getElementById('submitBtn').disabled = true;
                 document.getElementById('submitBtn').style.display = 'inline-block';
                 document.getElementById('nextBtn').disabled = true;
