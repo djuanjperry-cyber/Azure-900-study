@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Azure 900 Flashcards - Simple Version</title>
     <style>
         :root {
@@ -133,6 +133,10 @@
             color: #ecf0f1;
             touch-action: manipulation;
             -webkit-tap-highlight-color: transparent;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
         }
 
         .option:hover {
@@ -196,6 +200,10 @@
             touch-action: manipulation;
             -webkit-tap-highlight-color: transparent;
             min-height: 44px;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
         }
 
         .btn:hover {
@@ -296,9 +304,9 @@
             }
             
             .option {
-                padding: 15px 12px;
-                font-size: 0.95rem;
-                min-height: 50px;
+                padding: 16px 14px;
+                font-size: 1rem;
+                min-height: 56px;
                 display: flex;
                 align-items: center;
             }
@@ -307,12 +315,13 @@
                 flex-direction: column;
                 gap: 12px;
                 margin-top: 25px;
+                padding: 16px 16px calc(16px + env(safe-area-inset-bottom));
             }
             
             .btn {
-                padding: 12px 20px;
-                font-size: 1rem;
-                min-height: 48px;
+                padding: 14px 18px;
+                font-size: 1.05rem;
+                min-height: 52px;
                 width: 100%;
             }
             
