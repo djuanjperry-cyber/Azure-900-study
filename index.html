@@ -1847,24 +1847,9 @@
         // Load flashcards from JSON file
         async function loadFlashcards() {
             try {
-                // List of flashcard files in order of preference (smallest to largest)
+                // SIMPLE: Just use one file that definitely works
                 const flashcardFiles = [
-                    'Azure 900/azure-900-set1-45questions.json',
-                    'Azure 900/azure-900-set2-45questions.json',
-                    'Azure 900/azure-900-flashcards.json',
-                    'Azure 900/azure-900-savill-flashcards.json', 
-                    'Azure 900/azure-900-optimized-flashcards.json',
-                    'Azure 900/azure-900-enhanced-flashcards.json',
-                    'Azure 900/azure-900-udemy-practice-test-flashcards.json',
-                    'Azure 900/azure-900-tricky-distractors.json',
-                    'Azure 900/azure-900-udemy-enhanced-flashcards.json',
-                    'Azure 900/azure-900-challenging-flashcards.json',
-                    'Azure 900/azure-900-refined-flashcards.json',
-                    'Azure 900/azure-900-improved-flashcards.json',
-                    'Azure 900/azure-900-comprehensive-flashcards.json',
-                    'Azure 900/azure-900-final-flashcards.json',
-                    'Azure 900/azure-900-randomized-answers-flashcards.json',
-                    'Azure 900/azure-900-ultimate-comprehensive-flashcards.json'
+                    'Azure 900/azure-900-set1-45questions.json'
                 ];
                 
                 let response;
