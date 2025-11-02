@@ -169,6 +169,22 @@
             margin-top: 20px;
             border-left: 4px solid #5a6fd8;
             color: #ecf0f1;
+            line-height: 1.6;
+            font-size: 1.05rem;
+        }
+        
+        .feedback strong {
+            display: block;
+            margin-bottom: 12px;
+            font-size: 1.2rem;
+        }
+        
+        .feedback-explanation {
+            margin-top: 10px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+            font-size: 1.05rem;
+            line-height: 1.7;
         }
 
         .feedback.correct {
@@ -326,10 +342,22 @@
             }
             
             .feedback {
-                padding: 15px;
-                margin: 15px 0;
-                font-size: 0.95rem;
-                line-height: 1.5;
+                padding: 16px;
+                margin: 16px 0;
+                font-size: 1rem;
+                line-height: 1.6;
+            }
+            
+            .feedback strong {
+                font-size: 1.15rem;
+                margin-bottom: 10px;
+            }
+            
+            .feedback-explanation {
+                font-size: 1rem;
+                line-height: 1.7;
+                margin-top: 8px;
+                padding-top: 10px;
             }
             
             .completion-message {
@@ -674,9 +702,13 @@
                     }
                 });
                 
-                // Show feedback
+                // Show feedback with explanation
                 const feedback = document.getElementById('feedback');
-                feedback.innerHTML = `<strong>${wasCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>${question.explanation}`;
+                const explanation = question.explanation || 'No explanation available for this question.';
+                feedback.innerHTML = `
+                    <strong>${wasCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong>
+                    <div class="feedback-explanation">${explanation}</div>
+                `;
                 feedback.className = `feedback ${wasCorrect ? 'correct' : 'incorrect'} show`;
                 feedback.style.display = 'block';
                 
@@ -748,11 +780,12 @@
                 timestamp: new Date().toISOString()
             };
             
-            // Show feedback
+            // Show feedback with explanation
             const feedback = document.getElementById('feedback');
+            const explanation = question.explanation || 'No explanation available for this question.';
             feedback.innerHTML = `
-                <strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>
-                ${question.explanation}
+                <strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong>
+                <div class="feedback-explanation">${explanation}</div>
             `;
             feedback.className = `feedback ${isCorrect ? 'correct' : 'incorrect'}`;
             feedback.style.display = 'block';
